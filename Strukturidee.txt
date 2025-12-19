@@ -1,0 +1,17 @@
+Streamlit App
+├─ Diff
+│   └─ Direkt Programm starten mit festen Wörtern
+├─ Wichtige Verben
+│   ├─ selected_verbs wählen
+│   ├─ JSON laden (nur für diesen Verbtyp)
+│   ├─ Wörter auswählen
+│   └─ Programm (Konjugationstabelle) erstellen + Download
+├─ Bücher/Kapitel/Abschnitt
+│   ├─ Buch auswählen
+│   ├─ Kapitel auswählen
+│   ├─ Abschnitt / JSON auswählen
+│   ├─ Wörter auswählen
+│   └─ Programm erstellen
+├─ Kontexte
+    ├─ Kontext auswählen
+    
