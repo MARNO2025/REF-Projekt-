@@ -1,0 +1,70 @@
+[
+  {
+    "word": "lire",
+    "translation": "lesen"
+  },
+  {
+    "word": "jouer",
+    "translation": "spielen"
+  },
+  {
+    "word": "faire",
+    "add": "qc",
+    "translation": "etwas machen / tun"
+  },
+  {
+    "word": "sortir",
+    "translation": "hinausgehen, ausgehen"
+  },
+  {
+    "word": "dessiner",
+    "add": "qc",
+    "translation": "etw. zeichnen"
+  },
+  {
+    "word": "ranger",
+    "add": "qc",
+    "translation": "etw. aufräumen"
+  },
+  {
+    "word": "regarder",
+    "add": "(qn/qc)",
+    "translation": "etw./jdn. anschauen"
+  },
+  {
+    "word": "aider",
+    "add": "qn",
+    "translation": "helfen"
+  },
+  {
+    "word": "parler",
+    "add": "de qc",
+    "translation": "über etw. sprechen"
+  },
+  {
+    "word": "préparer",
+    "add": "qc",
+    "translation": "etw. vorbereiten"
+  },
+  {
+    "word": "chanter",
+    "translation": "singen"
+  },
+  {
+    "word": "danser",
+    "translation": "tanzen"
+  },
+  {
+    "word": "rêver",
+    "translation": "träumen"
+  },
+  {
+    "word": "apprendre",
+    "add": "qc",
+    "translation": "etw. lernen"
+  },
+  {
+    "word": "faire du sport",
+    "translation": "Sport treiben"
+  }
+]

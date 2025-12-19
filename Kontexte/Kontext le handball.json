@@ -1,0 +1,193 @@
+[
+  {
+    "word": "le tournoi",
+    "translation": "das Turnier"
+  },
+  {
+    "word": "le livre",
+    "translation": "das Buch"
+  },
+  {
+    "word": "jouer au handball",
+    "translation": "Handball spielen"
+  }, 
+  {
+    "word": "faire une faute",
+    "translation": "foulen"
+  },
+  {
+    "word": "bouscouler", 
+    "translation": "schubsen"
+  }, 
+  {
+    "word": "éviter un but",
+    "translation": "ein Tor verhindern"
+  },
+  {
+    "word": "donner un carte jaune à qn",
+    "translation": "eine gelbe Karte jemanden zeigen"
+  },
+  {  
+    "word": "avoir lieu",
+    "translation": "stattfinden"
+  },
+  {
+    "word": "l’équipe",
+    "add": "f.",
+    "translation": "die Mannschaft, das Team"
+  },
+  {
+    "word": "participer à qc",
+    "add": "à qc",
+    "translation": "an etw. teilnehmen"
+  },
+  {
+    "word": "le match",
+    "translation": "das Spiel"
+  },
+  {
+    "word": "le joueur",
+    "add": "m.",
+    "translation": "der Spieler"
+  },
+  {
+    "word": "la joueuse",
+    "add": "f.",
+    "translation": "die Spielerin"
+  },
+  {
+    "word": "l’arbitre",
+    "add": "m./f.",
+    "translation": "der/die Schiedsrichter/in"
+  },
+  {
+    "word": "le ballon",
+    "translation": "der Ball"
+  },
+  {
+    "word": "le score",
+    "translation": "der Spielstand"
+  },
+  {
+    "word": "le gardien de but",
+    "add": "m.",
+    "translation": "der Torwart"
+  },
+  {
+    "word": "le carton jaune",
+    "translation": "die gelbe Karte"
+  },
+  {
+    "word": "la faute",
+    "translation": "der Fehler, das Foul"
+  },
+  {
+    "word": "marquer un but",
+    "translation": "ein Tor schießen"
+  },
+  {
+    "word": "le but",
+    "translation": "das Tor, das Ziel"
+  },
+  {
+    "word": "gagner",
+    "add": "(qc)",
+    "translation": "(etw.) gewinnen"
+  },
+  {
+    "word": "contre",
+    "translation": "gegen"
+  },
+  {
+    "word": "encourager",
+    "add": "qn",
+    "translation": "jdn ermutigen"
+  },
+  {
+    "word": "formidable",
+    "add": "m./f.",
+    "translation": "toll"
+  },
+  {
+    "word": "facile",
+    "add": "m./f.",
+    "translation": "leicht"
+  },
+  {
+    "word": "lutter",
+    "translation": "kämpfen"
+  },
+  {
+    "word": "jusqu’au bout",
+    "translation": "bis zum Ende"
+  },
+  {
+    "word": "la défense",
+    "translation": "die Abwehr"
+  },
+  {
+    "word": "réagir",
+    "translation": "reagieren"
+  },
+  {
+    "word": "l’attaque",
+    "add": "f.",
+    "translation": "der Angriff"
+  },
+  {
+    "word": "applaudir",
+    "add": "qn",
+    "translation": "(jdm) applaudieren"
+  },
+  {
+    "word": "fort",
+    "add": "m.",
+    "translation": "stark (männlich)"
+  },
+  {
+    "word": "rapide",
+    "add": "m./f.",
+    "translation": "schnell"
+  },
+  {
+    "word": "agir",
+    "translation": "handeln"
+  },
+  {
+    "word": "la demi-finale",
+    "translation": "das Halbfinale"
+  },
+  {
+    "word": "montrer qc à qn",
+    "add": "qc à qn",
+    "translation": "jdm etw. zeigen"
+  },
+  {
+    "word": "le point fort",
+    "translation": "die Stärke"
+  },
+  {
+    "word": "garder",
+    "add": "qc",
+    "translation": "etw. behalten"
+  },
+  {
+    "word": "la finale",
+    "translation": "das Finale"
+  },
+  {
+    "word": "possible",
+    "add": "m./f.",
+    "translation": "möglich"
+  },
+  {
+    "word": "compter sur qn",
+    "add": "(sur qn)",
+    "translation": "(auf jdn) zählen"
+  },
+  {
+    "word": "réussir",
+    "add": "qc",
+    "translation": "etw. schaffen, gelingen"
+  }
+]

@@ -1,0 +1,205 @@
+[
+  {
+    "word": "avoir raison",
+    "translation": "recht haben"
+  },
+  {
+    "word": "avoir tort",
+    "translation": "unrecht haben"
+  },
+  {
+    "word": "accepter",
+    "translation": "akzeptieren; einverstanden sein"
+  },
+  {
+    "word": "affirmer",
+    "translation": "behaupten"
+  },
+  {
+    "word": "contre",
+    "translation": "gegen"
+  },
+  {
+    "word": "concerner",
+    "translation": "betreffen, angehen"
+  },
+  {
+    "word": "conseiller",
+    "translation": "raten"
+  },
+  {
+    "word": "convaincu",
+    "add": "m.",
+    "translation": "überzeugt"
+  },
+  {
+    "word": "convaincue",
+    "add": "f.",
+    "translation": "überzeugt"
+  },
+
+  {
+    "word": "convaincre",
+    "translation": "überzeugen"
+  },
+  {
+    "word": "critiquer",
+    "translation": "kritisieren"
+  },
+  {
+    "word": "c’est-à-dire",
+    "translation": "das heißt"
+  },
+  {
+    "word": "D’accord !",
+    "translation": "Einverstanden!; In Ordnung!"
+  },
+  {
+    "word": "discuter",
+    "translation": "diskutieren"
+  },
+  {
+    "word": "discuter",
+    "add": "de",
+    "translation": "besprechen"
+  },
+  {
+    "word": "être d’accord",
+    "add": "avec",
+    "translation": "einer Meinung sein, zustimmen"
+  },
+  {
+    "word": "évident",
+    "add": "m.",
+    "translation": "klar, offensichtlich"
+  },
+  {
+    "word": "évidente",
+    "add": "f.",
+    "translation": "klar, offensichtlich"
+  },
+  {
+    "word": "exagérer",
+    "translation": "übertreiben"
+  },
+  {
+    "word": "important",
+    "add": "m.",
+    "translation": "wichtig"
+  },
+  {
+    "word": "importante",
+    "add": "f.",
+    "translation": "wichtig"
+  },
+  {
+    "word": "justement",
+    "translation": "genau"
+  },
+  {
+    "word": "la concession",
+    "translation": "das Zugeständnis"
+  },
+  {
+    "word": "la critique",
+    "translation": "die Kritik"
+  },
+  {
+    "word": "la discussion",
+    "translation": "die Diskussion"
+  },
+  {
+    "word": "la proposition",
+    "translation": "der Vorschlag"
+  },
+  {
+    "word": "la recommandation",
+    "translation": "die Empfehlung"
+  },
+  {
+    "word": "l’accord",
+    "add": "m.",
+    "translation": "die Einigung, die Übereinkunft"
+  },
+  {
+    "word": "l’avantage",
+    "add": "m.",
+    "translation": "der Vorteil"
+  },
+  {
+    "word": "l’avis",
+    "add": "m.",
+    "translation": "die Ansicht"
+  },
+  {
+    "word": "l’exagération",
+    "add": "f.",
+    "translation": "die Übertreibung"
+  },
+  {
+    "word": "l’importance",
+    "add": "f.",
+    "translation": "die Wichtigkeit"
+  },
+  {
+    "word": "l’inconvénient",
+    "add": "m.",
+    "translation": "der Nachteil"
+  },
+  {
+    "word": "l’opinion",
+    "add": "f.",
+    "translation": "die Meinung"
+  },
+  {
+    "word": "le conseil",
+    "add": "m.",
+    "translation": "der Rat, der Ratschlag"
+  },
+  {
+    "word": "le point de vue",
+    "translation": "der Standpunkt, der Gesichtspunkt"
+  },
+  {
+    "word": "penser",
+    "translation": "meinen"
+  },
+  {
+    "word": "persuader",
+    "translation": "überreden"
+  },
+  {
+    "word": "préférer",
+    "translation": "bevorzugen, vorziehen"
+  },
+  {
+    "word": "proposer",
+    "translation": "vorschlagen"
+  },
+  {
+    "word": "précis",
+    "add": "m.",
+    "translation": "genau"
+  },
+  {
+    "word": "précise",
+    "add": "f.",
+    "translation": "genau"
+  },
+  {
+    "word": "recommander",
+    "translation": "empfehlen"
+  },
+  {
+    "word": "se mettre d’accord",
+    "translation": "sich einigen"
+  },
+  {
+    "word": "tolérer",
+    "translation": "tolerieren, dulden"
+  },
+  {
+    "word": "Tout à fait !",
+    "translation": "(Ganz) genau!"
+  }
+]
