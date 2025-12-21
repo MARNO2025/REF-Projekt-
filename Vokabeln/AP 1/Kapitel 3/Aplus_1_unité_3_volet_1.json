@@ -1,0 +1,82 @@
+[
+  {
+    "word": "ma",
+    "translation": "meine (w, Sg.)"
+  },
+  {
+    "word": "la famille",
+    "translation": "die Familie"
+  },
+  {
+    "word": "la sœur",
+    "translation": "die Schwester"
+  },
+  {
+    "word": "mon",
+    "translation": "mein (m, Sg.)"
+  },
+  {
+    "word": "le frère",
+    "translation": "der Bruder"
+  },
+  {
+    "word": "mes",
+    "translation": "meine (Pl.)"
+  },
+  {
+    "word": "les parents",
+    "add": "m.pl.",
+    "translation": "die Eltern"
+  },
+  {
+    "word": "le père",
+    "translation": "der Vater"
+  },
+  {
+    "word": "la mère",
+    "translation": "die Mutter"
+  },
+  {
+    "word": "le cousin",
+    "translation": "der Cousin"
+  },
+  {
+    "word": "la cousine",
+    "translation": "die Cousine"
+  },
+  {
+    "word": "le fils",
+    "translation": "der Sohn"
+  },
+  {
+    "word": "la tante",
+    "translation": "die Tante"
+  },
+  {
+    "word": "ce sont",
+    "translation": "das sind"
+  },
+  {
+    "word": "la fille",
+    "translation": "die Tochter / das Mädchen"
+  },
+  {
+    "word": "l'oncle",
+    "add": "m.",
+    "translation": "der Onkel"
+  },
+  {
+    "word": "les grands-parents",
+    "add": "m.pl.",
+    "translation": "die Großeltern"
+  },
+  {
+    "word": "la grand-mère",
+    "translation": "die Großmutter"
+  },
+  {
+    "word": "le grand-père",
+    "translation": "der Großvater"
+  }
+]
+
