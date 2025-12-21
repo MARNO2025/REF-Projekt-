@@ -9,7 +9,7 @@
   },
   {
     "word": "vouloir",
-    "add": "qc/ +inf.",
+    "add": "+inf.",
     "translation": "wollen"
   },
   {
@@ -30,8 +30,7 @@
     "translation": "die Idee"
   },
   {
-    "word": "inviter",
-    "add": "qn",
+    "word": "inviter qn",
     "translation": "jdn einladen"
   },
   {
@@ -99,8 +98,7 @@
     "translation": "Geht klar."
   },
   {
-    "word": "appeler",
-    "add": "qn",
+    "word": "appeler qn",
     "translation": "jdn anrufen"
   },
   {
@@ -112,8 +110,8 @@
     "translation": "Ich lade dich ein."
   },
   {
-    "word": "demander",
-    "add": "(qc) à qn",
-    "translation": "jdn (nach etw.) fragen"
+    "word": "demander qc à qn",
+    "translation": "jdn nach etw. fragen"
   }
 ]
+
