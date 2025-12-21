@@ -24,9 +24,8 @@
     "translation": "ich bin"
   },
   {
-    "word": "le professeur",
-    "add": "de français", 
-    "translation": "der/die Französischlehrer/in"
+    "word": "le professeur de français",
+    "translation": "der Französischlehrer"
   },
   {
     "word": "le professeur", 
@@ -129,3 +128,4 @@
     "translation": "nein"
   }
 ]
+
