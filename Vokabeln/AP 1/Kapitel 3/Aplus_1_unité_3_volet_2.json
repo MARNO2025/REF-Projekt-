@@ -39,6 +39,7 @@
   },
   {
     "word": "vite",
+    "add": "adv.", 
     "translation": "schnell"
   },
   {
@@ -58,12 +59,12 @@
     "translation": "spät"
   },
   {
-    "word": "garder",
-    "add": "qn",
+    "word": "garder qn",
     "translation": "auf jdn aufpassen / betreuen"
   },
   {
     "word": "pénible",
+    "add": "m./f.",
     "translation": "nervig / anstrengend"
   },
   {
@@ -100,3 +101,4 @@
     "translation": "er nervt mich"
   }
 ]
+
