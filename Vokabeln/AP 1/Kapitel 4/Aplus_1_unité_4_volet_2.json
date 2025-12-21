@@ -1,0 +1,154 @@
+[
+  {
+    "word": "le DVD",
+    "translation": "die DVD"
+  },
+  {
+    "word": "préparer",
+    "add": "qc",
+    "translation": "etw. vorbereiten"
+  },
+  {
+    "word": "la rencontre",
+    "translation": "das Treffen"
+  },
+  {
+    "word": "le hobby",
+    "translation": "das Hobby"
+  },
+  {
+    "word": "aimer",
+    "add": "qc/qn + inf.",
+    "translation": "mögen (etw./jdn.), lieben"
+  },
+  {
+    "word": "le chanteur",
+    "translation": "der Sänger"
+  },
+  {
+    "word": "la chanteuse",
+    "translation": "die Sängerin"
+  },
+  {
+    "word": "préféré",
+    "translation": "Lieblings- (männlich)"
+  },
+  {
+    "word": "préférée",
+    "translation": "Lieblings- (weiblich)"
+  },
+  {
+    "word": "adorer",
+    "add": "qc/qn + inf.",
+    "translation": "etw./ jdn. (sehr) lieben; es lieben, etw. zu tun"
+  },
+  {
+    "word": "ne... pas",
+    "translation": "nicht (Verneinung)"
+  },
+  {
+    "word": "préférer",
+    "add": "qn/qc + inf.",
+    "translation": "etw. bevorzugen, lieber mögen"
+  },
+  {
+    "word": "la musique classique",
+    "translation": "die klassische Musik"
+  },
+  {
+    "word": "le dessin",
+    "translation": "die Zeichnung, das Zeichnen"
+  },
+  {
+    "word": "être fan de",
+    "add": "qn/ qc.", 
+    "translation": "ein Fan von jmd/etw. sein"
+  },
+  {
+    "word": "le fan",
+    "translation": "der Fan (männlich)"
+  },
+  {
+    "word": "la fan",
+    "translation": "der Fan (weiblich)"
+  },
+  {
+    "word": "le rock",
+    "translation": "der Rock (Musikstil)"
+  },
+  {
+    "word": "le groupe",
+    "translation": "die Gruppe, die Band"
+  },
+  {
+    "word": "aimer bien",
+    "add": "qn/qc + inf.",
+    "translation": "etw./ jdn. gern mögen; es mögen, etw. zu tun"
+  },
+  {
+    "word": "Moi non plus.",
+    "translation": "Ich auch nicht."
+  },
+  {
+    "word": "Moi si.",
+    "translation": "Doch, ich schon."
+  },
+  {
+    "word": "Ce n'est pas mon truc.",
+    "translation": "Das ist nicht mein Ding."
+  },
+  {
+    "word": "le truc",
+    "translation": "das Ding / die Sache"
+  },
+  {
+    "word": "faire de l'aviron",
+    "translation": "rudern"
+  },
+  {
+    "word": "l'aviron",
+    "add": "m.",
+    "translation": "das Rudern"
+  },
+  {
+    "word": "faire du vélo",
+    "translation": "Fahrrad fahren"
+  },
+  {
+    "word": "détester",
+    "add": "qc/qn + inf.",
+    "translation": "hassen / nicht ausstehen können"
+  },
+  {
+    "word": "la nature",
+    "translation": "die Natur"
+  },
+  {
+    "word": "Moi aussi.",
+    "translation": "Ich auch."
+  },
+  {
+    "word": "notre",
+    "translation": "unser, unsere"
+  },
+  {
+    "word": "le prof",
+    "translation": "der Lehrer"
+  },
+  {
+    "word": "la prof",
+    "translation": "die Lehrerin"
+  },
+  {
+    "word": "l'allemand",
+    "translation": "Deutsch (Schulfach)"
+  },
+  {
+    "word": "la lecture",
+    "translation": "das Lesen, die Lektüre"
+  },
+  {
+    "word": "le cinéma",
+    "translation": "das Kino"
+  }
+]
