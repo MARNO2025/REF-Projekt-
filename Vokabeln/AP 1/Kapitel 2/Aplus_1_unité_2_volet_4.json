@@ -36,14 +36,12 @@
     "translation": "Können Sie das wiederholen?"
   },
   {
-    "word": "répéter",
-    "add": "qc",
-    "translation": "wiederholen"
+    "word": "répéter qc",
+    "translation": " etw. wiederholen"
   },
   {
-    "word": "fermer",
-    "add": "qc",
-    "translation": "schließen"
+    "word": "fermer qc",
+    "translation": "etw. schließen"
   },
   {
     "word": "le livre",
@@ -66,9 +64,8 @@
     "translation": "der Text"
   },
   {
-    "word": "continuer",
-    "add": "qc",
-    "translation": "fortsetzen"
+    "word": "continuer qc",
+    "translation": "etw. fortsetzen"
   },
   {
     "word": "la fenêtre",
@@ -87,3 +84,4 @@
     "translation": "der Satz"
   }
 ]
+
