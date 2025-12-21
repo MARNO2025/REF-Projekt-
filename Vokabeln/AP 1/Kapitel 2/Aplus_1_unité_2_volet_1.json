@@ -25,6 +25,7 @@
   },
   {
     "word": "l'armoire",
+    "add": "f.", 
     "translation": "der Schrank"
   },
   {
@@ -97,6 +98,7 @@
   },
   {
     "word": "l'ordinateur",
+    "add": "m.", 
     "translation": "der Computer"
   },
   {
@@ -144,3 +146,4 @@
     "translation": "der Globus"
   }
 ]
+
