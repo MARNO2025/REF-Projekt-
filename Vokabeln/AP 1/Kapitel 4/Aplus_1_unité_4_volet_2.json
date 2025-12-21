@@ -4,8 +4,7 @@
     "translation": "die DVD"
   },
   {
-    "word": "préparer",
-    "add": "qc",
+    "word": "préparer qc",
     "translation": "etw. vorbereiten"
   },
   {
@@ -17,8 +16,8 @@
     "translation": "das Hobby"
   },
   {
-    "word": "aimer",
-    "add": "qc/qn + inf.",
+    "word": "aimer qc/qn",
+    "add": "inf.",
     "translation": "mögen (etw./jdn.), lieben"
   },
   {
@@ -38,8 +37,8 @@
     "translation": "Lieblings- (weiblich)"
   },
   {
-    "word": "adorer",
-    "add": "qc/qn + inf.",
+    "word": "adorer qc/qn",
+    "add": "inf.",
     "translation": "etw./ jdn. (sehr) lieben; es lieben, etw. zu tun"
   },
   {
@@ -47,8 +46,8 @@
     "translation": "nicht (Verneinung)"
   },
   {
-    "word": "préférer",
-    "add": "qn/qc + inf.",
+    "word": "préférer qn/qc",
+    "add": "inf.",
     "translation": "etw. bevorzugen, lieber mögen"
   },
   {
@@ -60,8 +59,7 @@
     "translation": "die Zeichnung, das Zeichnen"
   },
   {
-    "word": "être fan de",
-    "add": "qn/ qc.", 
+    "word": "être fan de qn/qc",
     "translation": "ein Fan von jmd/etw. sein"
   },
   {
@@ -81,8 +79,8 @@
     "translation": "die Gruppe, die Band"
   },
   {
-    "word": "aimer bien",
-    "add": "qn/qc + inf.",
+    "word": "aimer bien qn/qc",
+    "add": "inf.",
     "translation": "etw./ jdn. gern mögen; es mögen, etw. zu tun"
   },
   {
@@ -115,9 +113,9 @@
     "translation": "Fahrrad fahren"
   },
   {
-    "word": "détester",
-    "add": "qc/qn + inf.",
-    "translation": "hassen / nicht ausstehen können"
+    "word": "détester qc/qn",
+    "add": "inf.",
+    "translation": "etw./ jdn. hassen / nicht ausstehen können"
   },
   {
     "word": "la nature",
@@ -141,6 +139,7 @@
   },
   {
     "word": "l'allemand",
+    "add": "m.",
     "translation": "Deutsch (Schulfach)"
   },
   {
@@ -152,3 +151,4 @@
     "translation": "das Kino"
   }
 ]
+
