@@ -89,8 +89,7 @@
     "translation": "der Wettbewerb"
   },
   {
-    "word": "avoir l'âge de",
-    "add": "qn",
+    "word": "avoir l'âge de qn",
     "translation": "so alt sein wie jemand"
   },
   {
@@ -107,8 +106,7 @@
     "translation": "ich möchte gern"
   },
   {
-    "word": "être contre",
-    "add": "(qn/qc)",
+    "word": "être contre qn/qc",
     "translation": "gegen (jdn/etw) sein"
   },
   {
@@ -129,8 +127,7 @@
     "translation": "Wer?"
   },
   {
-    "word": "être pour",
-    "add": "(qn/qc)",
+    "word": "être pour qn/qc",
     "translation": "für (jdn/etw) sein"
   },
   {
@@ -138,3 +135,4 @@
     "translation": "hässlich"
   }
 ]
+
