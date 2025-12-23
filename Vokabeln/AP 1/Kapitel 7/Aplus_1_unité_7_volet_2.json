@@ -1,0 +1,157 @@
+[
+  {
+    "word": "le cadeau",
+    "translation": "das Geschenk"
+  },
+  {
+    "word": "parler",
+    "add": "de qc",
+    "translation": "über etw. sprechen"
+  },
+  {
+    "word": "acheter",
+    "add": "qc",
+    "translation": "etw. kaufen"
+  },
+  {
+    "word": "collectionner",
+    "add": "qc",
+    "translation": "etw. sammeln"
+  },
+  {
+    "word": "faire une surprise",
+    "add": "à qn",
+    "translation": "jdn überraschen"
+  },
+  {
+    "word": "la surprise",
+    "translation": "die Überraschung"
+  },
+  {
+    "word": "trouver",
+    "add": "qc",
+    "translation": "etw. finden"
+  },
+  {
+    "word": "apporter",
+    "add": "qc",
+    "translation": "etw. mitbringen"
+  },
+  {
+    "word": "le sketch",
+    "translation": "der Sketch"
+  },
+  {
+    "word": "la chanson",
+    "translation": "das Lied"
+  },
+  {
+    "word": "bien sûr",
+    "translation": "aber sicher"
+  },
+  {
+    "word": "Qui fait quoi?",
+    "translation": "Wer macht was?"
+  },
+  {
+    "word": "coûter",
+    "translation": "kosten"
+  },
+  {
+    "word": "combien",
+    "translation": "wie viel"
+  },
+  {
+    "word": "cher",
+    "translation": "teuer (männlich)"
+  },
+  {
+    "word": "chère",
+    "translation": "teuer (weiblich)"
+  },
+  {
+    "word": "l'argent",
+    "add": "m.",
+    "translation": "das Geld"
+  },
+  {
+    "word": "la librairie",
+    "translation": "die Buchhandlung"
+  },
+  {
+    "word": "à... euro(s)",
+    "translation": "für ... Euro"
+  },
+  {
+    "word": "aider",
+    "add": "qn",
+    "translation": "helfen"
+  },
+  {
+    "word": "accompagner",
+    "add": "qn",
+    "translation": "begleiten"
+  },
+  {
+    "word": "ici",
+    "translation": "hier"
+  },
+  {
+    "word": "faire les courses",
+    "translation": "einkaufen"
+  },
+  {
+    "word": "les courses",
+    "add": "f.pl.",
+    "translation": "die Einkäufe"
+  },
+  {
+    "word": "la recette",
+    "translation": "das Rezept"
+  },
+  {
+    "word": "la liste",
+    "translation": "die Liste"
+  },
+  {
+    "word": "le kilo",
+    "translation": "das Kilo"
+  },
+  {
+    "word": "la farine",
+    "translation": "das Mehl"
+  },
+  {
+    "word": "le paquet",
+    "translation": "die Packung"
+  },
+  {
+    "word": "le sucre",
+    "translation": "der Zucker"
+  },
+  {
+    "word": "le beurre",
+    "translation": "die Butter"
+  },
+  {
+    "word": "la bouteille",
+    "translation": "die Flasche"
+  },
+  {
+    "word": "le lait",
+    "translation": "die Milch"
+  },
+  {
+    "word": "l'œuf",
+    "add": "m.",
+    "translation": "das Ei"
+  },
+  {
+    "word": "noir",
+    "translation": "schwarz (männlich)"
+  },
+  {
+    "word": "noire",
+    "translation": "schwarz (weiblich)"
+  }
+]
