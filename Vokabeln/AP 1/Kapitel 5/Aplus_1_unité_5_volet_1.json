@@ -8,8 +8,7 @@
     "translation": "die Sekundarschule 1 (Klasse 6–9)"
   },
   {
-    "word": "présenter",
-    "add": "qn/qc",
+    "word": "présenter qn/qc",
     "translation": "vorstellen / präsentieren"
   },
   {
@@ -38,8 +37,7 @@
     "translation": "das Sekretariat"
   },
   {
-    "word": "emprunter",
-    "add": "qc",
+    "word": "emprunter qc",
     "translation": "etw. ausleihen"
   },
   {
@@ -105,3 +103,4 @@
     "translation": "der Klassenraum"
   }
 ]
+
