@@ -53,8 +53,7 @@
     "translation": "das Schloss"
   },
   {
-    "word": "fêter",
-    "add": "qc",
+    "word": "fêter qc",
     "translation": "etw. feiern"
   },
   {
@@ -99,8 +98,7 @@
     "translation": "das Zelt"
   },
   {
-    "word": "observer",
-    "add": "qn/ qc",
+    "word": "observer qn/qc",
     "translation": "jdn/ etw. beobachten"
   },
   {
@@ -135,3 +133,4 @@
     "translation": "der Winter"
   }
 ]
+
