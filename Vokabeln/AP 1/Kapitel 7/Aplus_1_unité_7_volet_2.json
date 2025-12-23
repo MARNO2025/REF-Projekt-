@@ -4,23 +4,19 @@
     "translation": "das Geschenk"
   },
   {
-    "word": "parler",
-    "add": "de qc",
+    "word": "parler de qc",
     "translation": "über etw. sprechen"
   },
   {
-    "word": "acheter",
-    "add": "qc",
+    "word": "acheter qc",
     "translation": "etw. kaufen"
   },
   {
-    "word": "collectionner",
-    "add": "qc",
+    "word": "collectionner qc",
     "translation": "etw. sammeln"
   },
   {
-    "word": "faire une surprise",
-    "add": "à qn",
+    "word": "faire une surprise à qn",
     "translation": "jdn überraschen"
   },
   {
@@ -28,13 +24,11 @@
     "translation": "die Überraschung"
   },
   {
-    "word": "trouver",
-    "add": "qc",
+    "word": "trouver qc",
     "translation": "etw. finden"
   },
   {
-    "word": "apporter",
-    "add": "qc",
+    "word": "apporter qc",
     "translation": "etw. mitbringen"
   },
   {
@@ -83,13 +77,11 @@
     "translation": "für ... Euro"
   },
   {
-    "word": "aider",
-    "add": "qn",
+    "word": "aider qn",
     "translation": "helfen"
   },
   {
-    "word": "accompagner",
-    "add": "qn",
+    "word": "accompagner qn",
     "translation": "begleiten"
   },
   {
@@ -155,3 +147,4 @@
     "translation": "schwarz (weiblich)"
   }
 ]
+
