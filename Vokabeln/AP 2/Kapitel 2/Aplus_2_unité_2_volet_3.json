@@ -41,8 +41,7 @@
   },
   {
     "word": "photographier",
-    "add": "qn/qc",
-    "translation": "jdn/etw. fotografieren"
+    "translation": "fotografieren"
   },
   {
     "word": "le toréro",
@@ -53,8 +52,7 @@
     "translation": "plötzlich"
   },
   {
-    "word": "venir droit sur",
-    "add": "qn",
+    "word": "venir droit sur qn",
     "translation": "direkt auf jdn zukommen"
   },
   {
@@ -96,8 +94,7 @@
     "translation": "schlecht, falsch (weiblich)"
   },
   {
-    "word": "demander son chemin",
-    "add": "à qn",
+    "word": "demander son chemin à qn",
     "translation": "jdn nach dem Weg fragen"
   },
   {
@@ -106,12 +103,10 @@
   },
   {
     "word": "perdre",
-    "add": "qc",
-    "translation": "etw. verlieren"
+    "translation": "verlieren"
   },
   {
-    "word": "répondre",
-    "add": "à qn/qc",
+    "word": "répondre à qn/qc",
     "translation": "jdm antworten, etw. beantworten"
   },
   {
@@ -142,4 +137,5 @@
     "word": "le cou",
     "translation": "der Hals"
   }
+
 ]
