@@ -12,8 +12,7 @@
     "translation": "der Käfig"
   },
   {
-    "word": "se souvenir",
-    "add": "de qn/qc",
+    "word": "se souvenir de qn/qc",
     "translation": "sich an jdn/etw. erinnern"
   },
   {
@@ -41,8 +40,7 @@
   },
   {
     "word": "vendre",
-    "add": "qc (à qn)",
-    "translation": "(jdm) etw. verkaufen"
+    "translation": "verkaufen"
   },
   {
     "word": "l’oiseau",
@@ -73,13 +71,11 @@
   },
   {
     "word": "offrir",
-    "add": "qc à qn",
-    "translation": "jdm etw. schenken, anbieten"
+    "translation": "schenken, anbieten"
   },
   {
     "word": "intéresser",
-    "add": "qn",
-    "translation": "jdn interessieren"
+    "translation": "interessieren"
   },
   {
     "word": "heureux",
@@ -107,8 +103,7 @@
   },
   {
     "word": "ouvrir",
-    "add": "qc",
-    "translation": "etw. öffnen"
+    "translation": "öffnen"
   },
   {
     "word": "s’envoler",
@@ -116,7 +111,6 @@
   },
   {
     "word": "bien d’autres choses",
-    "add": "phrase",
     "translation": "noch viel mehr"
   },
   {
@@ -161,8 +155,7 @@
     "translation": "der Vorschlag"
   },
   {
-    "word": "échanger",
-    "add": "qc contre qc",
+    "word": "échanger qc contre qc",
     "translation": "etw. gegen etw. tauschen"
   },
   {
@@ -205,4 +198,5 @@
     "add": "m.",
     "translation": "das Gold"
   }
+
 ]
