@@ -14,8 +14,7 @@
   },
   {
     "word": "ranger",
-    "add": "qc",
-    "translation": "etw. aufräumen"
+    "translation": "aufräumen"
   },
   {
     "word": "devoir",
@@ -35,8 +34,7 @@
   },
   {
     "word": "rencontrer",
-    "add": "qn",
-    "translation": "jdm begegnen, jdn treffen, sich mit jdm treffen"
+    "translation": "begegnen, treffen"
   },
   {
     "word": "le citron",
@@ -89,3 +87,4 @@
     "translation": "das Ende"
   }
 ]
+
