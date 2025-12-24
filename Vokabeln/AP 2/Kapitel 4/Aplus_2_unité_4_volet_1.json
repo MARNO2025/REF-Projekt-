@@ -27,8 +27,7 @@
   },
   {
     "word": "participer",
-    "add": "à qc",
-    "translation": "an etw. teilnehmen"
+    "translation": "teilnehmen"
   },
   {
     "word": "le match",
@@ -46,8 +45,7 @@
   },
   {
     "word": "penser",
-    "add": "à qn/qc",
-    "translation": "an jdn/etw. denken"
+    "translation": "denken"
   },
   {
     "word": "le carrefour",
@@ -58,13 +56,11 @@
     "translation": "abbiegen"
   },
   {
-    "word": "tourner",
-    "add": "à gauche",
+    "word": "tourner à gauche",
     "translation": "nach links abbiegen"
   },
   {
-    "word": "tourner",
-    "add": "à droite", 
+    "word": "tourner à droite",
     "translation": "nach rechts abbiegen"
   },
   {
@@ -87,8 +83,7 @@
   },
   {
     "word": "laisser",
-    "add": "qc",
-    "translation": "etw. liegen lassen"
+    "translation": "lassen"
   },
   {
     "word": "le GPS",
@@ -116,8 +111,7 @@
   },
   {
     "word": "traverser",
-    "add": "qc",
-    "translation": "(etw.) überqueren"
+    "translation": "überqueren"
   },
   {
     "word": "la gare",
@@ -125,7 +119,6 @@
   },
   {
     "word": "redemander",
-    "add": "qc à qn",
     "translation": "noch einmal fragen"
   },
   {
@@ -147,3 +140,4 @@
     "translation": "ihr seid da"
   }
 ]
+
