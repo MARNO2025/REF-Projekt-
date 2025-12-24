@@ -50,13 +50,11 @@
     "translation": "das Ferienheft"
   },
   {
-    "word": "être né",
-    "add": "à/ le",
+    "word": "être né à/ le",
     "translation": "geboren sein (in/am)"
   },
   {
-    "word": "être née",
-    "add": "à/ le",
+    "word": "être née à/ le",
     "translation": "geboren sein (in/am)"
   },
   {
@@ -77,8 +75,7 @@
     "translation": "Handball"
   },
   {
-    "word": "au bord",
-    "add": "de",
+    "word": "au bord de",
     "translation": "am Ufer von"
   },
   {
@@ -94,3 +91,4 @@
     "translation": "seit, seitdem"
   }
 ]
+
