@@ -62,8 +62,7 @@
   },
   {
     "word": "gagner",
-    "add": "(qc)",
-    "translation": "(etw.) gewinnen"
+    "translation": "gewinnen"
   },
   {
     "word": "contre",
@@ -71,8 +70,7 @@
   },
   {
     "word": "encourager",
-    "add": "qn",
-    "translation": "jdn ermutigen"
+    "translation": "ermutigen"
   },
   {
     "word": "formidable",
@@ -107,8 +105,7 @@
   },
   {
     "word": "applaudir",
-    "add": "qn",
-    "translation": "(jdm) applaudieren"
+    "translation": "applaudieren"
   },
   {
     "word": "fort",
@@ -151,8 +148,7 @@
   },
   {
     "word": "donner",
-    "add": "qc à qn",
-    "translation": "jdm etw. geben"
+    "translation": "geben"
   },
   {
     "word": "finir",
@@ -178,8 +174,7 @@
   },
   {
     "word": "montrer",
-    "add": "qc à qn",
-    "translation": "jdm etw. zeigen"
+    "translation": "zeigen"
   },
   {
     "word": "le point fort",
@@ -187,8 +182,7 @@
   },
   {
     "word": "garder",
-    "add": "qc",
-    "translation": "etw. behalten"
+    "translation": "behalten"
   },
   {
     "word": "la finale",
@@ -200,13 +194,12 @@
     "translation": "möglich"
   },
   {
-    "word": "compter",
-    "add": "(sur qn)",
+    "word": "compter sur qn",
     "translation": "(auf jdn) zählen"
   },
   {
     "word": "réussir",
-    "add": "qc",
-    "translation": "etw. schaffen, gelingen"
+    "translation": "schaffen, gelingen"
   }
 ]
+
