@@ -36,8 +36,7 @@
   },
   {
     "word": "surveiller",
-    "add": "qn",
-    "translation": "jdn beaufsichtigen"
+    "translation": "beaufsichtigen"
   },
   {
     "word": "la brute",
@@ -57,8 +56,7 @@
     "translation": "schüchtern"
   },
   {
-    "word": "signaler",
-    "add": "qc à qn",
+    "word": "signaler qc à qn",
     "translation": "jdm etw. melden"
   },
   {
@@ -86,8 +84,7 @@
     "translation": "der Konflikt"
   },
   {
-    "word": "confier",
-    "add": "qc à qn",
+    "word": "confier qc à qn",
     "translation": "jdm etw. anvertrauen"
   },
   {
@@ -101,3 +98,4 @@
     "translation": "persönliche (weiblich)"
   }
 ]
+
