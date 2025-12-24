@@ -4,8 +4,8 @@
     "translation": "die DVD"
   },
   {
-    "word": "préparer qc",
-    "translation": "etw. vorbereiten"
+    "word": "préparer",
+    "translation": "vorbereiten"
   },
   {
     "word": "la rencontre",
@@ -16,9 +16,9 @@
     "translation": "das Hobby"
   },
   {
-    "word": "aimer qc/qn",
+    "word": "aimer",
     "add": "inf.",
-    "translation": "mögen (etw./jdn.), lieben"
+    "translation": "mögen, lieben"
   },
   {
     "word": "le chanteur",
@@ -37,16 +37,16 @@
     "translation": "Lieblings- (weiblich)"
   },
   {
-    "word": "adorer qc/qn",
+    "word": "adorer",
     "add": "inf.",
-    "translation": "etw./ jdn. (sehr) lieben; es lieben, etw. zu tun"
+    "translation": "(sehr) lieben; es lieben, etw. zu tun"
   },
   {
     "word": "ne... pas",
     "translation": "nicht (Verneinung)"
   },
   {
-    "word": "préférer qn/qc",
+    "word": "préférer",
     "add": "inf.",
     "translation": "etw. bevorzugen, lieber mögen"
   },
@@ -79,9 +79,9 @@
     "translation": "die Gruppe, die Band"
   },
   {
-    "word": "aimer bien qn/qc",
+    "word": "aimer bien",
     "add": "inf.",
-    "translation": "etw./ jdn. gern mögen; es mögen, etw. zu tun"
+    "translation": "gern mögen; es mögen, etw. zu tun"
   },
   {
     "word": "Moi non plus.",
@@ -113,7 +113,7 @@
     "translation": "Fahrrad fahren"
   },
   {
-    "word": "détester qc/qn",
+    "word": "détester",
     "add": "inf.",
     "translation": "etw./ jdn. hassen / nicht ausstehen können"
   },
@@ -151,4 +151,5 @@
     "translation": "das Kino"
   }
 ]
+
 
