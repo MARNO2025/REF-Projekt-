@@ -1,8 +1,7 @@
 [
   {
     "word": "corriger",
-    "add": "qc",
-    "translation": "etw. korrigieren, berichtigen"
+    "translation": "korrigieren, berichtigen"
   },
   {
     "word": "autre",
@@ -43,8 +42,7 @@
     "translation": "die Male"
   },
   {
-    "word": "mettre",
-    "add": "le son plus fort",
+    "word": "mettre le son plus fort",
     "translation": "den Ton lauter stellen"
   },
   {
@@ -88,8 +86,7 @@
     "translation": "still"
   },
   {
-    "word": "expliquer",
-    "add": "qc",
+    "word": "expliquer qc",
     "translation": "etw. erklären"
   },
   {
@@ -114,8 +111,7 @@
   },
   {
     "word": "apprendre",
-    "add": "qc",
-    "translation": "etw. lernen"
+    "translation": "lernen"
   },
   {
     "word": "le vocabulaire",
@@ -138,3 +134,4 @@
     "translation": "nächste"
   }
 ]
+
