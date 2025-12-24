@@ -64,7 +64,6 @@
   },
   {
     "word": "se promener",
-    "add": "verb",
     "translation": "spazieren gehen"
   },
   {
@@ -86,8 +85,7 @@
   },
   {
     "word": "lâcher",
-    "add": "qn/qc",
-    "translation": "jdn/etw. loslassen"
+    "translation": "loslassen"
   },
   {
     "word": "se retrouver",
@@ -108,8 +106,7 @@
   },
   {
     "word": "amener",
-    "add": "qn/qc",
-    "translation": "jdn/etw. mitbringen; hier: leiten"
+    "translation": "mitbringen; hier: leiten"
   },
   {
     "word": "la personne",
@@ -133,4 +130,5 @@
     "word": "la cité",
     "translation": "die Siedlung"
   }
+
 ]
