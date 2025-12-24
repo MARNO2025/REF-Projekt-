@@ -24,8 +24,7 @@
   },
   {
     "word": "consoler",
-    "add": "qn",
-    "translation": "jdn trösten"
+    "translation": "trösten"
   },
   {
     "word": "blessé",
@@ -33,8 +32,7 @@
   },
   {
     "word": "dénoncer",
-    "add": "qn",
-    "translation": "jdn anzeigen, verraten"
+    "translation": "anzeigen, verraten"
   },
   {
     "word": "sinon",
@@ -42,13 +40,11 @@
   },
   {
     "word": "harceler",
-    "add": "qn",
-    "translation": "jdn belästigen, hier: mobben"
+    "translation": "belästigen, hier: mobben"
   },
   {
     "word": "accepter",
-    "add": "qc",
-    "translation": "(etw.) akzeptieren"
+    "translation": "akzeptieren"
   },
   {
     "word": "oser",
@@ -57,8 +53,7 @@
   },
   {
     "word": "menacer",
-    "add": "qn",
-    "translation": "jdm drohen, jdn bedrohen"
+    "translation": "drohen, bedrohen"
   },
   {
     "word": "la boxe",
@@ -100,13 +95,12 @@
     "translation": "beruhigt"
   },
   {
-    "word": "laisser",
-    "add": "qn tranquille",
+    "word": "laisser qn tranquille",
     "translation": "jdn in Ruhe lassen"
   },
   {
     "word": "écrire",
-    "add": "(qc à qn)",
-    "translation": "(jdm etw.) schreiben"
+    "translation": "schreiben"
   }
+
 ]
