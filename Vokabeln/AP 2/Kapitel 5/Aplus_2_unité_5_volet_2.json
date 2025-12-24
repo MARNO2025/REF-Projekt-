@@ -1,0 +1,126 @@
+[
+  {
+    "word": "au secours !",
+    "add": "phrase",
+    "translation": "zu hilfe!"
+  },
+  {
+    "word": "agresser",
+    "add": "qn",
+    "translation": "jdn angreifen"
+  },
+  {
+    "word": "toucher",
+    "add": "qn/qc",
+    "translation": "jdn/etw. anfassen"
+  },
+  {
+    "word": "faire peur",
+    "add": "à qn",
+    "translation": "jdm angst machen"
+  },
+  {
+    "word": "tenir ",
+    "add": "qn/qc",
+    "translation": "jdn festhalten, etw. halten"
+  },
+  {
+    "word": "faire mal",
+    "add": " à qn",
+    "translation": "jdm wehtun"
+  },
+  {
+    "word": "comme ça",
+    "translation": "so"
+  },
+  {
+    "word": "arrêter",
+    "translation": "aufhören"
+  },
+  {
+    "word": "mal finir",
+    "translation": "schlecht ausgehen"
+  },
+  {
+    "word": "mal",
+    "translation": "schlecht"
+  },
+  {
+    "word": "malheureux",
+    "add": "m.",
+    "translation": "unglücklich (männlich)"
+  },
+  {
+    "word": "malheureuse",
+    "add": "f.",
+    "translation": "unglücklich (weiblich)"
+  },
+  {
+    "word": "pleurer",
+    "translation": "weinen"
+  },
+  {
+    "word": "frapper",
+    "add": "qn",
+    "translation": "jdn schlagen"
+  },
+  {
+    "word": "voler",
+    "add": "qc à qn",
+    "translation": "jdm etw. stehlen"
+  },
+  {
+    "word": "courageux",
+    "add": "m.",
+    "translation": "mutig (männlich)"
+  },
+  {
+    "word": "courageuse",
+    "add": "f.",
+    "translation": "mutig (weiblich)"
+  },
+  {
+    "word": "hésiter",
+    "translation": "zögern"
+  },
+  {
+    "word": "c’est honteux !",
+    "add": "phrase",
+    "translation": "das ist eine schande!"
+  },
+  {
+    "word": "honteux",
+    "add": "m.",
+    "translation": "beschämt, empört (männlich)"
+  },
+  {
+    "word": "honteuse",
+    "add": "f.",
+    "translation": "beschämt, empört (weiblich)"
+  },
+  {
+    "word": "j’y vais !",
+    "add": "phrase",
+    "translation": "ich gehe hin!"
+  },
+  {
+    "word": "dangereux",
+    "add": "m.",
+    "translation": "gefährlich (männlich)"
+  },
+  {
+    "word": "dangereuse",
+    "add": "f.",
+    "translation": "gefährlich (weiblich)"
+  },
+  {
+    "word": "aller chercher",
+    "add": "qn/qc",
+    "translation": "jdn/etw. abholen, holen"
+  },
+  {
+    "word": "prévenir",
+    "add": " qn",
+    "translation": "jdn verständigen, benachrichtigen"
+  }
+]
