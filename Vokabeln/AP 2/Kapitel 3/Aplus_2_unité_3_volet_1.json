@@ -73,8 +73,7 @@
   },
   {
     "word": "télécharger",
-    "add": "qc",
-    "translation": "etw. herunterladen"
+    "translation": "herunterladen"
   },
   {
     "word": "le titre",
@@ -96,8 +95,7 @@
   },
   {
     "word": "porter",
-    "add": "qc",
-    "translation": "etw. tragen"
+    "translation": "tragen"
   },
   {
     "word": "le pantalon",
@@ -149,3 +147,4 @@
     "translation": "der Stress"
   }
 ]
+
