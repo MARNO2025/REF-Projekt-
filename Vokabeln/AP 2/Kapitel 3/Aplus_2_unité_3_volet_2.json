@@ -24,7 +24,6 @@
   },
   {
     "word": "mettre",
-    "add": "qc",
     "translation": "etw. tragen, anziehen; auch: setzen, stellen, legen"
   },
   {
@@ -48,27 +47,71 @@
   },
   {
     "word": "nouveau",
-    "add": "nouvel,nouvelle,nouveaux,nouvelles",
-    "translation": "neu"
+    "add": "m.sg.",
+    "translation": "neu (männlich sg.)"
+  },
+  {
+    "word": "nouvelle,",
+    "add": "f.sg.",
+    "translation": "neu (weiblich sg.)"
+  },
+  {
+    "word": "nouveaux",
+    "add": "m.pl.",
+    "translation": "neu (männlich pl.)"
+  },
+  {
+    "word": "nouvelles",
+    "add": "w.pl.",
+    "translation": "neu (weiblich pl.)"
   },
   {
     "word": "la sonnerie",
     "translation": "die Klingel, der Klingelton"
   },
   {
-    "word": "être accro",
-    "add": "à qc",
+    "word": "être accro à qc",
     "translation": "nach etw. süchtig sein"
   },
   {
     "word": "ce",
-    "add": "cet,cette,ces",
-    "translation": "dieser"
+    "add": "m.sg.",
+    "translation": "dieser (männlich sg.)"
+  },
+  {
+    "word": "cet",
+    "add": "m.sg.",
+    "translation": "dieser + Vokal (männlich sg.)"
+  },
+  {
+    "word": "cette",
+    "add": "w.sg.",
+    "translation": "diese (weiblich sg.)"
+  },
+  {
+    "word": "ces",
+    "add": "pl.",
+    "translation": "diese (plural)"
   },
   {
     "word": "beau",
-    "add": "bel,belle,beaux,belles",
-    "translation": "schön"
+    "add": "m. sg.",
+    "translation": "schön (männlich sg.)"
+  },
+  {
+    "word": "bel",
+    "add": "m. sg.",
+    "translation": "schön + Vokal (männlich sg.)"
+  },
+  {
+    "word": "beaux",
+    "add": "m. pl.",
+    "translation": "schön (männlich pl.)"
+  },
+  {
+    "word": "belles",
+    "add": "w. pl.",
+    "translation": "schön (weiblich pl.)"
   },
   {
     "word": "la voix",
@@ -88,13 +131,15 @@
   },
   {
     "word": "vert",
-    "add": "verte",
     "translation": "grün"
   },
   {
     "word": "blanc",
-    "add": "blanche",
-    "translation": "grün"
+    "translation": "weiß (männlich)"
+  },
+  {
+    "word": "blanche",
+    "translation": "weiß (weiblich)"
   },
   {
     "word": "marron",
@@ -107,18 +152,11 @@
     "translation": "gelb"
   },
   {
-    "word": "blanc",
-    "add": "blanche",
-    "translation": "grün"
-  },
-  {
     "word": "noir",
-    "add": "noire",
     "translation": "schwarz"
   },
   {
     "word": "bleu",
-    "add": "bleue",
     "translation": "blau"
   },
   {
@@ -128,7 +166,6 @@
   },
   {
     "word": "gris",
-    "add": "grise",
     "translation": "grau"
   },
   {
@@ -145,8 +182,7 @@
   },
   {
     "word": "dépenser",
-    "add": "qc",
-    "translation": "etw. ausgeben"
+    "translation": "ausgeben"
   },
   {
     "word": "cent-cinquante",
@@ -183,3 +219,4 @@
     "translation": "das Schlagzeug"
   }
 ]
+
