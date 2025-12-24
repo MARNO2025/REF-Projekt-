@@ -58,7 +58,6 @@
   },
   {
     "word": "prendre",
-    "add": "qc",
     "translation": "etw. nehmen"
   },
   {
@@ -71,8 +70,7 @@
   },
   {
     "word": "comprendre",
-    "add": "qn/ qc",
-    "translation": "jdn, etw. verstehen"
+    "translation": "verstehen"
   },
   {
     "word": "avoir soif",
@@ -108,3 +106,4 @@
     "translation": "voll, total"
   }
 ]
+
