@@ -6,18 +6,15 @@
   },
   {
     "word": "monter",
-    "add": "qc",
-    "translation": "etw. aufbauen, errichten"
+    "translation": "steigen"
   },
   {
     "word": "installer",
-    "add": "qc",
     "translation": "etw. aufbauen"
   },
   {
     "word": "poser",
-    "add": "qc",
-    "translation": "etw. (hin)stellen, (hin)legen"
+    "translation": "(hin)stellen, (hin)legen"
   },
   {
     "word": "le plat",
@@ -29,8 +26,7 @@
   },
   {
     "word": "connaître",
-    "add": "qn/qc",
-    "translation": "jdn/etw. kennen"
+    "translation": "kennen"
   },
   {
     "word": "la tarte",
@@ -59,7 +55,6 @@
   },
   {
     "word": "il faut",
-    "add": "qc",
     "translation": "man braucht / wir brauchen etw."
   },
   {
@@ -72,8 +67,7 @@
     "translation": "das Mineralwasser"
   },
   {
-    "word": "demander",
-    "add": "à qn si",
+    "word": "demander à qn si",
     "translation": "jdn fragen, ob"
   },
   {
@@ -101,3 +95,4 @@
     "translation": "der Umkleideraum"
   }
 ]
+
