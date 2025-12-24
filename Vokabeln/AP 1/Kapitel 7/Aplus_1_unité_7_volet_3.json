@@ -63,7 +63,7 @@
     "translation": "die Ananas"
   },
   {
-    "word": "attendre qn/qc",
+    "word": "attendre",
     "translation": "warten"
   },
   {
@@ -110,7 +110,7 @@
     "translation": "die Stimmung"
   },
   {
-    "word": "entendre qn/qc",
+    "word": "entendre",
     "translation": "hören"
   },
   {
@@ -122,8 +122,8 @@
     "translation": "der Tag"
   },
   {
-    "word": "souffler qc",
-    "translation": "etw. auspusten"
+    "word": "souffler",
+    "translation": "auspusten"
   },
   {
     "word": "la bougie",
@@ -134,4 +134,5 @@
     "translation": "das Leben"
   }
 ]
+
 
