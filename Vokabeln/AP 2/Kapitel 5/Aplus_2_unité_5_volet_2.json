@@ -6,27 +6,22 @@
   },
   {
     "word": "agresser",
-    "add": "qn",
-    "translation": "jdn angreifen"
+    "translation": "angreifen"
   },
   {
     "word": "toucher",
-    "add": "qn/qc",
-    "translation": "jdn/etw. anfassen"
+    "translation": "anfassen"
   },
   {
-    "word": "faire peur",
-    "add": "à qn",
+    "word": "faire peur à qn",
     "translation": "jdm angst machen"
   },
   {
     "word": "tenir ",
-    "add": "qn/qc",
-    "translation": "jdn festhalten, etw. halten"
+    "translation": "festhalten, halten"
   },
   {
-    "word": "faire mal",
-    "add": " à qn",
+    "word": "faire mal à qn",
     "translation": "jdm wehtun"
   },
   {
@@ -61,13 +56,11 @@
   },
   {
     "word": "frapper",
-    "add": "qn",
-    "translation": "jdn schlagen"
+    "translation": "schlagen"
   },
   {
     "word": "voler",
-    "add": "qc à qn",
-    "translation": "jdm etw. stehlen"
+    "translation": "stehlen"
   },
   {
     "word": "courageux",
@@ -85,7 +78,6 @@
   },
   {
     "word": "c’est honteux !",
-    "add": "phrase",
     "translation": "das ist eine schande!"
   },
   {
@@ -115,12 +107,11 @@
   },
   {
     "word": "aller chercher",
-    "add": "qn/qc",
-    "translation": "jdn/etw. abholen, holen"
+    "translation": "abholen, holen"
   },
   {
     "word": "prévenir",
-    "add": " qn",
-    "translation": "jdn verständigen, benachrichtigen"
+    "translation": "verständigen, benachrichtigen"
   }
+
 ]
