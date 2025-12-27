@@ -1,0 +1,149 @@
+[
+  {
+    "word": "voyager",
+    "translation": "reisen"
+  },
+  {
+    "word": "le pays",
+    "translation": "das Land"
+  },
+  {
+    "word": "décider de",
+    "translation": "beschließen / sich entscheiden zu"
+  },
+  {
+    "word": "indien",
+    "add": "m. sg.",
+    "translation": "indisch (männlich)"
+  },
+  {
+    "word": "indienne",
+    "add": "w. sg.", 
+    "translation": "indisch (weiblich)"
+  },
+  {
+    "word": "international",
+    "add": "m.sg.", 
+    "translation": "international (männlich singular)"
+  },
+  {
+    "word": "internationaux",
+    "add": "m.pl.", 
+    "translation": "international (männlich plural)"
+  },
+  {
+    "word": "venir de + pays",
+    "translation": "aus einem Land kommen"
+  },
+  {
+    "word": "la Chine",
+    "translation": "China"
+  },
+  {
+    "word": "l'Inde",
+    "translation": "Indien"
+  },
+  {
+    "word": "les États-Unis",
+    "add": "m.pl.", 
+    "translation": "die Vereinigten Staaten (USA)"
+  },
+  {
+    "word": "le Portugal",
+    "translation": "Portugal"
+  },
+  {
+    "word": "l'Européen",
+    "add": "m.sg.", 
+    "translation": "der Europäer"
+  },
+  {
+    "word": "l'Européenne",
+    "add": "f.sg.", 
+    "translation": "die Europäerin"
+  },
+  {
+    "word": "le climat",
+    "translation": "das Klima"
+  },
+  {
+    "word": "la nourriture",
+    "translation": "das Essen / die Nahrung"
+  },
+  {
+    "word": "l'accent",
+    "add": "m.", 
+    "translation": "der Akzent"
+  },
+  {
+    "word": "québécois",
+    "translation": "québecisch / aus Québec"
+  },
+  {
+    "word": "agréable",
+    "add": "m./f.", 
+    "translation": "angenehm"
+  },
+  {
+    "word": "le boulevard",
+    "translation": "der Boulevard / die breite Straße"
+  },
+  {
+    "word": "souterrain",
+    "translation": "unterirdisch"
+  },
+  {
+    "word": "le navigateur",
+    "translation": "der Seefahrer / Entdecker"
+  },
+  {
+    "word": "la navigatrice",
+    "translation": "die Seefahrerin / Entdeckerin"
+  },
+  {
+    "word": "le Canada",
+    "translation": "Kanada"
+  },
+  {
+    "word": "coloniser",
+    "translation": "kolonisieren"
+  },
+  {
+    "word": "l'Anglais",
+    "add": "m.sg.", 
+    "translation": "der Engländer / das Englische"
+  },
+  {
+    "word": "l'Anglaise",
+    "add": "f.sg.", 
+    "translation": "die Engländerin"
+  },
+  {
+    "word": "entrer en guerre (avec qn)",
+    "translation": "in den Krieg ziehen (mit jdm.)"
+  },
+  {
+    "word": "la guerre",
+    "translation": "der Krieg"
+  },
+  {
+    "word": "la langue",
+    "translation": "die Sprache"
+  },
+  {
+    "word": "officiel",
+    "translation": "offiziell"
+  },
+  {
+    "word": "le découvreur",
+    "translation": "der Entdecker"
+  },
+  {
+    "word": "la découvreuse",
+    "translation": "die Entdeckerin"
+  },
+  {
+    "word": "fonder",
+    "translation": "gründen"
+  }
+]

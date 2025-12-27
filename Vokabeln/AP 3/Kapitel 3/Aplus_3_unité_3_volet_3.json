@@ -1,0 +1,176 @@
+[
+  {
+    "word": "le voyage",
+    "translation": "die Reise"
+  },
+  {
+    "word": "dans le nord",
+    "translation": "im Norden"
+  },
+  {
+    "word": "le nord",
+    "translation": "der Norden"
+  },
+  {
+    "word": "la route",
+    "translation": "die Straße"
+  },
+  {
+    "word": "se déplacer",
+    "translation": "sich fortbewegen"
+  },
+  {
+    "word": "le plus souvent",
+    "translation": "meistens"
+  },
+  {
+    "word": "la pêche",
+    "translation": "das Angeln / die Fischerei"
+  },
+  {
+    "word": "tous les deux",
+    "add": "m.pl.", 
+    "translation": "beide (maskulin oder gemischt)"
+  },
+  {
+    "word": "toutes les deux",
+    "add": "f.pl.", 
+    "translation": "beide (feminin)"
+  },
+  {
+    "word": "l'usine",
+    "add": "f.", 
+    "translation": "die Fabrik"
+  },
+  {
+    "word": "l'interne",
+    "add": "m./f.", 
+    "translation": "der/die Praktikant(in) / Intern(e)"
+  },
+  {
+    "word": "plus de",
+    "translation": "mehr als"
+  },
+  {
+    "word": "la baleine",
+    "translation": "der Wal"
+  },
+  {
+    "word": "le ski de fond",
+    "translation": "der Langlauf"
+  },
+  {
+    "word": "la partie",
+    "translation": "der Teil / das Spiel"
+  },
+  {
+    "word": "le hockey",
+    "translation": "Hockey"
+  },
+  {
+    "word": "l'avion",
+    "add": "m.", 
+    "translation": "das Flugzeug"
+  },
+  {
+    "word": "le produit",
+    "translation": "das Produkt"
+  },
+  {
+    "word": "les légumes",
+    "add": "m.pl.", 
+    "translation": "das Gemüse"
+  },
+  {
+    "word": "autant de",
+    "translation": "ebenso viele / genauso viel"
+  },
+  {
+    "word": "tourner",
+    "translation": "drehen / abbiegen"
+  },
+  {
+    "word": "la séduction",
+    "translation": "die Verführung"
+  },
+  {
+    "word": "étranger",
+    "add": "m.sg.", 
+    "translation": "ausländisch (männlich)"
+  },
+  {
+    "word": "étrangère",
+    "add": "f.sg.", 
+    "translation": "ausländisch (weiblich)"
+  },
+  {
+    "word": "la rivière",
+    "translation": "der Fluss"
+  },
+  {
+    "word": "Il gèle.",
+    "translation": "Es friert."
+  },
+  {
+    "word": "geler",
+    "translation": "frieren"
+  },
+  {
+    "word": "l'hôtel",
+    "add": "m.", 
+    "translation": "das Hotel"
+  },
+  {
+    "word": "l'aéroport",
+    "add": "m.", 
+    "translation": "der Flughafen"
+  },
+  {
+    "word": "l'hôpital",
+    "add": "m.", 
+    "translation": "das Krankenhaus"
+  },
+  {
+    "word": "les hôpitaux",
+    "add": "m.pl.", 
+    "translation": "die Krankenhäuser"
+  },
+  {
+    "word": "la recherche",
+    "translation": "die Forschung"
+  },
+  {
+    "word": "l'anorak",
+    "add": "m.", 
+    "translation": "die Winterjacke / der Anorak"
+  },
+  {
+    "word": "le tourisme",
+    "translation": "der Tourismus"
+  },
+  {
+    "word": "faire des études",
+    "translation": "studieren / eine Ausbildung machen"
+  },
+  {
+    "word": "les études",
+    "add": "f.pl.", 
+    "translation": "das Studium / die Ausbildung"
+  },
+  {
+    "word": "protéger",
+    "translation": "schützen"
+  },
+  {
+    "word": "presque",
+    "translation": "fast"
+  },
+  {
+    "word": "mieux que",
+    "translation": "besser als"
+  },
+  {
+    "word": "francophone",
+    "translation": "französischsprachig"
+  }
+]
