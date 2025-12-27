@@ -1,0 +1,329 @@
+[
+  {
+    "word": "énorme",
+    "translation": "riesig"
+  },
+  {
+    "word": "se bousculer",
+    "translation": "sich drängeln"
+  },
+  {
+    "word": "assister à",
+    "translation": "bei etw. dabei sein, an etw. teilnehmen"
+  },
+  {
+    "word": "tirer",
+    "translation": "ziehen, schießen"
+  },
+  {
+    "word": "le clin d'œil",
+    "translation": "das Zwinkern, der Augenblick"
+  },
+  {
+    "word": "en un clin d'œil",
+    "translation": "im Handumdrehen"
+  },
+  {
+    "word": "s'asseoir",
+    "translation": "sich hinsetzen"
+  },
+  {
+    "word": "emmener",
+    "translation": "mitnehmen"
+  },
+  {
+    "word": "plein",
+    "translation": "voll"
+  },
+  {
+    "word": "plus bas",
+    "translation": "tiefer, weiter unten"
+  },
+  {
+    "word": "le fou",
+    "translation": "der Verrückte, der Fan"
+  },
+  {
+    "word": "la folle",
+    "translation": "die Verrückte, der Fan"
+  },
+  {
+    "word": "faire de la musculation",
+    "translation": "Krafttraining machen"
+  },
+  {
+    "word": "le son",
+    "translation": "der Ton, der Klang"
+  },
+  {
+    "word": "renverser",
+    "translation": "umstoßen, kippen"
+  },
+  {
+    "word": "la tête",
+    "translation": "der Kopf"
+  },
+  {
+    "word": "porter chance",
+    "translation": "Glück bringen"
+  },
+  {
+    "word": "le combat",
+    "translation": "der Kampf"
+  },
+  {
+    "word": "le public",
+    "translation": "das Publikum"
+  },
+  {
+    "word": "concentré",
+    "translation": "konzentriert"
+  },
+  {
+    "word": "la terre",
+    "translation": "die Erde, der Boden, die Welt"
+  },
+  {
+    "word": "l'épaule",
+    "add": "f.", 
+    "translation": "die Schulter"
+  },
+  {
+    "word": "populaire",
+    "translation": "beliebt, populär"
+  },
+  {
+    "word": "le footing",
+    "translation": "das Joggen, das Laufen"
+  },
+  {
+    "word": "gaspiller",
+    "translation": "verschwenden"
+  },
+  {
+    "word": "grâce à",
+    "translation": "dank"
+  },
+  {
+    "word": "De quoi je me mêle?",
+    "translation": "Was geht dich das an?"
+  },
+  {
+    "word": "Tais-toi!",
+    "translation": "Sei still!"
+  },
+  {
+    "word": "la bouche",
+    "translation": "der Mund"
+  },
+  {
+    "word": "le continent",
+    "translation": "der Kontinent"
+  },
+  {
+    "word": "africain",
+    "translation": "afrikanisch"
+  },
+  {
+    "word": "le Sénégal",
+    "translation": "der Senegal"
+  },
+  {
+    "word": "national",
+    "add": "m.", 
+    "translation": "national (männlich)"
+  },
+  {
+    "word": "nationaux",
+    "add": "m.pl.",
+    "translation": "national (plural)"
+  },
+  {
+    "word": "le wolof",
+    "translation": "Wolof (Sprache im Senegal)"
+  },
+  {
+    "word": "le peul",
+    "translation": "Fulfulde (westafrikanische Sprache)"
+  },
+  {
+    "word": "les ressources",
+    "add": "f.pl.", 
+    "translation": "die Ressourcen, Bodenschätze"
+  },
+  {
+    "word": "l'agriculture",
+    "add": "f.",
+    "translation": "die Landwirtschaft"
+  },
+  {
+    "word": "l'arachide",
+    "add": "f.", 
+    "translation": "die Erdnuss"
+  },
+  {
+    "word": "le coton",
+    "translation": "die Baumwolle"
+  },
+  {
+    "word": "la mangue",
+    "translation": "die Mango"
+  },
+  {
+    "word": "le Maroc",
+    "translation": "Marokko"
+  },
+  {
+    "word": "l'arabe",
+    "add": "m.", 
+    "translation": "Arabisch"
+  },
+  {
+    "word": "le berbère",
+    "translation": "die Berbersprache"
+  },
+  {
+    "word": "l'espagnol",
+    "add": "m.", 
+    "translation": "Spanisch"
+  },
+  {
+    "word": "l'olive",
+    "add": "f.", 
+    "translation": "die Olive"
+  },
+  {
+    "word": "l'élevage",
+    "add": "m.",  
+    "translation": "die Zucht, die Aufzucht"
+  },
+  {
+    "word": "le mouton",
+    "translation": "das Schaf"
+  },
+  {
+    "word": "le phosphate",
+    "translation": "das Phosphat"
+  },
+  {
+    "word": "l'argent",
+    "add": "m.", 
+    "translation": "das Silber"
+  },
+  {
+    "word": "la Côte d'Ivoire",
+    "translation": "die Elfenbeinküste"
+  },
+  {
+    "word": "le baoulé",
+    "translation": "Baule (Sprache)"
+  },
+  {
+    "word": "le dioula",
+    "translation": "Dioula (Sprache)"
+  },
+  {
+    "word": "le malinké",
+    "translation": "Malinke (Sprache)"
+  },
+  {
+    "word": "le cacao",
+    "translation": "der Kakao"
+  },
+  {
+    "word": "le café",
+    "translation": "der Kaffee"
+  },
+  {
+    "word": "le caoutchouc",
+    "translation": "der Kautschuk"
+  },
+  {
+    "word": "l'huile",
+    "add": "f.", 
+    "translation": "das Öl"
+  },
+  {
+    "word": "l'huile de palme",
+    "add": "f.", 
+    "translation": "das Palmöl"
+  },
+  {
+    "word": "le bois",
+    "translation": "das Holz"
+  },
+  {
+    "word": "l'Algérie",
+    "add": "m.", 
+    "translation": "Algerien"
+  },
+  {
+    "word": "la datte",
+    "translation": "die Dattel"
+  },
+  {
+    "word": "le gaz",
+    "translation": "das Gas"
+  },
+  {
+    "word": "le gaz naturel",
+    "translation": "das Erdgas"
+  },
+  {
+    "word": "le pétrole",
+    "translation": "das Erdöl"
+  },
+  {
+    "word": "le désert",
+    "translation": "die Wüste"
+  },
+  {
+    "word": "peuplé",
+    "translation": "bevölkert"
+  },
+  {
+    "word": "l'Asie",
+    "add": "f.", 
+    "translation": "Asien"
+  },
+  {
+    "word": "le milliard",
+    "translation": "die Milliarde"
+  },
+  {
+    "word": "la majorité",
+    "translation": "die Mehrheit"
+  },
+  {
+    "word": "l'enseignement",
+    "add": "m.",
+    "translation": "der Unterricht, das Schulwesen"
+  },
+  {
+    "word": "la plupart (de)",
+    "translation": "die meisten (von)"
+  },
+  {
+    "word": "la moitié",
+    "translation": "die Hälfte"
+  },
+  {
+    "word": "l'immigré",
+    "translation": "der Einwanderer"
+  },
+  {
+    "word": "le tiers",
+    "translation": "das Drittel"
+  },
+  {
+    "word": "subsaharien",
+    "add": "m.", 
+    "translation": "subsaharisch"
+  },
+  {
+    "word": "subsaharienne",
+    "add": "f.", 
+    "translation": "subsaharisch"
+  }
+
+]
