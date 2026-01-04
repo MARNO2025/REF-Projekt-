@@ -9,6 +9,7 @@ from Programme.Vokabelsuchgitter import run_Vokabelsuchgitter
 from Programme.worksheet_generator import generate_worksheets_streamlit
 from Programme.Listen import Vokabellisten
 from Programme.Worte_verbinden import Worte_zuordnen
+from Programme.Konjugationen_Unterstriche import run_Unterstriche_Konjugationen
 
 # -----------------------------
 # Basis-Pfade
@@ -18,6 +19,7 @@ template_path = os.path.join(BASE_DIR, "Vorlagen", "Vorlage Vokabellisten.docx")
 vokabel_folder = os.path.join(BASE_DIR, "Vokabeln")
 kontext_folder = os.path.join(BASE_DIR, "Kontexte")
 vocab_folder = os.path.join(vokabel_folder, "vocabs_all")
+words_data = os.path.join(BASE_DIR, "unregelmäßige Verben alle")
 
 # Prüfen, ob Ordner existieren
 os.makedirs(vocab_folder, exist_ok=True)
@@ -86,37 +88,85 @@ with tab_diff:
 # 2️⃣ Wichtige Verben
 # ========================
 with tab_verben:
-    BASE_DIR_Konjugationen = os.path.join(BASE_DIR, "unregelmäßige Verben")
-    json_files_verbs = [f for f in os.listdir(BASE_DIR_Konjugationen) if f.endswith(".json")]
 
-    if not json_files_verbs:
+    # 1️⃣ Basisverzeichnis der JSON-Dateien
+    BASE_DIR_Konjugationen_alle = os.path.join(BASE_DIR, "unregelmäßige Verben alle")
+    json_files_verbs_alle = [f for f in os.listdir(BASE_DIR_Konjugationen_alle) if f.endswith(".json")]
+
+    if not json_files_verbs_alle:
         st.warning("Keine Verb-Dateien gefunden!")
     else:
-        json_path_verbs = os.path.join(BASE_DIR_Konjugationen, json_files_verbs[0])
-        data = load_json(json_path_verbs)
+        # 2️⃣ Alle JSON-Dateien laden und zu einem Dictionary zusammenführen
+        words_data = {}
+        for file_name in json_files_verbs_alle:
+            json_path = os.path.join(BASE_DIR_Konjugationen_alle, file_name)
+            verb_data = load_json(json_path)  # Jede Datei enthält nur ein Verb
+            words_data.update(verb_data)      # Fügt das Verb ins Gesamt-Dictionary ein
 
-        st.subheader(f"{json_files_verbs[0]} - Konjugationstabelle")
-        selected_words_verbs = st.multiselect(
-            "Wähle die Verben:", 
-            options=[d["word"] for d in data], 
-            default=[d["word"] for d in data],
-            key="verbs_multiselect"
+        st.subheader(f"Arbeitsblatt für {len(words_data)} Verben - Konjugationen mit Unterstrichen")
+
+        # 3️⃣ Anzahl Zeilen für das Arbeitsblatt
+        num_rows = st.number_input(
+            "Anzahl der Zeilen:",
+            min_value=1,
+            max_value=100,
+            value=20,
+            key="verbs_num_rows_underline"
         )
 
-        num_rows = st.number_input("Anzahl der Zeilen:", min_value=1, max_value=100, value=20, key="verbs_num_rows")
+        # 4️⃣ Multiselect für Verben
+        all_verbs = list(words_data.keys())
+        selected_verbs = st.multiselect(
+            "Welche Verben sollen auf dem Arbeitsblatt erscheinen?",
+            options=all_verbs,
+            default=all_verbs
+        )
 
-        if st.button("Konjugationstabelle erstellen", key="verbs_create_table"):
-            if selected_words_verbs:
-                word_file = run_konjugationstabelle(selected_words_verbs, num_rows, template_path)
-                st.download_button(
-                    "Word-Datei herunterladen",
-                    word_file,
-                    file_name="konjugationstabelle.docx",
-                    mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-                    key="verbs_download"
-                )
+        # 5️⃣ Auswahl der Zeitformen (nur anzeigen, wenn mindestens ein Verb ausgewählt)
+        if selected_verbs:
+            first_verb_data = words_data[selected_verbs[0]]
+            all_times = list(first_verb_data.keys())
+
+            selected_time_1 = st.selectbox(
+                "Zeit 1 auswählen:",
+                options=all_times,
+                index=0,
+                key="time1"
+            )
+
+            selected_time_2 = st.selectbox(
+                "Zeit 2 auswählen:",
+                options=all_times,
+                index=1 if len(all_times) > 1 else 0,
+                key="time2"
+            )
+
+        # 6️⃣ Button zum Arbeitsblatt erstellen
+        if st.button("Arbeitsblatt mit Unterstrichen erstellen", key="verbs_create_underline_table"):
+
+            if not selected_verbs:
+                st.warning("Bitte wähle mindestens ein Verb aus!")
             else:
-                st.warning("Bitte zuerst Verben auswählen!")
+                # Filter nur die ausgewählten Verben
+                filtered_words_data = {verb: words_data[verb] for verb in selected_verbs}
+
+                # Word-Datei generieren
+                word_file = run_Unterstriche_Konjugationen(
+                    words_data=filtered_words_data,
+                    num_rows=num_rows,
+                    selected_time_1=selected_time_1,
+                    selected_time_2=selected_time_2,
+                    template_path=template_path
+                )
+
+                # Download-Button für die Word-Datei
+                st.download_button(
+                    label="Word-Datei herunterladen",
+                    data=word_file,
+                    file_name="Konjugationen_Unterstriche.docx",
+                    mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    key="download_underline_table"
+                )
 
 # ========================
 # 3️⃣ Vokabeln
@@ -513,4 +563,5 @@ with tab_kontexteundLernstand:
                 mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                 key="kl_download_word"
             )
+
     
