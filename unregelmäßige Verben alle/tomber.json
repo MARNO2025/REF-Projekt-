@@ -1,0 +1,92 @@
+{
+  "tomber": {
+    "Présent": {
+      "je": "tombe",
+      "tu": "tombes",
+      "il": "tombe",
+      "elle": "tombe",
+      "on": "tombe",
+      "nous": "tombons",
+      "vous": "tombez",
+      "ils": "tombent",
+      "elles": "tombent"
+    },
+    "Imparfait": {
+      "je": "tombais",
+      "tu": "tombais",
+      "il": "tombait",
+      "elle": "tombait",
+      "on": "tombait",
+      "nous": "tombions",
+      "vous": "tombiez",
+      "ils": "tombaient",
+      "elles": "tombaient"
+    },
+    "Futur": {
+      "je": "tomberai",
+      "tu": "tomberas",
+      "il": "tombera",
+      "elle": "tombera",
+      "on": "tombera",
+      "nous": "tomberons",
+      "vous": "tomberez",
+      "ils": "tomberont",
+      "elles": "tomberont"
+    },
+    "Passé_composé": {
+      "je": "suis tombé",
+      "tu": "es tombé",
+      "il": "est tombé",
+      "elle": "est tombée",
+      "on": "est tombé",
+      "nous": "sommes tombés",
+      "vous": "êtes tombés",
+      "ils": "sont tombés",
+      "elles": "sont tombées"
+    },
+    "Conditionnel_présent": {
+      "je": "tomberais",
+      "tu": "tomberais",
+      "il": "tomberait",
+      "elle": "tomberait",
+      "on": "tomberait",
+      "nous": "tomberions",
+      "vous": "tomberiez",
+      "ils": "tomberaient",
+      "elles": "tomberaient"
+    },
+    "Conditionnel_passé": {
+      "je": "serais tombé",
+      "tu": "serais tombé",
+      "il": "serait tombé",
+      "elle": "serait tombée",
+      "on": "serait tombé",
+      "nous": "serions tombés",
+      "vous": "seriez tombés",
+      "ils": "seraient tombés",
+      "elles": "seraient tombées"
+    },
+    "Subjonctif_présent": {
+      "je": "tombe",
+      "tu": "tombes",
+      "il": "tombe",
+      "elle": "tombe",
+      "on": "tombe",
+      "nous": "tombions",
+      "vous": "tombiez",
+      "ils": "tombent",
+      "elles": "tombent"
+    },
+    "Plus_que_parfait": {
+      "je": "étais tombé",
+      "tu": "étais tombé",
+      "il": "était tombé",
+      "elle": "était tombée",
+      "on": "était tombé",
+      "nous": "étions tombés",
+      "vous": "étiez tombés",
+      "ils": "étaient tombés",
+      "elles": "étaient tombées"
+    }
+  }
+}

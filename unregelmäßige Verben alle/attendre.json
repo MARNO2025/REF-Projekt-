@@ -1,0 +1,92 @@
+{
+  "attendre": {
+    "Présent": {
+      "je": "attends",
+      "tu": "attends",
+      "il": "attend",
+      "elle": "attend",
+      "on": "attend",
+      "nous": "attendons",
+      "vous": "attendez",
+      "ils": "attendent",
+      "elles": "attendent"
+    },
+    "Imparfait": {
+      "je": "attendais",
+      "tu": "attendais",
+      "il": "attendait",
+      "elle": "attendait",
+      "on": "attendait",
+      "nous": "attendions",
+      "vous": "attendiez",
+      "ils": "attendaient",
+      "elles": "attendaient"
+    },
+    "Futur": {
+      "je": "attendrai",
+      "tu": "attendras",
+      "il": "attendra",
+      "elle": "attendra",
+      "on": "attendra",
+      "nous": "attendrons",
+      "vous": "attendrez",
+      "ils": "attendront",
+      "elles": "attendront"
+    },
+    "Passé_composé": {
+      "je": "ai attendu",
+      "tu": "as attendu",
+      "il": "a attendu",
+      "elle": "a attendu",
+      "on": "a attendu",
+      "nous": "avons attendu",
+      "vous": "avez attendu",
+      "ils": "ont attendu",
+      "elles": "ont attendu"
+    },
+    "Conditionnel_présent": {
+      "je": "attendrais",
+      "tu": "attendrais",
+      "il": "attendrait",
+      "elle": "attendrait",
+      "on": "attendrait",
+      "nous": "attendrions",
+      "vous": "attendriez",
+      "ils": "attendraient",
+      "elles": "attendraient"
+    },
+    "Conditionnel_passé": {
+      "je": "aurais attendu",
+      "tu": "aurais attendu",
+      "il": "aurait attendu",
+      "elle": "aurait attendu",
+      "on": "aurait attendu",
+      "nous": "aurions attendu",
+      "vous": "auriez attendu",
+      "ils": "auraient attendu",
+      "elles": "auraient attendu"
+    },
+    "Subjonctif_présent": {
+      "je": "attende",
+      "tu": "attendes",
+      "il": "attende",
+      "elle": "attende",
+      "on": "attende",
+      "nous": "attendions",
+      "vous": "attendiez",
+      "ils": "attendent",
+      "elles": "attendent"
+    },
+    "Plus_que_parfait": {
+      "je": "avais attendu",
+      "tu": "avais attendu",
+      "il": "avait attendu",
+      "elle": "avait attendu",
+      "on": "avait attendu",
+      "nous": "avions attendu",
+      "vous": "aviez attendu",
+      "ils": "avaient attendu",
+      "elles": "avaient attendu"
+    }
+  }
+}

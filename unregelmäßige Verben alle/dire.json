@@ -1,0 +1,92 @@
+{
+  "dire": {
+    "Présent": {
+      "je": "dis",
+      "tu": "dis",
+      "il": "dit",
+      "elle": "dit",
+      "on": "dit",
+      "nous": "disons",
+      "vous": "dites",
+      "ils": "disent",
+      "elles": "disent"
+    },
+    "Imparfait": {
+      "je": "disais",
+      "tu": "disais",
+      "il": "disait",
+      "elle": "disait",
+      "on": "disait",
+      "nous": "disions",
+      "vous": "disiez",
+      "ils": "disaient",
+      "elles": "disaient"
+    },
+    "Futur": {
+      "je": "dirai",
+      "tu": "diras",
+      "il": "dira",
+      "elle": "dira",
+      "on": "dira",
+      "nous": "dirons",
+      "vous": "direz",
+      "ils": "diront",
+      "elles": "diront"
+    },
+    "Passé_composé": {
+      "je": "ai dit",
+      "tu": "as dit",
+      "il": "a dit",
+      "elle": "a dit",
+      "on": "a dit",
+      "nous": "avons dit",
+      "vous": "avez dit",
+      "ils": "ont dit",
+      "elles": "ont dit"
+    },
+    "Conditionnel_présent": {
+      "je": "dirais",
+      "tu": "dirais",
+      "il": "dirait",
+      "elle": "dirait",
+      "on": "dirait",
+      "nous": "dirions",
+      "vous": "diriez",
+      "ils": "diraient",
+      "elles": "diraient"
+    },
+    "Conditionnel_passé": {
+      "je": "aurais dit",
+      "tu": "aurais dit",
+      "il": "aurait dit",
+      "elle": "aurait dit",
+      "on": "aurait dit",
+      "nous": "aurions dit",
+      "vous": "auriez dit",
+      "ils": "auraient dit",
+      "elles": "auraient dit"
+    },
+    "Subjonctif_présent": {
+      "je": "dise",
+      "tu": "dises",
+      "il": "dise",
+      "elle": "dise",
+      "on": "dise",
+      "nous": "disions",
+      "vous": "disiez",
+      "ils": "disent",
+      "elles": "disent"
+    },
+    "Plus_que_parfait": {
+      "je": "avais dit",
+      "tu": "avais dit",
+      "il": "avait dit",
+      "elle": "avait dit",
+      "on": "avait dit",
+      "nous": "avions dit",
+      "vous": "aviez dit",
+      "ils": "avaient dit",
+      "elles": "avaient dit"
+    }
+  }
+}

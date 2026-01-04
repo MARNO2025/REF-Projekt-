@@ -1,0 +1,92 @@
+{
+  "aller": {
+    "Présent": {
+      "je": "vais",
+      "tu": "vas",
+      "il": "va",
+      "elle": "va",
+      "on": "va",
+      "nous": "allons",
+      "vous": "allez",
+      "ils": "vont",
+      "elles": "vont"
+    },
+    "Imparfait": {
+      "je": "allais",
+      "tu": "allais",
+      "il": "allait",
+      "elle": "allait",
+      "on": "allait",
+      "nous": "allions",
+      "vous": "alliez",
+      "ils": "allaient",
+      "elles": "allaient"
+    },
+    "Futur": {
+      "je": "irai",
+      "tu": "iras",
+      "il": "ira",
+      "elle": "ira",
+      "on": "ira",
+      "nous": "irons",
+      "vous": "irez",
+      "ils": "iront",
+      "elles": "iront"
+    },
+    "Passé_composé": {
+      "je": "suis allé",
+      "tu": "es allé",
+      "il": "est allé",
+      "elle": "est allée",
+      "on": "est allé",
+      "nous": "sommes allés",
+      "vous": "êtes allé",
+      "ils": "sont allés",
+      "elles": "sont allées"
+    },
+    "Conditionnel_présent": {
+      "je": "irais",
+      "tu": "irais",
+      "il": "irait",
+      "elle": "irait",
+      "on": "irait",
+      "nous": "irions",
+      "vous": "iriez",
+      "ils": "iraient",
+      "elles": "iraient"
+    },
+    "Conditionnel_passé": {
+      "je": "serais allé",
+      "tu": "serais allé",
+      "il": "serait allé",
+      "elle": "serait allée",
+      "on": "serait allé",
+      "nous": "serions allés",
+      "vous": "seriez allé",
+      "ils": "seraient allés",
+      "elles": "seraient allées"
+    },
+    "Subjonctif_présent": {
+      "je": "aille",
+      "tu": "ailles",
+      "il": "aille",
+      "elle": "aille",
+      "on": "aille",
+      "nous": "allions",
+      "vous": "alliez",
+      "ils": "aillent",
+      "elles": "aillent"
+    },
+    "Plus_que_parfait": {
+      "je": "étais allé",
+      "tu": "étais allé",
+      "il": "était allé",
+      "elle": "était allée",
+      "on": "était allé",
+      "nous": "étions allés",
+      "vous": "étiez allé",
+      "ils": "étaient allés",
+      "elles": "étaient allées"
+    }
+  }
+}

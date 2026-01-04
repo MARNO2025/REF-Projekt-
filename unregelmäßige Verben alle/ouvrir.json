@@ -1,0 +1,92 @@
+{
+  "ouvrir": {
+    "Présent": {
+      "je": "ouvre",
+      "tu": "ouvres",
+      "il": "ouvre",
+      "elle": "ouvre",
+      "on": "ouvre",
+      "nous": "ouvrons",
+      "vous": "ouvrez",
+      "ils": "ouvrent",
+      "elles": "ouvrent"
+    },
+    "Imparfait": {
+      "je": "ouvrais",
+      "tu": "ouvrais",
+      "il": "ouvrait",
+      "elle": "ouvrait",
+      "on": "ouvrait",
+      "nous": "ouvrions",
+      "vous": "ouvriez",
+      "ils": "ouvraient",
+      "elles": "ouvraient"
+    },
+    "Futur": {
+      "je": "ouvrirai",
+      "tu": "ouvriras",
+      "il": "ouvrira",
+      "elle": "ouvrira",
+      "on": "ouvrira",
+      "nous": "ouvrirons",
+      "vous": "ouvrirez",
+      "ils": "ouvriront",
+      "elles": "ouvriront"
+    },
+    "Passé_composé": {
+      "je": "ai ouvert",
+      "tu": "as ouvert",
+      "il": "a ouvert",
+      "elle": "a ouvert",
+      "on": "a ouvert",
+      "nous": "avons ouvert",
+      "vous": "avez ouvert",
+      "ils": "ont ouvert",
+      "elles": "ont ouvert"
+    },
+    "Conditionnel_présent": {
+      "je": "ouvrirais",
+      "tu": "ouvrirais",
+      "il": "ouvrirait",
+      "elle": "ouvrirait",
+      "on": "ouvrirait",
+      "nous": "ouvririons",
+      "vous": "ouvririez",
+      "ils": "ouvriraient",
+      "elles": "ouvriraient"
+    },
+    "Conditionnel_passé": {
+      "je": "aurais ouvert",
+      "tu": "aurais ouvert",
+      "il": "aurait ouvert",
+      "elle": "aurait ouvert",
+      "on": "aurait ouvert",
+      "nous": "aurions ouvert",
+      "vous": "auriez ouvert",
+      "ils": "auraient ouvert",
+      "elles": "auraient ouvert"
+    },
+    "Subjonctif_présent": {
+      "je": "ouvre",
+      "tu": "ouvres",
+      "il": "ouvre",
+      "elle": "ouvre",
+      "on": "ouvre",
+      "nous": "ouvrions",
+      "vous": "ouvriez",
+      "ils": "ouvrent",
+      "elles": "ouvrent"
+    },
+    "Plus_que_parfait": {
+      "je": "avais ouvert",
+      "tu": "avais ouvert",
+      "il": "avait ouvert",
+      "elle": "avait ouvert",
+      "on": "avait ouvert",
+      "nous": "avions ouvert",
+      "vous": "aviez ouvert",
+      "ils": "avaient ouvert",
+      "elles": "avaient ouvert"
+    }
+  }
+}

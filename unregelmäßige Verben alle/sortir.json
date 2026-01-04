@@ -1,0 +1,92 @@
+{
+  "sortir": {
+    "Présent": {
+      "je": "sors",
+      "tu": "sors",
+      "il": "sort",
+      "elle": "sort",
+      "on": "sort",
+      "nous": "sortons",
+      "vous": "sortez",
+      "ils": "sortent",
+      "elles": "sortent"
+    },
+    "Imparfait": {
+      "je": "sortais",
+      "tu": "sortais",
+      "il": "sortait",
+      "elle": "sortait",
+      "on": "sortait",
+      "nous": "sortions",
+      "vous": "sortiez",
+      "ils": "sortaient",
+      "elles": "sortaient"
+    },
+    "Futur": {
+      "je": "sortirai",
+      "tu": "sortiras",
+      "il": "sortira",
+      "elle": "sortira",
+      "on": "sortira",
+      "nous": "sortirons",
+      "vous": "sortirez",
+      "ils": "sortiront",
+      "elles": "sortiront"
+    },
+    "Passé_composé": {
+      "je": "suis sorti",
+      "tu": "es sorti",
+      "il": "est sorti",
+      "elle": "est sortie",
+      "on": "est sorti",
+      "nous": "sommes sortis",
+      "vous": "êtes sortis",
+      "ils": "sont sortis",
+      "elles": "sont sorties"
+    },
+    "Conditionnel_présent": {
+      "je": "sortirais",
+      "tu": "sortirais",
+      "il": "sortirait",
+      "elle": "sortirait",
+      "on": "sortirait",
+      "nous": "sortirions",
+      "vous": "sortiriez",
+      "ils": "sortiraient",
+      "elles": "sortiraient"
+    },
+    "Conditionnel_passé": {
+      "je": "serais sorti",
+      "tu": "serais sorti",
+      "il": "serait sorti",
+      "elle": "serait sortie",
+      "on": "serait sorti",
+      "nous": "serions sortis",
+      "vous": "seriez sortis",
+      "ils": "seraient sortis",
+      "elles": "seraient sorties"
+    },
+    "Subjonctif_présent": {
+      "je": "sorte",
+      "tu": "sortes",
+      "il": "sorte",
+      "elle": "sorte",
+      "on": "sorte",
+      "nous": "sortions",
+      "vous": "sortiez",
+      "ils": "sortent",
+      "elles": "sortent"
+    },
+    "Plus_que_parfait": {
+      "je": "étais sorti",
+      "tu": "étais sorti",
+      "il": "était sorti",
+      "elle": "était sortie",
+      "on": "était sorti",
+      "nous": "étions sortis",
+      "vous": "étiez sortis",
+      "ils": "étaient sortis",
+      "elles": "étaient sorties"
+    }
+  }
+}

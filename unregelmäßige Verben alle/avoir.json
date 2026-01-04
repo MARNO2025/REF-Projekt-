@@ -1,0 +1,92 @@
+{
+  "avoir": {
+    "Présent": {
+      "je": "ai",
+      "tu": "as",
+      "il": "a",
+      "elle": "a",
+      "on": "a",
+      "nous": "avons",
+      "vous": "avez",
+      "ils": "ont",
+      "elles": "ont"
+    },
+    "Imparfait": {
+      "je": "avais",
+      "tu": "avais",
+      "il": "avait",
+      "elle": "avait",
+      "on": "avait",
+      "nous": "avions",
+      "vous": "aviez",
+      "ils": "avaient",
+      "elles": "avaient"
+    },
+    "Futur": {
+      "je": "aurai",
+      "tu": "auras",
+      "il": "aura",
+      "elle": "aura",
+      "on": "aura",
+      "nous": "aurons",
+      "vous": "aurez",
+      "ils": "auront",
+      "elles": "auront"
+    },
+    "Passé_composé": {
+      "je": "ai eu",
+      "tu": "as eu",
+      "il": "a eu",
+      "elle": "a eu",
+      "on": "a eu",
+      "nous": "avons eu",
+      "vous": "avez eu",
+      "ils": "ont eu",
+      "elles": "ont eu"
+    },
+    "Conditionnel_présent": {
+      "je": "aurais",
+      "tu": "aurais",
+      "il": "aurait",
+      "elle": "aurait",
+      "on": "aurait",
+      "nous": "aurions",
+      "vous": "auriez",
+      "ils": "auraient",
+      "elles": "auraient"
+    },
+    "Conditionnel_passé": {
+      "je": "aurais eu",
+      "tu": "aurais eu",
+      "il": "aurait eu",
+      "elle": "aurait eu",
+      "on": "aurait eu",
+      "nous": "aurions eu",
+      "vous": "auriez eu",
+      "ils": "auraient eu",
+      "elles": "auraient eu"
+    },
+    "Subjonctif_présent": {
+      "je": "aie",
+      "tu": "aies",
+      "il": "ait",
+      "elle": "ait",
+      "on": "ait",
+      "nous": "ayons",
+      "vous": "ayez",
+      "ils": "aient",
+      "elles": "aient"
+    },
+    "Plus_que_parfait": {
+      "je": "avais eu",
+      "tu": "avais eu",
+      "il": "avait eu",
+      "elle": "avait eu",
+      "on": "avait eu",
+      "nous": "avions eu",
+      "vous": "aviez eu",
+      "ils": "avaient eu",
+      "elles": "avaient eu"
+    }
+  }
+}

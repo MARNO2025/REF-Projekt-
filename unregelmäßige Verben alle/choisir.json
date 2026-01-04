@@ -1,0 +1,92 @@
+{
+  "choisir": {
+    "Présent": {
+      "je": "choisis",
+      "tu": "choisis",
+      "il": "choisit",
+      "elle": "choisit",
+      "on": "choisit",
+      "nous": "choisissons",
+      "vous": "choisissez",
+      "ils": "choisissent",
+      "elles": "choisissent"
+    },
+    "Imparfait": {
+      "je": "choisissais",
+      "tu": "choisissais",
+      "il": "choisissait",
+      "elle": "choisissait",
+      "on": "choisissait",
+      "nous": "choisissions",
+      "vous": "choisissiez",
+      "ils": "choisissaient",
+      "elles": "choisissaient"
+    },
+    "Futur": {
+      "je": "choisirai",
+      "tu": "choisiras",
+      "il": "choisira",
+      "elle": "choisira",
+      "on": "choisira",
+      "nous": "choisirons",
+      "vous": "choisirez",
+      "ils": "choisiront",
+      "elles": "choisiront"
+    },
+    "Passé_composé": {
+      "je": "ai choisi",
+      "tu": "as choisi",
+      "il": "a choisi",
+      "elle": "a choisi",
+      "on": "a choisi",
+      "nous": "avons choisi",
+      "vous": "avez choisi",
+      "ils": "ont choisi",
+      "elles": "ont choisi"
+    },
+    "Conditionnel_présent": {
+      "je": "choisirais",
+      "tu": "choisirais",
+      "il": "choisirait",
+      "elle": "choisirait",
+      "on": "choisirait",
+      "nous": "choisirions",
+      "vous": "choisiriez",
+      "ils": "choisiraient",
+      "elles": "choisiraient"
+    },
+    "Conditionnel_passé": {
+      "je": "aurais choisi",
+      "tu": "aurais choisi",
+      "il": "aurait choisi",
+      "elle": "aurait choisi",
+      "on": "aurait choisi",
+      "nous": "aurions choisi",
+      "vous": "auriez choisi",
+      "ils": "auraient choisi",
+      "elles": "auraient choisi"
+    },
+    "Subjonctif_présent": {
+      "je": "choisisse",
+      "tu": "choisisses",
+      "il": "choisisse",
+      "elle": "choisisse",
+      "on": "choisisse",
+      "nous": "choisissions",
+      "vous": "choisissiez",
+      "ils": "choisissent",
+      "elles": "choisissent"
+    },
+    "Plus_que_parfait": {
+      "je": "avais choisi",
+      "tu": "avais choisi",
+      "il": "avait choisi",
+      "elle": "avait choisi",
+      "on": "avait choisi",
+      "nous": "avions choisi",
+      "vous": "aviez choisi",
+      "ils": "avaient choisi",
+      "elles": "avaient choisi"
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "réussir": {
+    "Présent": {
+      "je": "réussis",
+      "tu": "réussis",
+      "il": "réussit",
+      "elle": "réussit",
+      "on": "réussit",
+      "nous": "réussissons",
+      "vous": "réussissez",
+      "ils": "réussissent",
+      "elles": "réussissent"
+    },
+    "Imparfait": {
+      "je": "réussissais",
+      "tu": "réussissais",
+      "il": "réussissait",
+      "elle": "réussissait",
+      "on": "réussissait",
+      "nous": "réussissions",
+      "vous": "réussissiez",
+      "ils": "réussissaient",
+      "elles": "réussissaient"
+    },
+    "Futur": {
+      "je": "réussirai",
+      "tu": "réussiras",
+      "il": "réussira",
+      "elle": "réussira",
+      "on": "réussira",
+      "nous": "réussirons",
+      "vous": "réussirez",
+      "ils": "réussiront",
+      "elles": "réussiront"
+    },
+    "Passé_composé": {
+      "je": "ai réussi",
+      "tu": "as réussi",
+      "il": "a réussi",
+      "elle": "a réussi",
+      "on": "a réussi",
+      "nous": "avons réussi",
+      "vous": "avez réussi",
+      "ils": "ont réussi",
+      "elles": "ont réussi"
+    },
+    "Conditionnel_présent": {
+      "je": "réussirais",
+      "tu": "réussirais",
+      "il": "réussirait",
+      "elle": "réussirait",
+      "on": "réussirait",
+      "nous": "réussirions",
+      "vous": "réussiriez",
+      "ils": "réussiraient",
+      "elles": "réussiraient"
+    },
+    "Conditionnel_passé": {
+      "je": "aurais réussi",
+      "tu": "aurais réussi",
+      "il": "aurait réussi",
+      "elle": "aurait réussi",
+      "on": "aurait réussi",
+      "nous": "aurions réussi",
+      "vous": "auriez réussi",
+      "ils": "auraient réussi",
+      "elles": "auraient réussi"
+    },
+    "Subjonctif_présent": {
+      "je": "réussisse",
+      "tu": "réussisses",
+      "il": "réussisse",
+      "elle": "réussisse",
+      "on": "réussisse",
+      "nous": "réussissions",
+      "vous": "réussissiez",
+      "ils": "réussissent",
+      "elles": "réussissent"
+    },
+    "Plus_que_parfait": {
+      "je": "avais réussi",
+      "tu": "avais réussi",
+      "il": "avait réussi",
+      "elle": "avait réussi",
+      "on": "avait réussi",
+      "nous": "avions réussi",
+      "vous": "aviez réussi",
+      "ils": "avaient réussi",
+      "elles": "avaient réussi"
+    }
+  }
+}

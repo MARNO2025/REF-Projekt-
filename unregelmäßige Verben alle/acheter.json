@@ -1,0 +1,93 @@
+{
+  "acheter": {
+    "Présent": {
+      "je": "achète",
+      "tu": "achètes",
+      "il": "achète",
+      "elle": "achète",
+      "on": "achète",
+      "nous": "achetons",
+      "vous": "achetez",
+      "ils": "achètent",
+      "elles": "achètent"
+    },
+    "Imparfait": {
+      "je": "achetais",
+      "tu": "achetais",
+      "il": "achetait",
+      "elle": "achetait",
+      "on": "achetait",
+      "nous": "achetions",
+      "vous": "achetiez",
+      "ils": "achetaient",
+      "elles": "achetaient"
+    },
+    "Futur": {
+      "je": "achèterai",
+      "tu": "achèteras",
+      "il": "achètera",
+      "elle": "achètera",
+      "on": "achètera",
+      "nous": "achèterons",
+      "vous": "achèterez",
+      "ils": "achèteront",
+      "elles": "achèteront"
+    },
+    "Passé_composé": {
+      "je": "ai acheté",
+      "tu": "as acheté",
+      "il": "a acheté",
+      "elle": "a acheté",
+      "on": "a acheté",
+      "nous": "avons acheté",
+      "vous": "avez acheté",
+      "ils": "ont acheté",
+      "elles": "ont acheté"
+    },
+    "Conditionnel_présent": {
+      "je": "achèterais",
+      "tu": "achèterais",
+      "il": "achèterait",
+      "elle": "achèterait",
+      "on": "achèterait",
+      "nous": "achèterions",
+      "vous": "achèteriez",
+      "ils": "achèteraient",
+      "elles": "achèteraient"
+    },
+    "Conditionnel_passé": {
+      "je": "aurais acheté",
+      "tu": "aurais acheté",
+      "il": "aurait acheté",
+      "elle": "aurait acheté",
+      "on": "aurait acheté",
+      "nous": "aurions acheté",
+      "vous": "auriez acheté",
+      "ils": "auraient acheté",
+      "elles": "auraient acheté"
+    },
+    "Subjonctif_présent": {
+      "je": "achète",
+      "tu": "achètes",
+      "il": "achète",
+      "elle": "achète",
+      "on": "achète",
+      "nous": "achetions",
+      "vous": "achetiez",
+      "ils": "achètent",
+      "elles": "achètent"
+    },
+    "Plus_que_parfait": {
+      "je": "avais acheté",
+      "tu": "avais acheté",
+      "il": "avait acheté",
+      "elle": "avait acheté",
+      "on": "avait acheté",
+      "nous": "avions acheté",
+      "vous": "aviez acheté",
+      "ils": "avaient acheté",
+      "elles": "avaient acheté"
+    }
+  }
+}
+  

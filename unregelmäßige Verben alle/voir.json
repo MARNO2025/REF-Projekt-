@@ -1,0 +1,92 @@
+{
+  "voir": {
+    "Présent": {
+      "je": "vois",
+      "tu": "vois",
+      "il": "voit",
+      "elle": "voit",
+      "on": "voit",
+      "nous": "voyons",
+      "vous": "voyez",
+      "ils": "voient",
+      "elles": "voient"
+    },
+    "Imparfait": {
+      "je": "voyais",
+      "tu": "voyais",
+      "il": "voyait",
+      "elle": "voyait",
+      "on": "voyait",
+      "nous": "voyions",
+      "vous": "voyiez",
+      "ils": "voyaient",
+      "elles": "voyaient"
+    },
+    "Futur": {
+      "je": "verrai",
+      "tu": "verras",
+      "il": "verra",
+      "elle": "verra",
+      "on": "verra",
+      "nous": "verrons",
+      "vous": "verrez",
+      "ils": "verront",
+      "elles": "verront"
+    },
+    "Passé_composé": {
+      "je": "ai vu",
+      "tu": "as vu",
+      "il": "a vu",
+      "elle": "a vu",
+      "on": "a vu",
+      "nous": "avons vu",
+      "vous": "avez vu",
+      "ils": "ont vu",
+      "elles": "ont vu"
+    },
+    "Conditionnel_présent": {
+      "je": "verrais",
+      "tu": "verrais",
+      "il": "verrait",
+      "elle": "verrait",
+      "on": "verrait",
+      "nous": "verrions",
+      "vous": "verriez",
+      "ils": "verraient",
+      "elles": "verraient"
+    },
+    "Conditionnel_passé": {
+      "je": "aurais vu",
+      "tu": "aurais vu",
+      "il": "aurait vu",
+      "elle": "aurait vu",
+      "on": "aurait vu",
+      "nous": "aurions vu",
+      "vous": "auriez vu",
+      "ils": "auraient vu",
+      "elles": "auraient vu"
+    },
+    "Subjonctif_présent": {
+      "je": "voie",
+      "tu": "voies",
+      "il": "voie",
+      "elle": "voie",
+      "on": "voie",
+      "nous": "voyions",
+      "vous": "voyiez",
+      "ils": "voient",
+      "elles": "voient"
+    },
+    "Plus_que_parfait": {
+      "je": "avais vu",
+      "tu": "avais vu",
+      "il": "avait vu",
+      "elle": "avait vu",
+      "on": "avait vu",
+      "nous": "avions vu",
+      "vous": "aviez vu",
+      "ils": "avaient vu",
+      "elles": "avaient vu"
+    }
+  }
+}

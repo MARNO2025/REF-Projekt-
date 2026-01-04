@@ -1,0 +1,92 @@
+{
+  "connaitre": {
+    "Présent": {
+      "je": "connais",
+      "tu": "connais",
+      "il": "connaît",
+      "elle": "connaît",
+      "on": "connaît",
+      "nous": "connaissons",
+      "vous": "connaissez",
+      "ils": "connaissent",
+      "elles": "connaissent"
+    },
+    "Imparfait": {
+      "je": "connaissais",
+      "tu": "connaissais",
+      "il": "connaissait",
+      "elle": "connaissait",
+      "on": "connaissait",
+      "nous": "connaissions",
+      "vous": "connaissiez",
+      "ils": "connaissaient",
+      "elles": "connaissaient"
+    },
+    "Futur": {
+      "je": "connaîtrai",
+      "tu": "connaîtras",
+      "il": "connaîtra",
+      "elle": "connaîtra",
+      "on": "connaîtra",
+      "nous": "connaîtrons",
+      "vous": "connaîtrez",
+      "ils": "connaîtront",
+      "elles": "connaîtront"
+    },
+    "Passé_composé": {
+      "je": "ai connu",
+      "tu": "as connu",
+      "il": "a connu",
+      "elle": "a connu",
+      "on": "a connu",
+      "nous": "avons connu",
+      "vous": "avez connu",
+      "ils": "ont connu",
+      "elles": "ont connu"
+    },
+    "Conditionnel_présent": {
+      "je": "connaîtrais",
+      "tu": "connaîtrais",
+      "il": "connaîtrait",
+      "elle": "connaîtrait",
+      "on": "connaîtrait",
+      "nous": "connaîtrions",
+      "vous": "connaîtriez",
+      "ils": "connaîtraient",
+      "elles": "connaîtraient"
+    },
+    "Conditionnel_passé": {
+      "je": "aurais connu",
+      "tu": "aurais connu",
+      "il": "aurait connu",
+      "elle": "aurait connu",
+      "on": "aurait connu",
+      "nous": "aurions connu",
+      "vous": "auriez connu",
+      "ils": "auraient connu",
+      "elles": "auraient connu"
+    },
+    "Subjonctif_présent": {
+      "je": "connaisse",
+      "tu": "connaisses",
+      "il": "connaisse",
+      "elle": "connaisse",
+      "on": "connaisse",
+      "nous": "connaissions",
+      "vous": "connaissiez",
+      "ils": "connaissent",
+      "elles": "connaissent"
+    },
+    "Plus_que_parfait": {
+      "je": "avais connu",
+      "tu": "avais connu",
+      "il": "avait connu",
+      "elle": "avait connu",
+      "on": "avait connu",
+      "nous": "avions connu",
+      "vous": "aviez connu",
+      "ils": "avaient connu",
+      "elles": "avaient connu"
+    }
+  }
+}

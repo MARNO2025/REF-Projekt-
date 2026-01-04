@@ -1,0 +1,92 @@
+{
+  "monter": {
+    "Présent": {
+      "je": "monte",
+      "tu": "montes",
+      "il": "monte",
+      "elle": "monte",
+      "on": "monte",
+      "nous": "montons",
+      "vous": "montez",
+      "ils": "montent",
+      "elles": "montent"
+    },
+    "Imparfait": {
+      "je": "montais",
+      "tu": "montais",
+      "il": "montait",
+      "elle": "montait",
+      "on": "montait",
+      "nous": "montions",
+      "vous": "montiez",
+      "ils": "montaient",
+      "elles": "montaient"
+    },
+    "Futur": {
+      "je": "monterai",
+      "tu": "monteras",
+      "il": "montera",
+      "elle": "montera",
+      "on": "montera",
+      "nous": "monterons",
+      "vous": "monterez",
+      "ils": "monteront",
+      "elles": "monteront"
+    },
+    "Passé_composé": {
+      "je": "suis monté",
+      "tu": "es monté",
+      "il": "est monté",
+      "elle": "est montée",
+      "on": "est monté",
+      "nous": "sommes montés",
+      "vous": "êtes montés",
+      "ils": "sont montés",
+      "elles": "sont montées"
+    },
+    "Conditionnel_présent": {
+      "je": "monterais",
+      "tu": "monterais",
+      "il": "monterait",
+      "elle": "monterait",
+      "on": "monterait",
+      "nous": "monterions",
+      "vous": "monteriez",
+      "ils": "monteraient",
+      "elles": "monteraient"
+    },
+    "Conditionnel_passé": {
+      "je": "serais monté",
+      "tu": "serais monté",
+      "il": "serait monté",
+      "elle": "serait montée",
+      "on": "serait monté",
+      "nous": "serions montés",
+      "vous": "seriez montés",
+      "ils": "seraient montés",
+      "elles": "seraient montées"
+    },
+    "Subjonctif_présent": {
+      "je": "monte",
+      "tu": "montes",
+      "il": "monte",
+      "elle": "monte",
+      "on": "monte",
+      "nous": "montions",
+      "vous": "montiez",
+      "ils": "montent",
+      "elles": "montent"
+    },
+    "Plus_que_parfait": {
+      "je": "étais monté",
+      "tu": "étais monté",
+      "il": "était monté",
+      "elle": "était montée",
+      "on": "était monté",
+      "nous": "étions montés",
+      "vous": "étiez montés",
+      "ils": "étaient montés",
+      "elles": "étaient montées"
+    }
+  }
+}

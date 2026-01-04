@@ -1,0 +1,92 @@
+{
+  "servir": {
+    "Présent": {
+      "je": "sers",
+      "tu": "sers",
+      "il": "sert",
+      "elle": "sert",
+      "on": "sert",
+      "nous": "servons",
+      "vous": "servez",
+      "ils": "servent",
+      "elles": "servent"
+    },
+    "Imparfait": {
+      "je": "servais",
+      "tu": "servais",
+      "il": "servait",
+      "elle": "servait",
+      "on": "servait",
+      "nous": "servions",
+      "vous": "serviez",
+      "ils": "servaient",
+      "elles": "servaient"
+    },
+    "Futur": {
+      "je": "servirai",
+      "tu": "serviras",
+      "il": "servira",
+      "elle": "servira",
+      "on": "servira",
+      "nous": "servirons",
+      "vous": "servirez",
+      "ils": "serviront",
+      "elles": "serviront"
+    },
+    "Passé_composé": {
+      "je": "ai servi",
+      "tu": "as servi",
+      "il": "a servi",
+      "elle": "a servi",
+      "on": "a servi",
+      "nous": "avons servi",
+      "vous": "avez servi",
+      "ils": "ont servi",
+      "elles": "ont servi"
+    },
+    "Conditionnel_présent": {
+      "je": "servirais",
+      "tu": "servirais",
+      "il": "servirait",
+      "elle": "servirait",
+      "on": "servirait",
+      "nous": "servirions",
+      "vous": "serviriez",
+      "ils": "serviraient",
+      "elles": "serviraient"
+    },
+    "Conditionnel_passé": {
+      "je": "aurais servi",
+      "tu": "aurais servi",
+      "il": "aurait servi",
+      "elle": "aurait servi",
+      "on": "aurait servi",
+      "nous": "aurions servi",
+      "vous": "auriez servi",
+      "ils": "auraient servi",
+      "elles": "auraient servi"
+    },
+    "Subjonctif_présent": {
+      "je": "serve",
+      "tu": "serves",
+      "il": "serve",
+      "elle": "serve",
+      "on": "serve",
+      "nous": "servions",
+      "vous": "serviez",
+      "ils": "servent",
+      "elles": "servent"
+    },
+    "Plus_que_parfait": {
+      "je": "avais servi",
+      "tu": "avais servi",
+      "il": "avait servi",
+      "elle": "avait servi",
+      "on": "avait servi",
+      "nous": "avions servi",
+      "vous": "aviez servi",
+      "ils": "avaient servi",
+      "elles": "avaient servi"
+    }
+  }
+}

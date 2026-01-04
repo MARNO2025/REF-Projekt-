@@ -1,0 +1,92 @@
+{
+  "regarder": {
+    "Présent": {
+      "je": "regarde",
+      "tu": "regardes",
+      "il": "regarde",
+      "elle": "regarde",
+      "on": "regarde",
+      "nous": "regardons",
+      "vous": "regardez",
+      "ils": "regardent",
+      "elles": "regardent"
+    },
+    "Imparfait": {
+      "je": "regardais",
+      "tu": "regardais",
+      "il": "regardait",
+      "elle": "regardait",
+      "on": "regardait",
+      "nous": "regardions",
+      "vous": "regardiez",
+      "ils": "regardaient",
+      "elles": "regardaient"
+    },
+    "Futur": {
+      "je": "regarderai",
+      "tu": "regarderas",
+      "il": "regardera",
+      "elle": "regardera",
+      "on": "regardera",
+      "nous": "regarderons",
+      "vous": "regarderez",
+      "ils": "regarderont",
+      "elles": "regarderont"
+    },
+    "Passé_composé": {
+      "je": "ai regardé",
+      "tu": "as regardé",
+      "il": "a regardé",
+      "elle": "a regardé",
+      "on": "a regardé",
+      "nous": "avons regardé",
+      "vous": "avez regardé",
+      "ils": "ont regardé",
+      "elles": "ont regardé"
+    },
+    "Conditionnel_présent": {
+      "je": "regarderais",
+      "tu": "regarderais",
+      "il": "regarderait",
+      "elle": "regarderait",
+      "on": "regarderait",
+      "nous": "regarderions",
+      "vous": "regarderiez",
+      "ils": "regarderaient",
+      "elles": "regarderaient"
+    },
+    "Conditionnel_passé": {
+      "je": "aurais regardé",
+      "tu": "aurais regardé",
+      "il": "aurait regardé",
+      "elle": "aurait regardé",
+      "on": "aurait regardé",
+      "nous": "aurions regardé",
+      "vous": "auriez regardé",
+      "ils": "auraient regardé",
+      "elles": "auraient regardé"
+    },
+    "Subjonctif_présent": {
+      "je": "regarde",
+      "tu": "regardes",
+      "il": "regarde",
+      "elle": "regarde",
+      "on": "regarde",
+      "nous": "regardions",
+      "vous": "regardiez",
+      "ils": "regardent",
+      "elles": "regardent"
+    },
+    "Plus_que_parfait": {
+      "je": "avais regardé",
+      "tu": "avais regardé",
+      "il": "avait regardé",
+      "elle": "avait regardé",
+      "on": "avait regardé",
+      "nous": "avions regardé",
+      "vous": "aviez regardé",
+      "ils": "avaient regardé",
+      "elles": "avaient regardé"
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "écrire": {
+    "Présent": {
+      "je": "écris",
+      "tu": "écris",
+      "il": "écrit",
+      "elle": "écrit",
+      "on": "écrit",
+      "nous": "écrivons",
+      "vous": "écrivez",
+      "ils": "écrivent",
+      "elles": "écrivent"
+    },
+    "Imparfait": {
+      "je": "écrivais",
+      "tu": "écrivais",
+      "il": "écrivait",
+      "elle": "écrivait",
+      "on": "écrivait",
+      "nous": "écrivions",
+      "vous": "écriviez",
+      "ils": "écrivaient",
+      "elles": "écrivaient"
+    },
+    "Futur": {
+      "je": "écrirai",
+      "tu": "écriras",
+      "il": "écrira",
+      "elle": "écrira",
+      "on": "écrira",
+      "nous": "écrirons",
+      "vous": "écrirez",
+      "ils": "écriront",
+      "elles": "écriront"
+    },
+    "Passé_composé": {
+      "je": "ai écrit",
+      "tu": "as écrit",
+      "il": "a écrit",
+      "elle": "a écrit",
+      "on": "a écrit",
+      "nous": "avons écrit",
+      "vous": "avez écrit",
+      "ils": "ont écrit",
+      "elles": "ont écrit"
+    },
+    "Conditionnel_présent": {
+      "je": "écrirais",
+      "tu": "écrirais",
+      "il": "écrirait",
+      "elle": "écrirait",
+      "on": "écrirait",
+      "nous": "écririons",
+      "vous": "écririez",
+      "ils": "écriraient",
+      "elles": "écriraient"
+    },
+    "Conditionnel_passé": {
+      "je": "aurais écrit",
+      "tu": "aurais écrit",
+      "il": "aurait écrit",
+      "elle": "aurait écrit",
+      "on": "aurait écrit",
+      "nous": "aurions écrit",
+      "vous": "auriez écrit",
+      "ils": "auraient écrit",
+      "elles": "auraient écrit"
+    },
+    "Subjonctif_présent": {
+      "je": "écrive",
+      "tu": "écrives",
+      "il": "écrive",
+      "elle": "écrive",
+      "on": "écrive",
+      "nous": "écrivions",
+      "vous": "écriviez",
+      "ils": "écrivent",
+      "elles": "écrivent"
+    },
+    "Plus_que_parfait": {
+      "je": "avais écrit",
+      "tu": "avais écrit",
+      "il": "avait écrit",
+      "elle": "avait écrit",
+      "on": "avait écrit",
+      "nous": "avions écrit",
+      "vous": "aviez écrit",
+      "ils": "avaient écrit",
+      "elles": "avaient écrit"
+    }
+  }
+}

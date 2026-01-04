@@ -1,0 +1,92 @@
+{
+  "croire": {
+    "Présent": {
+      "je": "crois",
+      "tu": "crois",
+      "il": "croit",
+      "elle": "croit",
+      "on": "croit",
+      "nous": "croyons",
+      "vous": "croyez",
+      "ils": "croient",
+      "elles": "croient"
+    },
+    "Imparfait": {
+      "je": "croyais",
+      "tu": "croyais",
+      "il": "croyait",
+      "elle": "croyait",
+      "on": "croyait",
+      "nous": "croyions",
+      "vous": "croyiez",
+      "ils": "croyaient",
+      "elles": "croyaient"
+    },
+    "Futur": {
+      "je": "croirai",
+      "tu": "croiras",
+      "il": "croira",
+      "elle": "croira",
+      "on": "croira",
+      "nous": "croirons",
+      "vous": "croirez",
+      "ils": "croiront",
+      "elles": "croiront"
+    },
+    "Passé_composé": {
+      "je": "ai cru",
+      "tu": "as cru",
+      "il": "a cru",
+      "elle": "a cru",
+      "on": "a cru",
+      "nous": "avons cru",
+      "vous": "avez cru",
+      "ils": "ont cru",
+      "elles": "ont cru"
+    },
+    "Conditionnel_présent": {
+      "je": "croirais",
+      "tu": "croirais",
+      "il": "croirait",
+      "elle": "croirait",
+      "on": "croirait",
+      "nous": "croirions",
+      "vous": "croiriez",
+      "ils": "croiraient",
+      "elles": "croiraient"
+    },
+    "Conditionnel_passé": {
+      "je": "aurais cru",
+      "tu": "aurais cru",
+      "il": "aurait cru",
+      "elle": "aurait cru",
+      "on": "aurait cru",
+      "nous": "aurions cru",
+      "vous": "auriez cru",
+      "ils": "auraient cru",
+      "elles": "auraient cru"
+    },
+    "Subjonctif_présent": {
+      "je": "croie",
+      "tu": "croies",
+      "il": "croie",
+      "elle": "croie",
+      "on": "croie",
+      "nous": "croyions",
+      "vous": "croyiez",
+      "ils": "croient",
+      "elles": "croient"
+    },
+    "Plus_que_parfait": {
+      "je": "avais cru",
+      "tu": "avais cru",
+      "il": "avait cru",
+      "elle": "avait cru",
+      "on": "avait cru",
+      "nous": "avions cru",
+      "vous": "aviez cru",
+      "ils": "avaient cru",
+      "elles": "avaient cru"
+    }
+  }
+}

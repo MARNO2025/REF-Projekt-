@@ -1,0 +1,92 @@
+{
+  "rester": {
+    "Présent": {
+      "je": "reste",
+      "tu": "restes",
+      "il": "reste",
+      "elle": "reste",
+      "on": "reste",
+      "nous": "restons",
+      "vous": "restez",
+      "ils": "restent",
+      "elles": "restent"
+    },
+    "Imparfait": {
+      "je": "restais",
+      "tu": "restais",
+      "il": "restait",
+      "elle": "restait",
+      "on": "restait",
+      "nous": "restions",
+      "vous": "restiez",
+      "ils": "restaient",
+      "elles": "restaient"
+    },
+    "Futur": {
+      "je": "resterai",
+      "tu": "resteras",
+      "il": "restera",
+      "elle": "restera",
+      "on": "restera",
+      "nous": "resterons",
+      "vous": "resterez",
+      "ils": "resteront",
+      "elles": "resteront"
+    },
+    "Passé_composé": {
+      "je": "suis resté",
+      "tu": "es resté",
+      "il": "est resté",
+      "elle": "est restée",
+      "on": "est resté",
+      "nous": "sommes restés",
+      "vous": "êtes restés",
+      "ils": "sont restés",
+      "elles": "sont restées"
+    },
+    "Conditionnel_présent": {
+      "je": "resterais",
+      "tu": "resterais",
+      "il": "resterait",
+      "elle": "resterait",
+      "on": "resterait",
+      "nous": "resterions",
+      "vous": "resteriez",
+      "ils": "resteraient",
+      "elles": "resteraient"
+    },
+    "Conditionnel_passé": {
+      "je": "serais resté",
+      "tu": "serais resté",
+      "il": "serait resté",
+      "elle": "serait restée",
+      "on": "serait resté",
+      "nous": "serions restés",
+      "vous": "seriez restés",
+      "ils": "seraient restés",
+      "elles": "seraient restées"
+    },
+    "Subjonctif_présent": {
+      "je": "reste",
+      "tu": "restes",
+      "il": "reste",
+      "elle": "reste",
+      "on": "reste",
+      "nous": "restions",
+      "vous": "restiez",
+      "ils": "restent",
+      "elles": "restent"
+    },
+    "Plus_que_parfait": {
+      "je": "étais resté",
+      "tu": "étais resté",
+      "il": "était resté",
+      "elle": "était restée",
+      "on": "était resté",
+      "nous": "étions restés",
+      "vous": "étiez restés",
+      "ils": "étaient restés",
+      "elles": "étaient restées"
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "faire": {
+    "Présent": {
+      "je": "fais",
+      "tu": "fais",
+      "il": "fait",
+      "elle": "fait",
+      "on": "fait",
+      "nous": "faisons",
+      "vous": "faites",
+      "ils": "font",
+      "elles": "font"
+    },
+    "Imparfait": {
+      "je": "faisais",
+      "tu": "faisais",
+      "il": "faisait",
+      "elle": "faisait",
+      "on": "faisait",
+      "nous": "faisions",
+      "vous": "faisiez",
+      "ils": "faisaient",
+      "elles": "faisaient"
+    },
+    "Futur": {
+      "je": "ferai",
+      "tu": "feras",
+      "il": "fera",
+      "elle": "fera",
+      "on": "fera",
+      "nous": "ferons",
+      "vous": "ferez",
+      "ils": "feront",
+      "elles": "feront"
+    },
+    "Passé_composé": {
+      "je": "ai fait",
+      "tu": "as fait",
+      "il": "a fait",
+      "elle": "a fait",
+      "on": "a fait",
+      "nous": "avons fait",
+      "vous": "avez fait",
+      "ils": "ont fait",
+      "elles": "ont fait"
+    },
+    "Conditionnel_présent": {
+      "je": "ferais",
+      "tu": "ferais",
+      "il": "ferait",
+      "elle": "ferait",
+      "on": "ferait",
+      "nous": "ferions",
+      "vous": "feriez",
+      "ils": "feraient",
+      "elles": "feraient"
+    },
+    "Conditionnel_passé": {
+      "je": "aurais fait",
+      "tu": "aurais fait",
+      "il": "aurait fait",
+      "elle": "aurait fait",
+      "on": "aurait fait",
+      "nous": "aurions fait",
+      "vous": "auriez fait",
+      "ils": "auraient fait",
+      "elles": "auraient fait"
+    },
+    "Subjonctif_présent": {
+      "je": "fasse",
+      "tu": "fasses",
+      "il": "fasse",
+      "elle": "fasse",
+      "on": "fasse",
+      "nous": "fassions",
+      "vous": "fassiez",
+      "ils": "fassent",
+      "elles": "fassent"
+    },
+    "Plus_que_parfait": {
+      "je": "avais fait",
+      "tu": "avais fait",
+      "il": "avait fait",
+      "elle": "avait fait",
+      "on": "avait fait",
+      "nous": "avions fait",
+      "vous": "aviez fait",
+      "ils": "avaient fait",
+      "elles": "avaient fait"
+    }
+  }
+}

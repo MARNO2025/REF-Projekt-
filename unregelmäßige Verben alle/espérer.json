@@ -1,0 +1,92 @@
+{
+  "espérer": {
+    "Présent": {
+      "je": "espère",
+      "tu": "espères",
+      "il": "espère",
+      "elle": "espère",
+      "on": "espère",
+      "nous": "espérons",
+      "vous": "espérez",
+      "ils": "espèrent",
+      "elles": "espèrent"
+    },
+    "Imparfait": {
+      "je": "espérais",
+      "tu": "espérais",
+      "il": "espérait",
+      "elle": "espérait",
+      "on": "espérait",
+      "nous": "espérions",
+      "vous": "espériez",
+      "ils": "espéraient",
+      "elles": "espéraient"
+    },
+    "Futur": {
+      "je": "espérerai",
+      "tu": "espéreras",
+      "il": "espérera",
+      "elle": "espérera",
+      "on": "espérera",
+      "nous": "espérerons",
+      "vous": "espérerez",
+      "ils": "espéreront",
+      "elles": "espéreront"
+    },
+    "Passé_composé": {
+      "je": "ai espéré",
+      "tu": "as espéré",
+      "il": "a espéré",
+      "elle": "a espéré",
+      "on": "a espéré",
+      "nous": "avons espéré",
+      "vous": "avez espéré",
+      "ils": "ont espéré",
+      "elles": "ont espéré"
+    },
+    "Conditionnel_présent": {
+      "je": "espérerais",
+      "tu": "espérerais",
+      "il": "espérerait",
+      "elle": "espérerait",
+      "on": "espérerait",
+      "nous": "espérerions",
+      "vous": "espéreriez",
+      "ils": "espéreraient",
+      "elles": "espéreraient"
+    },
+    "Conditionnel_passé": {
+      "je": "aurais espéré",
+      "tu": "aurais espéré",
+      "il": "aurait espéré",
+      "elle": "aurait espéré",
+      "on": "aurait espéré",
+      "nous": "aurions espéré",
+      "vous": "auriez espéré",
+      "ils": "auraient espéré",
+      "elles": "auraient espéré"
+    },
+    "Subjonctif_présent": {
+      "je": "espère",
+      "tu": "espères",
+      "il": "espère",
+      "elle": "espère",
+      "on": "espère",
+      "nous": "espérions",
+      "vous": "espériez",
+      "ils": "espèrent",
+      "elles": "espèrent"
+    },
+    "Plus_que_parfait": {
+      "je": "avais espéré",
+      "tu": "avais espéré",
+      "il": "avait espéré",
+      "elle": "avait espéré",
+      "on": "avait espéré",
+      "nous": "avions espéré",
+      "vous": "aviez espéré",
+      "ils": "avaient espéré",
+      "elles": "avaient espéré"
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "descendre": {
+    "Présent": {
+      "je": "descends",
+      "tu": "descends",
+      "il": "descend",
+      "elle": "descend",
+      "on": "descend",
+      "nous": "descendons",
+      "vous": "descendez",
+      "ils": "descendent",
+      "elles": "descendent"
+    },
+    "Imparfait": {
+      "je": "descendais",
+      "tu": "descendais",
+      "il": "descendait",
+      "elle": "descendait",
+      "on": "descendait",
+      "nous": "descendions",
+      "vous": "descendiez",
+      "ils": "descendaient",
+      "elles": "descendaient"
+    },
+    "Futur": {
+      "je": "descendrai",
+      "tu": "descendras",
+      "il": "descendra",
+      "elle": "descendra",
+      "on": "descendra",
+      "nous": "descendrons",
+      "vous": "descendrez",
+      "ils": "descendront",
+      "elles": "descendront"
+    },
+    "Passé_composé": {
+      "je": "ai descendu",
+      "tu": "as descendu",
+      "il": "a descendu",
+      "elle": "a descendu",
+      "on": "a descendu",
+      "nous": "avons descendu",
+      "vous": "avez descendu",
+      "ils": "ont descendu",
+      "elles": "ont descendu"
+    },
+    "Conditionnel_présent": {
+      "je": "descendrais",
+      "tu": "descendrais",
+      "il": "descendrait",
+      "elle": "descendrait",
+      "on": "descendrait",
+      "nous": "descendrions",
+      "vous": "descendriez",
+      "ils": "descendraient",
+      "elles": "descendraient"
+    },
+    "Conditionnel_passé": {
+      "je": "aurais descendu",
+      "tu": "aurais descendu",
+      "il": "aurait descendu",
+      "elle": "aurait descendu",
+      "on": "aurait descendu",
+      "nous": "aurions descendu",
+      "vous": "auriez descendu",
+      "ils": "auraient descendu",
+      "elles": "auraient descendu"
+    },
+    "Subjonctif_présent": {
+      "je": "descende",
+      "tu": "descendes",
+      "il": "descende",
+      "elle": "descende",
+      "on": "descende",
+      "nous": "descendions",
+      "vous": "descendiez",
+      "ils": "descendent",
+      "elles": "descendent"
+    },
+    "Plus_que_parfait": {
+      "je": "avais descendu",
+      "tu": "avais descendu",
+      "il": "avait descendu",
+      "elle": "avait descendu",
+      "on": "avait descendu",
+      "nous": "avions descendu",
+      "vous": "aviez descendu",
+      "ils": "avaient descendu",
+      "elles": "avaient descendu"
+    }
+  }
+}

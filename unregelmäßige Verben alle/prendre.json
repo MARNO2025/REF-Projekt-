@@ -1,0 +1,92 @@
+{
+  "prendre": {
+    "Présent": {
+      "je": "prends",
+      "tu": "prends",
+      "il": "prend",
+      "elle": "prend",
+      "on": "prend",
+      "nous": "prenons",
+      "vous": "prenez",
+      "ils": "prennent",
+      "elles": "prennent"
+    },
+    "Imparfait": {
+      "je": "prenais",
+      "tu": "prenais",
+      "il": "prenait",
+      "elle": "prenait",
+      "on": "prenait",
+      "nous": "prenions",
+      "vous": "preniez",
+      "ils": "prenaient",
+      "elles": "prenaient"
+    },
+    "Futur": {
+      "je": "prendrai",
+      "tu": "prendras",
+      "il": "prendra",
+      "elle": "prendra",
+      "on": "prendra",
+      "nous": "prendrons",
+      "vous": "prendrez",
+      "ils": "prendront",
+      "elles": "prendront"
+    },
+    "Passé_composé": {
+      "je": "ai pris",
+      "tu": "as pris",
+      "il": "a pris",
+      "elle": "a pris",
+      "on": "a pris",
+      "nous": "avons pris",
+      "vous": "avez pris",
+      "ils": "ont pris",
+      "elles": "ont pris"
+    },
+    "Conditionnel_présent": {
+      "je": "prendrais",
+      "tu": "prendrais",
+      "il": "prendrait",
+      "elle": "prendrait",
+      "on": "prendrait",
+      "nous": "prendrions",
+      "vous": "prendriez",
+      "ils": "prendraient",
+      "elles": "prendraient"
+    },
+    "Conditionnel_passé": {
+      "je": "aurais pris",
+      "tu": "aurais pris",
+      "il": "aurait pris",
+      "elle": "aurait pris",
+      "on": "aurait pris",
+      "nous": "aurions pris",
+      "vous": "auriez pris",
+      "ils": "auraient pris",
+      "elles": "auraient pris"
+    },
+    "Subjonctif_présent": {
+      "je": "prenne",
+      "tu": "prennes",
+      "il": "prenne",
+      "elle": "prenne",
+      "on": "prenne",
+      "nous": "prenions",
+      "vous": "preniez",
+      "ils": "prennent",
+      "elles": "prennent"
+    },
+    "Plus_que_parfait": {
+      "je": "avais pris",
+      "tu": "avais pris",
+      "il": "avait pris",
+      "elle": "avait pris",
+      "on": "avait pris",
+      "nous": "avions pris",
+      "vous": "aviez pris",
+      "ils": "avaient pris",
+      "elles": "avaient pris"
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "sentir": {
+    "Présent": {
+      "je": "sens",
+      "tu": "sens",
+      "il": "sent",
+      "elle": "sent",
+      "on": "sent",
+      "nous": "sentons",
+      "vous": "sentez",
+      "ils": "sentent",
+      "elles": "sentent"
+    },
+    "Imparfait": {
+      "je": "sentais",
+      "tu": "sentais",
+      "il": "sentait",
+      "elle": "sentait",
+      "on": "sentait",
+      "nous": "sentions",
+      "vous": "sentiez",
+      "ils": "sent aient",
+      "elles": "sent aient"
+    },
+    "Futur": {
+      "je": "sentirai",
+      "tu": "sentiras",
+      "il": "sentira",
+      "elle": "sentira",
+      "on": "sentira",
+      "nous": "sentirons",
+      "vous": "sentirez",
+      "ils": "sentiront",
+      "elles": "sentiront"
+    },
+    "Passé_composé": {
+      "je": "ai senti",
+      "tu": "as senti",
+      "il": "a senti",
+      "elle": "a senti",
+      "on": "a senti",
+      "nous": "avons senti",
+      "vous": "avez senti",
+      "ils": "ont senti",
+      "elles": "ont senti"
+    },
+    "Conditionnel_présent": {
+      "je": "sentirais",
+      "tu": "sentirais",
+      "il": "sentirait",
+      "elle": "sentirait",
+      "on": "sentirait",
+      "nous": "sentirions",
+      "vous": "sentiriez",
+      "ils": "sentiraient",
+      "elles": "sentiraient"
+    },
+    "Conditionnel_passé": {
+      "je": "aurais senti",
+      "tu": "aurais senti",
+      "il": "aurait senti",
+      "elle": "aurait senti",
+      "on": "aurait senti",
+      "nous": "aurions senti",
+      "vous": "auriez senti",
+      "ils": "auraient senti",
+      "elles": "auraient senti"
+    },
+    "Subjonctif_présent": {
+      "je": "sente",
+      "tu": "sentes",
+      "il": "sente",
+      "elle": "sente",
+      "on": "sente",
+      "nous": "sentions",
+      "vous": "sentiez",
+      "ils": "sentent",
+      "elles": "sentent"
+    },
+    "Plus_que_parfait": {
+      "je": "avais senti",
+      "tu": "avais senti",
+      "il": "avait senti",
+      "elle": "avait senti",
+      "on": "avait senti",
+      "nous": "avions senti",
+      "vous": "aviez senti",
+      "ils": "avaient senti",
+      "elles": "avaient senti"
+    }
+  }
+}

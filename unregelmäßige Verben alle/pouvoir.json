@@ -1,0 +1,92 @@
+{
+  "pouvoir": {
+    "Présent": {
+      "je": "peux",
+      "tu": "peux",
+      "il": "peut",
+      "elle": "peut",
+      "on": "peut",
+      "nous": "pouvons",
+      "vous": "pouvez",
+      "ils": "peuvent",
+      "elles": "peuvent"
+    },
+    "Imparfait": {
+      "je": "pouvais",
+      "tu": "pouvais",
+      "il": "pouvait",
+      "elle": "pouvait",
+      "on": "pouvait",
+      "nous": "pouvions",
+      "vous": "pouviez",
+      "ils": "pouvaient",
+      "elles": "pouvaient"
+    },
+    "Futur": {
+      "je": "pourrai",
+      "tu": "pourras",
+      "il": "pourra",
+      "elle": "pourra",
+      "on": "pourra",
+      "nous": "pourrons",
+      "vous": "pourrez",
+      "ils": "pourront",
+      "elles": "pourront"
+    },
+    "Passé_composé": {
+      "je": "ai pu",
+      "tu": "as pu",
+      "il": "a pu",
+      "elle": "a pu",
+      "on": "a pu",
+      "nous": "avons pu",
+      "vous": "avez pu",
+      "ils": "ont pu",
+      "elles": "ont pu"
+    },
+    "Conditionnel_présent": {
+      "je": "pourrais",
+      "tu": "pourrais",
+      "il": "pourrait",
+      "elle": "pourrait",
+      "on": "pourrait",
+      "nous": "pourrions",
+      "vous": "pourriez",
+      "ils": "pourraient",
+      "elles": "pourraient"
+    },
+    "Conditionnel_passé": {
+      "je": "aurais pu",
+      "tu": "aurais pu",
+      "il": "aurait pu",
+      "elle": "aurait pu",
+      "on": "aurait pu",
+      "nous": "aurions pu",
+      "vous": "auriez pu",
+      "ils": "auraient pu",
+      "elles": "auraient pu"
+    },
+    "Subjonctif_présent": {
+      "je": "puisse",
+      "tu": "puisses",
+      "il": "puisse",
+      "elle": "puisse",
+      "on": "puisse",
+      "nous": "puissions",
+      "vous": "puissiez",
+      "ils": "puissent",
+      "elles": "puissent"
+    },
+    "Plus_que_parfait": {
+      "je": "avais pu",
+      "tu": "avais pu",
+      "il": "avait pu",
+      "elle": "avait pu",
+      "on": "avait pu",
+      "nous": "avions pu",
+      "vous": "aviez pu",
+      "ils": "avaient pu",
+      "elles": "avaient pu"
+    }
+  }
+}

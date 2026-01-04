@@ -1,0 +1,92 @@
+{
+  "devoir": {
+    "Présent": {
+      "je": "dois",
+      "tu": "dois",
+      "il": "doit",
+      "elle": "doit",
+      "on": "doit",
+      "nous": "devons",
+      "vous": "devez",
+      "ils": "doivent",
+      "elles": "doivent"
+    },
+    "Imparfait": {
+      "je": "devais",
+      "tu": "devais",
+      "il": "devait",
+      "elle": "devait",
+      "on": "devait",
+      "nous": "devions",
+      "vous": "deviez",
+      "ils": "devaient",
+      "elles": "devaient"
+    },
+    "Futur": {
+      "je": "devrai",
+      "tu": "devras",
+      "il": "devra",
+      "elle": "devra",
+      "on": "devra",
+      "nous": "devrons",
+      "vous": "devrez",
+      "ils": "devront",
+      "elles": "devront"
+    },
+    "Passé_composé": {
+      "je": "ai dû",
+      "tu": "as dû",
+      "il": "a dû",
+      "elle": "a dû",
+      "on": "a dû",
+      "nous": "avons dû",
+      "vous": "avez dû",
+      "ils": "ont dû",
+      "elles": "ont dû"
+    },
+    "Conditionnel_présent": {
+      "je": "devrais",
+      "tu": "devrais",
+      "il": "devrait",
+      "elle": "devrait",
+      "on": "devrait",
+      "nous": "devrions",
+      "vous": "devriez",
+      "ils": "devraient",
+      "elles": "devraient"
+    },
+    "Conditionnel_passé": {
+      "je": "aurais dû",
+      "tu": "aurais dû",
+      "il": "aurait dû",
+      "elle": "aurait dû",
+      "on": "aurait dû",
+      "nous": "aurions dû",
+      "vous": "auriez dû",
+      "ils": "auraient dû",
+      "elles": "auraient dû"
+    },
+    "Subjonctif_présent": {
+      "je": "doive",
+      "tu": "doives",
+      "il": "doive",
+      "elle": "doive",
+      "on": "doive",
+      "nous": "devions",
+      "vous": "deviez",
+      "ils": "doivent",
+      "elles": "doivent"
+    },
+    "Plus_que_parfait": {
+      "je": "avais dû",
+      "tu": "avais dû",
+      "il": "avait dû",
+      "elle": "avait dû",
+      "on": "avait dû",
+      "nous": "avions dû",
+      "vous": "aviez dû",
+      "ils": "avaient dû",
+      "elles": "avaient dû"
+    }
+  }
+}

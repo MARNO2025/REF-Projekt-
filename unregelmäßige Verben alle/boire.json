@@ -1,0 +1,92 @@
+{
+  "boire": {
+    "Présent": {
+      "je": "bois",
+      "tu": "bois",
+      "il": "boit",
+      "elle": "boit",
+      "on": "boit",
+      "nous": "buvons",
+      "vous": "buvez",
+      "ils": "boivent",
+      "elles": "boivent"
+    },
+    "Imparfait": {
+      "je": "buvais",
+      "tu": "buvais",
+      "il": "buvait",
+      "elle": "buvait",
+      "on": "buvait",
+      "nous": "buvions",
+      "vous": "buviez",
+      "ils": "buvaient",
+      "elles": "buvaient"
+    },
+    "Futur": {
+      "je": "boirai",
+      "tu": "boiras",
+      "il": "boira",
+      "elle": "boira",
+      "on": "boira",
+      "nous": "boirons",
+      "vous": "boirez",
+      "ils": "boiront",
+      "elles": "boiront"
+    },
+    "Passé_composé": {
+      "je": "ai bu",
+      "tu": "as bu",
+      "il": "a bu",
+      "elle": "a bu",
+      "on": "a bu",
+      "nous": "avons bu",
+      "vous": "avez bu",
+      "ils": "ont bu",
+      "elles": "ont bu"
+    },
+    "Conditionnel_présent": {
+      "je": "boirais",
+      "tu": "boirais",
+      "il": "boirait",
+      "elle": "boirait",
+      "on": "boirait",
+      "nous": "boirions",
+      "vous": "boiriez",
+      "ils": "boiraient",
+      "elles": "boiraient"
+    },
+    "Conditionnel_passé": {
+      "je": "aurais bu",
+      "tu": "aurais bu",
+      "il": "aurait bu",
+      "elle": "aurait bu",
+      "on": "aurait bu",
+      "nous": "aurions bu",
+      "vous": "auriez bu",
+      "ils": "auraient bu",
+      "elles": "auraient bu"
+    },
+    "Subjonctif_présent": {
+      "je": "boive",
+      "tu": "boives",
+      "il": "boive",
+      "elle": "boive",
+      "on": "boive",
+      "nous": "buvions",
+      "vous": "buviez",
+      "ils": "boivent",
+      "elles": "boivent"
+    },
+    "Plus_que_parfait": {
+      "je": "avais bu",
+      "tu": "avais bu",
+      "il": "avait bu",
+      "elle": "avait bu",
+      "on": "avait bu",
+      "nous": "avions bu",
+      "vous": "aviez bu",
+      "ils": "avaient bu",
+      "elles": "avaient bu"
+    }
+  }
+}

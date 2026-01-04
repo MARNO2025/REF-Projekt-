@@ -1,0 +1,92 @@
+{
+  "retourner": {
+    "Présent": {
+      "je": "retourne",
+      "tu": "retournes",
+      "il": "retourne",
+      "elle": "retourne",
+      "on": "retourne",
+      "nous": "retournons",
+      "vous": "retournez",
+      "ils": "retournent",
+      "elles": "retournent"
+    },
+    "Imparfait": {
+      "je": "retournais",
+      "tu": "retournais",
+      "il": "retournait",
+      "elle": "retournait",
+      "on": "retournait",
+      "nous": "retournions",
+      "vous": "retourniez",
+      "ils": "retournaient",
+      "elles": "retournaient"
+    },
+    "Futur": {
+      "je": "retournerai",
+      "tu": "retourneras",
+      "il": "retournera",
+      "elle": "retournera",
+      "on": "retournera",
+      "nous": "retournerons",
+      "vous": "retournerez",
+      "ils": "retourneront",
+      "elles": "retourneront"
+    },
+    "Passé_composé": {
+      "je": "suis retourné",
+      "tu": "es retourné",
+      "il": "est retourné",
+      "elle": "est retournée",
+      "on": "est retourné",
+      "nous": "sommes retournés",
+      "vous": "êtes retournés",
+      "ils": "sont retournés",
+      "elles": "sont retournées"
+    },
+    "Conditionnel_présent": {
+      "je": "retournerais",
+      "tu": "retournerais",
+      "il": "retournerait",
+      "elle": "retournerait",
+      "on": "retournerait",
+      "nous": "retournerions",
+      "vous": "retourneriez",
+      "ils": "retourneraient",
+      "elles": "retourneraient"
+    },
+    "Conditionnel_passé": {
+      "je": "serais retourné",
+      "tu": "serais retourné",
+      "il": "serait retourné",
+      "elle": "serait retournée",
+      "on": "serait retourné",
+      "nous": "serions retournés",
+      "vous": "seriez retournés",
+      "ils": "seraient retournés",
+      "elles": "seraient retournées"
+    },
+    "Subjonctif_présent": {
+      "je": "retourne",
+      "tu": "retournes",
+      "il": "retourne",
+      "elle": "retourne",
+      "on": "retourne",
+      "nous": "retournions",
+      "vous": "retourniez",
+      "ils": "retournent",
+      "elles": "retournent"
+    },
+    "Plus_que_parfait": {
+      "je": "étais retourné",
+      "tu": "étais retourné",
+      "il": "était retourné",
+      "elle": "était retournée",
+      "on": "était retourné",
+      "nous": "étions retournés",
+      "vous": "étiez retournés",
+      "ils": "étaient retournés",
+      "elles": "étaient retournées"
+    }
+  }
+}

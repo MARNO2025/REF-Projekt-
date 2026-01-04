@@ -1,0 +1,92 @@
+{
+  "rendre": {
+    "Présent": {
+      "je": "rends",
+      "tu": "rends",
+      "il": "rend",
+      "elle": "rend",
+      "on": "rend",
+      "nous": "rendons",
+      "vous": "rendez",
+      "ils": "rendent",
+      "elles": "rendent"
+    },
+    "Imparfait": {
+      "je": "rendais",
+      "tu": "rendais",
+      "il": "rendait",
+      "elle": "rendait",
+      "on": "rendait",
+      "nous": "rendions",
+      "vous": "rendiez",
+      "ils": "rendaient",
+      "elles": "rendaient"
+    },
+    "Futur": {
+      "je": "rendrai",
+      "tu": "rendras",
+      "il": "rendra",
+      "elle": "rendra",
+      "on": "rendra",
+      "nous": "rendrons",
+      "vous": "rendrez",
+      "ils": "rendront",
+      "elles": "rendront"
+    },
+    "Passé_composé": {
+      "je": "ai rendu",
+      "tu": "as rendu",
+      "il": "a rendu",
+      "elle": "a rendu",
+      "on": "a rendu",
+      "nous": "avons rendu",
+      "vous": "avez rendu",
+      "ils": "ont rendu",
+      "elles": "ont rendu"
+    },
+    "Conditionnel_présent": {
+      "je": "rendrais",
+      "tu": "rendrais",
+      "il": "rendrait",
+      "elle": "rendrait",
+      "on": "rendrait",
+      "nous": "rendrions",
+      "vous": "rendriez",
+      "ils": "rendraient",
+      "elles": "rendraient"
+    },
+    "Conditionnel_passé": {
+      "je": "aurais rendu",
+      "tu": "aurais rendu",
+      "il": "aurait rendu",
+      "elle": "aurait rendu",
+      "on": "aurait rendu",
+      "nous": "aurions rendu",
+      "vous": "auriez rendu",
+      "ils": "auraient rendu",
+      "elles": "auraient rendu"
+    },
+    "Subjonctif_présent": {
+      "je": "rende",
+      "tu": "rendes",
+      "il": "rende",
+      "elle": "rende",
+      "on": "rende",
+      "nous": "rendions",
+      "vous": "rendiez",
+      "ils": "rendent",
+      "elles": "rendent"
+    },
+    "Plus_que_parfait": {
+      "je": "avais rendu",
+      "tu": "avais rendu",
+      "il": "avait rendu",
+      "elle": "avait rendu",
+      "on": "avait rendu",
+      "nous": "avions rendu",
+      "vous": "aviez rendu",
+      "ils": "avaient rendu",
+      "elles": "avaient rendu"
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "entrer": {
+    "Présent": {
+      "je": "entre",
+      "tu": "entres",
+      "il": "entre",
+      "elle": "entre",
+      "on": "entre",
+      "nous": "entrons",
+      "vous": "entrez",
+      "ils": "entrent",
+      "elles": "entrent"
+    },
+    "Imparfait": {
+      "je": "entrais",
+      "tu": "entrais",
+      "il": "entrait",
+      "elle": "entrait",
+      "on": "entrait",
+      "nous": "entrions",
+      "vous": "entriez",
+      "ils": "entraient",
+      "elles": "entraient"
+    },
+    "Futur": {
+      "je": "entrerai",
+      "tu": "entreras",
+      "il": "entrera",
+      "elle": "entrera",
+      "on": "entrera",
+      "nous": "entrerons",
+      "vous": "entrerez",
+      "ils": "entreront",
+      "elles": "entreront"
+    },
+    "Passé_composé": {
+      "je": "suis entré",
+      "tu": "es entré",
+      "il": "est entré",
+      "elle": "est entrée",
+      "on": "est entré",
+      "nous": "sommes entrés",
+      "vous": "êtes entrés",
+      "ils": "sont entrés",
+      "elles": "sont entrées"
+    },
+    "Conditionnel_présent": {
+      "je": "entrerais",
+      "tu": "entrerais",
+      "il": "entrerait",
+      "elle": "entrerait",
+      "on": "entrerait",
+      "nous": "entrerions",
+      "vous": "entreriez",
+      "ils": "entreraient",
+      "elles": "entreraient"
+    },
+    "Conditionnel_passé": {
+      "je": "serais entré",
+      "tu": "serais entré",
+      "il": "serait entré",
+      "elle": "serait entrée",
+      "on": "serait entré",
+      "nous": "serions entrés",
+      "vous": "seriez entrés",
+      "ils": "seraient entrés",
+      "elles": "seraient entrées"
+    },
+    "Subjonctif_présent": {
+      "je": "entre",
+      "tu": "entres",
+      "il": "entre",
+      "elle": "entre",
+      "on": "entre",
+      "nous": "entrions",
+      "vous": "entriez",
+      "ils": "entrent",
+      "elles": "entrent"
+    },
+    "Plus_que_parfait": {
+      "je": "étais entré",
+      "tu": "étais entré",
+      "il": "était entré",
+      "elle": "était entrée",
+      "on": "était entré",
+      "nous": "étions entrés",
+      "vous": "étiez entrés",
+      "ils": "étaient entrés",
+      "elles": "étaient entrées"
+    }
+  }
+}

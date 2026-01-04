@@ -1,0 +1,92 @@
+{
+  "être": {
+    "Présent": {
+      "je": "suis",
+      "tu": "es",
+      "il": "est",
+      "elle": "est",
+      "on": "est",
+      "nous": "sommes",
+      "vous": "êtes",
+      "ils": "sont",
+      "elles": "sont"
+    },
+    "Imparfait": {
+      "je": "étais",
+      "tu": "étais",
+      "il": "était",
+      "elle": "était",
+      "on": "était",
+      "nous": "étions",
+      "vous": "étiez",
+      "ils": "étaient",
+      "elles": "étaient"
+    },
+    "Futur": {
+      "je": "serai",
+      "tu": "seras",
+      "il": "sera",
+      "elle": "sera",
+      "on": "sera",
+      "nous": "serons",
+      "vous": "serez",
+      "ils": "seront",
+      "elles": "seront"
+    },
+    "Passé_composé": {
+      "je": "ai été",
+      "tu": "as été",
+      "il": "a été",
+      "elle": "a été",
+      "on": "a été",
+      "nous": "avons été",
+      "vous": "avez été",
+      "ils": "ont été",
+      "elles": "ont été"
+    },
+    "Conditionnel_présent": {
+      "je": "serais",
+      "tu": "serais",
+      "il": "serait",
+      "elle": "serait",
+      "on": "serait",
+      "nous": "serions",
+      "vous": "seriez",
+      "ils": "seraient",
+      "elles": "seraient"
+    },
+    "Conditionnel_passé": {
+      "je": "aurais été",
+      "tu": "aurais été",
+      "il": "aurait été",
+      "elle": "aurait été",
+      "on": "aurait été",
+      "nous": "aurions été",
+      "vous": "auriez été",
+      "ils": "auraient été",
+      "elles": "auraient été"
+    },
+    "Subjonctif_présent": {
+      "je": "sois",
+      "tu": "sois",
+      "il": "soit",
+      "elle": "soit",
+      "on": "soit",
+      "nous": "soyons",
+      "vous": "soyez",
+      "ils": "soient",
+      "elles": "soient"
+    },
+    "Plus_que_parfait": {
+      "je": "avais été",
+      "tu": "avais été",
+      "il": "avait été",
+      "elle": "avait été",
+      "on": "avait été",
+      "nous": "avions été",
+      "vous": "aviez été",
+      "ils": "avaient été",
+      "elles": "avaient été"
+    }
+  }
+}

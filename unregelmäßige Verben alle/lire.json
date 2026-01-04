@@ -1,0 +1,92 @@
+{
+  "lire": {
+    "Présent": {
+      "je": "lis",
+      "tu": "lis",
+      "il": "lit",
+      "elle": "lit",
+      "on": "lit",
+      "nous": "lisons",
+      "vous": "lisez",
+      "ils": "lisent",
+      "elles": "lisent"
+    },
+    "Imparfait": {
+      "je": "lisais",
+      "tu": "lisais",
+      "il": "lisait",
+      "elle": "lisait",
+      "on": "lisait",
+      "nous": "lisions",
+      "vous": "lisiez",
+      "ils": "lisaient",
+      "elles": "lisaient"
+    },
+    "Futur": {
+      "je": "lirai",
+      "tu": "liras",
+      "il": "lira",
+      "elle": "lira",
+      "on": "lira",
+      "nous": "lirons",
+      "vous": "lirez",
+      "ils": "liront",
+      "elles": "liront"
+    },
+    "Passé_composé": {
+      "je": "ai lu",
+      "tu": "as lu",
+      "il": "a lu",
+      "elle": "a lu",
+      "on": "a lu",
+      "nous": "avons lu",
+      "vous": "avez lu",
+      "ils": "ont lu",
+      "elles": "ont lu"
+    },
+    "Conditionnel_présent": {
+      "je": "lirais",
+      "tu": "lirais",
+      "il": "lirait",
+      "elle": "lirait",
+      "on": "lirait",
+      "nous": "lirions",
+      "vous": "liriez",
+      "ils": "liraient",
+      "elles": "liraient"
+    },
+    "Conditionnel_passé": {
+      "je": "aurais lu",
+      "tu": "aurais lu",
+      "il": "aurait lu",
+      "elle": "aurait lu",
+      "on": "aurait lu",
+      "nous": "aurions lu",
+      "vous": "auriez lu",
+      "ils": "auraient lu",
+      "elles": "auraient lu"
+    },
+    "Subjonctif_présent": {
+      "je": "lise",
+      "tu": "lises",
+      "il": "lise",
+      "elle": "lise",
+      "on": "lise",
+      "nous": "lisions",
+      "vous": "lisiez",
+      "ils": "lisent",
+      "elles": "lisent"
+    },
+    "Plus_que_parfait": {
+      "je": "avais lu",
+      "tu": "avais lu",
+      "il": "avait lu",
+      "elle": "avait lu",
+      "on": "avait lu",
+      "nous": "avions lu",
+      "vous": "aviez lu",
+      "ils": "avaient lu",
+      "elles": "avaient lu"
+    }
+  }
+}

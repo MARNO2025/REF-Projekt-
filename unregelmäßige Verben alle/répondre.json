@@ -1,0 +1,92 @@
+{
+  "répondre": {
+    "Présent": {
+      "je": "réponds",
+      "tu": "réponds",
+      "il": "répond",
+      "elle": "répond",
+      "on": "répond",
+      "nous": "répondons",
+      "vous": "répondez",
+      "ils": "répondent",
+      "elles": "répondent"
+    },
+    "Imparfait": {
+      "je": "répondais",
+      "tu": "répondais",
+      "il": "répondait",
+      "elle": "répondait",
+      "on": "répondait",
+      "nous": "répondions",
+      "vous": "répondiez",
+      "ils": "répondaient",
+      "elles": "répondaient"
+    },
+    "Futur": {
+      "je": "répondrai",
+      "tu": "répondras",
+      "il": "répondra",
+      "elle": "répondra",
+      "on": "répondra",
+      "nous": "répondrons",
+      "vous": "répondrez",
+      "ils": "répondront",
+      "elles": "répondront"
+    },
+    "Passé_composé": {
+      "je": "ai répondu",
+      "tu": "as répondu",
+      "il": "a répondu",
+      "elle": "a répondu",
+      "on": "a répondu",
+      "nous": "avons répondu",
+      "vous": "avez répondu",
+      "ils": "ont répondu",
+      "elles": "ont répondu"
+    },
+    "Conditionnel_présent": {
+      "je": "répondrais",
+      "tu": "répondrais",
+      "il": "répondrait",
+      "elle": "répondrait",
+      "on": "répondrait",
+      "nous": "répondrions",
+      "vous": "répondriez",
+      "ils": "répondraient",
+      "elles": "répondraient"
+    },
+    "Conditionnel_passé": {
+      "je": "aurais répondu",
+      "tu": "aurais répondu",
+      "il": "aurait répondu",
+      "elle": "aurait répondu",
+      "on": "aurait répondu",
+      "nous": "aurions répondu",
+      "vous": "auriez répondu",
+      "ils": "auraient répondu",
+      "elles": "auraient répondu"
+    },
+    "Subjonctif_présent": {
+      "je": "réponde",
+      "tu": "répondes",
+      "il": "réponde",
+      "elle": "réponde",
+      "on": "réponde",
+      "nous": "répondions",
+      "vous": "répondiez",
+      "ils": "répondent",
+      "elles": "répondent"
+    },
+    "Plus_que_parfait": {
+      "je": "avais répondu",
+      "tu": "avais répondu",
+      "il": "avait répondu",
+      "elle": "avait répondu",
+      "on": "avait répondu",
+      "nous": "avions répondu",
+      "vous": "aviez répondu",
+      "ils": "avaient répondu",
+      "elles": "avaient répondu"
+    }
+  }
+}

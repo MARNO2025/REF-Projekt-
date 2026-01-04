@@ -1,0 +1,92 @@
+{
+  "manger": {
+    "Présent": {
+      "je": "mange",
+      "tu": "manges",
+      "il": "mange",
+      "elle": "mange",
+      "on": "mange",
+      "nous": "mangeons",
+      "vous": "mangez",
+      "ils": "mangent",
+      "elles": "mangent"
+    },
+    "Imparfait": {
+      "je": "mangeais",
+      "tu": "mangeais",
+      "il": "mangeait",
+      "elle": "mangeait",
+      "on": "mangeait",
+      "nous": "mangions",
+      "vous": "mangiez",
+      "ils": "mangeaient",
+      "elles": "mangeaient"
+    },
+    "Futur": {
+      "je": "mangerai",
+      "tu": "mangeras",
+      "il": "mangera",
+      "elle": "mangera",
+      "on": "mangera",
+      "nous": "mangerons",
+      "vous": "mangerez",
+      "ils": "mangeront",
+      "elles": "mangeront"
+    },
+    "Passé_composé": {
+      "je": "ai mangé",
+      "tu": "as mangé",
+      "il": "a mangé",
+      "elle": "a mangé",
+      "on": "a mangé",
+      "nous": "avons mangé",
+      "vous": "avez mangé",
+      "ils": "ont mangé",
+      "elles": "ont mangé"
+    },
+    "Conditionnel_présent": {
+      "je": "mangerais",
+      "tu": "mangerais",
+      "il": "mangerait",
+      "elle": "mangerait",
+      "on": "mangerait",
+      "nous": "mangerions",
+      "vous": "mangeriez",
+      "ils": "mangeraient",
+      "elles": "mangeraient"
+    },
+    "Conditionnel_passé": {
+      "je": "aurais mangé",
+      "tu": "aurais mangé",
+      "il": "aurait mangé",
+      "elle": "aurait mangé",
+      "on": "aurait mangé",
+      "nous": "aurions mangé",
+      "vous": "auriez mangé",
+      "ils": "auraient mangé",
+      "elles": "auraient mangé"
+    },
+    "Subjonctif_présent": {
+      "je": "mange",
+      "tu": "manges",
+      "il": "mange",
+      "elle": "mange",
+      "on": "mange",
+      "nous": "mangions",
+      "vous": "mangiez",
+      "ils": "mangent",
+      "elles": "mangent"
+    },
+    "Plus_que_parfait": {
+      "je": "avais mangé",
+      "tu": "avais mangé",
+      "il": "avait mangé",
+      "elle": "avait mangé",
+      "on": "avait mangé",
+      "nous": "avions mangé",
+      "vous": "aviez mangé",
+      "ils": "avaient mangé",
+      "elles": "avaient mangé"
+    }
+  }
+}

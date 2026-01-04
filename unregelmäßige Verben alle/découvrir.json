@@ -1,0 +1,92 @@
+{
+  "decouvrir": {
+    "Présent": {
+      "je": "découvre",
+      "tu": "découvres",
+      "il": "découvre",
+      "elle": "découvre",
+      "on": "découvre",
+      "nous": "découvrons",
+      "vous": "découvrez",
+      "ils": "découvrent",
+      "elles": "découvrent"
+    },
+    "Imparfait": {
+      "je": "découvrais",
+      "tu": "découvrais",
+      "il": "découvrait",
+      "elle": "découvrait",
+      "on": "découvrait",
+      "nous": "découvrions",
+      "vous": "découvriez",
+      "ils": "découvraient",
+      "elles": "découvraient"
+    },
+    "Futur": {
+      "je": "découvrirai",
+      "tu": "découvriras",
+      "il": "découvrira",
+      "elle": "découvrira",
+      "on": "découvrira",
+      "nous": "découvrirons",
+      "vous": "découvrirez",
+      "ils": "découvriront",
+      "elles": "découvriront"
+    },
+    "Passé_composé": {
+      "je": "ai découvert",
+      "tu": "as découvert",
+      "il": "a découvert",
+      "elle": "a découvert",
+      "on": "a découvert",
+      "nous": "avons découvert",
+      "vous": "avez découvert",
+      "ils": "ont découvert",
+      "elles": "ont découvert"
+    },
+    "Conditionnel_présent": {
+      "je": "découvrirais",
+      "tu": "découvrirais",
+      "il": "découvrirait",
+      "elle": "découvrirait",
+      "on": "découvrirait",
+      "nous": "découvririons",
+      "vous": "découvririez",
+      "ils": "découvriraient",
+      "elles": "découvriraient"
+    },
+    "Conditionnel_passé": {
+      "je": "aurais découvert",
+      "tu": "aurais découvert",
+      "il": "aurait découvert",
+      "elle": "aurait découvert",
+      "on": "aurait découvert",
+      "nous": "aurions découvert",
+      "vous": "auriez découvert",
+      "ils": "auraient découvert",
+      "elles": "auraient découvert"
+    },
+    "Subjonctif_présent": {
+      "je": "découvre",
+      "tu": "découvres",
+      "il": "découvre",
+      "elle": "découvre",
+      "on": "découvre",
+      "nous": "découvrions",
+      "vous": "découvriez",
+      "ils": "découvrent",
+      "elles": "découvrent"
+    },
+    "Plus_que_parfait": {
+      "je": "avais découvert",
+      "tu": "avais découvert",
+      "il": "avait découvert",
+      "elle": "avait découvert",
+      "on": "avait découvert",
+      "nous": "avions découvert",
+      "vous": "aviez découvert",
+      "ils": "avaient découvert",
+      "elles": "avaient découvert"
+    }
+  }
+}

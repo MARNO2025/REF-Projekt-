@@ -1,0 +1,92 @@
+{
+  "jeter": {
+    "Présent": {
+      "je": "jette",
+      "tu": "jettes",
+      "il": "jette",
+      "elle": "jette",
+      "on": "jette",
+      "nous": "jetons",
+      "vous": "jetez",
+      "ils": "jettent",
+      "elles": "jettent"
+    },
+    "Imparfait": {
+      "je": "jetais",
+      "tu": "jetais",
+      "il": "jetait",
+      "elle": "jetait",
+      "on": "jetait",
+      "nous": "jetions",
+      "vous": "jetiez",
+      "ils": "jetaient",
+      "elles": "jetaient"
+    },
+    "Futur": {
+      "je": "jeterai",
+      "tu": "jeteras",
+      "il": "jetera",
+      "elle": "jetera",
+      "on": "jetera",
+      "nous": "jeterons",
+      "vous": "jeterez",
+      "ils": "jeteront",
+      "elles": "jeteront"
+    },
+    "Passé_composé": {
+      "je": "ai jeté",
+      "tu": "as jeté",
+      "il": "a jeté",
+      "elle": "a jeté",
+      "on": "a jeté",
+      "nous": "avons jeté",
+      "vous": "avez jeté",
+      "ils": "ont jeté",
+      "elles": "ont jeté"
+    },
+    "Conditionnel_présent": {
+      "je": "jeterais",
+      "tu": "jeterais",
+      "il": "jeterait",
+      "elle": "jeterait",
+      "on": "jeterait",
+      "nous": "jeterions",
+      "vous": "jeteriez",
+      "ils": "jeteraient",
+      "elles": "jeteraient"
+    },
+    "Conditionnel_passé": {
+      "je": "aurais jeté",
+      "tu": "aurais jeté",
+      "il": "aurait jeté",
+      "elle": "aurait jeté",
+      "on": "aurait jeté",
+      "nous": "aurions jeté",
+      "vous": "auriez jeté",
+      "ils": "auraient jeté",
+      "elles": "auraient jeté"
+    },
+    "Subjonctif_présent": {
+      "je": "jette",
+      "tu": "jettes",
+      "il": "jette",
+      "elle": "jette",
+      "on": "jette",
+      "nous": "jetions",
+      "vous": "jetiez",
+      "ils": "jettent",
+      "elles": "jettent"
+    },
+    "Plus_que_parfait": {
+      "je": "avais jeté",
+      "tu": "avais jeté",
+      "il": "avait jeté",
+      "elle": "avait jeté",
+      "on": "avait jeté",
+      "nous": "avions jeté",
+      "vous": "aviez jeté",
+      "ils": "avaient jeté",
+      "elles": "avaient jeté"
+    }
+  }
+}

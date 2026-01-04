@@ -1,0 +1,92 @@
+{
+  "dormir": {
+    "Présent": {
+      "je": "dors",
+      "tu": "dors",
+      "il": "dort",
+      "elle": "dort",
+      "on": "dort",
+      "nous": "dormons",
+      "vous": "dormez",
+      "ils": "dorment",
+      "elles": "dorment"
+    },
+    "Imparfait": {
+      "je": "dormais",
+      "tu": "dormais",
+      "il": "dormait",
+      "elle": "dormait",
+      "on": "dormait",
+      "nous": "dormions",
+      "vous": "dormiez",
+      "ils": "dormaient",
+      "elles": "dormaient"
+    },
+    "Futur": {
+      "je": "dormirai",
+      "tu": "dormiras",
+      "il": "dormira",
+      "elle": "dormira",
+      "on": "dormira",
+      "nous": "dormirons",
+      "vous": "dormirez",
+      "ils": "dormiront",
+      "elles": "dormiront"
+    },
+    "Passé_composé": {
+      "je": "ai dormi",
+      "tu": "as dormi",
+      "il": "a dormi",
+      "elle": "a dormi",
+      "on": "a dormi",
+      "nous": "avons dormi",
+      "vous": "avez dormi",
+      "ils": "ont dormi",
+      "elles": "ont dormi"
+    },
+    "Conditionnel_présent": {
+      "je": "dormirais",
+      "tu": "dormirais",
+      "il": "dormirait",
+      "elle": "dormirait",
+      "on": "dormirait",
+      "nous": "dormirions",
+      "vous": "dormiriez",
+      "ils": "dormiraient",
+      "elles": "dormiraient"
+    },
+    "Conditionnel_passé": {
+      "je": "aurais dormi",
+      "tu": "aurais dormi",
+      "il": "aurait dormi",
+      "elle": "aurait dormi",
+      "on": "aurait dormi",
+      "nous": "aurions dormi",
+      "vous": "auriez dormi",
+      "ils": "auraient dormi",
+      "elles": "auraient dormi"
+    },
+    "Subjonctif_présent": {
+      "je": "dorme",
+      "tu": "dormes",
+      "il": "dorme",
+      "elle": "dorme",
+      "on": "dorme",
+      "nous": "dormions",
+      "vous": "dormiez",
+      "ils": "dorment",
+      "elles": "dorment"
+    },
+    "Plus_que_parfait": {
+      "je": "avais dormi",
+      "tu": "avais dormi",
+      "il": "avait dormi",
+      "elle": "avait dormi",
+      "on": "avait dormi",
+      "nous": "avions dormi",
+      "vous": "aviez dormi",
+      "ils": "avaient dormi",
+      "elles": "avaient dormi"
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "savoir": {
+    "Présent": {
+      "je": "sais",
+      "tu": "sais",
+      "il": "sait",
+      "elle": "sait",
+      "on": "sait",
+      "nous": "savons",
+      "vous": "savez",
+      "ils": "savent",
+      "elles": "savent"
+    },
+    "Imparfait": {
+      "je": "savais",
+      "tu": "savais",
+      "il": "savait",
+      "elle": "savait",
+      "on": "savait",
+      "nous": "savions",
+      "vous": "saviez",
+      "ils": "savaient",
+      "elles": "savaient"
+    },
+    "Futur": {
+      "je": "saurai",
+      "tu": "sauras",
+      "il": "saura",
+      "elle": "saura",
+      "on": "saura",
+      "nous": "saurons",
+      "vous": "saurez",
+      "ils": "sauront",
+      "elles": "sauront"
+    },
+    "Passé_composé": {
+      "je": "ai su",
+      "tu": "as su",
+      "il": "a su",
+      "elle": "a su",
+      "on": "a su",
+      "nous": "avons su",
+      "vous": "avez su",
+      "ils": "ont su",
+      "elles": "ont su"
+    },
+    "Conditionnel_présent": {
+      "je": "saurais",
+      "tu": "saurais",
+      "il": "saurait",
+      "elle": "saurait",
+      "on": "saurait",
+      "nous": "saurions",
+      "vous": "sauriez",
+      "ils": "sauraient",
+      "elles": "sauraient"
+    },
+    "Conditionnel_passé": {
+      "je": "aurais su",
+      "tu": "aurais su",
+      "il": "aurait su",
+      "elle": "aurait su",
+      "on": "aurait su",
+      "nous": "aurions su",
+      "vous": "auriez su",
+      "ils": "auraient su",
+      "elles": "auraient su"
+    },
+    "Subjonctif_présent": {
+      "je": "sache",
+      "tu": "saches",
+      "il": "sache",
+      "elle": "sache",
+      "on": "sache",
+      "nous": "sachions",
+      "vous": "sachiez",
+      "ils": "sachent",
+      "elles": "sachent"
+    },
+    "Plus_que_parfait": {
+      "je": "avais su",
+      "tu": "avais su",
+      "il": "avait su",
+      "elle": "avait su",
+      "on": "avait su",
+      "nous": "avions su",
+      "vous": "aviez su",
+      "ils": "avaient su",
+      "elles": "avaient su"
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "rire": {
+    "Présent": {
+      "je": "ris",
+      "tu": "ris",
+      "il": "rit",
+      "elle": "rit",
+      "on": "rit",
+      "nous": "rions",
+      "vous": "riez",
+      "ils": "rient",
+      "elles": "rient"
+    },
+    "Imparfait": {
+      "je": "riais",
+      "tu": "riais",
+      "il": "riait",
+      "elle": "riait",
+      "on": "riait",
+      "nous": "riions",
+      "vous": "riiez",
+      "ils": "riaient",
+      "elles": "riaient"
+    },
+    "Futur": {
+      "je": "rirai",
+      "tu": "riras",
+      "il": "rira",
+      "elle": "rira",
+      "on": "rira",
+      "nous": "rirons",
+      "vous": "rirez",
+      "ils": "riront",
+      "elles": "riront"
+    },
+    "Passé_composé": {
+      "je": "ai ri",
+      "tu": "as ri",
+      "il": "a ri",
+      "elle": "a ri",
+      "on": "a ri",
+      "nous": "avons ri",
+      "vous": "avez ri",
+      "ils": "ont ri",
+      "elles": "ont ri"
+    },
+    "Conditionnel_présent": {
+      "je": "rirais",
+      "tu": "rirais",
+      "il": "rirait",
+      "elle": "rirait",
+      "on": "rirait",
+      "nous": "ririons",
+      "vous": "ririez",
+      "ils": "riraient",
+      "elles": "riraient"
+    },
+    "Conditionnel_passé": {
+      "je": "aurais ri",
+      "tu": "aurais ri",
+      "il": "aurait ri",
+      "elle": "aurait ri",
+      "on": "aurait ri",
+      "nous": "aurions ri",
+      "vous": "auriez ri",
+      "ils": "auraient ri",
+      "elles": "auraient ri"
+    },
+    "Subjonctif_présent": {
+      "je": "rie",
+      "tu": "ries",
+      "il": "rie",
+      "elle": "rie",
+      "on": "rie",
+      "nous": "riions",
+      "vous": "riiez",
+      "ils": "rient",
+      "elles": "rient"
+    },
+    "Plus_que_parfait": {
+      "je": "avais ri",
+      "tu": "avais ri",
+      "il": "avait ri",
+      "elle": "avait ri",
+      "on": "avait ri",
+      "nous": "avions ri",
+      "vous": "aviez ri",
+      "ils": "avaient ri",
+      "elles": "avaient ri"
+    }
+  }
+}

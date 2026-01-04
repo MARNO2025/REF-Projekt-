@@ -1,0 +1,92 @@
+{
+  "se promener": {
+    "Présent": {
+      "je": "me promène",
+      "tu": "te promènes",
+      "il": "se promène",
+      "elle": "se promène",
+      "on": "se promène",
+      "nous": "nous promenons",
+      "vous": "vous promenez",
+      "ils": "se promènent",
+      "elles": "se promènent"
+    },
+    "Imparfait": {
+      "je": "me promenais",
+      "tu": "te promenais",
+      "il": "se promenait",
+      "elle": "se promenait",
+      "on": "se promenait",
+      "nous": "nous promenions",
+      "vous": "vous promeniez",
+      "ils": "se promenaient",
+      "elles": "se promenaient"
+    },
+    "Futur": {
+      "je": "me promènerai",
+      "tu": "te promèneras",
+      "il": "se promènera",
+      "elle": "se promènera",
+      "on": "se promènera",
+      "nous": "nous promènerons",
+      "vous": "vous promènerez",
+      "ils": "se promèneront",
+      "elles": "se promèneront"
+    },
+    "Passé_composé": {
+      "je": "me suis promené",
+      "tu": "t'es promené",
+      "il": "s'est promené",
+      "elle": "s'est promenée",
+      "on": "s'est promené",
+      "nous": "nous sommes promenés",
+      "vous": "vous êtes promenés",
+      "ils": "se sont promenés",
+      "elles": "se sont promenées"
+    },
+    "Conditionnel_présent": {
+      "je": "me promènerais",
+      "tu": "te promènerais",
+      "il": "se promènerait",
+      "elle": "se promènerait",
+      "on": "se promènerait",
+      "nous": "nous promènerions",
+      "vous": "vous promèneriez",
+      "ils": "se promèneraient",
+      "elles": "se promèneraient"
+    },
+    "Conditionnel_passé": {
+      "je": "me serais promené",
+      "tu": "te serais promené",
+      "il": "se serait promené",
+      "elle": "se serait promenée",
+      "on": "se serait promené",
+      "nous": "nous serions promenés",
+      "vous": "vous seriez promenés",
+      "ils": "se seraient promenés",
+      "elles": "se seraient promenées"
+    },
+    "Subjonctif_présent": {
+      "je": "me promène",
+      "tu": "te promènes",
+      "il": "se promène",
+      "elle": "se promène",
+      "on": "se promène",
+      "nous": "nous promenions",
+      "vous": "vous promeniez",
+      "ils": "se promènent",
+      "elles": "se promènent"
+    },
+    "Plus_que_parfait": {
+      "je": "m'étais promené",
+      "tu": "t'étais promené",
+      "il": "s'était promené",
+      "elle": "s'était promenée",
+      "on": "s'était promené",
+      "nous": "nous étions promenés",
+      "vous": "vous étiez promenés",
+      "ils": "s'étaient promenés",
+      "elles": "s'étaient promenées"
+    }
+  }
+}

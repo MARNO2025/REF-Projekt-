@@ -1,0 +1,92 @@
+{
+  "agir": {
+    "Présent": {
+      "je": "agis",
+      "tu": "agis",
+      "il": "agit",
+      "elle": "agit",
+      "on": "agit",
+      "nous": "agissons",
+      "vous": "agissez",
+      "ils": "agissent",
+      "elles": "agissent"
+    },
+    "Imparfait": {
+      "je": "agissais",
+      "tu": "agissais",
+      "il": "agissait",
+      "elle": "agissait",
+      "on": "agissait",
+      "nous": "agissions",
+      "vous": "agissiez",
+      "ils": "agissaient",
+      "elles": "agissaient"
+    },
+    "Futur": {
+      "je": "agirai",
+      "tu": "agiras",
+      "il": "agira",
+      "elle": "agira",
+      "on": "agira",
+      "nous": "agirons",
+      "vous": "agirez",
+      "ils": "agiront",
+      "elles": "agiront"
+    },
+    "Passé_composé": {
+      "je": "ai agi",
+      "tu": "as agi",
+      "il": "a agi",
+      "elle": "a agi",
+      "on": "a agi",
+      "nous": "avons agi",
+      "vous": "avez agi",
+      "ils": "ont agi",
+      "elles": "ont agi"
+    },
+    "Conditionnel_présent": {
+      "je": "agirais",
+      "tu": "agirais",
+      "il": "agirait",
+      "elle": "agirait",
+      "on": "agirait",
+      "nous": "agirions",
+      "vous": "agiriez",
+      "ils": "agiraient",
+      "elles": "agiraient"
+    },
+    "Conditionnel_passé": {
+      "je": "aurais agi",
+      "tu": "aurais agi",
+      "il": "aurait agi",
+      "elle": "aurait agi",
+      "on": "aurait agi",
+      "nous": "aurions agi",
+      "vous": "auriez agi",
+      "ils": "auraient agi",
+      "elles": "auraient agi"
+    },
+    "Subjonctif_présent": {
+      "je": "agisse",
+      "tu": "agisses",
+      "il": "agisse",
+      "elle": "agisse",
+      "on": "agisse",
+      "nous": "agissions",
+      "vous": "agissiez",
+      "ils": "agissent",
+      "elles": "agissent"
+    },
+    "Plus_que_parfait": {
+      "je": "avais agi",
+      "tu": "avais agi",
+      "il": "avait agi",
+      "elle": "avait agi",
+      "on": "avait agi",
+      "nous": "avions agi",
+      "vous": "aviez agi",
+      "ils": "avaient agi",
+      "elles": "avaient agi"
+    }
+  }
+}

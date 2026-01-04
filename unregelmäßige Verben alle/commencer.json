@@ -1,0 +1,92 @@
+{
+  "commencer": {
+    "Présent": {
+      "je": "commence",
+      "tu": "commences",
+      "il": "commence",
+      "elle": "commence",
+      "on": "commence",
+      "nous": "commençons",
+      "vous": "commencez",
+      "ils": "commencent",
+      "elles": "commencent"
+    },
+    "Imparfait": {
+      "je": "commençais",
+      "tu": "commençais",
+      "il": "commençait",
+      "elle": "commençait",
+      "on": "commençait",
+      "nous": "commencions",
+      "vous": "commenciez",
+      "ils": "commençaient",
+      "elles": "commençaient"
+    },
+    "Futur": {
+      "je": "commencerai",
+      "tu": "commenceras",
+      "il": "commencera",
+      "elle": "commencera",
+      "on": "commencera",
+      "nous": "commencerons",
+      "vous": "commencerez",
+      "ils": "commenceront",
+      "elles": "commenceront"
+    },
+    "Passé_composé": {
+      "je": "ai commencé",
+      "tu": "as commencé",
+      "il": "a commencé",
+      "elle": "a commencé",
+      "on": "a commencé",
+      "nous": "avons commencé",
+      "vous": "avez commencé",
+      "ils": "ont commencé",
+      "elles": "ont commencé"
+    },
+    "Conditionnel_présent": {
+      "je": "commencerais",
+      "tu": "commencerais",
+      "il": "commencerait",
+      "elle": "commencerait",
+      "on": "commencerait",
+      "nous": "commencerions",
+      "vous": "commenceriez",
+      "ils": "commenceraient",
+      "elles": "commenceraient"
+    },
+    "Conditionnel_passé": {
+      "je": "aurais commencé",
+      "tu": "aurais commencé",
+      "il": "aurait commencé",
+      "elle": "aurait commencé",
+      "on": "aurait commencé",
+      "nous": "aurions commencé",
+      "vous": "auriez commencé",
+      "ils": "auraient commencé",
+      "elles": "auraient commencé"
+    },
+    "Subjonctif_présent": {
+      "je": "commence",
+      "tu": "commences",
+      "il": "commence",
+      "elle": "commence",
+      "on": "commence",
+      "nous": "commencions",
+      "vous": "commenciez",
+      "ils": "commencent",
+      "elles": "commencent"
+    },
+    "Plus_que_parfait": {
+      "je": "avais commencé",
+      "tu": "avais commencé",
+      "il": "avait commencé",
+      "elle": "avait commencé",
+      "on": "avait commencé",
+      "nous": "avions commencé",
+      "vous": "aviez commencé",
+      "ils": "avaient commencé",
+      "elles": "avaient commencé"
+    }
+  }
+}

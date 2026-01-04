@@ -1,0 +1,92 @@
+{
+  "recevoir": {
+    "Présent": {
+      "je": "reçois",
+      "tu": "reçois",
+      "il": "reçoit",
+      "elle": "reçoit",
+      "on": "reçoit",
+      "nous": "recevons",
+      "vous": "recevez",
+      "ils": "reçoivent",
+      "elles": "reçoivent"
+    },
+    "Imparfait": {
+      "je": "recevais",
+      "tu": "recevais",
+      "il": "recevait",
+      "elle": "recevait",
+      "on": "recevait",
+      "nous": "recevions",
+      "vous": "receviez",
+      "ils": "recevaient",
+      "elles": "recevaient"
+    },
+    "Futur": {
+      "je": "recevrai",
+      "tu": "recevras",
+      "il": "recevra",
+      "elle": "recevra",
+      "on": "recevra",
+      "nous": "recevrons",
+      "vous": "recevrez",
+      "ils": "recevront",
+      "elles": "recevront"
+    },
+    "Passé_composé": {
+      "je": "ai reçu",
+      "tu": "as reçu",
+      "il": "a reçu",
+      "elle": "a reçu",
+      "on": "a reçu",
+      "nous": "avons reçu",
+      "vous": "avez reçu",
+      "ils": "ont reçu",
+      "elles": "ont reçu"
+    },
+    "Conditionnel_présent": {
+      "je": "recevrais",
+      "tu": "recevrais",
+      "il": "recevrait",
+      "elle": "recevrait",
+      "on": "recevrait",
+      "nous": "recevrions",
+      "vous": "recevriez",
+      "ils": "recevraient",
+      "elles": "recevraient"
+    },
+    "Conditionnel_passé": {
+      "je": "aurais reçu",
+      "tu": "aurais reçu",
+      "il": "aurait reçu",
+      "elle": "aurait reçu",
+      "on": "aurait reçu",
+      "nous": "aurions reçu",
+      "vous": "auriez reçu",
+      "ils": "auraient reçu",
+      "elles": "auraient reçu"
+    },
+    "Subjonctif_présent": {
+      "je": "reçoive",
+      "tu": "reçoives",
+      "il": "reçoive",
+      "elle": "reçoive",
+      "on": "reçoive",
+      "nous": "recevions",
+      "vous": "receviez",
+      "ils": "reçoivent",
+      "elles": "reçoivent"
+    },
+    "Plus_que_parfait": {
+      "je": "avais reçu",
+      "tu": "avais reçu",
+      "il": "avait reçu",
+      "elle": "avait reçu",
+      "on": "avait reçu",
+      "nous": "avions reçu",
+      "vous": "aviez reçu",
+      "ils": "avaient reçu",
+      "elles": "avaient reçu"
+    }
+  }
+}

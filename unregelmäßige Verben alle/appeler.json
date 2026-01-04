@@ -1,0 +1,92 @@
+{
+  "appeler": {
+    "Présent": {
+      "je": "appelle",
+      "tu": "appelles",
+      "il": "appelle",
+      "elle": "appelle",
+      "on": "appelle",
+      "nous": "appelons",
+      "vous": "appelez",
+      "ils": "appellent",
+      "elles": "appellent"
+    },
+    "Imparfait": {
+      "je": "appelais",
+      "tu": "appelais",
+      "il": "appelait",
+      "elle": "appelait",
+      "on": "appelait",
+      "nous": "appelions",
+      "vous": "appeliez",
+      "ils": "appelaient",
+      "elles": "appelaient"
+    },
+    "Futur": {
+      "je": "appellerai",
+      "tu": "appelleras",
+      "il": "appellera",
+      "elle": "appellera",
+      "on": "appellera",
+      "nous": "appellerons",
+      "vous": "appellerez",
+      "ils": "appelleront",
+      "elles": "appelleront"
+    },
+    "Passé_composé": {
+      "je": "ai appelé",
+      "tu": "as appelé",
+      "il": "a appelé",
+      "elle": "a appelé",
+      "on": "a appelé",
+      "nous": "avons appelé",
+      "vous": "avez appelé",
+      "ils": "ont appelé",
+      "elles": "ont appelé"
+    },
+    "Conditionnel_présent": {
+      "je": "appellerais",
+      "tu": "appellerais",
+      "il": "appellerait",
+      "elle": "appellerait",
+      "on": "appellerait",
+      "nous": "appellerions",
+      "vous": "appelleriez",
+      "ils": "appelleraient",
+      "elles": "appelleraient"
+    },
+    "Conditionnel_passé": {
+      "je": "aurais appelé",
+      "tu": "aurais appelé",
+      "il": "aurait appelé",
+      "elle": "aurait appelé",
+      "on": "aurait appelé",
+      "nous": "aurions appelé",
+      "vous": "auriez appelé",
+      "ils": "auraient appelé",
+      "elles": "auraient appelé"
+    },
+    "Subjonctif_présent": {
+      "je": "appelle",
+      "tu": "appelles",
+      "il": "appelle",
+      "elle": "appelle",
+      "on": "appelle",
+      "nous": "appelions",
+      "vous": "appeliez",
+      "ils": "appellent",
+      "elles": "appellent"
+    },
+    "Plus_que_parfait": {
+      "je": "avais appelé",
+      "tu": "avais appelé",
+      "il": "avait appelé",
+      "elle": "avait appelé",
+      "on": "avait appelé",
+      "nous": "avions appelé",
+      "vous": "aviez appelé",
+      "ils": "avaient appelé",
+      "elles": "avaient appelé"
+    }
+  }
+}

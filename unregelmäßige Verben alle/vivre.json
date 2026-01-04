@@ -1,0 +1,92 @@
+{
+  "vivre": {
+    "Présent": {
+      "je": "vis",
+      "tu": "vis",
+      "il": "vit",
+      "elle": "vit",
+      "on": "vit",
+      "nous": "vivons",
+      "vous": "vivez",
+      "ils": "vivent",
+      "elles": "vivent"
+    },
+    "Imparfait": {
+      "je": "vivais",
+      "tu": "vivais",
+      "il": "vivait",
+      "elle": "vivait",
+      "on": "vivait",
+      "nous": "vivions",
+      "vous": "viviez",
+      "ils": "vivaient",
+      "elles": "vivaient"
+    },
+    "Futur": {
+      "je": "vivrai",
+      "tu": "vivras",
+      "il": "vivra",
+      "elle": "vivra",
+      "on": "vivra",
+      "nous": "vivrons",
+      "vous": "vivrez",
+      "ils": "vivront",
+      "elles": "vivront"
+    },
+    "Passé_composé": {
+      "je": "ai vécu",
+      "tu": "as vécu",
+      "il": "a vécu",
+      "elle": "a vécu",
+      "on": "a vécu",
+      "nous": "avons vécu",
+      "vous": "avez vécu",
+      "ils": "ont vécu",
+      "elles": "ont vécu"
+    },
+    "Conditionnel_présent": {
+      "je": "vivrais",
+      "tu": "vivrais",
+      "il": "vivrait",
+      "elle": "vivrait",
+      "on": "vivrait",
+      "nous": "vivrions",
+      "vous": "vivriez",
+      "ils": "vivraient",
+      "elles": "vivraient"
+    },
+    "Conditionnel_passé": {
+      "je": "aurais vécu",
+      "tu": "aurais vécu",
+      "il": "aurait vécu",
+      "elle": "aurait vécu",
+      "on": "aurait vécu",
+      "nous": "aurions vécu",
+      "vous": "auriez vécu",
+      "ils": "auraient vécu",
+      "elles": "auraient vécu"
+    },
+    "Subjonctif_présent": {
+      "je": "vive",
+      "tu": "vives",
+      "il": "vive",
+      "elle": "vive",
+      "on": "vive",
+      "nous": "vivions",
+      "vous": "viviez",
+      "ils": "vivent",
+      "elles": "vivent"
+    },
+    "Plus_que_parfait": {
+      "je": "avais vécu",
+      "tu": "avais vécu",
+      "il": "avait vécu",
+      "elle": "avait vécu",
+      "on": "avait vécu",
+      "nous": "avions vécu",
+      "vous": "aviez vécu",
+      "ils": "avaient vécu",
+      "elles": "avaient vécu"
+    }
+  }
+}

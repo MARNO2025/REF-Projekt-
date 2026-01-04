@@ -1,0 +1,92 @@
+{
+  "payer": {
+    "Présent": {
+      "je": "paye",
+      "tu": "payes",
+      "il": "paye",
+      "elle": "paye",
+      "on": "paye",
+      "nous": "payons",
+      "vous": "payez",
+      "ils": "payent",
+      "elles": "payent"
+    },
+    "Imparfait": {
+      "je": "payais",
+      "tu": "payais",
+      "il": "payait",
+      "elle": "payait",
+      "on": "payait",
+      "nous": "payions",
+      "vous": "payiez",
+      "ils": "payaient",
+      "elles": "payaient"
+    },
+    "Futur": {
+      "je": "payerai",
+      "tu": "payeras",
+      "il": "payera",
+      "elle": "payera",
+      "on": "payera",
+      "nous": "payerons",
+      "vous": "payerez",
+      "ils": "payeront",
+      "elles": "payeront"
+    },
+    "Passé_composé": {
+      "je": "ai payé",
+      "tu": "as payé",
+      "il": "a payé",
+      "elle": "a payé",
+      "on": "a payé",
+      "nous": "avons payé",
+      "vous": "avez payé",
+      "ils": "ont payé",
+      "elles": "ont payé"
+    },
+    "Conditionnel_présent": {
+      "je": "payerais",
+      "tu": "payerais",
+      "il": "payerait",
+      "elle": "payerait",
+      "on": "payerait",
+      "nous": "payerions",
+      "vous": "payeriez",
+      "ils": "payeraient",
+      "elles": "payeraient"
+    },
+    "Conditionnel_passé": {
+      "je": "aurais payé",
+      "tu": "aurais payé",
+      "il": "aurait payé",
+      "elle": "aurait payé",
+      "on": "aurait payé",
+      "nous": "aurions payé",
+      "vous": "auriez payé",
+      "ils": "auraient payé",
+      "elles": "auraient payé"
+    },
+    "Subjonctif_présent": {
+      "je": "paye",
+      "tu": "payes",
+      "il": "paye",
+      "elle": "paye",
+      "on": "paye",
+      "nous": "payions",
+      "vous": "payiez",
+      "ils": "payent",
+      "elles": "payent"
+    },
+    "Plus_que_parfait": {
+      "je": "avais payé",
+      "tu": "avais payé",
+      "il": "avait payé",
+      "elle": "avait payé",
+      "on": "avait payé",
+      "nous": "avions payé",
+      "vous": "aviez payé",
+      "ils": "avaient payé",
+      "elles": "avaient payé"
+    }
+  }
+}

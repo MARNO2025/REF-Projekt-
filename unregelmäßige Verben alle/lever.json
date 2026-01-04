@@ -1,0 +1,92 @@
+{
+  "lever": {
+    "Présent": {
+      "je": "lève",
+      "tu": "lèves",
+      "il": "lève",
+      "elle": "lève",
+      "on": "lève",
+      "nous": "levons",
+      "vous": "levez",
+      "ils": "lèvent",
+      "elles": "lèvent"
+    },
+    "Imparfait": {
+      "je": "levais",
+      "tu": "levais",
+      "il": "levait",
+      "elle": "levait",
+      "on": "levait",
+      "nous": "levions",
+      "vous": "leviez",
+      "ils": "levaient",
+      "elles": "levaient"
+    },
+    "Futur": {
+      "je": "lèverai",
+      "tu": "lèveras",
+      "il": "lèvera",
+      "elle": "lèvera",
+      "on": "lèvera",
+      "nous": "lèverons",
+      "vous": "lèverez",
+      "ils": "lèveront",
+      "elles": "lèveront"
+    },
+    "Passé_composé": {
+      "je": "ai levé",
+      "tu": "as levé",
+      "il": "a levé",
+      "elle": "a levé",
+      "on": "a levé",
+      "nous": "avons levé",
+      "vous": "avez levé",
+      "ils": "ont levé",
+      "elles": "ont levé"
+    },
+    "Conditionnel_présent": {
+      "je": "lèverais",
+      "tu": "lèverais",
+      "il": "lèverait",
+      "elle": "lèverait",
+      "on": "lèverait",
+      "nous": "lèverions",
+      "vous": "lèveriez",
+      "ils": "lèveraient",
+      "elles": "lèveraient"
+    },
+    "Conditionnel_passé": {
+      "je": "aurais levé",
+      "tu": "aurais levé",
+      "il": "aurait levé",
+      "elle": "aurait levé",
+      "on": "aurait levé",
+      "nous": "aurions levé",
+      "vous": "auriez levé",
+      "ils": "auraient levé",
+      "elles": "auraient levé"
+    },
+    "Subjonctif_présent": {
+      "je": "lève",
+      "tu": "lèves",
+      "il": "lève",
+      "elle": "lève",
+      "on": "lève",
+      "nous": "levions",
+      "vous": "leviez",
+      "ils": "lèvent",
+      "elles": "lèvent"
+    },
+    "Plus_que_parfait": {
+      "je": "avais levé",
+      "tu": "avais levé",
+      "il": "avait levé",
+      "elle": "avait levé",
+      "on": "avait levé",
+      "nous": "avions levé",
+      "vous": "aviez levé",
+      "ils": "avaient levé",
+      "elles": "avaient levé"
+    }
+  }
+}

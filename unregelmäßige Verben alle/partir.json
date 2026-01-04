@@ -1,0 +1,92 @@
+{
+  "partir": {
+    "Présent": {
+      "je": "pars",
+      "tu": "pars",
+      "il": "part",
+      "elle": "part",
+      "on": "part",
+      "nous": "partons",
+      "vous": "partez",
+      "ils": "partent",
+      "elles": "partent"
+    },
+    "Imparfait": {
+      "je": "partais",
+      "tu": "partais",
+      "il": "partait",
+      "elle": "partait",
+      "on": "partait",
+      "nous": "partions",
+      "vous": "partiez",
+      "ils": "partaient",
+      "elles": "partaient"
+    },
+    "Futur": {
+      "je": "partirai",
+      "tu": "partiras",
+      "il": "partira",
+      "elle": "partira",
+      "on": "partira",
+      "nous": "partirons",
+      "vous": "partirez",
+      "ils": "partiront",
+      "elles": "partiront"
+    },
+    "Passé_composé": {
+      "je": "suis parti",
+      "tu": "es parti",
+      "il": "est parti",
+      "elle": "est partie",
+      "on": "est parti",
+      "nous": "sommes partis",
+      "vous": "êtes partis",
+      "ils": "sont partis",
+      "elles": "sont parties"
+    },
+    "Conditionnel_présent": {
+      "je": "partirais",
+      "tu": "partirais",
+      "il": "partirait",
+      "elle": "partirait",
+      "on": "partirait",
+      "nous": "partirions",
+      "vous": "partiriez",
+      "ils": "partiraient",
+      "elles": "partiraient"
+    },
+    "Conditionnel_passé": {
+      "je": "serais parti",
+      "tu": "serais parti",
+      "il": "serait parti",
+      "elle": "serait partie",
+      "on": "serait parti",
+      "nous": "serions partis",
+      "vous": "seriez partis",
+      "ils": "seraient partis",
+      "elles": "seraient parties"
+    },
+    "Subjonctif_présent": {
+      "je": "parte",
+      "tu": "partes",
+      "il": "parte",
+      "elle": "parte",
+      "on": "parte",
+      "nous": "partions",
+      "vous": "partiez",
+      "ils": "partent",
+      "elles": "partent"
+    },
+    "Plus_que_parfait": {
+      "je": "étais parti",
+      "tu": "étais parti",
+      "il": "était parti",
+      "elle": "était partie",
+      "on": "était parti",
+      "nous": "étions partis",
+      "vous": "étiez partis",
+      "ils": "étaient partis",
+      "elles": "étaient parties"
+    }
+  }
+}

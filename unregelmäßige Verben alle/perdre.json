@@ -1,0 +1,92 @@
+{
+  "perdre": {
+    "Présent": {
+      "je": "perds",
+      "tu": "perds",
+      "il": "perd",
+      "elle": "perd",
+      "on": "perd",
+      "nous": "perdons",
+      "vous": "perdez",
+      "ils": "perdent",
+      "elles": "perdent"
+    },
+    "Imparfait": {
+      "je": "perdais",
+      "tu": "perdais",
+      "il": "perdait",
+      "elle": "perdait",
+      "on": "perdait",
+      "nous": "perdions",
+      "vous": "perdiez",
+      "ils": "perdaient",
+      "elles": "perdaient"
+    },
+    "Futur": {
+      "je": "perdrai",
+      "tu": "perdras",
+      "il": "perdra",
+      "elle": "perdra",
+      "on": "perdra",
+      "nous": "perdrons",
+      "vous": "perdrez",
+      "ils": "perdront",
+      "elles": "perdront"
+    },
+    "Passé_composé": {
+      "je": "ai perdu",
+      "tu": "as perdu",
+      "il": "a perdu",
+      "elle": "a perdu",
+      "on": "a perdu",
+      "nous": "avons perdu",
+      "vous": "avez perdu",
+      "ils": "ont perdu",
+      "elles": "ont perdu"
+    },
+    "Conditionnel_présent": {
+      "je": "perdrais",
+      "tu": "perdrais",
+      "il": "perdrait",
+      "elle": "perdrait",
+      "on": "perdrait",
+      "nous": "perdrions",
+      "vous": "perdriez",
+      "ils": "perdraient",
+      "elles": "perdraient"
+    },
+    "Conditionnel_passé": {
+      "je": "aurais perdu",
+      "tu": "aurais perdu",
+      "il": "aurait perdu",
+      "elle": "aurait perdu",
+      "on": "aurait perdu",
+      "nous": "aurions perdu",
+      "vous": "auriez perdu",
+      "ils": "auraient perdu",
+      "elles": "auraient perdu"
+    },
+    "Subjonctif_présent": {
+      "je": "perde",
+      "tu": "perdes",
+      "il": "perde",
+      "elle": "perde",
+      "on": "perde",
+      "nous": "perdions",
+      "vous": "perdiez",
+      "ils": "perdent",
+      "elles": "perdent"
+    },
+    "Plus_que_parfait": {
+      "je": "avais perdu",
+      "tu": "avais perdu",
+      "il": "avait perdu",
+      "elle": "avait perdu",
+      "on": "avait perdu",
+      "nous": "avions perdu",
+      "vous": "aviez perdu",
+      "ils": "avaient perdu",
+      "elles": "avaient perdu"
+    }
+  }
+}

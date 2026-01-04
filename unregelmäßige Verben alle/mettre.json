@@ -1,0 +1,92 @@
+{
+  "mettre": {
+    "Présent": {
+      "je": "mets",
+      "tu": "mets",
+      "il": "met",
+      "elle": "met",
+      "on": "met",
+      "nous": "mettons",
+      "vous": "mettez",
+      "ils": "mettent",
+      "elles": "mettent"
+    },
+    "Imparfait": {
+      "je": "mettais",
+      "tu": "mettais",
+      "il": "mettait",
+      "elle": "mettait",
+      "on": "mettait",
+      "nous": "mettions",
+      "vous": "mettiez",
+      "ils": "mettaient",
+      "elles": "mettaient"
+    },
+    "Futur": {
+      "je": "mettrai",
+      "tu": "mettras",
+      "il": "mettra",
+      "elle": "mettra",
+      "on": "mettra",
+      "nous": "mettrons",
+      "vous": "mettrez",
+      "ils": "mettront",
+      "elles": "mettront"
+    },
+    "Passé_composé": {
+      "je": "ai mis",
+      "tu": "as mis",
+      "il": "a mis",
+      "elle": "a mis",
+      "on": "a mis",
+      "nous": "avons mis",
+      "vous": "avez mis",
+      "ils": "ont mis",
+      "elles": "ont mis"
+    },
+    "Conditionnel_présent": {
+      "je": "mettrais",
+      "tu": "mettrais",
+      "il": "mettrait",
+      "elle": "mettrait",
+      "on": "mettrait",
+      "nous": "mettrions",
+      "vous": "mettriez",
+      "ils": "mettraient",
+      "elles": "mettraient"
+    },
+    "Conditionnel_passé": {
+      "je": "aurais mis",
+      "tu": "aurais mis",
+      "il": "aurait mis",
+      "elle": "aurait mis",
+      "on": "aurait mis",
+      "nous": "aurions mis",
+      "vous": "auriez mis",
+      "ils": "auraient mis",
+      "elles": "auraient mis"
+    },
+    "Subjonctif_présent": {
+      "je": "mette",
+      "tu": "mettes",
+      "il": "mette",
+      "elle": "mette",
+      "on": "mette",
+      "nous": "mettions",
+      "vous": "mettiez",
+      "ils": "mettent",
+      "elles": "mettent"
+    },
+    "Plus_que_parfait": {
+      "je": "avais mis",
+      "tu": "avais mis",
+      "il": "avait mis",
+      "elle": "avait mis",
+      "on": "avait mis",
+      "nous": "avions mis",
+      "vous": "aviez mis",
+      "ils": "avaient mis",
+      "elles": "avaient mis"
+    }
+  }
+}

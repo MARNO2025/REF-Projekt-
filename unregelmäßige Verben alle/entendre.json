@@ -1,0 +1,92 @@
+{
+  "entendre": {
+    "Présent": {
+      "je": "entends",
+      "tu": "entends",
+      "il": "entend",
+      "elle": "entend",
+      "on": "entend",
+      "nous": "entendons",
+      "vous": "entendez",
+      "ils": "entendent",
+      "elles": "entendent"
+    },
+    "Imparfait": {
+      "je": "entendais",
+      "tu": "entendais",
+      "il": "entendait",
+      "elle": "entendait",
+      "on": "entendait",
+      "nous": "entendions",
+      "vous": "entendiez",
+      "ils": "entendaient",
+      "elles": "entendaient"
+    },
+    "Futur": {
+      "je": "entendrai",
+      "tu": "entendras",
+      "il": "entendra",
+      "elle": "entendra",
+      "on": "entendra",
+      "nous": "entendrons",
+      "vous": "entendrez",
+      "ils": "entendront",
+      "elles": "entendront"
+    },
+    "Passé_composé": {
+      "je": "ai entendu",
+      "tu": "as entendu",
+      "il": "a entendu",
+      "elle": "a entendu",
+      "on": "a entendu",
+      "nous": "avons entendu",
+      "vous": "avez entendu",
+      "ils": "ont entendu",
+      "elles": "ont entendu"
+    },
+    "Conditionnel_présent": {
+      "je": "entendrais",
+      "tu": "entendrais",
+      "il": "entendrait",
+      "elle": "entendrait",
+      "on": "entendrait",
+      "nous": "entendrions",
+      "vous": "entendriez",
+      "ils": "entendraient",
+      "elles": "entendraient"
+    },
+    "Conditionnel_passé": {
+      "je": "aurais entendu",
+      "tu": "aurais entendu",
+      "il": "aurait entendu",
+      "elle": "aurait entendu",
+      "on": "aurait entendu",
+      "nous": "aurions entendu",
+      "vous": "auriez entendu",
+      "ils": "auraient entendu",
+      "elles": "auraient entendu"
+    },
+    "Subjonctif_présent": {
+      "je": "entende",
+      "tu": "entendes",
+      "il": "entende",
+      "elle": "entende",
+      "on": "entende",
+      "nous": "entendions",
+      "vous": "entendiez",
+      "ils": "entendent",
+      "elles": "entendent"
+    },
+    "Plus_que_parfait": {
+      "je": "avais entendu",
+      "tu": "avais entendu",
+      "il": "avait entendu",
+      "elle": "avait entendu",
+      "on": "avait entendu",
+      "nous": "avions entendu",
+      "vous": "aviez entendu",
+      "ils": "avaient entendu",
+      "elles": "avaient entendu"
+    }
+  }
+}

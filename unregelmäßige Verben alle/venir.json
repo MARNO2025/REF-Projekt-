@@ -1,0 +1,92 @@
+{
+  "venir": {
+    "Présent": {
+      "je": "viens",
+      "tu": "viens",
+      "il": "vient",
+      "elle": "vient",
+      "on": "vient",
+      "nous": "venons",
+      "vous": "venez",
+      "ils": "viennent",
+      "elles": "viennent"
+    },
+    "Imparfait": {
+      "je": "venais",
+      "tu": "venais",
+      "il": "venait",
+      "elle": "venait",
+      "on": "venait",
+      "nous": "venions",
+      "vous": "veniez",
+      "ils": "venaient",
+      "elles": "venaient"
+    },
+    "Futur": {
+      "je": "viendrai",
+      "tu": "viendras",
+      "il": "viendra",
+      "elle": "viendra",
+      "on": "viendra",
+      "nous": "viendrons",
+      "vous": "viendrez",
+      "ils": "viendront",
+      "elles": "viendront"
+    },
+    "Passé_composé": {
+      "je": "suis venu",
+      "tu": "es venu",
+      "il": "est venu",
+      "elle": "est venue",
+      "on": "est venu",
+      "nous": "sommes venus",
+      "vous": "êtes venus",
+      "ils": "sont venus",
+      "elles": "sont venues"
+    },
+    "Conditionnel_présent": {
+      "je": "viendrais",
+      "tu": "viendrais",
+      "il": "viendrait",
+      "elle": "viendrait",
+      "on": "viendrait",
+      "nous": "viendrions",
+      "vous": "viendriez",
+      "ils": "viendraient",
+      "elles": "viendraient"
+    },
+    "Conditionnel_passé": {
+      "je": "serais venu",
+      "tu": "serais venu",
+      "il": "serait venu",
+      "elle": "serait venue",
+      "on": "serait venu",
+      "nous": "serions venus",
+      "vous": "seriez venus",
+      "ils": "seraient venus",
+      "elles": "seraient venues"
+    },
+    "Subjonctif_présent": {
+      "je": "vienne",
+      "tu": "viennes",
+      "il": "vienne",
+      "elle": "vienne",
+      "on": "vienne",
+      "nous": "venions",
+      "vous": "veniez",
+      "ils": "viennent",
+      "elles": "viennent"
+    },
+    "Plus_que_parfait": {
+      "je": "étais venu",
+      "tu": "étais venu",
+      "il": "était venu",
+      "elle": "était venue",
+      "on": "était venu",
+      "nous": "étions venus",
+      "vous": "étiez venus",
+      "ils": "étaient venus",
+      "elles": "étaient venues"
+    }
+  }
+}

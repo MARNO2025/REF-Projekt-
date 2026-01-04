@@ -1,0 +1,92 @@
+{
+  "voyager": {
+    "Présent": {
+      "je": "voyage",
+      "tu": "voyages",
+      "il": "voyage",
+      "elle": "voyage",
+      "on": "voyage",
+      "nous": "voyageons",
+      "vous": "voyagez",
+      "ils": "voyagent",
+      "elles": "voyagent"
+    },
+    "Imparfait": {
+      "je": "voyageais",
+      "tu": "voyageais",
+      "il": "voyageait",
+      "elle": "voyageait",
+      "on": "voyageait",
+      "nous": "voyagions",
+      "vous": "voyagiez",
+      "ils": "voyageaient",
+      "elles": "voyageaient"
+    },
+    "Futur": {
+      "je": "voyagerai",
+      "tu": "voyageras",
+      "il": "voyagera",
+      "elle": "voyagera",
+      "on": "voyagera",
+      "nous": "voyagerons",
+      "vous": "voyagerez",
+      "ils": "voyageront",
+      "elles": "voyageront"
+    },
+    "Passé_composé": {
+      "je": "ai voyagé",
+      "tu": "as voyagé",
+      "il": "a voyagé",
+      "elle": "a voyagé",
+      "on": "a voyagé",
+      "nous": "avons voyagé",
+      "vous": "avez voyagé",
+      "ils": "ont voyagé",
+      "elles": "ont voyagé"
+    },
+    "Conditionnel_présent": {
+      "je": "voyagerais",
+      "tu": "voyagerais",
+      "il": "voyagerait",
+      "elle": "voyagerait",
+      "on": "voyagerait",
+      "nous": "voyagerions",
+      "vous": "voyageriez",
+      "ils": "voyageraient",
+      "elles": "voyageraient"
+    },
+    "Conditionnel_passé": {
+      "je": "aurais voyagé",
+      "tu": "aurais voyagé",
+      "il": "aurait voyagé",
+      "elle": "aurait voyagé",
+      "on": "aurait voyagé",
+      "nous": "aurions voyagé",
+      "vous": "auriez voyagé",
+      "ils": "auraient voyagé",
+      "elles": "auraient voyagé"
+    },
+    "Subjonctif_présent": {
+      "je": "voyage",
+      "tu": "voyages",
+      "il": "voyage",
+      "elle": "voyage",
+      "on": "voyage",
+      "nous": "voyagions",
+      "vous": "voyagiez",
+      "ils": "voyagent",
+      "elles": "voyagent"
+    },
+    "Plus_que_parfait": {
+      "je": "avais voyagé",
+      "tu": "avais voyagé",
+      "il": "avait voyagé",
+      "elle": "avait voyagé",
+      "on": "avait voyagé",
+      "nous": "avions voyagé",
+      "vous": "aviez voyagé",
+      "ils": "avaient voyagé",
+      "elles": "avaient voyagé"
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "arriver": {
+    "Présent": {
+      "je": "arrive",
+      "tu": "arrives",
+      "il": "arrive",
+      "elle": "arrive",
+      "on": "arrive",
+      "nous": "arrivons",
+      "vous": "arrivez",
+      "ils": "arrivent",
+      "elles": "arrivent"
+    },
+    "Imparfait": {
+      "je": "arrivais",
+      "tu": "arrivais",
+      "il": "arrivait",
+      "elle": "arrivait",
+      "on": "arrivait",
+      "nous": "arrivions",
+      "vous": "arriviez",
+      "ils": "arrivaient",
+      "elles": "arrivaient"
+    },
+    "Futur": {
+      "je": "arriverai",
+      "tu": "arriveras",
+      "il": "arrivera",
+      "elle": "arrivera",
+      "on": "arrivera",
+      "nous": "arriverons",
+      "vous": "arriverez",
+      "ils": "arriveront",
+      "elles": "arriveront"
+    },
+    "Passé_composé": {
+      "je": "suis arrivé",
+      "tu": "es arrivé",
+      "il": "est arrivé",
+      "elle": "est arrivée",
+      "on": "est arrivé",
+      "nous": "sommes arrivés",
+      "vous": "êtes arrivés",
+      "ils": "sont arrivés",
+      "elles": "sont arrivées"
+    },
+    "Conditionnel_présent": {
+      "je": "arriverais",
+      "tu": "arriverais",
+      "il": "arriverait",
+      "elle": "arriverait",
+      "on": "arriverait",
+      "nous": "arriverions",
+      "vous": "arriveriez",
+      "ils": "arriveraient",
+      "elles": "arriveraient"
+    },
+    "Conditionnel_passé": {
+      "je": "serais arrivé",
+      "tu": "serais arrivé",
+      "il": "serait arrivé",
+      "elle": "serait arrivée",
+      "on": "serait arrivé",
+      "nous": "serions arrivés",
+      "vous": "seriez arrivés",
+      "ils": "seraient arrivés",
+      "elles": "seraient arrivées"
+    },
+    "Subjonctif_présent": {
+      "je": "arrive",
+      "tu": "arrives",
+      "il": "arrive",
+      "elle": "arrive",
+      "on": "arrive",
+      "nous": "arrivions",
+      "vous": "arriviez",
+      "ils": "arrivent",
+      "elles": "arrivent"
+    },
+    "Plus_que_parfait": {
+      "je": "étais arrivé",
+      "tu": "étais arrivé",
+      "il": "était arrivé",
+      "elle": "était arrivée",
+      "on": "était arrivé",
+      "nous": "étions arrivés",
+      "vous": "étiez arrivés",
+      "ils": "étaient arrivés",
+      "elles": "étaient arrivées"
+    }
+  }
+}

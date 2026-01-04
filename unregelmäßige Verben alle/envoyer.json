@@ -1,0 +1,92 @@
+{
+  "envoyer": {
+    "Présent": {
+      "je": "envoie",
+      "tu": "envoies",
+      "il": "envoie",
+      "elle": "envoie",
+      "on": "envoie",
+      "nous": "envoyons",
+      "vous": "envoyez",
+      "ils": "envoient",
+      "elles": "envoient"
+    },
+    "Imparfait": {
+      "je": "envoyais",
+      "tu": "envoyais",
+      "il": "envoyait",
+      "elle": "envoyait",
+      "on": "envoyait",
+      "nous": "envoyions",
+      "vous": "envoyiez",
+      "ils": "envoyaient",
+      "elles": "envoyaient"
+    },
+    "Futur": {
+      "je": "enverrai",
+      "tu": "enverras",
+      "il": "enverra",
+      "elle": "enverra",
+      "on": "enverra",
+      "nous": "enverrons",
+      "vous": "enverrez",
+      "ils": "enverront",
+      "elles": "enverront"
+    },
+    "Passé_composé": {
+      "je": "ai envoyé",
+      "tu": "as envoyé",
+      "il": "a envoyé",
+      "elle": "a envoyé",
+      "on": "a envoyé",
+      "nous": "avons envoyé",
+      "vous": "avez envoyé",
+      "ils": "ont envoyé",
+      "elles": "ont envoyé"
+    },
+    "Conditionnel_présent": {
+      "je": "enverrais",
+      "tu": "enverrais",
+      "il": "enverrait",
+      "elle": "enverrait",
+      "on": "enverrait",
+      "nous": "enverrions",
+      "vous": "enverriez",
+      "ils": "enverraient",
+      "elles": "enverraient"
+    },
+    "Conditionnel_passé": {
+      "je": "aurais envoyé",
+      "tu": "aurais envoyé",
+      "il": "aurait envoyé",
+      "elle": "aurait envoyé",
+      "on": "aurait envoyé",
+      "nous": "aurions envoyé",
+      "vous": "auriez envoyé",
+      "ils": "auraient envoyé",
+      "elles": "auraient envoyé"
+    },
+    "Subjonctif_présent": {
+      "je": "envoie",
+      "tu": "envoies",
+      "il": "envoie",
+      "elle": "envoie",
+      "on": "envoie",
+      "nous": "envoyions",
+      "vous": "envoyiez",
+      "ils": "envoient",
+      "elles": "envoient"
+    },
+    "Plus_que_parfait": {
+      "je": "avais envoyé",
+      "tu": "avais envoyé",
+      "il": "avait envoyé",
+      "elle": "avait envoyé",
+      "on": "avait envoyé",
+      "nous": "avions envoyé",
+      "vous": "aviez envoyé",
+      "ils": "avaient envoyé",
+      "elles": "avaient envoyé"
+    }
+  }
+}
