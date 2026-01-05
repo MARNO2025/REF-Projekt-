@@ -1,0 +1,10626 @@
+[
+  {
+    "word": "la manière",
+    "translation": "die Art (und Weise)"
+  },
+  {
+    "word": "la façon",
+    "translation": "die Art (und Weise)"
+  },
+  {
+    "word": "comment",
+    "translation": "wie"
+  },
+  {
+    "word": "comme ça",
+    "translation": "so"
+  },
+  {
+    "word": "autant",
+    "translation": "so viel"
+  },
+  {
+    "word": "pas du tout",
+    "translation": "überhaupt nicht"
+  },
+  {
+    "word": "en tout cas",
+    "translation": "jedenfalls"
+  },
+  {
+    "word": "en vain",
+    "translation": "vergeblich"
+  },
+  {
+    "word": "au moins",
+    "translation": "wenigstens, mindestens"
+  },
+  {
+    "word": "presque",
+    "translation": "fast"
+  },
+  {
+    "word": "complètement",
+    "translation": "völlig"
+  },
+  {
+    "word": "exactement",
+    "translation": "genau"
+  },
+  {
+    "word": "vraiment",
+    "translation": "wirklich"
+  },
+  {
+    "word": "aussi",
+    "translation": "auch"
+  },
+  {
+    "word": "à part ça",
+    "translation": "ansonsten"
+  },
+  {
+    "word": "même",
+    "translation": "sogar"
+  },
+  {
+    "word": "plutôt",
+    "translation": "lieber"
+  },
+  {
+    "word": "non plus",
+    "translation": "auch nicht"
+  },
+  {
+    "word": "le moyen",
+    "translation": "das Mittel"
+  },
+  {
+    "word": "justement",
+    "translation": "genau"
+  },
+  {
+    "word": "même pas",
+    "translation": "nicht einmal"
+  },
+  {
+    "word": "à peine",
+    "translation": "kaum"
+  },
+  {
+    "word": "à propos",
+    "translation": "übrigens"
+  },
+  {
+    "word": "absolument",
+    "translation": "unbedingt"
+  },
+  {
+    "word": "de toute façon",
+    "translation": "sowieso"
+  },
+  {
+    "word": "au lieu",
+    "add": "de",
+    "translation": "statt, anstatt zu"
+  },
+  {
+    "word": "sinon",
+    "translation": "sonst"
+  },
+  {
+    "word": "en plus",
+    "add": "de",
+    "translation": "außer"
+  },
+  {
+    "word": "pourtant",
+    "translation": "jedoch"
+  },
+  {
+    "word": "en fait",
+    "translation": "eigentlich"
+  },
+  {
+    "word": "quand même",
+    "translation": "trotzdem"
+  },
+  {
+    "word": "par hasard",
+    "translation": "zufällig"
+  },
+  {
+    "word": "avoir raison",
+    "translation": "recht haben"
+  },
+  {
+    "word": "avoir tort",
+    "translation": "unrecht haben"
+  },
+  {
+    "word": "accepter",
+    "translation": "akzeptieren; einverstanden sein"
+  },
+  {
+    "word": "affirmer",
+    "translation": "behaupten"
+  },
+  {
+    "word": "contre",
+    "translation": "gegen"
+  },
+  {
+    "word": "concerner",
+    "translation": "betreffen, angehen"
+  },
+  {
+    "word": "conseiller",
+    "translation": "raten"
+  },
+  {
+    "word": "convaincu",
+    "add": "m.",
+    "translation": "überzeugt"
+  },
+  {
+    "word": "convaincue",
+    "add": "f.",
+    "translation": "überzeugt"
+  },
+  {
+    "word": "convaincre",
+    "translation": "überzeugen"
+  },
+  {
+    "word": "critiquer",
+    "translation": "kritisieren"
+  },
+  {
+    "word": "c’est-à-dire",
+    "translation": "das heißt"
+  },
+  {
+    "word": "D’accord !",
+    "translation": "Einverstanden!; In Ordnung!"
+  },
+  {
+    "word": "discuter",
+    "translation": "diskutieren"
+  },
+  {
+    "word": "discuter",
+    "add": "de",
+    "translation": "besprechen"
+  },
+  {
+    "word": "être d’accord",
+    "add": "avec",
+    "translation": "einer Meinung sein, zustimmen"
+  },
+  {
+    "word": "évident",
+    "add": "m.",
+    "translation": "klar, offensichtlich"
+  },
+  {
+    "word": "évidente",
+    "add": "f.",
+    "translation": "klar, offensichtlich"
+  },
+  {
+    "word": "exagérer",
+    "translation": "übertreiben"
+  },
+  {
+    "word": "important",
+    "add": "m.",
+    "translation": "wichtig"
+  },
+  {
+    "word": "importante",
+    "add": "f.",
+    "translation": "wichtig"
+  },
+  {
+    "word": "justement",
+    "translation": "genau"
+  },
+  {
+    "word": "la concession",
+    "translation": "das Zugeständnis"
+  },
+  {
+    "word": "la critique",
+    "translation": "die Kritik"
+  },
+  {
+    "word": "la discussion",
+    "translation": "die Diskussion"
+  },
+  {
+    "word": "la proposition",
+    "translation": "der Vorschlag"
+  },
+  {
+    "word": "la recommandation",
+    "translation": "die Empfehlung"
+  },
+  {
+    "word": "l’accord",
+    "add": "m.",
+    "translation": "die Einigung, die Übereinkunft"
+  },
+  {
+    "word": "l’avantage",
+    "add": "m.",
+    "translation": "der Vorteil"
+  },
+  {
+    "word": "l’avis",
+    "add": "m.",
+    "translation": "die Ansicht"
+  },
+  {
+    "word": "l’exagération",
+    "add": "f.",
+    "translation": "die Übertreibung"
+  },
+  {
+    "word": "l’importance",
+    "add": "f.",
+    "translation": "die Wichtigkeit"
+  },
+  {
+    "word": "l’inconvénient",
+    "add": "m.",
+    "translation": "der Nachteil"
+  },
+  {
+    "word": "l’opinion",
+    "add": "f.",
+    "translation": "die Meinung"
+  },
+  {
+    "word": "le conseil",
+    "add": "m.",
+    "translation": "der Rat, der Ratschlag"
+  },
+  {
+    "word": "le point de vue",
+    "translation": "der Standpunkt, der Gesichtspunkt"
+  },
+  {
+    "word": "penser",
+    "translation": "meinen"
+  },
+  {
+    "word": "persuader",
+    "translation": "überreden"
+  },
+  {
+    "word": "préférer",
+    "translation": "bevorzugen, vorziehen"
+  },
+  {
+    "word": "proposer",
+    "translation": "vorschlagen"
+  },
+  {
+    "word": "précis",
+    "add": "m.",
+    "translation": "genau"
+  },
+  {
+    "word": "précise",
+    "add": "f.",
+    "translation": "genau"
+  },
+  {
+    "word": "recommander",
+    "translation": "empfehlen"
+  },
+  {
+    "word": "se mettre d’accord",
+    "translation": "sich einigen"
+  },
+  {
+    "word": "tolérer",
+    "translation": "tolerieren, dulden"
+  },
+  {
+    "word": "Tout à fait !",
+    "translation": "(Ganz) genau!"
+  },
+  {
+    "word": "la rentrée",
+    "translation": "der Schuljahresbeginn in Frankreich"
+  },
+  {
+    "word": "Salut!",
+    "translation": "Hallo! / Tschüss!"
+  },
+  {
+    "word": "Ça va?",
+    "translation": "Wie geht's? / Geht's dir gut?"
+  },
+  {
+    "word": "Ça va.",
+    "translation": "Es geht (mir) gut."
+  },
+  {
+    "word": "Et toi?",
+    "translation": "Und dir? / Und du?"
+  },
+  {
+    "word": "et",
+    "translation": "und"
+  },
+  {
+    "word": "toi",
+    "translation": "du (betonte Form des Personalpronomens)"
+  },
+  {
+    "word": "bof",
+    "translation": "Naja. / Es geht so."
+  },
+  {
+    "word": "À plus!",
+    "translation": "Bis später!"
+  },
+  {
+    "word": "À demain!",
+    "translation": "Bis morgen!"
+  },
+  {
+    "word": "Bonjour!",
+    "translation": "Guten Tag! / Guten Morgen!"
+  },
+  {
+    "word": "Madame / Mme",
+    "translation": "Frau"
+  },
+  {
+    "word": "Monsieur / M.",
+    "translation": "Herr"
+  },
+  {
+    "word": "Au revoir!",
+    "translation": "Auf Wiedersehen!"
+  },
+  {
+    "word": "super",
+    "translation": "super"
+  },
+  {
+    "word": "après",
+    "translation": "nach"
+  },
+  {
+    "word": "Elle rentre à la maison.",
+    "translation": "Sie geht nach Hause."
+  },
+  {
+    "word": "rentrer à la maison",
+    "translation": "nach Hause gehen"
+  },
+  {
+    "word": "les devoirs",
+    "add": "m. pl.",
+    "translation": "die Hausaufgaben"
+  },
+  {
+    "word": "écouter",
+    "translation": "zuhören"
+  },
+  {
+    "word": "chercher",
+    "translation": "suchen"
+  },
+  {
+    "word": "l'information",
+    "add": "f.",
+    "translation": "die Information"
+  },
+  {
+    "word": "Internet",
+    "translation": "das Internet"
+  },
+  {
+    "word": "chatter",
+    "translation": "chatten"
+  },
+  {
+    "word": "le copain",
+    "translation": "der Freund"
+  },
+  {
+    "word": "la copine",
+    "translation": "die Freundin"
+  },
+  {
+    "word": "téléphoner",
+    "translation": "telefonieren"
+  },
+  {
+    "word": "rêver",
+    "translation": "träumen"
+  },
+  {
+    "word": "Qu'est-ce que tu fais?",
+    "translation": "Was machst du?"
+  },
+  {
+    "word": "travailler",
+    "translation": "arbeiten"
+  },
+  {
+    "word": "Tu m'énerves",
+    "translation": "Du nervst mich"
+  },
+  {
+    "word": "maintenant",
+    "translation": "jetzt"
+  },
+  {
+    "word": "chanter",
+    "translation": "singen"
+  },
+  {
+    "word": "jouer",
+    "translation": "spielen"
+  },
+  {
+    "word": "pas maintenant",
+    "translation": "nicht jetzt"
+  },
+  {
+    "word": "s'il te plaît",
+    "translation": "bitte (informell)"
+  },
+  {
+    "word": "regarder la télé",
+    "translation": "fernsehen"
+  },
+  {
+    "word": "toujours",
+    "translation": "immer"
+  },
+  {
+    "word": "d'accord",
+    "translation": "einverstanden"
+  },
+  {
+    "word": "la partie de cartes",
+    "translation": "das Kartenspiel"
+  },
+  {
+    "word": "la carte",
+    "translation": "die Karte"
+  },
+  {
+    "word": "merci",
+    "translation": "danke"
+  },
+  {
+    "word": "le rap",
+    "translation": "der Rap"
+  },
+  {
+    "word": "tout le monde",
+    "translation": "alle"
+  },
+  {
+    "word": "On y va!",
+    "translation": "Los geht's!"
+  },
+  {
+    "word": "parler",
+    "translation": "sprechen"
+  },
+  {
+    "word": "trop",
+    "translation": "zu"
+  },
+  {
+    "word": "vite",
+    "translation": "schnell"
+  },
+  {
+    "word": "Je ne comprends pas.",
+    "translation": "Ich verstehe nicht."
+  },
+  {
+    "word": "s'il vous plaît",
+    "translation": "bitte (höflich)"
+  },
+  {
+    "word": "Vous pouvez répéter?",
+    "translation": "Können Sie das wiederholen?"
+  },
+  {
+    "word": "répéter",
+    "translation": " wiederholen"
+  },
+  {
+    "word": "fermer",
+    "translation": "schließen"
+  },
+  {
+    "word": "le livre",
+    "translation": "das Buch"
+  },
+  {
+    "word": "le tableau",
+    "translation": "die Tafel"
+  },
+  {
+    "word": "encore une fois",
+    "translation": "noch einmal"
+  },
+  {
+    "word": "chanter",
+    "translation": "singen"
+  },
+  {
+    "word": "le texte",
+    "translation": "der Text"
+  },
+  {
+    "word": "continuer qc",
+    "translation": "etw. fortsetzen"
+  },
+  {
+    "word": "la fenêtre",
+    "translation": "das Fenster"
+  },
+  {
+    "word": "la porte",
+    "translation": "die Tür"
+  },
+  {
+    "word": "le mot",
+    "translation": "das Wort"
+  },
+  {
+    "word": "la phrase",
+    "translation": "der Satz"
+  },
+  {
+    "word": "ma",
+    "translation": "meine (w, Sg.)"
+  },
+  {
+    "word": "la famille",
+    "translation": "die Familie"
+  },
+  {
+    "word": "la sœur",
+    "translation": "die Schwester"
+  },
+  {
+    "word": "mon",
+    "translation": "mein (m, Sg.)"
+  },
+  {
+    "word": "le frère",
+    "translation": "der Bruder"
+  },
+  {
+    "word": "mes",
+    "translation": "meine (Pl.)"
+  },
+  {
+    "word": "les parents",
+    "add": "m.pl.",
+    "translation": "die Eltern"
+  },
+  {
+    "word": "le père",
+    "translation": "der Vater"
+  },
+  {
+    "word": "la mère",
+    "translation": "die Mutter"
+  },
+  {
+    "word": "le cousin",
+    "translation": "der Cousin"
+  },
+  {
+    "word": "la cousine",
+    "translation": "die Cousine"
+  },
+  {
+    "word": "le fils",
+    "translation": "der Sohn"
+  },
+  {
+    "word": "la tante",
+    "translation": "die Tante"
+  },
+  {
+    "word": "ce sont",
+    "translation": "das sind"
+  },
+  {
+    "word": "la fille",
+    "translation": "die Tochter / das Mädchen"
+  },
+  {
+    "word": "l'oncle",
+    "add": "m.",
+    "translation": "der Onkel"
+  },
+  {
+    "word": "les grands-parents",
+    "add": "m.pl.",
+    "translation": "die Großeltern"
+  },
+  {
+    "word": "la grand-mère",
+    "translation": "die Großmutter"
+  },
+  {
+    "word": "le grand-père",
+    "translation": "der Großvater"
+  },
+  {
+    "word": "ton",
+    "translation": "dein (m, Sg.)"
+  },
+  {
+    "word": "habiter",
+    "translation": "wohnen"
+  },
+  {
+    "word": "l'avenue",
+    "add": "f.",
+    "translation": "die Allee"
+  },
+  {
+    "word": "tout près",
+    "translation": "ganz in der Nähe"
+  },
+  {
+    "word": "la rue",
+    "translation": "die Straße"
+  },
+  {
+    "word": "près de",
+    "translation": "in der Nähe von"
+  },
+  {
+    "word": "loin",
+    "translation": "weit (weg)"
+  },
+  {
+    "word": "mais",
+    "translation": "aber"
+  },
+  {
+    "word": "pratique",
+    "add": "m./f.",
+    "translation": "praktisch"
+  },
+  {
+    "word": "vite",
+    "add": "adv.",
+    "translation": "schnell"
+  },
+  {
+    "word": "le bar",
+    "translation": "die Bar"
+  },
+  {
+    "word": "le jus de fruits",
+    "translation": "der Fruchtsaft"
+  },
+  {
+    "word": "le fruit",
+    "translation": "die Frucht / das Obst"
+  },
+  {
+    "word": "tard",
+    "translation": "spät"
+  },
+  {
+    "word": "garder",
+    "translation": "aufpassen / betreuen"
+  },
+  {
+    "word": "pénible",
+    "add": "m./f.",
+    "translation": "nervig / anstrengend"
+  },
+  {
+    "word": "rigoler",
+    "translation": "lachen / Spaß haben"
+  },
+  {
+    "word": "en",
+    "translation": "in / nach (bei Ländern weiblich)"
+  },
+  {
+    "word": "l'Allemagne",
+    "add": "f.",
+    "translation": "Deutschland"
+  },
+  {
+    "word": "tôt",
+    "translation": "früh"
+  },
+  {
+    "word": "le week-end",
+    "translation": "das Wochenende"
+  },
+  {
+    "word": "pendant",
+    "translation": "während"
+  },
+  {
+    "word": "la semaine",
+    "translation": "die Woche"
+  },
+  {
+    "word": "il m'énerve",
+    "translation": "er nervt mich"
+  },
+  {
+    "word": "Comment ça va?",
+    "translation": "Wie geht’s?"
+  },
+  {
+    "word": "ta",
+    "translation": "deine (w, Sg.)"
+  },
+  {
+    "word": "son",
+    "translation": "sein, ihr (m, Sg.)"
+  },
+  {
+    "word": "Je n'ai pas de frères et sœurs.",
+    "translation": "Ich habe keine Geschwister."
+  },
+  {
+    "word": "les frères et sœurs",
+    "translation": "die Geschwister"
+  },
+  {
+    "word": "Mes parents sont séparés.",
+    "translation": "Meine Eltern sind getrennt."
+  },
+  {
+    "word": "sa",
+    "translation": "sein, ihr (w, Sg.)"
+  },
+  {
+    "word": "la femme",
+    "translation": "die Frau, die Ehefrau"
+  },
+  {
+    "word": "passer",
+    "translation": "verbringen, vorbeigehen"
+  },
+  {
+    "word": "les vacances",
+    "add": "f.pl.",
+    "translation": "die Ferien, der Urlaub"
+  },
+  {
+    "word": "la belle-mère",
+    "translation": "die Schwiegermutter"
+  },
+  {
+    "word": "sympa",
+    "translation": "nett, sympathisch"
+  },
+  {
+    "word": "ses",
+    "translation": "seine, ihre (Pl.)"
+  },
+  {
+    "word": "l'enfant",
+    "add": "m./ f.",
+    "translation": "das Kind"
+  },
+  {
+    "word": "ils m'énervent",
+    "translation": "sie nerven mich"
+  },
+  {
+    "word": "l'an",
+    "add": "m.",
+    "translation": "das Jahr"
+  },
+  {
+    "word": "beaucoup",
+    "translation": "viel"
+  },
+  {
+    "word": "pour",
+    "translation": "für, um zu"
+  },
+  {
+    "word": "avoir",
+    "translation": "haben"
+  },
+  {
+    "word": "C'est l'horreur!",
+    "translation": "Das ist der Horror!"
+  },
+  {
+    "word": "le problème",
+    "translation": "das Problem"
+  },
+  {
+    "word": "le beau-père",
+    "translation": "der Schwiegervater"
+  },
+  {
+    "word": "crier",
+    "translation": "schreien"
+  },
+  {
+    "word": "C'est tout",
+    "translation": "Das ist alles"
+  },
+  {
+    "word": "tout",
+    "translation": "alles"
+  },
+  {
+    "word": "au chômage",
+    "translation": "arbeitslos"
+  },
+  {
+    "word": "le travail",
+    "translation": "die Arbeit"
+  },
+  {
+    "word": "l'animal",
+    "add": "m.",
+    "translation": "das Tier"
+  },
+  {
+    "word": "les animaux",
+    "add": "m.pl.",
+    "translation": "die Tiere"
+  },
+  {
+    "word": "le chien",
+    "translation": "der Hund"
+  },
+  {
+    "word": "intelligent",
+    "add": "m.",
+    "translation": "intelligent (männlich)"
+  },
+  {
+    "word": "intelligente",
+    "add": "f.",
+    "translation": "intelligent (weiblich)"
+  },
+  {
+    "word": "adorable",
+    "add": "m./f.",
+    "translation": "liebenswert, süß"
+  },
+  {
+    "word": "la perruche",
+    "translation": "der Wellensittich"
+  },
+  {
+    "word": "bavard",
+    "add": "m.",
+    "translation": "geschwätzig, redselig (männlich)"
+  },
+  {
+    "word": "bavarde",
+    "add": "f.",
+    "translation": "geschwätzig, redselig (weiblich)"
+  },
+  {
+    "word": "joli",
+    "add": "m.",
+    "translation": "hübsch, schön (männlich)"
+  },
+  {
+    "word": "jolie",
+    "add": "f.",
+    "translation": "hübsch schön (weiblich)"
+  },
+  {
+    "word": "le chat",
+    "translation": "die Katze"
+  },
+  {
+    "word": "le bureau",
+    "translation": "das Büro, der Schreibtisch"
+  },
+  {
+    "word": "la tortue",
+    "translation": "die Schildkröte"
+  },
+  {
+    "word": "le lapin",
+    "translation": "das Kaninchen"
+  },
+  {
+    "word": "avoir un caractère de chien",
+    "translation": "einen schlechten Charakter haben"
+  },
+  {
+    "word": "le cochon d'Inde",
+    "translation": "das Meerschweinchen"
+  },
+  {
+    "word": "le poisson",
+    "translation": "der Fisch"
+  },
+  {
+    "word": "surfer sur Internet",
+    "translation": "im Internet surfen"
+  },
+  {
+    "word": "le concours",
+    "translation": "der Wettbewerb"
+  },
+  {
+    "word": "avoir l'âge de qn",
+    "translation": "so alt sein wie jemand"
+  },
+  {
+    "word": "l'âge",
+    "add": "m.",
+    "translation": "das Alter"
+  },
+  {
+    "word": "Elle a quel âge?",
+    "translation": "Wie alt ist sie?"
+  },
+  {
+    "word": "je voudrais",
+    "translation": "ich möchte gern"
+  },
+  {
+    "word": "être contre qn/qc",
+    "translation": "gegen (jdn/etw) sein"
+  },
+  {
+    "word": "Je n'ai pas d'animal.",
+    "translation": "Ich habe kein Haustier."
+  },
+  {
+    "word": "l'allergie",
+    "add": "f.",
+    "translation": "die Allergie"
+  },
+  {
+    "word": "bête",
+    "translation": "dumm, blöd"
+  },
+  {
+    "word": "Qui ?",
+    "translation": "Wer?"
+  },
+  {
+    "word": "être pour qn/qc",
+    "translation": "für (jdn/etw) sein"
+  },
+  {
+    "word": "moche",
+    "translation": "hässlich"
+  },
+  {
+    "word": "la question",
+    "translation": "die Frage"
+  },
+  {
+    "word": "Est-ce que je peux",
+    "add": "+ inf.",
+    "translation": "Darf ich + Infinitiv?"
+  },
+  {
+    "word": "l'exercice",
+    "add": "m.",
+    "translation": "die Übung"
+  },
+  {
+    "word": "Je n'ai pas mes devoirs.",
+    "translation": "Ich habe meine Hausaufgaben nicht."
+  },
+  {
+    "word": "C'est juste?",
+    "translation": "Ist das richtig?"
+  },
+  {
+    "word": "On travaille ensemble?",
+    "translation": "Arbeiten wir zusammen?"
+  },
+  {
+    "word": "d'accord",
+    "translation": "einverstanden"
+  },
+  {
+    "word": "Qu'est-ce que ça veut dire?",
+    "translation": "Was heißt das?"
+  },
+  {
+    "word": "Ça veut dire",
+    "translation": "Das heißt"
+  },
+  {
+    "word": "Qui commence?",
+    "translation": "Wer fängt an?"
+  },
+  {
+    "word": "Qui note?",
+    "translation": "Wer schreibt auf?"
+  },
+  {
+    "word": "lundi",
+    "translation": "Montag"
+  },
+  {
+    "word": "mardi",
+    "translation": "Dienstag"
+  },
+  {
+    "word": "mercredi",
+    "translation": "Mittwoch"
+  },
+  {
+    "word": "jeudi",
+    "translation": "Donnerstag"
+  },
+  {
+    "word": "vendredi",
+    "translation": "Freitag"
+  },
+  {
+    "word": "samedi",
+    "translation": "Samstag"
+  },
+  {
+    "word": "dimanche",
+    "translation": "Sonntag"
+  },
+  {
+    "word": "Tu es libre aujourd'hui?",
+    "translation": "Bist du heute frei?"
+  },
+  {
+    "word": "aujourd'hui",
+    "translation": "heute"
+  },
+  {
+    "word": "Tu as le temps aujourd'hui?",
+    "translation": "Hast du heute Zeit?"
+  },
+  {
+    "word": "le temps",
+    "translation": "die Zeit"
+  },
+  {
+    "word": "si ça te dit",
+    "translation": "wenn du Lust hast"
+  },
+  {
+    "word": "l'activité",
+    "add": "f.",
+    "translation": "die Aktivität"
+  },
+  {
+    "word": "faire qc",
+    "translation": "etwas machen / tun"
+  },
+  {
+    "word": "faire de l'athlétisme",
+    "translation": "Leichtathletik machen"
+  },
+  {
+    "word": "l'athlétisme",
+    "add": "m.",
+    "translation": "die Leichtathletik"
+  },
+  {
+    "word": "faire du théâtre",
+    "translation": "Theater spielen"
+  },
+  {
+    "word": "le théâtre",
+    "translation": "das Theater"
+  },
+  {
+    "word": "faire de la guitare",
+    "translation": "Gitarre spielen"
+  },
+  {
+    "word": "faire du tennis",
+    "translation": "Tennis spielen"
+  },
+  {
+    "word": "le tennis",
+    "translation": "das Tennis"
+  },
+  {
+    "word": "faire de la musique",
+    "translation": "musizieren"
+  },
+  {
+    "word": "faire de la flûte",
+    "translation": "Flöte spielen"
+  },
+  {
+    "word": "la flûte",
+    "translation": "die Flöte"
+  },
+  {
+    "word": "faire de la danse",
+    "translation": "tanzen"
+  },
+  {
+    "word": "la danse",
+    "translation": "der Tanz"
+  },
+  {
+    "word": "en hiver",
+    "translation": "im Winter"
+  },
+  {
+    "word": "l'hiver",
+    "add": "m.",
+    "translation": "der Winter"
+  },
+  {
+    "word": "faire du ski",
+    "translation": "Ski fahren"
+  },
+  {
+    "word": "le ski",
+    "translation": "das Skifahren, der Ski"
+  },
+  {
+    "word": "les Vosges",
+    "add": "f.pl.",
+    "translation": "die Vogesen"
+  },
+  {
+    "word": "faire du sport",
+    "translation": "Sport treiben"
+  },
+  {
+    "word": "le sport",
+    "translation": "der Sport"
+  },
+  {
+    "word": "faire du foot",
+    "translation": "Fußball spielen"
+  },
+  {
+    "word": "le foot",
+    "translation": "der Fußball"
+  },
+  {
+    "word": "faire des percussions",
+    "translation": "trommeln, Schlagzeug spielen"
+  },
+  {
+    "word": "les percussions",
+    "add": "f.pl.",
+    "translation": "das Schlagzeug, das Trommeln"
+  },
+  {
+    "word": "le DVD",
+    "translation": "die DVD"
+  },
+  {
+    "word": "préparer",
+    "translation": "vorbereiten"
+  },
+  {
+    "word": "la rencontre",
+    "translation": "das Treffen"
+  },
+  {
+    "word": "le hobby",
+    "translation": "das Hobby"
+  },
+  {
+    "word": "aimer",
+    "add": "inf.",
+    "translation": "mögen, lieben"
+  },
+  {
+    "word": "le chanteur",
+    "translation": "der Sänger"
+  },
+  {
+    "word": "la chanteuse",
+    "translation": "die Sängerin"
+  },
+  {
+    "word": "préféré",
+    "translation": "Lieblings- (männlich)"
+  },
+  {
+    "word": "préférée",
+    "translation": "Lieblings- (weiblich)"
+  },
+  {
+    "word": "adorer",
+    "add": "inf.",
+    "translation": "(sehr) lieben; es lieben, etw. zu tun"
+  },
+  {
+    "word": "ne... pas",
+    "translation": "nicht (Verneinung)"
+  },
+  {
+    "word": "préférer",
+    "add": "inf.",
+    "translation": "etw. bevorzugen, lieber mögen"
+  },
+  {
+    "word": "la musique classique",
+    "translation": "die klassische Musik"
+  },
+  {
+    "word": "le dessin",
+    "translation": "die Zeichnung, das Zeichnen"
+  },
+  {
+    "word": "être fan de qn/qc",
+    "translation": "ein Fan von jmd/etw. sein"
+  },
+  {
+    "word": "le fan",
+    "translation": "der Fan (männlich)"
+  },
+  {
+    "word": "la fan",
+    "translation": "der Fan (weiblich)"
+  },
+  {
+    "word": "le rock",
+    "translation": "der Rock (Musikstil)"
+  },
+  {
+    "word": "le groupe",
+    "translation": "die Gruppe, die Band"
+  },
+  {
+    "word": "aimer bien",
+    "add": "inf.",
+    "translation": "gern mögen; es mögen, etw. zu tun"
+  },
+  {
+    "word": "Moi non plus.",
+    "translation": "Ich auch nicht."
+  },
+  {
+    "word": "Moi si.",
+    "translation": "Doch, ich schon."
+  },
+  {
+    "word": "Ce n'est pas mon truc.",
+    "translation": "Das ist nicht mein Ding."
+  },
+  {
+    "word": "le truc",
+    "translation": "das Ding / die Sache"
+  },
+  {
+    "word": "faire de l'aviron",
+    "translation": "rudern"
+  },
+  {
+    "word": "l'aviron",
+    "add": "m.",
+    "translation": "das Rudern"
+  },
+  {
+    "word": "faire du vélo",
+    "translation": "Fahrrad fahren"
+  },
+  {
+    "word": "détester",
+    "add": "inf.",
+    "translation": "etw./ jdn. hassen / nicht ausstehen können"
+  },
+  {
+    "word": "la nature",
+    "translation": "die Natur"
+  },
+  {
+    "word": "Moi aussi.",
+    "translation": "Ich auch."
+  },
+  {
+    "word": "notre",
+    "translation": "unser, unsere"
+  },
+  {
+    "word": "le prof",
+    "translation": "der Lehrer"
+  },
+  {
+    "word": "la prof",
+    "translation": "die Lehrerin"
+  },
+  {
+    "word": "l'allemand",
+    "add": "m.",
+    "translation": "Deutsch (Schulfach)"
+  },
+  {
+    "word": "la lecture",
+    "translation": "das Lesen, die Lektüre"
+  },
+  {
+    "word": "le cinéma",
+    "translation": "das Kino"
+  },
+  {
+    "word": "le week-end",
+    "translation": "das Wochenende"
+  },
+  {
+    "word": "bientôt",
+    "translation": "bald"
+  },
+  {
+    "word": "vouloir",
+    "add": "+inf.",
+    "translation": "wollen"
+  },
+  {
+    "word": "la balade",
+    "translation": "der Ausflug"
+  },
+  {
+    "word": "la montagne",
+    "translation": "der Berg"
+  },
+  {
+    "word": "le singe",
+    "translation": "der Affe"
+  },
+  {
+    "word": "l'idée",
+    "add": "f.",
+    "translation": "die Idee"
+  },
+  {
+    "word": "inviter",
+    "translation": "einladen"
+  },
+  {
+    "word": "et puis",
+    "translation": "außerdem"
+  },
+  {
+    "word": "le parc",
+    "translation": "der Park"
+  },
+  {
+    "word": "en liberté",
+    "translation": "in Freiheit"
+  },
+  {
+    "word": "la liberté",
+    "translation": "die Freiheit"
+  },
+  {
+    "word": "est-ce que",
+    "translation": "Frageformel (wird nicht übersetzt)"
+  },
+  {
+    "word": "pouvoir",
+    "add": "inf.",
+    "translation": "etw. tun können, hier: etw. dürfen"
+  },
+  {
+    "word": "ne... pas trop",
+    "translation": "nicht so (sehr, gern)"
+  },
+  {
+    "word": "tranquille",
+    "add": "m./ f.",
+    "translation": "ruhig"
+  },
+  {
+    "word": "On passe le chercher.",
+    "translation": "Wir holen ihn ab."
+  },
+  {
+    "word": "passer",
+    "add": "(chez qn)",
+    "translation": "(bei jdm) vorbeikommen"
+  },
+  {
+    "word": "Bonne idée!",
+    "translation": "Gute Idee!"
+  },
+  {
+    "word": "À quelle heure?",
+    "translation": "Um wie viel Uhr?"
+  },
+  {
+    "word": "l'heure",
+    "add": "f.",
+    "translation": "die Stunde, die Uhr"
+  },
+  {
+    "word": "Ça va?",
+    "translation": "In Ordnung?"
+  },
+  {
+    "word": "Ça marche.",
+    "translation": "Geht klar."
+  },
+  {
+    "word": "appeler",
+    "translation": "anrufen"
+  },
+  {
+    "word": "Allô!",
+    "translation": "Hallo! (am Telefon)"
+  },
+  {
+    "word": "Je t'invite.",
+    "translation": "Ich lade dich ein."
+  },
+  {
+    "word": "demander qc à qn",
+    "translation": "jdn nach etw. fragen"
+  },
+  {
+    "word": "c'est",
+    "translation": "das ist"
+  },
+  {
+    "word": "être",
+    "translation": "sein"
+  },
+  {
+    "word": "voilà",
+    "translation": "da ist / da kommt"
+  },
+  {
+    "word": "la classe",
+    "translation": "die Klasse"
+  },
+  {
+    "word": "la sixième",
+    "translation": "die sechste Klasse"
+  },
+  {
+    "word": "je suis",
+    "translation": "ich bin"
+  },
+  {
+    "word": "le professeur de français",
+    "translation": "der Französischlehrer"
+  },
+  {
+    "word": "le professeur",
+    "translation": "der Lehrer"
+  },
+  {
+    "word": "la professeur",
+    "translation": "die Lehrerin"
+  },
+  {
+    "word": "le français",
+    "translation": "Französisch (Unterrichtsfach, auch: die französische Sprache)"
+  },
+  {
+    "word": "oui",
+    "translation": "ja"
+  },
+  {
+    "word": "je m'appelle",
+    "translation": "ich heiße"
+  },
+  {
+    "word": "ah",
+    "translation": "ach, ach so"
+  },
+  {
+    "word": "pardon",
+    "translation": "Verzeihung"
+  },
+  {
+    "word": "C'est moi.",
+    "translation": "Ich bin's. / Das bin ich."
+  },
+  {
+    "word": "moi",
+    "translation": "ich (betonte Form des Personalpronomens)"
+  },
+  {
+    "word": "alors",
+    "translation": "also"
+  },
+  {
+    "word": "tu es",
+    "translation": "du bist"
+  },
+  {
+    "word": "tu t'appelles",
+    "translation": "du heißt"
+  },
+  {
+    "word": "Non?",
+    "translation": "Nicht wahr?"
+  },
+  {
+    "word": "avec",
+    "translation": "mit"
+  },
+  {
+    "word": "Ça va?",
+    "translation": "Wie geht's?"
+  },
+  {
+    "word": "Au revoir",
+    "translation": "Auf Wiedersehen"
+  },
+  {
+    "word": "il est",
+    "translation": "er ist"
+  },
+  {
+    "word": "de",
+    "translation": "aus"
+  },
+  {
+    "word": "très",
+    "translation": "sehr"
+  },
+  {
+    "word": "bien",
+    "translation": "gut"
+  },
+  {
+    "word": "elle est",
+    "translation": "sie ist"
+  },
+  {
+    "word": "là",
+    "translation": "da / hier"
+  },
+  {
+    "word": "euh",
+    "translation": "äh"
+  },
+  {
+    "word": "deux",
+    "translation": "zwei"
+  },
+  {
+    "word": "non",
+    "translation": "nein"
+  },
+  {
+    "word": "notre",
+    "translation": "unser / unsere (Sg.)"
+  },
+  {
+    "word": "le collège",
+    "translation": "die Sekundarschule 1 (Klasse 6–9)"
+  },
+  {
+    "word": "présenter qn/qc",
+    "translation": "vorstellen / präsentieren"
+  },
+  {
+    "word": "la journée",
+    "translation": "der Tag (Ablauf / Verlauf)"
+  },
+  {
+    "word": "ouvert",
+    "translation": "offen (m.)"
+  },
+  {
+    "word": "ouverte",
+    "translation": "offen (w.)"
+  },
+  {
+    "word": "nos",
+    "translation": "unsere (Pl.)"
+  },
+  {
+    "word": "l'endroit",
+    "add": "m.",
+    "translation": "der Ort / die Stelle"
+  },
+  {
+    "word": "le secrétariat",
+    "translation": "das Sekretariat"
+  },
+  {
+    "word": "emprunter",
+    "translation": "ausleihen"
+  },
+  {
+    "word": "l'infirmerie",
+    "add": "f.",
+    "translation": "die Krankenstation"
+  },
+  {
+    "word": "l'infirmier",
+    "translation": "der Krankenpfleger"
+  },
+  {
+    "word": "l'infirmière",
+    "translation": "die Krankenschwester"
+  },
+  {
+    "word": "la cantine",
+    "translation": "die Kantine"
+  },
+  {
+    "word": "le gymnase",
+    "translation": "die Turnhalle"
+  },
+  {
+    "word": "en permanence",
+    "translation": "im Aufenthaltsraum"
+  },
+  {
+    "word": "la salle de permanence",
+    "translation": "der Aufenthaltsraum"
+  },
+  {
+    "word": "l'EPS",
+    "translation": "der Sportunterricht"
+  },
+  {
+    "word": "le CDI",
+    "translation": "die Schulbibliothek"
+  },
+  {
+    "word": "les toilettes",
+    "add": "f.pl.",
+    "translation": "die Toiletten"
+  },
+  {
+    "word": "votre",
+    "translation": "euer, eure (Sg.)"
+  },
+  {
+    "word": "vos",
+    "translation": "eure, Ihre (Pl.)"
+  },
+  {
+    "word": "Ça dépend.",
+    "translation": "Es kommt darauf an."
+  },
+  {
+    "word": "la salle des profs",
+    "translation": "das Lehrerzimmer"
+  },
+  {
+    "word": "la salle de classe",
+    "translation": "der Klassenraum"
+  },
+  {
+    "word": "et quart",
+    "translation": "Viertel nach"
+  },
+  {
+    "word": "le quart",
+    "translation": "das Viertel"
+  },
+  {
+    "word": "l'emploi du temps",
+    "add": "m.",
+    "translation": "der Stundenplan"
+  },
+  {
+    "word": "le cours",
+    "translation": "der Unterricht"
+  },
+  {
+    "word": "parce que",
+    "translation": "weil"
+  },
+  {
+    "word": "retrouver",
+    "translation": "treffen"
+  },
+  {
+    "word": "les maths",
+    "add": "f.pl.",
+    "translation": "Mathe"
+  },
+  {
+    "word": "les mathématiques",
+    "add": "f.pl.",
+    "translation": "Mathe"
+  },
+  {
+    "word": "de... à...",
+    "translation": "von... bis..."
+  },
+  {
+    "word": "la matière",
+    "translation": "das (Schul)Fach"
+  },
+  {
+    "word": "le matin",
+    "translation": "der Morgen, morgens"
+  },
+  {
+    "word": "après",
+    "translation": "danach"
+  },
+  {
+    "word": "les SVT",
+    "add": "f.pl.",
+    "translation": "Biologie"
+  },
+  {
+    "word": "intéressant",
+    "add": "m.",
+    "translation": "interessant (männlich)"
+  },
+  {
+    "word": "intéressante",
+    "add": "f.",
+    "translation": "interessant (weiblich)"
+  },
+  {
+    "word": "à midi",
+    "translation": "mittags, um 12 Uhr"
+  },
+  {
+    "word": "manger",
+    "translation": "essen"
+  },
+  {
+    "word": "les spaghettis",
+    "add": "m.pl.",
+    "translation": "die Spaghetti"
+  },
+  {
+    "word": "aller",
+    "translation": "gehen"
+  },
+  {
+    "word": "l'après-midi",
+    "add": "m.",
+    "translation": "der Nachmittag"
+  },
+  {
+    "word": "l'anglais",
+    "add": "m.",
+    "translation": "Englisch"
+  },
+  {
+    "word": "à... heure(s)",
+    "translation": "um... Uhr"
+  },
+  {
+    "word": "jusqu'à",
+    "translation": "bis"
+  },
+  {
+    "word": "demi",
+    "translation": "halb (männlich)"
+  },
+  {
+    "word": "demie",
+    "translation": "halb (weiblich)"
+  },
+  {
+    "word": "moins le quart",
+    "translation": "Viertel vor"
+  },
+  {
+    "word": "le soir",
+    "translation": "der Abend"
+  },
+  {
+    "word": "souvent",
+    "translation": "oft"
+  },
+  {
+    "word": "le mail",
+    "translation": "die E-Mail"
+  },
+  {
+    "word": "cher",
+    "add": "m.",
+    "translation": "lieber (männlich)"
+  },
+  {
+    "word": "chère",
+    "add": "f.",
+    "translation": "liebe (weiblich)"
+  },
+  {
+    "word": "mamie",
+    "translation": "Oma"
+  },
+  {
+    "word": "papie",
+    "translation": "Opa"
+  },
+  {
+    "word": "Je n'ai pas de cours.",
+    "translation": "Ich habe keinen Unterricht."
+  },
+  {
+    "word": "demain",
+    "translation": "morgen"
+  },
+  {
+    "word": "l'interro",
+    "add": "m.",
+    "translation": "der Test"
+  },
+  {
+    "word": "nul",
+    "add": "m.",
+    "translation": "schlecht, mies (männlich)"
+  },
+  {
+    "word": "nulle",
+    "add": "f.",
+    "translation": "schlecht, mies (weiblich)"
+  },
+  {
+    "word": "être nul en",
+    "translation": "schlecht sein in (männlich)"
+  },
+  {
+    "word": "être nulle en",
+    "translation": "schlecht sein in (weiblich)"
+  },
+  {
+    "word": "bon",
+    "add": "m.",
+    "translation": "gut (männlich)"
+  },
+  {
+    "word": "bonne",
+    "add": "f.",
+    "translation": "gut (weiblich)"
+  },
+  {
+    "word": "être bon en",
+    "translation": "gut sein in (männlich)"
+  },
+  {
+    "word": "être bonne en",
+    "translation": "gut sein in (weiblich)"
+  },
+  {
+    "word": "Pourquoi?",
+    "translation": "Warum?"
+  },
+  {
+    "word": "grosses bises",
+    "translation": "liebe Grüße (wörtlich: dicke Küsse)"
+  },
+  {
+    "word": "la bise",
+    "translation": "der Kuss"
+  },
+  {
+    "word": "le programme",
+    "translation": "das Programm"
+  },
+  {
+    "word": "leurs",
+    "translation": "ihre (Plural)"
+  },
+  {
+    "word": "le corres",
+    "translation": "der Austauschpartner"
+  },
+  {
+    "word": "la corres",
+    "translation": "die Austauschpartnerin"
+  },
+  {
+    "word": "leur",
+    "translation": "ihr, ihre (Singular)"
+  },
+  {
+    "word": "noter",
+    "translation": "aufschreiben, notieren"
+  },
+  {
+    "word": "Quand est-ce que?",
+    "translation": "Wann?"
+  },
+  {
+    "word": "arriver",
+    "translation": "ankommen"
+  },
+  {
+    "word": "d'abord",
+    "translation": "zuerst"
+  },
+  {
+    "word": "visiter",
+    "translation": "besichtigen / besuchen (Ort)"
+  },
+  {
+    "word": "le musée",
+    "translation": "das Museum"
+  },
+  {
+    "word": "le chocolat",
+    "translation": "die Schokolade"
+  },
+  {
+    "word": "là-bas",
+    "translation": "dort"
+  },
+  {
+    "word": "en plus",
+    "translation": "außerdem"
+  },
+  {
+    "word": "fermé",
+    "translation": "geschlossen (männlich)"
+  },
+  {
+    "word": "fermée",
+    "translation": "geschlossen (weiblich)"
+  },
+  {
+    "word": "Où est-ce que?",
+    "translation": "Wo?"
+  },
+  {
+    "word": "l'atelier",
+    "add": "m.",
+    "translation": "der Workshop"
+  },
+  {
+    "word": "le fossile",
+    "translation": "das Fossil"
+  },
+  {
+    "word": "en ce moment",
+    "translation": "im Moment, zurzeit"
+  },
+  {
+    "word": "Oh si!",
+    "translation": "Ach doch!"
+  },
+  {
+    "word": "le bateau",
+    "translation": "das Boot, Schiff"
+  },
+  {
+    "word": "la visite",
+    "translation": "die Besichtigung"
+  },
+  {
+    "word": "vers",
+    "translation": "gegen (zeitlich)"
+  },
+  {
+    "word": "avant",
+    "translation": "vor (zeitlich)"
+  },
+  {
+    "word": "être d'accord sur",
+    "translation": "sich einig sein über"
+  },
+  {
+    "word": "l'arrivée",
+    "add": "f.",
+    "translation": "die Ankunft"
+  },
+  {
+    "word": "le départ",
+    "translation": "die Abfahrt"
+  },
+  {
+    "word": "le retour",
+    "translation": "die Rückkehr"
+  },
+  {
+    "word": "le déjeuner",
+    "translation": "das Mittagessen"
+  },
+  {
+    "word": "le centre-ville",
+    "translation": "das Stadtzentrum"
+  },
+  {
+    "word": "avril",
+    "translation": "April"
+  },
+  {
+    "word": "monter dans qc.",
+    "translation": "in etw. einsteigen"
+  },
+  {
+    "word": "la ville",
+    "translation": "die Stadt"
+  },
+  {
+    "word": "commencer",
+    "translation": "beginnen"
+  },
+  {
+    "word": "passer par qc",
+    "translation": "durch etw. fahren"
+  },
+  {
+    "word": "le quartier",
+    "translation": "das Viertel"
+  },
+  {
+    "word": "le Moyen-Âge",
+    "translation": "das Mittelalter"
+  },
+  {
+    "word": "le pont",
+    "translation": "die Brücke"
+  },
+  {
+    "word": "assez",
+    "translation": "ziemlich"
+  },
+  {
+    "word": "touristique",
+    "add": "m./f.",
+    "translation": "touristisch"
+  },
+  {
+    "word": "à côté de",
+    "translation": "neben"
+  },
+  {
+    "word": "la place",
+    "translation": "der Platz"
+  },
+  {
+    "word": "retourner à",
+    "translation": "zurückkehren zu"
+  },
+  {
+    "word": "avoir faim",
+    "translation": "Hunger haben"
+  },
+  {
+    "word": "le Français",
+    "translation": "der Franzose"
+  },
+  {
+    "word": "la Française",
+    "translation": "die Französin"
+  },
+  {
+    "word": "l'Allemand",
+    "translation": "der Deutsche"
+  },
+  {
+    "word": "l'Allemande",
+    "translation": "die Deutsche"
+  },
+  {
+    "word": "le menu",
+    "translation": "das Menü"
+  },
+  {
+    "word": "l'entrée",
+    "add": "f.",
+    "translation": "die Vorspeise"
+  },
+  {
+    "word": "le plat",
+    "translation": "das Hauptgericht"
+  },
+  {
+    "word": "la sauce",
+    "translation": "die Soße"
+  },
+  {
+    "word": "la tomate",
+    "translation": "die Tomate"
+  },
+  {
+    "word": "la moutarde",
+    "translation": "der Senf"
+  },
+  {
+    "word": "le dessert",
+    "translation": "das Dessert"
+  },
+  {
+    "word": "la banane",
+    "translation": "die Banane"
+  },
+  {
+    "word": "le gâteau",
+    "translation": "der Kuchen"
+  },
+  {
+    "word": "prendre",
+    "translation": "etw. nehmen"
+  },
+  {
+    "word": "comme",
+    "translation": "als"
+  },
+  {
+    "word": "ne... plus",
+    "translation": "nicht mehr"
+  },
+  {
+    "word": "comprendre",
+    "translation": "verstehen"
+  },
+  {
+    "word": "avoir soif",
+    "translation": "Durst haben"
+  },
+  {
+    "word": "Tu me passes?",
+    "translation": "Reichst du mir ...?"
+  },
+  {
+    "word": "l'eau",
+    "add": "f.",
+    "translation": "das Wasser"
+  },
+  {
+    "word": "Bon appétit!",
+    "translation": "Guten Appetit!"
+  },
+  {
+    "word": "le pain",
+    "translation": "das Brot"
+  },
+  {
+    "word": "C'est bon.",
+    "translation": "Das schmeckt gut."
+  },
+  {
+    "word": "trop bon",
+    "translation": "voll lecker"
+  },
+  {
+    "word": "trop",
+    "translation": "voll, total"
+  },
+  {
+    "word": "l'interview",
+    "add": "f.",
+    "translation": "das Interview"
+  },
+  {
+    "word": "parler",
+    "add": "à qn",
+    "translation": "mit jdm sprechen"
+  },
+  {
+    "word": "la dame",
+    "translation": "die Frau"
+  },
+  {
+    "word": "grand",
+    "translation": "groß (männlich)"
+  },
+  {
+    "word": "grande",
+    "translation": "groß (weiblich)"
+  },
+  {
+    "word": "beaucoup de",
+    "translation": "viele"
+  },
+  {
+    "word": "la chose",
+    "translation": "die Sache"
+  },
+  {
+    "word": "à pied",
+    "translation": "zu Fuß"
+  },
+  {
+    "word": "un peu",
+    "translation": "ein bisschen"
+  },
+  {
+    "word": "comme",
+    "translation": "wie"
+  },
+  {
+    "word": "le village",
+    "translation": "das Dorf"
+  },
+  {
+    "word": "la cathédrale",
+    "translation": "die Kathedrale"
+  },
+  {
+    "word": "en face de",
+    "translation": "gegenüber von"
+  },
+  {
+    "word": "drôle",
+    "add": "m./f.",
+    "translation": "lustig, spaßig"
+  },
+  {
+    "word": "trop de",
+    "translation": "zu viel"
+  },
+  {
+    "word": "le touriste",
+    "translation": "der Tourist"
+  },
+  {
+    "word": "la touriste",
+    "translation": "die Touristin"
+  },
+  {
+    "word": "quand même",
+    "translation": "trotzdem, dennoch"
+  },
+  {
+    "word": "le jeune",
+    "translation": "der Jugendliche"
+  },
+  {
+    "word": "la jeune",
+    "translation": "die Jugendliche"
+  },
+  {
+    "word": "le ciné",
+    "translation": "das Kino"
+  },
+  {
+    "word": "le centre commercial",
+    "translation": "das Einkaufszentrum"
+  },
+  {
+    "word": "assez de",
+    "translation": "genug"
+  },
+  {
+    "word": "ne...pas de",
+    "translation": "kein"
+  },
+  {
+    "word": "le magasin",
+    "translation": "das Geschäft"
+  },
+  {
+    "word": "depuis des mois",
+    "translation": "seit Monaten"
+  },
+  {
+    "word": "le mois",
+    "translation": "der Monat"
+  },
+  {
+    "word": "le café",
+    "translation": "das Café"
+  },
+  {
+    "word": "le supermarché",
+    "translation": "der Supermarkt"
+  },
+  {
+    "word": "la boulangerie",
+    "translation": "die Bäckerei"
+  },
+  {
+    "word": "loin de",
+    "translation": "weit entfernt von"
+  },
+  {
+    "word": "petit",
+    "translation": "klein (männlich)"
+  },
+  {
+    "word": "petite",
+    "translation": "klein (weiblich)"
+  },
+  {
+    "word": "la piscine",
+    "translation": "das Schwimmbad"
+  },
+  {
+    "word": "le stade",
+    "translation": "das Stadion"
+  },
+  {
+    "word": "la fête",
+    "translation": "das Fest / die Party"
+  },
+  {
+    "word": "l'anniversaire",
+    "add": "m.",
+    "translation": "der Geburtstag"
+  },
+  {
+    "word": "janvier",
+    "translation": "Januar"
+  },
+  {
+    "word": "février",
+    "translation": "Februar"
+  },
+  {
+    "word": "mars",
+    "translation": "März"
+  },
+  {
+    "word": "avril",
+    "translation": "April"
+  },
+  {
+    "word": "mai",
+    "translation": "Mai"
+  },
+  {
+    "word": "juin",
+    "translation": "Juni"
+  },
+  {
+    "word": "juillet",
+    "translation": "Juli"
+  },
+  {
+    "word": "août",
+    "translation": "August"
+  },
+  {
+    "word": "septembre",
+    "translation": "September"
+  },
+  {
+    "word": "octobre",
+    "translation": "Oktober"
+  },
+  {
+    "word": "novembre",
+    "translation": "November"
+  },
+  {
+    "word": "décembre",
+    "translation": "Dezember"
+  },
+  {
+    "word": "inviter qn à qc",
+    "translation": "jdn zu etw. einladen"
+  },
+  {
+    "word": "cent",
+    "translation": "hundert"
+  },
+  {
+    "word": "le tram",
+    "translation": "die Straßenbahn"
+  },
+  {
+    "word": "le portable",
+    "translation": "das Handy"
+  },
+  {
+    "word": "l'invitation",
+    "add": "f.",
+    "translation": "die Einladung"
+  },
+  {
+    "word": "Sans blague!",
+    "translation": "Kein Scherz!"
+  },
+  {
+    "word": "la blague",
+    "translation": "der Scherz"
+  },
+  {
+    "word": "en",
+    "translation": "im (zeitlich)"
+  },
+  {
+    "word": "le cadeau",
+    "translation": "das Geschenk"
+  },
+  {
+    "word": "parler de qc",
+    "translation": "über etw. sprechen"
+  },
+  {
+    "word": "acheter",
+    "translation": "kaufen"
+  },
+  {
+    "word": "collectionner",
+    "translation": "sammeln"
+  },
+  {
+    "word": "faire une surprise à qn",
+    "translation": "jdn überraschen"
+  },
+  {
+    "word": "la surprise",
+    "translation": "die Überraschung"
+  },
+  {
+    "word": "trouver",
+    "translation": "finden"
+  },
+  {
+    "word": "apporter",
+    "translation": "mitbringen"
+  },
+  {
+    "word": "le sketch",
+    "translation": "der Sketch"
+  },
+  {
+    "word": "la chanson",
+    "translation": "das Lied"
+  },
+  {
+    "word": "bien sûr",
+    "translation": "aber sicher"
+  },
+  {
+    "word": "Qui fait quoi?",
+    "translation": "Wer macht was?"
+  },
+  {
+    "word": "coûter",
+    "translation": "kosten"
+  },
+  {
+    "word": "combien",
+    "translation": "wie viel"
+  },
+  {
+    "word": "cher",
+    "translation": "teuer (männlich)"
+  },
+  {
+    "word": "chère",
+    "translation": "teuer (weiblich)"
+  },
+  {
+    "word": "l'argent",
+    "add": "m.",
+    "translation": "das Geld"
+  },
+  {
+    "word": "la librairie",
+    "translation": "die Buchhandlung"
+  },
+  {
+    "word": "à... euro(s)",
+    "translation": "für ... Euro"
+  },
+  {
+    "word": "aider",
+    "translation": "helfen"
+  },
+  {
+    "word": "accompagner",
+    "translation": "begleiten"
+  },
+  {
+    "word": "ici",
+    "translation": "hier"
+  },
+  {
+    "word": "faire les courses",
+    "translation": "einkaufen"
+  },
+  {
+    "word": "les courses",
+    "add": "f.pl.",
+    "translation": "die Einkäufe"
+  },
+  {
+    "word": "la recette",
+    "translation": "das Rezept"
+  },
+  {
+    "word": "la liste",
+    "translation": "die Liste"
+  },
+  {
+    "word": "le kilo",
+    "translation": "das Kilo"
+  },
+  {
+    "word": "la farine",
+    "translation": "das Mehl"
+  },
+  {
+    "word": "le paquet",
+    "translation": "die Packung"
+  },
+  {
+    "word": "le sucre",
+    "translation": "der Zucker"
+  },
+  {
+    "word": "le beurre",
+    "translation": "die Butter"
+  },
+  {
+    "word": "la bouteille",
+    "translation": "die Flasche"
+  },
+  {
+    "word": "le lait",
+    "translation": "die Milch"
+  },
+  {
+    "word": "l'œuf",
+    "add": "m.",
+    "translation": "das Ei"
+  },
+  {
+    "word": "noir",
+    "translation": "schwarz (männlich)"
+  },
+  {
+    "word": "noire",
+    "translation": "schwarz (weiblich)"
+  },
+  {
+    "word": "Joyeux anniversaire!",
+    "translation": "Herzlichen Glückwunsch zum Geburtstag!"
+  },
+  {
+    "word": "le buffet",
+    "translation": "das Buffet"
+  },
+  {
+    "word": "prêt",
+    "translation": "bereit (männlich)"
+  },
+  {
+    "word": "prête",
+    "translation": "bereit (weiblich)"
+  },
+  {
+    "word": "les chips",
+    "add": "f.pl.",
+    "translation": "die Chips"
+  },
+  {
+    "word": "le bretzel",
+    "translation": "die Brezel"
+  },
+  {
+    "word": "le bonbon",
+    "translation": "das Bonbon"
+  },
+  {
+    "word": "la salade de fruits",
+    "translation": "der Obstsalat"
+  },
+  {
+    "word": "la salade",
+    "translation": "der Salat"
+  },
+  {
+    "word": "la pomme",
+    "translation": "der Apfel"
+  },
+  {
+    "word": "la poire",
+    "translation": "die Birne"
+  },
+  {
+    "word": "la fraise",
+    "translation": "die Erdbeere"
+  },
+  {
+    "word": "le cocktail",
+    "translation": "der Cocktail"
+  },
+  {
+    "word": "l'orange",
+    "add": "f.",
+    "translation": "die Orange"
+  },
+  {
+    "word": "l'ananas",
+    "add": "m.",
+    "translation": "die Ananas"
+  },
+  {
+    "word": "attendre",
+    "translation": "warten"
+  },
+  {
+    "word": "en retard",
+    "translation": "zu spät, mit Verspätung"
+  },
+  {
+    "word": "à l'heure",
+    "translation": "pünktlich"
+  },
+  {
+    "word": "content",
+    "add": "m.",
+    "translation": "zufrieden, glücklich (männlich)"
+  },
+  {
+    "word": "contente",
+    "add": "f.",
+    "translation": "zufrieden, glücklich (weiblich)"
+  },
+  {
+    "word": "ensuite",
+    "translation": "dann"
+  },
+  {
+    "word": "le jeu vidéo",
+    "translation": "das Videospiel"
+  },
+  {
+    "word": "le jeu",
+    "translation": "das Spiel"
+  },
+  {
+    "word": "le moment",
+    "translation": "der Moment, der Augenblick"
+  },
+  {
+    "word": "danser",
+    "translation": "tanzen"
+  },
+  {
+    "word": "l'ambiance",
+    "add": "f.",
+    "translation": "die Stimmung"
+  },
+  {
+    "word": "entendre",
+    "translation": "hören"
+  },
+  {
+    "word": "puis",
+    "translation": "dann"
+  },
+  {
+    "word": "le jour",
+    "translation": "der Tag"
+  },
+  {
+    "word": "souffler",
+    "translation": "auspusten"
+  },
+  {
+    "word": "la bougie",
+    "translation": "die Kerze"
+  },
+  {
+    "word": "la vie",
+    "translation": "das Leben"
+  },
+  {
+    "word": "la plage",
+    "translation": "der Strand"
+  },
+  {
+    "word": "la randonnée",
+    "translation": "die Wanderung"
+  },
+  {
+    "word": "en montagne",
+    "translation": "in den Bergen"
+  },
+  {
+    "word": "faire du camping",
+    "translation": "zelten"
+  },
+  {
+    "word": "le camping",
+    "translation": "der Campingplatz, das Zelten"
+  },
+  {
+    "word": "Quelle chance!",
+    "translation": "Was für ein Glück!"
+  },
+  {
+    "word": "rester",
+    "translation": "bleiben"
+  },
+  {
+    "word": "au bord du lac",
+    "translation": "am Seeufer"
+  },
+  {
+    "word": "le lac",
+    "translation": "der See"
+  },
+  {
+    "word": "la récréation",
+    "translation": "die Pause"
+  },
+  {
+    "word": "nous sommes",
+    "translation": "wir sind"
+  },
+  {
+    "word": "à",
+    "translation": "in"
+  },
+  {
+    "word": "l'école",
+    "translation": "die Schule"
+  },
+  {
+    "word": "l'élève",
+    "translation": "der,die Schüler/in"
+  },
+  {
+    "word": "le surveillant",
+    "translation": "die Aufsichtsperson"
+  },
+  {
+    "word": "dans",
+    "translation": "in"
+  },
+  {
+    "word": "la cour",
+    "translation": "der Schulhof"
+  },
+  {
+    "word": "comment",
+    "translation": "wie"
+  },
+  {
+    "word": "ou",
+    "translation": "oder"
+  },
+  {
+    "word": "nouveau",
+    "add": "m.",
+    "translation": "neu"
+  },
+  {
+    "word": "nouvelle",
+    "add": "f.",
+    "translation": "neu"
+  },
+  {
+    "word": "le garçon",
+    "translation": "der Junge"
+  },
+  {
+    "word": "C'est qui?",
+    "translation": "Wer ist das?"
+  },
+  {
+    "word": "Je ne sais pas.",
+    "translation": "Ich weiß es nicht."
+  },
+  {
+    "word": "cool",
+    "translation": "cool"
+  },
+  {
+    "word": "regarder qn/qc",
+    "translation": "etw./jdn. anschauen"
+  },
+  {
+    "word": "en cinquième",
+    "translation": "in der fünften Klasse"
+  },
+  {
+    "word": "la cinquième",
+    "translation": "die fünfte Klasse"
+  },
+  {
+    "word": "de",
+    "translation": "von"
+  },
+  {
+    "word": "la fille",
+    "translation": "das Mädchen"
+  },
+  {
+    "word": "aussi",
+    "translation": "auch"
+  },
+  {
+    "word": "pas mal",
+    "translation": "nicht schlecht"
+  },
+  {
+    "word": "l'ami",
+    "translation": "der Freund"
+  },
+  {
+    "word": "l'amie",
+    "translation": "die Freundin"
+  },
+  {
+    "word": "on",
+    "translation": "wir / man"
+  },
+  {
+    "word": "ensemble",
+    "translation": "zusammen"
+  },
+  {
+    "word": "C'est trop cool!",
+    "translation": "Das ist total cool!"
+  },
+  {
+    "word": "le souvenir",
+    "translation": "die Erinnerung"
+  },
+  {
+    "word": "l'été",
+    "add": "m.",
+    "translation": "der Sommer"
+  },
+  {
+    "word": "Ça y est!",
+    "translation": "Geschafft!"
+  },
+  {
+    "word": "le soleil",
+    "translation": "die Sonne"
+  },
+  {
+    "word": "un tas de",
+    "translation": "eine Menge, ein Haufen"
+  },
+  {
+    "word": "Il fait chaud.",
+    "translation": "Es ist heiß."
+  },
+  {
+    "word": "nager",
+    "translation": "schwimmen"
+  },
+  {
+    "word": "la mer",
+    "translation": "das Meer"
+  },
+  {
+    "word": "où",
+    "translation": "wo"
+  },
+  {
+    "word": "beaucoup de monde",
+    "translation": "viele Leute"
+  },
+  {
+    "word": "le feu d'artifice",
+    "translation": "das Feuerwerk"
+  },
+  {
+    "word": "Il fait beau.",
+    "translation": "Es ist schönes Wetter."
+  },
+  {
+    "word": "le château",
+    "translation": "das Schloss"
+  },
+  {
+    "word": "fêter",
+    "translation": "feiern"
+  },
+  {
+    "word": "le VTT",
+    "add": "(=le vélo tout-terrain)",
+    "translation": "das Mountainbike"
+  },
+  {
+    "word": "le cheval",
+    "translation": "das Pferd"
+  },
+  {
+    "word": "le temps",
+    "translation": "das Wetter"
+  },
+  {
+    "word": "génial",
+    "translation": "genial, toll (männlich)"
+  },
+  {
+    "word": "géniale",
+    "translation": "genial, toll (weiblich)"
+  },
+  {
+    "word": "Il pleut.",
+    "translation": "Es regnet."
+  },
+  {
+    "word": "la nuit",
+    "translation": "die Nacht"
+  },
+  {
+    "word": "le jour",
+    "translation": "der Tag"
+  },
+  {
+    "word": "Il fait froid.",
+    "translation": "Es ist kalt."
+  },
+  {
+    "word": "la tente",
+    "translation": "das Zelt"
+  },
+  {
+    "word": "observer",
+    "translation": "beobachten"
+  },
+  {
+    "word": "les jumelles",
+    "add": "f.pl.",
+    "translation": "das Fernglas"
+  },
+  {
+    "word": "À bientôt!",
+    "translation": "Bis bald!"
+  },
+  {
+    "word": "Il neige.",
+    "translation": "Es schneit."
+  },
+  {
+    "word": "Il y a du vent.",
+    "translation": "Es ist windig."
+  },
+  {
+    "word": "le printemps",
+    "translation": "der Frühling"
+  },
+  {
+    "word": "l'automne",
+    "add": "m.",
+    "translation": "der Herbst"
+  },
+  {
+    "word": "l'hiver",
+    "add": "m.",
+    "translation": "der Winter"
+  },
+  {
+    "word": "Bienvenue!",
+    "translation": "Willkommen!"
+  },
+  {
+    "word": "la viellie ville",
+    "translation": "die Altstadt"
+  },
+  {
+    "word": "la rue piétonne",
+    "translation": "die Fußgängerzone"
+  },
+  {
+    "word": "jouer de",
+    "add": "qc",
+    "translation": "spielen (Instrument)"
+  },
+  {
+    "word": "l’instrument",
+    "add": "m.",
+    "translation": "das Instrument"
+  },
+  {
+    "word": "le piano",
+    "translation": "das Klavier"
+  },
+  {
+    "word": "la chorale",
+    "translation": "der Chor"
+  },
+  {
+    "word": "la natation",
+    "translation": "Schwimmen (Sportart)"
+  },
+  {
+    "word": "le club",
+    "translation": "der Verein"
+  },
+  {
+    "word": "célèbre",
+    "translation": "berühmt"
+  },
+  {
+    "word": "venir",
+    "translation": "kommen"
+  },
+  {
+    "word": "le cahier de vacances",
+    "translation": "das Ferienheft"
+  },
+  {
+    "word": "être né à/ le",
+    "translation": "geboren sein (in/am)"
+  },
+  {
+    "word": "être née à/ le",
+    "translation": "geboren sein (in/am)"
+  },
+  {
+    "word": "la physique",
+    "translation": "die Physik"
+  },
+  {
+    "word": "jouer à",
+    "add": "qc",
+    "translation": "etw. spielen (ein Spiel oder Ballsportarten)"
+  },
+  {
+    "word": "le ping-pong",
+    "translation": "Tischtennis"
+  },
+  {
+    "word": "le handball",
+    "translation": "Handball"
+  },
+  {
+    "word": "au bord de",
+    "translation": "am Ufer von"
+  },
+  {
+    "word": "le beach-volley",
+    "translation": "Beach-Volleyball"
+  },
+  {
+    "word": "l’accordéon",
+    "translation": "das Akkordeon"
+  },
+  {
+    "word": "depuis",
+    "translation": "seit, seitdem"
+  },
+  {
+    "word": "qui",
+    "translation": "der, die, das (Relativpronomen)"
+  },
+  {
+    "word": "attirer qn",
+    "translation": "jdn anziehen, anlocken"
+  },
+  {
+    "word": "moderne",
+    "add": "m./f.",
+    "translation": "modern"
+  },
+  {
+    "word": "branché",
+    "add": "m.",
+    "translation": "angesagt (männlich)"
+  },
+  {
+    "word": "branchée",
+    "add": "f.",
+    "translation": "angesagt (weiblich)"
+  },
+  {
+    "word": "les gens",
+    "add": "m.pl.",
+    "translation": "die Leute"
+  },
+  {
+    "word": "sortir",
+    "translation": "hinausgehen, ausgehen"
+  },
+  {
+    "word": "le festival",
+    "translation": "das Festival"
+  },
+  {
+    "word": "que",
+    "translation": "den, die, das (Relativpronomen)"
+  },
+  {
+    "word": "proposer qc (à qn)",
+    "translation": "(jdm) etw. vorschlagen, anbieten"
+  },
+  {
+    "word": "l’exposition",
+    "add": "f.",
+    "translation": "die Ausstellung"
+  },
+  {
+    "word": "le planétarium",
+    "translation": "das Planetarium"
+  },
+  {
+    "word": "fantastique",
+    "add": "m./f.",
+    "translation": "fantastisch, großartig"
+  },
+  {
+    "word": "l’étoile",
+    "add": "f.",
+    "translation": "der Stern"
+  },
+  {
+    "word": "l’aquarium",
+    "add": "m.",
+    "translation": "das Aquarium"
+  },
+  {
+    "word": "voir",
+    "translation": "sehen"
+  },
+  {
+    "word": "magnifique",
+    "add": "m./f.",
+    "translation": "wunderschön"
+  },
+  {
+    "word": "dehors",
+    "translation": "draußen"
+  },
+  {
+    "word": "par exemple",
+    "translation": "zum Beispiel"
+  },
+  {
+    "word": "l’exemple",
+    "add": "m.",
+    "translation": "das Beispiel"
+  },
+  {
+    "word": "la terrasse",
+    "translation": "die Terrasse"
+  },
+  {
+    "word": "pour",
+    "add": "+ inf.",
+    "translation": "um … zu + Inf."
+  },
+  {
+    "word": "prendre qc",
+    "translation": "etw. zu sich nehmen"
+  },
+  {
+    "word": "quelque chose",
+    "translation": "etwas"
+  },
+  {
+    "word": "le shopping",
+    "translation": "der Einkaufsbummel"
+  },
+  {
+    "word": "idéal",
+    "add": "m.",
+    "translation": "ideal (männlich)"
+  },
+  {
+    "word": "idéale",
+    "add": "f.",
+    "translation": "ideal (weiblich)"
+  },
+  {
+    "word": "parfois",
+    "translation": "manchmal"
+  },
+  {
+    "word": "partir",
+    "translation": "wegfahren, losgehen"
+  },
+  {
+    "word": "quelque chose se trouve",
+    "translation": "etw. befindet sich/liegt"
+  },
+  {
+    "word": "la région",
+    "translation": "die Gegend"
+  },
+  {
+    "word": "la mer Méditerranée",
+    "translation": "das Mittelmeer"
+  },
+  {
+    "word": "partir en week-end",
+    "translation": "ins Wochenende fahren"
+  },
+  {
+    "word": "partir en randonnée",
+    "translation": "wandern gehen"
+  },
+  {
+    "word": "corriger",
+    "translation": "korrigieren, berichtigen"
+  },
+  {
+    "word": "autre",
+    "add": "m./f.",
+    "translation": "anderer, andere, anderes"
+  },
+  {
+    "word": "J'ai oublié quelque chose.",
+    "translation": "Ich habe etwas vergessen."
+  },
+  {
+    "word": "Je n'ai pas compris.",
+    "translation": "Ich habe (es) nicht verstanden."
+  },
+  {
+    "word": "J'ai fait un autre exercice.",
+    "translation": "Ich habbe eine andere Übung gemacht."
+  },
+  {
+    "word": "Qu'est-ce que tu as écrit?",
+    "translation": "Was hast du hier geschrieben?"
+  },
+  {
+    "word": "J'ai écrit autre chose.",
+    "translation": "Ich habe etwas anderes geschrieben."
+  },
+  {
+    "word": "lire",
+    "translation": "lesen"
+  },
+  {
+    "word": "la fois",
+    "translation": "das Mal"
+  },
+  {
+    "word": "les fois",
+    "add": "f. pl.",
+    "translation": "die Male"
+  },
+  {
+    "word": "mettre le son plus fort",
+    "translation": "den Ton lauter stellen"
+  },
+  {
+    "word": "la feuille",
+    "translation": "das Blatt"
+  },
+  {
+    "word": "C'est à quelle page?",
+    "translation": "Auf welcher Seite ist das?"
+  },
+  {
+    "word": "C'est à la page 25.",
+    "translation": "Das ist auf Seite 25."
+  },
+  {
+    "word": "Qu'est-ce qu'il faut faire?",
+    "translation": "Was sollen wir machen?"
+  },
+  {
+    "word": "Vous avez fini?",
+    "translation": "Seid ihr fertig?"
+  },
+  {
+    "word": "Je n'ai pas fini!",
+    "translation": "Ich bin noch nicht fertig!"
+  },
+  {
+    "word": "C'est à qui?",
+    "translation": "Wer ist dran?"
+  },
+  {
+    "word": "C'est à moi.",
+    "translation": "Ich bin dran."
+  },
+  {
+    "word": "le numéro",
+    "translation": "die Nummer"
+  },
+  {
+    "word": "en silence",
+    "translation": "still"
+  },
+  {
+    "word": "expliquer qc",
+    "translation": "etw. erklären"
+  },
+  {
+    "word": "la tâche",
+    "add": "f.",
+    "translation": "die Aufgabe, die Arbeit"
+  },
+  {
+    "word": "différent",
+    "add": "m.",
+    "translation": "anderer"
+  },
+  {
+    "word": "différente",
+    "add": "f.",
+    "translation": "andere"
+  },
+  {
+    "word": "la minute",
+    "add": "f.",
+    "translation": "die Minute"
+  },
+  {
+    "word": "apprendre",
+    "translation": "lernen"
+  },
+  {
+    "word": "le vocabulaire",
+    "add": "m.",
+    "translation": "das Vokabular, der Wortschatz"
+  },
+  {
+    "word": "l’unité",
+    "add": "f.",
+    "translation": "die Lektion"
+  },
+  {
+    "word": "prochain",
+    "add": "m.",
+    "translation": "nächster"
+  },
+  {
+    "word": "prochaine",
+    "add": "f.",
+    "translation": "nächste"
+  },
+  {
+    "word": "le temps libre",
+    "translation": "die Freizeit"
+  },
+  {
+    "word": "libre",
+    "add": "m./f.",
+    "translation": "frei"
+  },
+  {
+    "word": "dessiner",
+    "translation": "zeichnen"
+  },
+  {
+    "word": "hier",
+    "translation": "gestern"
+  },
+  {
+    "word": "terminer",
+    "translation": "beenden"
+  },
+  {
+    "word": "entre",
+    "translation": "unter"
+  },
+  {
+    "word": "le sandwich",
+    "translation": "das Sandwich"
+  },
+  {
+    "word": "le pique-nique",
+    "translation": "das Picknick"
+  },
+  {
+    "word": "ne … jamais",
+    "translation": "nie"
+  },
+  {
+    "word": "énerver",
+    "translation": "ärgern"
+  },
+  {
+    "word": "enfin",
+    "translation": "endlich, schließlich"
+  },
+  {
+    "word": "Allez!",
+    "translation": "Los!"
+  },
+  {
+    "word": "descendre",
+    "translation": "hinuntergehen"
+  },
+  {
+    "word": "raconter",
+    "translation": "erzählen"
+  },
+  {
+    "word": "oublier",
+    "translation": "vergessen"
+  },
+  {
+    "word": "ne … rien",
+    "translation": "nichts"
+  },
+  {
+    "word": "entrer",
+    "translation": "hineingehen, etw. betreten"
+  },
+  {
+    "word": "le journal",
+    "translation": "das Tagebuch, die Zeitung"
+  },
+  {
+    "word": "d’habitude",
+    "translation": "normalerweise"
+  },
+  {
+    "word": "malade",
+    "add": "m./f.",
+    "translation": "krank"
+  },
+  {
+    "word": "ranger",
+    "translation": "aufräumen"
+  },
+  {
+    "word": "devoir",
+    "translation": "müssen"
+  },
+  {
+    "word": "tous les samedis",
+    "translation": "jeden Samstag"
+  },
+  {
+    "word": "le sac",
+    "translation": "die Tasche"
+  },
+  {
+    "word": "midi",
+    "translation": "zwölf Uhr mittags"
+  },
+  {
+    "word": "rencontrer",
+    "translation": "begegnen, treffen"
+  },
+  {
+    "word": "le citron",
+    "translation": "die Zitrone"
+  },
+  {
+    "word": "la catastrophe",
+    "translation": "die Katastrophe"
+  },
+  {
+    "word": "le repas",
+    "translation": "das Essen, die Mahlzeit"
+  },
+  {
+    "word": "le film",
+    "translation": "der Film"
+  },
+  {
+    "word": "dormir",
+    "translation": "schlafen"
+  },
+  {
+    "word": "longtemps",
+    "translation": "lange (zeitlich)"
+  },
+  {
+    "word": "c’était trop tard",
+    "translation": "es war zu spät"
+  },
+  {
+    "word": "à propos",
+    "translation": "übrigens, apropos"
+  },
+  {
+    "word": "déjà",
+    "translation": "schon, bereits"
+  },
+  {
+    "word": "fatigué",
+    "add": "m.",
+    "translation": "müde (männlich)"
+  },
+  {
+    "word": "fatiguée",
+    "add": "f.",
+    "translation": "müde (weiblich)"
+  },
+  {
+    "word": "la fin",
+    "translation": "das Ende"
+  },
+  {
+    "word": "l’aventure",
+    "add": "f.",
+    "translation": "das Abenteuer"
+  },
+  {
+    "word": "incroyable",
+    "add": "m./f.",
+    "translation": "unglaublich"
+  },
+  {
+    "word": "le rendez-vous",
+    "translation": "die Verabredung, der Termin"
+  },
+  {
+    "word": "la voiture",
+    "translation": "der Wagen, das Auto"
+  },
+  {
+    "word": "le taureau",
+    "translation": "der Stier"
+  },
+  {
+    "word": "les taureaux",
+    "translation": "die Stiere"
+  },
+  {
+    "word": "le champ",
+    "translation": "das Feld"
+  },
+  {
+    "word": "idiot",
+    "add": "m.",
+    "translation": "blöd (männlich)"
+  },
+  {
+    "word": "idiote",
+    "add": "w.",
+    "translation": "blöd (weiblich)"
+  },
+  {
+    "word": "photographier",
+    "translation": "fotografieren"
+  },
+  {
+    "word": "le toréro",
+    "translation": "der Torero"
+  },
+  {
+    "word": "tout à coup",
+    "translation": "plötzlich"
+  },
+  {
+    "word": "venir droit sur qn",
+    "translation": "direkt auf jdn zukommen"
+  },
+  {
+    "word": "avoir peur",
+    "translation": "Angst haben, Angst bekommen"
+  },
+  {
+    "word": "la peur",
+    "translation": "die Angst"
+  },
+  {
+    "word": "C’était l’horreur!",
+    "translation": "Das war der Horror!"
+  },
+  {
+    "word": "juste",
+    "translation": "gerade noch"
+  },
+  {
+    "word": "à cause de ça",
+    "translation": "deswegen"
+  },
+  {
+    "word": "à cause de",
+    "translation": "wegen"
+  },
+  {
+    "word": "faire attention",
+    "translation": "aufpassen"
+  },
+  {
+    "word": "mauvais",
+    "add": "m.",
+    "translation": "schlecht, falsch (männlich)"
+  },
+  {
+    "word": "mauvaise",
+    "add": "w.",
+    "translation": "schlecht, falsch (weiblich)"
+  },
+  {
+    "word": "demander son chemin à qn",
+    "translation": "jdn nach dem Weg fragen"
+  },
+  {
+    "word": "le chemin",
+    "translation": "der Weg"
+  },
+  {
+    "word": "perdre",
+    "translation": "verlieren"
+  },
+  {
+    "word": "répondre à qn/qc",
+    "translation": "jdm antworten, etw. beantworten"
+  },
+  {
+    "word": "rien de spécial",
+    "translation": "nichts Besonderes"
+  },
+  {
+    "word": "insister",
+    "translation": "auf etw. bestehen, nachhaken"
+  },
+  {
+    "word": "Il faut que je te dise un truc!",
+    "translation": "Ich muss dir was sagen!"
+  },
+  {
+    "word": "il y a",
+    "translation": "vor (zeitlich)"
+  },
+  {
+    "word": "prendre ses jambes à son cou",
+    "translation": "die Beine in die Hand nehmen"
+  },
+  {
+    "word": "la jambe",
+    "translation": "das Bein"
+  },
+  {
+    "word": "le cou",
+    "translation": "der Hals"
+  },
+  {
+    "word": "le monde",
+    "translation": "die Welt"
+  },
+  {
+    "word": "le test",
+    "translation": "der Test"
+  },
+  {
+    "word": "calme",
+    "add": "m./f.",
+    "translation": "ruhig"
+  },
+  {
+    "word": "le bus",
+    "translation": "der Bus"
+  },
+  {
+    "word": "le magazine",
+    "translation": "das Magazin, die Zeitschrift"
+  },
+  {
+    "word": "le texto",
+    "translation": "die SMS"
+  },
+  {
+    "word": "quel",
+    "add": "m.",
+    "translation": "welcher"
+  },
+  {
+    "word": "quelle",
+    "add": "f.",
+    "translation": "welche"
+  },
+  {
+    "word": "la couleur",
+    "translation": "die Farbe"
+  },
+  {
+    "word": "rouge",
+    "translation": "rot"
+  },
+  {
+    "word": "bleu",
+    "translation": "blau"
+  },
+  {
+    "word": "l’idole",
+    "add": "f.",
+    "translation": "das Idol"
+  },
+  {
+    "word": "l’acteur",
+    "add": "m.",
+    "translation": "der Schauspieler"
+  },
+  {
+    "word": "l’actrice",
+    "add": "f.",
+    "translation": "die Schauspielerin"
+  },
+  {
+    "word": "le sportif",
+    "add": "m.",
+    "translation": "der Sportler"
+  },
+  {
+    "word": "la sportive",
+    "add": "f.",
+    "translation": "die Sportlerin"
+  },
+  {
+    "word": "télécharger",
+    "translation": "herunterladen"
+  },
+  {
+    "word": "le titre",
+    "translation": "der Titel, Musiktitel"
+  },
+  {
+    "word": "l’électro",
+    "add": "f.",
+    "translation": "die Elektromusik"
+  },
+  {
+    "word": "le hip-hop",
+    "translation": "der Hip-Hop"
+  },
+  {
+    "word": "les vêtements",
+    "add": "m.pl.",
+    "translation": "die Kleider"
+  },
+  {
+    "word": "porter",
+    "translation": "tragen"
+  },
+  {
+    "word": "le pantalon",
+    "translation": "die Hose"
+  },
+  {
+    "word": "la chemise",
+    "translation": "das Hemd"
+  },
+  {
+    "word": "le jean",
+    "translation": "die Jeans"
+  },
+  {
+    "word": "le tee‑shirt",
+    "translation": "das T‑Shirt"
+  },
+  {
+    "word": "l’objet",
+    "add": "m.",
+    "translation": "das Objekt, der Gegenstand"
+  },
+  {
+    "word": "le porte-bonheur",
+    "translation": "der Glücksbringer"
+  },
+  {
+    "word": "le casque",
+    "translation": "der Kopfhörer, auch: der Helm"
+  },
+  {
+    "word": "le résultat",
+    "translation": "das Ergebnis"
+  },
+  {
+    "word": "plus",
+    "translation": "mehr"
+  },
+  {
+    "word": "plutôt",
+    "translation": "eher, lieber"
+  },
+  {
+    "word": "bouger",
+    "translation": "sich bewegen"
+  },
+  {
+    "word": "le stress",
+    "translation": "der Stress"
+  },
+  {
+    "word": "l’enquête",
+    "add": "f.",
+    "translation": "die Umfrage, die Untersuchung"
+  },
+  {
+    "word": "le style",
+    "translation": "der Stil"
+  },
+  {
+    "word": "le look",
+    "translation": "der Look, das Outfit"
+  },
+  {
+    "word": "sportif",
+    "add": "m.",
+    "translation": "sportlich"
+  },
+  {
+    "word": "sportive",
+    "add": "f.",
+    "translation": "sportlich"
+  },
+  {
+    "word": "mettre",
+    "translation": "etw. tragen, anziehen; auch: setzen, stellen, legen"
+  },
+  {
+    "word": "la marque",
+    "translation": "die Marke"
+  },
+  {
+    "word": "les baskets",
+    "add": "f.pl.",
+    "translation": "die Turnschuhe"
+  },
+  {
+    "word": "important",
+    "add": "m.",
+    "translation": "wichtig (männlich)"
+  },
+  {
+    "word": "importante",
+    "add": "f.",
+    "translation": "wichtig (weiblich)"
+  },
+  {
+    "word": "nouveau",
+    "add": "m.sg.",
+    "translation": "neu (männlich sg.)"
+  },
+  {
+    "word": "nouvelle,",
+    "add": "f.sg.",
+    "translation": "neu (weiblich sg.)"
+  },
+  {
+    "word": "nouveaux",
+    "add": "m.pl.",
+    "translation": "neu (männlich pl.)"
+  },
+  {
+    "word": "nouvelles",
+    "add": "w.pl.",
+    "translation": "neu (weiblich pl.)"
+  },
+  {
+    "word": "la sonnerie",
+    "translation": "die Klingel, der Klingelton"
+  },
+  {
+    "word": "être accro à qc",
+    "translation": "nach etw. süchtig sein"
+  },
+  {
+    "word": "ce",
+    "add": "m.sg.",
+    "translation": "dieser (männlich sg.)"
+  },
+  {
+    "word": "cet",
+    "add": "m.sg.",
+    "translation": "dieser + Vokal (männlich sg.)"
+  },
+  {
+    "word": "cette",
+    "add": "w.sg.",
+    "translation": "diese (weiblich sg.)"
+  },
+  {
+    "word": "ces",
+    "add": "pl.",
+    "translation": "diese (plural)"
+  },
+  {
+    "word": "beau",
+    "add": "m. sg.",
+    "translation": "schön (männlich sg.)"
+  },
+  {
+    "word": "bel",
+    "add": "m. sg.",
+    "translation": "schön + Vokal (männlich sg.)"
+  },
+  {
+    "word": "beaux",
+    "add": "m. pl.",
+    "translation": "schön (männlich pl.)"
+  },
+  {
+    "word": "belles",
+    "add": "w. pl.",
+    "translation": "schön (weiblich pl.)"
+  },
+  {
+    "word": "la voix",
+    "translation": "die Stimme"
+  },
+  {
+    "word": "aussi … que",
+    "translation": "so … wie"
+  },
+  {
+    "word": "le pull",
+    "translation": "der Pulli, der Pullover"
+  },
+  {
+    "word": "orange",
+    "translation": "orange"
+  },
+  {
+    "word": "vert",
+    "translation": "grün"
+  },
+  {
+    "word": "blanc",
+    "translation": "weiß (männlich)"
+  },
+  {
+    "word": "blanche",
+    "translation": "weiß (weiblich)"
+  },
+  {
+    "word": "marron",
+    "add": "m./f.",
+    "translation": "braun"
+  },
+  {
+    "word": "jaune",
+    "add": "m./f.",
+    "translation": "gelb"
+  },
+  {
+    "word": "noir",
+    "translation": "schwarz"
+  },
+  {
+    "word": "bleu",
+    "translation": "blau"
+  },
+  {
+    "word": "rouge",
+    "add": "m./f.",
+    "translation": "rot"
+  },
+  {
+    "word": "gris",
+    "translation": "grau"
+  },
+  {
+    "word": "Ça me plaît.",
+    "translation": "Das gefällt mir."
+  },
+  {
+    "word": "la mode",
+    "translation": "die Mode"
+  },
+  {
+    "word": "la robe",
+    "translation": "das Kleid"
+  },
+  {
+    "word": "dépenser",
+    "translation": "ausgeben"
+  },
+  {
+    "word": "cent-cinquante",
+    "translation": "hundertfünfzig"
+  },
+  {
+    "word": "deux cents",
+    "translation": "zweihundert"
+  },
+  {
+    "word": "les affaires",
+    "add": "f.pl.",
+    "translation": "die Sachen"
+  },
+  {
+    "word": "moins … que",
+    "translation": "weniger … als"
+  },
+  {
+    "word": "plus … que",
+    "translation": "mehr … als"
+  },
+  {
+    "word": "l’album",
+    "add": "m.",
+    "translation": "das Album, das Fotoalbum"
+  },
+  {
+    "word": "le rythme",
+    "translation": "der Rhythmus"
+  },
+  {
+    "word": "la batterie",
+    "translation": "das Schlagzeug"
+  },
+  {
+    "word": "il faut",
+    "add": "+ infinitif",
+    "translation": "man muss, wir müssen"
+  },
+  {
+    "word": "il ne faut pas",
+    "add": "+ infinitif",
+    "translation": "man darf, sollte nicht"
+  },
+  {
+    "word": "exagérer",
+    "translation": "übertreiben"
+  },
+  {
+    "word": "avoir raison",
+    "translation": "recht haben"
+  },
+  {
+    "word": "confisquer",
+    "add": "qc",
+    "translation": "jdm etw. wegnehmen"
+  },
+  {
+    "word": "trouver",
+    "add": "que",
+    "translation": "finden, dass"
+  },
+  {
+    "word": "rappeler",
+    "add": "qn",
+    "translation": "jdn zurückrufen"
+  },
+  {
+    "word": "le téléphone",
+    "translation": "das Telefon"
+  },
+  {
+    "word": "À table!",
+    "translation": "Essen!, Zu Tisch!"
+  },
+  {
+    "word": "la note",
+    "translation": "die Note"
+  },
+  {
+    "word": "catastrophique",
+    "translation": "katastrophal"
+  },
+  {
+    "word": "dernier",
+    "add": "m.",
+    "translation": "letzter"
+  },
+  {
+    "word": "dernière",
+    "add": "f.",
+    "translation": "letzte"
+  },
+  {
+    "word": "vrai",
+    "add": "m.",
+    "translation": "richtig, wahr (männlich)"
+  },
+  {
+    "word": "vraie",
+    "add": "w.",
+    "translation": "richtig, wahr (weiblich)"
+  },
+  {
+    "word": "dire",
+    "add": "qc (à qn)",
+    "translation": "(jdm) etw. sagen"
+  },
+  {
+    "word": "passer son temps",
+    "add": "à + infinitif",
+    "translation": "die ganze Zeit etw. tun"
+  },
+  {
+    "word": "envoyer",
+    "add": "qc (à qn)",
+    "translation": "(jdm) etw. schicken"
+  },
+  {
+    "word": "être privé",
+    "add": "de qc",
+    "translation": "Verbot haben"
+  },
+  {
+    "word": "la discussion",
+    "translation": "die Diskussion"
+  },
+  {
+    "word": "reparler",
+    "add": "de qc à qn",
+    "translation": "noch einmal mit jdm über etw. sprechen"
+  },
+  {
+    "word": "penser que",
+    "translation": "denken, dass"
+  },
+  {
+    "word": "le meilleur",
+    "add": "m.",
+    "translation": "der beste"
+  },
+  {
+    "word": "la meilleure",
+    "add": "w.",
+    "translation": "die beste"
+  },
+  {
+    "word": "la solution",
+    "translation": "die Lösung"
+  },
+  {
+    "word": "essayer",
+    "add": "qc",
+    "translation": "(etw.) versuchen, (an)probieren"
+  },
+  {
+    "word": "à mon avis",
+    "translation": "meiner Meinung nach"
+  },
+  {
+    "word": "l’avis",
+    "add": "m.",
+    "translation": "die Meinung"
+  },
+  {
+    "word": "grave",
+    "add": "m./f.",
+    "translation": "ernst, schlimm"
+  },
+  {
+    "word": "terrible",
+    "add": "m./f.",
+    "translation": "furchtbar"
+  },
+  {
+    "word": "baisser les bras",
+    "translation": "aufgeben"
+  },
+  {
+    "word": "le bras",
+    "translation": "der Arm"
+  },
+  {
+    "word": "l’argument",
+    "add": "m.",
+    "translation": "das Argument"
+  },
+  {
+    "word": "récupérer",
+    "add": "qc",
+    "translation": "etw. zurückbekommen"
+  },
+  {
+    "word": "Bonne chance!",
+    "translation": "Viel Glück!"
+  },
+  {
+    "word": "la chance",
+    "translation": "das Glück, die Chance"
+  },
+  {
+    "word": "peut-être",
+    "translation": "vielleicht"
+  },
+  {
+    "word": "limiter",
+    "add": "qc",
+    "translation": "etw. beschränken, begrenzen"
+  },
+  {
+    "word": "l’appel",
+    "add": "m.",
+    "translation": "der Anruf"
+  },
+  {
+    "word": "le crayon de couleur",
+    "translation": "der Buntstift"
+  },
+  {
+    "word": "le crayon",
+    "translation": "der Bleistift"
+  },
+  {
+    "word": "le stylo",
+    "translation": "der Kugelschreiber"
+  },
+  {
+    "word": "l'effaceur",
+    "add": "m.",
+    "translation": "der Tintenkiller"
+  },
+  {
+    "word": "la règle",
+    "translation": "das Lineal"
+  },
+  {
+    "word": "le cahier",
+    "translation": "das Heft"
+  },
+  {
+    "word": "le papier",
+    "translation": "das Papier"
+  },
+  {
+    "word": "le classeur",
+    "translation": "der Ordner"
+  },
+  {
+    "word": "Comment est-ce qu'on dit ",
+    "translation": "Wie sagt man ...?"
+  },
+  {
+    "word": "en français",
+    "translation": "auf Französisch"
+  },
+  {
+    "word": "en allemand",
+    "translation": "auf Deutsch"
+  },
+  {
+    "word": "On dit",
+    "translation": "Man sagt"
+  },
+  {
+    "word": "Je ne sais pas.",
+    "translation": "Ich weiß es nicht."
+  },
+  {
+    "word": "Comment est-ce qu'on écrit ?",
+    "translation": "Wie schreibt man ?"
+  },
+  {
+    "word": "On écrit",
+    "translation": "Man schreibt"
+  },
+  {
+    "word": "la Belgique",
+    "translation": "Belgien"
+  },
+  {
+    "word": "l’auberge de jeunesse",
+    "add": "f.",
+    "translation": "die Jugendherberge"
+  },
+  {
+    "word": "le tournoi",
+    "translation": "das Turnier"
+  },
+  {
+    "word": "avoir lieu",
+    "translation": "stattfinden"
+  },
+  {
+    "word": "l’équipe",
+    "add": "f.",
+    "translation": "die Mannschaft, das Team"
+  },
+  {
+    "word": "le train",
+    "translation": "der Zug"
+  },
+  {
+    "word": "participer",
+    "translation": "teilnehmen"
+  },
+  {
+    "word": "le match",
+    "translation": "das Spiel"
+  },
+  {
+    "word": "l’entraîneur",
+    "add": "m.",
+    "translation": "der Trainer"
+  },
+  {
+    "word": "l’entraîneuse",
+    "add": "f.",
+    "translation": "die Trainerin"
+  },
+  {
+    "word": "penser",
+    "translation": "denken"
+  },
+  {
+    "word": "le carrefour",
+    "translation": "die Kreuzung"
+  },
+  {
+    "word": "tourner",
+    "translation": "abbiegen"
+  },
+  {
+    "word": "tourner à gauche",
+    "translation": "nach links abbiegen"
+  },
+  {
+    "word": "tourner à droite",
+    "translation": "nach rechts abbiegen"
+  },
+  {
+    "word": "tout droit",
+    "translation": "geradeaus"
+  },
+  {
+    "word": "le plan",
+    "translation": "der Stadtplan, die Karte"
+  },
+  {
+    "word": "l’idiot",
+    "add": "m.",
+    "translation": "der Idiot"
+  },
+  {
+    "word": "l’idiote",
+    "add": "f.",
+    "translation": "die Idiotin"
+  },
+  {
+    "word": "laisser",
+    "translation": "lassen"
+  },
+  {
+    "word": "le GPS",
+    "translation": "das GPS"
+  },
+  {
+    "word": "le réseau",
+    "translation": "das Netz"
+  },
+  {
+    "word": "quelqu’un",
+    "translation": "jemand"
+  },
+  {
+    "word": "troisième",
+    "translation": "dritter/dritte/drittes"
+  },
+  {
+    "word": "le feu rouge",
+    "translation": "die Ampel"
+  },
+  {
+    "word": "deuxième",
+    "translation": "zweiter/zweite/zweites"
+  },
+  {
+    "word": "traverser",
+    "translation": "überqueren"
+  },
+  {
+    "word": "la gare",
+    "translation": "der Bahnhof"
+  },
+  {
+    "word": "redemander",
+    "translation": "noch einmal fragen"
+  },
+  {
+    "word": "tout à l’heure",
+    "translation": "vorhin"
+  },
+  {
+    "word": "l’organisateur",
+    "add": "m.",
+    "translation": "der Organisator"
+  },
+  {
+    "word": "l’organisatrice",
+    "add": "f.",
+    "translation": "die Organisatorin"
+  },
+  {
+    "word": "vous y êtes",
+    "translation": "ihr seid da"
+  },
+  {
+    "word": "le joueur",
+    "add": "m.",
+    "translation": "der Spieler"
+  },
+  {
+    "word": "la joueuse",
+    "add": "f.",
+    "translation": "die Spielerin"
+  },
+  {
+    "word": "l’arbitre",
+    "add": "m./f.",
+    "translation": "der/die Schiedsrichter/in"
+  },
+  {
+    "word": "le ballon",
+    "translation": "der Ball"
+  },
+  {
+    "word": "le score",
+    "translation": "der Spielstand"
+  },
+  {
+    "word": "le gardien de but",
+    "add": "m.",
+    "translation": "der Torwart"
+  },
+  {
+    "word": "la gardienne de but",
+    "add": "f.",
+    "translation": "die Torwärtin"
+  },
+  {
+    "word": "le carton jaune",
+    "translation": "die gelbe Karte"
+  },
+  {
+    "word": "jaune",
+    "translation": "gelb"
+  },
+  {
+    "word": "la faute",
+    "translation": "der Fehler, das Foul"
+  },
+  {
+    "word": "marquer un but",
+    "translation": "ein Tor schießen"
+  },
+  {
+    "word": "le but",
+    "translation": "das Tor, das Ziel"
+  },
+  {
+    "word": "le petit-déjeuner",
+    "translation": "das Frühstück"
+  },
+  {
+    "word": "recommencer",
+    "translation": "wieder anfangen, etw. noch einmal tun"
+  },
+  {
+    "word": "gagner",
+    "translation": "gewinnen"
+  },
+  {
+    "word": "contre",
+    "translation": "gegen"
+  },
+  {
+    "word": "encourager",
+    "translation": "ermutigen"
+  },
+  {
+    "word": "formidable",
+    "add": "m./f.",
+    "translation": "toll"
+  },
+  {
+    "word": "facile",
+    "add": "m./f.",
+    "translation": "leicht"
+  },
+  {
+    "word": "lutter",
+    "translation": "kämpfen"
+  },
+  {
+    "word": "jusqu’au bout",
+    "translation": "bis zum Ende"
+  },
+  {
+    "word": "la défense",
+    "translation": "die Abwehr"
+  },
+  {
+    "word": "réagir",
+    "translation": "reagieren"
+  },
+  {
+    "word": "l’attaque",
+    "add": "f.",
+    "translation": "der Angriff"
+  },
+  {
+    "word": "applaudir",
+    "translation": "applaudieren"
+  },
+  {
+    "word": "fort",
+    "add": "m.",
+    "translation": "stark (männlich)"
+  },
+  {
+    "word": "forte",
+    "add": "w.",
+    "translation": "stark (weiblich)"
+  },
+  {
+    "word": "rapide",
+    "add": "m./f.",
+    "translation": "schnell"
+  },
+  {
+    "word": "agir",
+    "translation": "handeln"
+  },
+  {
+    "word": "tout",
+    "add": "m.sg.",
+    "translation": "ganzer"
+  },
+  {
+    "word": "toute",
+    "add": "f.sg.",
+    "translation": "ganze"
+  },
+  {
+    "word": "tous",
+    "add": "m.pl.",
+    "translation": "alle (männlich)"
+  },
+  {
+    "word": "toutes",
+    "add": "f.pl.",
+    "translation": "alle (weiblich)"
+  },
+  {
+    "word": "donner",
+    "translation": "geben"
+  },
+  {
+    "word": "finir",
+    "translation": "etw. beenden, enden"
+  },
+  {
+    "word": "tout à l’heure",
+    "translation": "gleich, in Kürze"
+  },
+  {
+    "word": "la demi-finale",
+    "translation": "das Halbfinale"
+  },
+  {
+    "word": "le Belge",
+    "add": "m.",
+    "translation": "der Belgier"
+  },
+  {
+    "word": "la Belge",
+    "add": "f.",
+    "translation": "die Belgierin"
+  },
+  {
+    "word": "montrer",
+    "translation": "zeigen"
+  },
+  {
+    "word": "le point fort",
+    "translation": "die Stärke"
+  },
+  {
+    "word": "garder",
+    "translation": "behalten"
+  },
+  {
+    "word": "la finale",
+    "translation": "das Finale"
+  },
+  {
+    "word": "possible",
+    "add": "m./f.",
+    "translation": "möglich"
+  },
+  {
+    "word": "compter sur qn",
+    "translation": "(auf jdn) zählen"
+  },
+  {
+    "word": "réussir",
+    "translation": "schaffen, gelingen"
+  },
+  {
+    "word": "quelques",
+    "add": "pl.",
+    "translation": "einige, ein paar"
+  },
+  {
+    "word": "monter",
+    "translation": "steigen"
+  },
+  {
+    "word": "installer",
+    "translation": "etw. aufbauen"
+  },
+  {
+    "word": "poser",
+    "translation": "(hin)stellen, (hin)legen"
+  },
+  {
+    "word": "le plat",
+    "translation": "die Platte"
+  },
+  {
+    "word": "quoi",
+    "translation": "was"
+  },
+  {
+    "word": "connaître",
+    "translation": "kennen"
+  },
+  {
+    "word": "la tarte",
+    "translation": "der Kuchen"
+  },
+  {
+    "word": "le riz",
+    "translation": "der Reis"
+  },
+  {
+    "word": "la spécialité",
+    "translation": "die Spezialität"
+  },
+  {
+    "word": "belge",
+    "add": "m./f.",
+    "translation": "belgisch"
+  },
+  {
+    "word": "sonner",
+    "translation": "klingeln"
+  },
+  {
+    "word": "il/elle veut savoir si",
+    "translation": "er/sie will wissen, ob"
+  },
+  {
+    "word": "il faut",
+    "translation": "man braucht / wir brauchen etw."
+  },
+  {
+    "word": "la boisson",
+    "translation": "das Getränk"
+  },
+  {
+    "word": "l’eau minérale",
+    "add": "f.",
+    "translation": "das Mineralwasser"
+  },
+  {
+    "word": "demander à qn si",
+    "translation": "jdn fragen, ob"
+  },
+  {
+    "word": "avoir l’air",
+    "translation": "aussehen"
+  },
+  {
+    "word": "le fromage",
+    "translation": "der Käse"
+  },
+  {
+    "word": "la charcuterie",
+    "translation": "Wurstwaren"
+  },
+  {
+    "word": "la remise des médailles",
+    "translation": "die Siegerehrung"
+  },
+  {
+    "word": "Il faut qu’on y aille!",
+    "translation": "Wir müssen los!"
+  },
+  {
+    "word": "le vestiaire",
+    "translation": "der Umkleideraum"
+  },
+  {
+    "word": "la solidarité",
+    "translation": "die Solidarität"
+  },
+  {
+    "word": "la nouvelle",
+    "translation": "die Nachricht, die Neuigkeit"
+  },
+  {
+    "word": "la loi",
+    "translation": "das Gesetz"
+  },
+  {
+    "word": "la personnalité",
+    "translation": "die Persönlichkeit"
+  },
+  {
+    "word": "l'humour",
+    "add": "m.",
+    "translation": "der Humor"
+  },
+  {
+    "word": "seul",
+    "add": "m.",
+    "translation": "allein"
+  },
+  {
+    "word": "seule",
+    "add": "f.",
+    "translation": "alleine"
+  },
+  {
+    "word": "la star",
+    "translation": "der Star"
+  },
+  {
+    "word": "surveiller",
+    "translation": "beaufsichtigen"
+  },
+  {
+    "word": "la brute",
+    "translation": "der Grobian"
+  },
+  {
+    "word": "la bagarre",
+    "translation": "die Prügelei"
+  },
+  {
+    "word": "la victime",
+    "translation": "das Opfer"
+  },
+  {
+    "word": "timide",
+    "add": "m./f.",
+    "translation": "schüchtern"
+  },
+  {
+    "word": "signaler qc à qn",
+    "translation": "jdm etw. melden"
+  },
+  {
+    "word": "le chef",
+    "add": "m.",
+    "translation": "der Chef"
+  },
+  {
+    "word": "la chef",
+    "add": "f.",
+    "translation": "die Chefin"
+  },
+  {
+    "word": "le médiateur",
+    "add": "m.",
+    "translation": "der Mediator"
+  },
+  {
+    "word": "la médiatrice",
+    "add": "f.",
+    "translation": "die Mediatorin"
+  },
+  {
+    "word": "le conflit",
+    "translation": "der Konflikt"
+  },
+  {
+    "word": "confier qc à qn",
+    "translation": "jdm etw. anvertrauen"
+  },
+  {
+    "word": "personnel",
+    "add": "m.",
+    "translation": "persönlich (männlich)"
+  },
+  {
+    "word": "personnelle",
+    "add": "f.",
+    "translation": "persönliche (weiblich)"
+  },
+  {
+    "word": "au secours !",
+    "add": "phrase",
+    "translation": "zu hilfe!"
+  },
+  {
+    "word": "agresser",
+    "translation": "angreifen"
+  },
+  {
+    "word": "toucher",
+    "translation": "anfassen"
+  },
+  {
+    "word": "faire peur à qn",
+    "translation": "jdm angst machen"
+  },
+  {
+    "word": "tenir ",
+    "translation": "festhalten, halten"
+  },
+  {
+    "word": "faire mal à qn",
+    "translation": "jdm wehtun"
+  },
+  {
+    "word": "comme ça",
+    "translation": "so"
+  },
+  {
+    "word": "arrêter",
+    "translation": "aufhören"
+  },
+  {
+    "word": "mal finir",
+    "translation": "schlecht ausgehen"
+  },
+  {
+    "word": "mal",
+    "translation": "schlecht"
+  },
+  {
+    "word": "malheureux",
+    "add": "m.",
+    "translation": "unglücklich (männlich)"
+  },
+  {
+    "word": "malheureuse",
+    "add": "f.",
+    "translation": "unglücklich (weiblich)"
+  },
+  {
+    "word": "pleurer",
+    "translation": "weinen"
+  },
+  {
+    "word": "frapper",
+    "translation": "schlagen"
+  },
+  {
+    "word": "voler",
+    "translation": "stehlen"
+  },
+  {
+    "word": "courageux",
+    "add": "m.",
+    "translation": "mutig (männlich)"
+  },
+  {
+    "word": "courageuse",
+    "add": "f.",
+    "translation": "mutig (weiblich)"
+  },
+  {
+    "word": "hésiter",
+    "translation": "zögern"
+  },
+  {
+    "word": "c’est honteux !",
+    "translation": "das ist eine schande!"
+  },
+  {
+    "word": "honteux",
+    "add": "m.",
+    "translation": "beschämt, empört (männlich)"
+  },
+  {
+    "word": "honteuse",
+    "add": "f.",
+    "translation": "beschämt, empört (weiblich)"
+  },
+  {
+    "word": "j’y vais !",
+    "add": "phrase",
+    "translation": "ich gehe hin!"
+  },
+  {
+    "word": "dangereux",
+    "add": "m.",
+    "translation": "gefährlich (männlich)"
+  },
+  {
+    "word": "dangereuse",
+    "add": "f.",
+    "translation": "gefährlich (weiblich)"
+  },
+  {
+    "word": "aller chercher",
+    "translation": "abholen, holen"
+  },
+  {
+    "word": "prévenir",
+    "translation": "verständigen, benachrichtigen"
+  },
+  {
+    "word": "la violence",
+    "translation": "die Gewalt"
+  },
+  {
+    "word": "ne ... personne",
+    "add": "neg.",
+    "translation": "niemand"
+  },
+  {
+    "word": "tout le monde",
+    "translation": "alle, jede und jeder"
+  },
+  {
+    "word": "l’histoire",
+    "add": "f.",
+    "translation": "die Geschichte"
+  },
+  {
+    "word": "l’agresseur",
+    "add": "m.",
+    "translation": "der Angreifer"
+  },
+  {
+    "word": "consoler",
+    "translation": "trösten"
+  },
+  {
+    "word": "blessé",
+    "translation": "verletzt"
+  },
+  {
+    "word": "dénoncer",
+    "translation": "anzeigen, verraten"
+  },
+  {
+    "word": "sinon",
+    "translation": "sonst"
+  },
+  {
+    "word": "harceler",
+    "translation": "belästigen, hier: mobben"
+  },
+  {
+    "word": "accepter",
+    "translation": "akzeptieren"
+  },
+  {
+    "word": "oser",
+    "add": "+ inf",
+    "translation": "sich trauen, etw. zu tun"
+  },
+  {
+    "word": "menacer",
+    "translation": "drohen, bedrohen"
+  },
+  {
+    "word": "la boxe",
+    "translation": "das Boxen"
+  },
+  {
+    "word": "violent",
+    "translation": "gewalttätig"
+  },
+  {
+    "word": "lâche",
+    "add": "m./f.",
+    "translation": "feige"
+  },
+  {
+    "word": "faible",
+    "add": "m./f.",
+    "translation": "schwach"
+  },
+  {
+    "word": "le témoin",
+    "translation": "der Zeuge, die Zeugin"
+  },
+  {
+    "word": "l’agression",
+    "add": "f.",
+    "translation": "der Angriff"
+  },
+  {
+    "word": "le principal",
+    "translation": "der Schulleiter"
+  },
+  {
+    "word": "la police",
+    "translation": "die Polizei"
+  },
+  {
+    "word": "rassuré",
+    "translation": "beruhigt"
+  },
+  {
+    "word": "laisser qn tranquille",
+    "translation": "jdn in Ruhe lassen"
+  },
+  {
+    "word": "écrire",
+    "translation": "schreiben"
+  },
+  {
+    "word": "mille",
+    "translation": "tausend"
+  },
+  {
+    "word": "le visage",
+    "translation": "das Gesicht"
+  },
+  {
+    "word": "la capitale",
+    "translation": "die Hauptstadt"
+  },
+  {
+    "word": "l’habitant",
+    "add": "m.",
+    "translation": "der Einwohner"
+  },
+  {
+    "word": "le paysage",
+    "translation": "die Landschaft"
+  },
+  {
+    "word": "le million",
+    "translation": "die Million"
+  },
+  {
+    "word": "se baigner",
+    "translation": "baden"
+  },
+  {
+    "word": "construit",
+    "add": "m.",
+    "translation": "erbaut"
+  },
+  {
+    "word": "s’entraîner",
+    "translation": "trainieren"
+  },
+  {
+    "word": "devenir",
+    "translation": "werden"
+  },
+  {
+    "word": "exister",
+    "translation": "existieren"
+  },
+  {
+    "word": "se trouver",
+    "translation": "sich befinden"
+  },
+  {
+    "word": "la forteresse",
+    "translation": "die Festung"
+  },
+  {
+    "word": "l’europe",
+    "add": "f.",
+    "translation": "Europa"
+  },
+  {
+    "word": "le kilomètre",
+    "translation": "der Kilometer"
+  },
+  {
+    "word": "se promener",
+    "translation": "spazieren gehen"
+  },
+  {
+    "word": "le mur",
+    "translation": "die Mauer, die Wand"
+  },
+  {
+    "word": "la tradition",
+    "translation": "die Tradition"
+  },
+  {
+    "word": "plusieurs",
+    "add": "pl.",
+    "translation": "mehrere"
+  },
+  {
+    "word": "s’amuser",
+    "translation": "sich amüsieren, spaß haben"
+  },
+  {
+    "word": "lâcher",
+    "translation": "loslassen"
+  },
+  {
+    "word": "se retrouver",
+    "translation": "sich treffen"
+  },
+  {
+    "word": "le champion",
+    "translation": "der Champion"
+  },
+  {
+    "word": "le monument",
+    "translation": "das Bauwerk, das Monument"
+  },
+  {
+    "word": "l’époque",
+    "add": "f.",
+    "translation": "die Zeit, die Epoche"
+  },
+  {
+    "word": "amener",
+    "translation": "mitbringen; hier: leiten"
+  },
+  {
+    "word": "la personne",
+    "translation": "die Person"
+  },
+  {
+    "word": "le même",
+    "add": "m.",
+    "translation": "derselbe/dasselbe; der/ das gleiche"
+  },
+  {
+    "word": "la même",
+    "add": "f.",
+    "translation": "dieselbe; die gleiche"
+  },
+  {
+    "word": "le concert",
+    "translation": "das Konzert"
+  },
+  {
+    "word": "la cité",
+    "translation": "die Siedlung"
+  },
+  {
+    "word": "la légende",
+    "translation": "die Legende"
+  },
+  {
+    "word": "le marchand",
+    "translation": "der Händler"
+  },
+  {
+    "word": "la cage",
+    "translation": "der Käfig"
+  },
+  {
+    "word": "se souvenir de qn/qc",
+    "translation": "sich an jdn/etw. erinnern"
+  },
+  {
+    "word": "se passer",
+    "translation": "geschehen, spielen"
+  },
+  {
+    "word": "jeune",
+    "add": "m./f.",
+    "translation": "jung"
+  },
+  {
+    "word": "l’homme",
+    "add": "m.",
+    "translation": "der Mann, der Mensch"
+  },
+  {
+    "word": "les hommes",
+    "add": "m.",
+    "translation": "die Menschen"
+  },
+  {
+    "word": "s’appeler",
+    "translation": "heißen"
+  },
+  {
+    "word": "vendre",
+    "translation": "verkaufen"
+  },
+  {
+    "word": "l’oiseau",
+    "add": "m.",
+    "translation": "der Vogel"
+  },
+  {
+    "word": "les oiseaux",
+    "add": "m. pl.",
+    "translation": "die Vögel"
+  },
+  {
+    "word": "le marché",
+    "translation": "der Markt"
+  },
+  {
+    "word": "pauvre",
+    "add": "m./f.",
+    "translation": "arm"
+  },
+  {
+    "word": "le printemps",
+    "translation": "der Frühling"
+  },
+  {
+    "word": "se poser",
+    "translation": "sich niederlassen"
+  },
+  {
+    "word": "offrir",
+    "translation": "schenken, anbieten"
+  },
+  {
+    "word": "intéresser",
+    "translation": "interessieren"
+  },
+  {
+    "word": "heureux",
+    "add": "m.",
+    "translation": "glücklich (männlich)"
+  },
+  {
+    "word": "heureuse",
+    "add": "f.",
+    "translation": "glücklich (weiblich)"
+  },
+  {
+    "word": "riche",
+    "add": "m./f.",
+    "translation": "reich"
+  },
+  {
+    "word": "s’énerver",
+    "translation": "sich aufregen"
+  },
+  {
+    "word": "être capable",
+    "add": "de + inf.",
+    "translation": "fähig sein, etw. zu tun"
+  },
+  {
+    "word": "ouvrir",
+    "translation": "öffnen"
+  },
+  {
+    "word": "s’envoler",
+    "translation": "davonfliegen"
+  },
+  {
+    "word": "bien d’autres choses",
+    "translation": "noch viel mehr"
+  },
+  {
+    "word": "disparaître",
+    "translation": "verschwinden"
+  },
+  {
+    "word": "cela",
+    "translation": "das"
+  },
+  {
+    "word": "le mariage",
+    "translation": "die Hochzeit"
+  },
+  {
+    "word": "l’invité",
+    "add": "m.",
+    "translation": "der Gast"
+  },
+  {
+    "word": "le musicien",
+    "translation": "der Musiker"
+  },
+  {
+    "word": "la musicienne",
+    "translation": "die Musikerin"
+  },
+  {
+    "word": "le marié",
+    "translation": "der Bräutigam"
+  },
+  {
+    "word": "la mariée",
+    "translation": "die Braut"
+  },
+  {
+    "word": "la scène",
+    "translation": "die Szene"
+  },
+  {
+    "word": "la proposition",
+    "translation": "der Vorschlag"
+  },
+  {
+    "word": "échanger qc contre qc",
+    "translation": "etw. gegen etw. tauschen"
+  },
+  {
+    "word": "magique",
+    "add": "m./f.",
+    "translation": "magisch"
+  },
+  {
+    "word": "furieux",
+    "add": "m.",
+    "translation": "wütend (männlich)"
+  },
+  {
+    "word": "furieuse",
+    "add": "f.",
+    "translation": "wütend (weiblich)"
+  },
+  {
+    "word": "épouser",
+    "add": "qn",
+    "translation": "jdn heiraten"
+  },
+  {
+    "word": "l’œil",
+    "add": "m. sg.",
+    "translation": "das Auge"
+  },
+  {
+    "word": "les yeux",
+    "add": "m. pl.",
+    "translation": "die Augen"
+  },
+  {
+    "word": "les cheveux",
+    "add": "m. pl.",
+    "translation": "die Haare"
+  },
+  {
+    "word": "l’or",
+    "add": "m.",
+    "translation": "das Gold"
+  },
+  {
+    "word": "les rollers",
+    "add": "m. pl.",
+    "translation": "die Inlineskates"
+  },
+  {
+    "word": "le quai",
+    "translation": "das Ufer / der Bahnsteig"
+  },
+  {
+    "word": "le jardin",
+    "translation": "der Garten"
+  },
+  {
+    "word": "le tableau",
+    "translation": "das Bild / die Tafel"
+  },
+  {
+    "word": "les tableaux",
+    "translation": "die Bilder / die Tafeln"
+  },
+  {
+    "word": "avant",
+    "translation": "früher / vorher"
+  },
+  {
+    "word": "royal",
+    "add": "m.",
+    "translation": "königlich"
+  },
+  {
+    "word": "royaux",
+    "add": "m. pl.",
+    "translation": "königlich (plural)"
+  },
+  {
+    "word": "vieux",
+    "add": "m.",
+    "translation": "alt (m.)"
+  },
+  {
+    "word": "vieille",
+    "add": "f.",
+    "translation": "alt (f.)"
+  },
+  {
+    "word": "le fleuve",
+    "translation": "der (in ein Meer mündende) Fluss"
+  },
+  {
+    "word": "traverser",
+    "add": "qc",
+    "translation": "etw. überqueren"
+  },
+  {
+    "word": "autrefois",
+    "translation": "früher / einst"
+  },
+  {
+    "word": "il y avait",
+    "translation": "es gab"
+  },
+  {
+    "word": "la boutique",
+    "translation": "das Geschäft / der Laden"
+  },
+  {
+    "word": "l'artiste",
+    "add": "m./f.",
+    "translation": "der/die Künstler(in)"
+  },
+  {
+    "word": "l'île",
+    "add": "f.",
+    "translation": "die Insel"
+  },
+  {
+    "word": "indiquer",
+    "translation": "angeben / zeigen"
+  },
+  {
+    "word": "calculer",
+    "translation": "berechnen"
+  },
+  {
+    "word": "la distance",
+    "translation": "die Entfernung"
+  },
+  {
+    "word": "la glace",
+    "translation": "das Eis / der Spiegel"
+  },
+  {
+    "word": "l'étudiant",
+    "add": "m.",
+    "translation": "der Student"
+  },
+  {
+    "word": "animé",
+    "add": "m.",
+    "translation": "belebt"
+  },
+  {
+    "word": "le monde",
+    "translation": "die Welt / die Leute"
+  },
+  {
+    "word": "même",
+    "translation": "sogar / selbst / derselbe"
+  },
+  {
+    "word": "payer",
+    "translation": "bezahlen"
+  },
+  {
+    "word": "le loyer",
+    "translation": "die Miete"
+  },
+  {
+    "word": "se lever",
+    "translation": "aufstehen"
+  },
+  {
+    "word": "avoir de la chance",
+    "translation": "Glück haben"
+  },
+  {
+    "word": "se préparer",
+    "translation": "sich vorbereiten"
+  },
+  {
+    "word": "l'université",
+    "add": "f.",
+    "translation": "die Universität"
+  },
+  {
+    "word": "le ticket",
+    "translation": "das Ticket"
+  },
+  {
+    "word": "le métro",
+    "translation": "die U-Bahn"
+  },
+  {
+    "word": "sur moi",
+    "translation": "bei mir (dabei)"
+  },
+  {
+    "word": "la sortie",
+    "translation": "der Ausgang"
+  },
+  {
+    "word": "l'arrondissement",
+    "add": "m.",
+    "translation": "(Pariser) Stadtbezirk"
+  },
+  {
+    "word": "se sentir",
+    "translation": "sich fühlen"
+  },
+  {
+    "word": "courir",
+    "translation": "rennen / laufen"
+  },
+  {
+    "word": "rater",
+    "translation": "verpassen"
+  },
+  {
+    "word": "se dépêcher",
+    "translation": "sich beeilen"
+  },
+  {
+    "word": "la ligne",
+    "translation": "die Linie"
+  },
+  {
+    "word": "la station",
+    "translation": "die Station"
+  },
+  {
+    "word": "changer à",
+    "translation": "umsteigen in/an"
+  },
+  {
+    "word": "en direction de",
+    "translation": "in Richtung"
+  },
+  {
+    "word": "descendre à",
+    "translation": "aussteigen an"
+  },
+  {
+    "word": "se coucher",
+    "translation": "zu Bett gehen"
+  },
+  {
+    "word": "le resto",
+    "translation": "das Restaurant"
+  },
+  {
+    "word": "s'ennuyer",
+    "translation": "sich langweilen"
+  },
+  {
+    "word": "la banlieue",
+    "translation": "der Vorort / das Vorstadtgebiet"
+  },
+  {
+    "word": "prendre une douche",
+    "translation": "duschen"
+  },
+  {
+    "word": "la douche",
+    "translation": "die Dusche"
+  },
+  {
+    "word": "s'habiller",
+    "translation": "sich anziehen"
+  },
+  {
+    "word": "chaud",
+    "translation": "warm / heiß"
+  },
+  {
+    "word": "c'est",
+    "translation": "das ist"
+  },
+  {
+    "word": "être",
+    "translation": "sein"
+  },
+  {
+    "word": "voilà",
+    "translation": "da ist / da kommt"
+  },
+  {
+    "word": "la classe",
+    "translation": "die Klasse"
+  },
+  {
+    "word": "la sixième",
+    "translation": "die sechste Klasse"
+  },
+  {
+    "word": "je suis",
+    "translation": "ich bin"
+  },
+  {
+    "word": "le professeur",
+    "add": "de français",
+    "translation": "der/die Französischlehrer/in"
+  },
+  {
+    "word": "le professeur",
+    "translation": "der Lehrer"
+  },
+  {
+    "word": "la professeur",
+    "translation": "die Lehrerin"
+  },
+  {
+    "word": "le français",
+    "translation": "Französisch (Unterrichtsfach, auch: die französische Sprache)"
+  },
+  {
+    "word": "oui",
+    "translation": "ja"
+  },
+  {
+    "word": "je m'appelle",
+    "translation": "ich heiße"
+  },
+  {
+    "word": "ah",
+    "translation": "ach, ach so"
+  },
+  {
+    "word": "pardon",
+    "translation": "Verzeihung"
+  },
+  {
+    "word": "C'est moi.",
+    "translation": "Ich bin's. / Das bin ich."
+  },
+  {
+    "word": "moi",
+    "translation": "ich (betonte Form des Personalpronomens)"
+  },
+  {
+    "word": "alors",
+    "translation": "also"
+  },
+  {
+    "word": "tu es",
+    "translation": "du bist"
+  },
+  {
+    "word": "tu t'appelles",
+    "translation": "du heißt"
+  },
+  {
+    "word": "Non?",
+    "translation": "Nicht wahr?"
+  },
+  {
+    "word": "avec",
+    "translation": "mit"
+  },
+  {
+    "word": "Ça va?",
+    "translation": "Wie geht's?"
+  },
+  {
+    "word": "Au revoir",
+    "translation": "Auf Wiedersehen"
+  },
+  {
+    "word": "il est",
+    "translation": "er ist"
+  },
+  {
+    "word": "de",
+    "translation": "aus"
+  },
+  {
+    "word": "très",
+    "translation": "sehr"
+  },
+  {
+    "word": "bien",
+    "translation": "gut"
+  },
+  {
+    "word": "elle est",
+    "translation": "sie ist"
+  },
+  {
+    "word": "là",
+    "translation": "da / hier"
+  },
+  {
+    "word": "euh",
+    "translation": "äh"
+  },
+  {
+    "word": "deux",
+    "translation": "zwei"
+  },
+  {
+    "word": "non",
+    "translation": "nein"
+  },
+  {
+    "word": "construire",
+    "translation": "bauen"
+  },
+  {
+    "word": "la tour",
+    "translation": "der Turm"
+  },
+  {
+    "word": "haut",
+    "translation": "hoch"
+  },
+  {
+    "word": "l'ouvrier",
+    "add": "m.",
+    "translation": "der Arbeiter"
+  },
+  {
+    "word": "l'ouvrière",
+    "add": "f.",
+    "translation": "die Arbeiterin"
+  },
+  {
+    "word": "la construction",
+    "translation": "der Bau / die Konstruktion"
+  },
+  {
+    "word": "par jour",
+    "translation": "pro Tag"
+  },
+  {
+    "word": "dur",
+    "translation": "hart / schwierig"
+  },
+  {
+    "word": "le projet",
+    "translation": "das Projekt"
+  },
+  {
+    "word": "vraiment",
+    "translation": "wirklich"
+  },
+  {
+    "word": "le pied",
+    "translation": "der Fuß"
+  },
+  {
+    "word": "le montage",
+    "translation": "die Montage / der Aufbau"
+  },
+  {
+    "word": "la pièce",
+    "translation": "das Teil / das Stück"
+  },
+  {
+    "word": "sentir",
+    "translation": "fühlen / spüren / riechen"
+  },
+  {
+    "word": "la main",
+    "translation": "die Hand"
+  },
+  {
+    "word": "le froid",
+    "translation": "die Kälte"
+  },
+  {
+    "word": "grandir",
+    "translation": "wachsen / größer werden"
+  },
+  {
+    "word": "l'étage",
+    "add": "m.",
+    "translation": "das Stockwerk"
+  },
+  {
+    "word": "l'escalier",
+    "add": "m.",
+    "translation": "die Treppe"
+  },
+  {
+    "word": "la plate-forme",
+    "translation": "die Plattform"
+  },
+  {
+    "word": "la soupe",
+    "translation": "die Suppe"
+  },
+  {
+    "word": "suivre",
+    "translation": "folgen"
+  },
+  {
+    "word": "l'équilibre",
+    "add": "m.",
+    "translation": "das Gleichgewicht"
+  },
+  {
+    "word": "le vent",
+    "translation": "der Wind"
+  },
+  {
+    "word": "tout le temps",
+    "translation": "die ganze Zeit"
+  },
+  {
+    "word": "quelqu'un d'autre",
+    "translation": "jemand anderes"
+  },
+  {
+    "word": "le lendemain",
+    "translation": "am nächsten Tag"
+  },
+  {
+    "word": "l'attraction",
+    "add": "f.",
+    "translation": "die Attraktion"
+  },
+  {
+    "word": "la hauteur",
+    "translation": "die Höhe"
+  },
+  {
+    "word": "la vue",
+    "translation": "die Sicht / der Ausblick"
+  },
+  {
+    "word": "fier de",
+    "translation": "stolz sein auf ... (männlich)"
+  },
+  {
+    "word": "fière de",
+    "translation": "stolz auf ... (weiblich)"
+  },
+  {
+    "word": "j'aimerais",
+    "add": "+ inf.",
+    "translation": "ich würde gerne + Infinitiv"
+  },
+  {
+    "word": "il s'agit de",
+    "translation": "es handelt sich um"
+  },
+  {
+    "word": "choisir",
+    "translation": "wählen / auswählen"
+  },
+  {
+    "word": "la mélodie",
+    "translation": "die Melodie"
+  },
+  {
+    "word": "inconnu",
+    "translation": "unbekannt"
+  },
+  {
+    "word": "utiliser",
+    "translation": "benutzen / verwenden"
+  },
+  {
+    "word": "la présentation",
+    "translation": "die Präsentation / Vorstellung"
+  },
+  {
+    "word": "au début de",
+    "translation": "am Anfang von ..."
+  },
+  {
+    "word": "le début",
+    "translation": "der Anfang / Beginn"
+  },
+  {
+    "word": "passer",
+    "translation": "abspielen / verbringen / bestehen (je nach Kontext)"
+  },
+  {
+    "word": "le message",
+    "translation": "die Nachricht / Botschaft"
+  },
+  {
+    "word": "pour finir",
+    "translation": "zum Schluss"
+  },
+  {
+    "word": "donner son avis sur",
+    "translation": "seine Meinung über ... abgeben"
+  },
+  {
+    "word": "surtout",
+    "translation": "vor allem"
+  },
+  {
+    "word": "la façon",
+    "translation": "die Art und Weise"
+  },
+  {
+    "word": "réfléchir à/ sur",
+    "translation": "über ... nachdenken"
+  },
+  {
+    "word": "organiser",
+    "translation": "organisieren"
+  },
+  {
+    "word": "apprendre qc sur",
+    "translation": "etw. über ... lernen"
+  },
+  {
+    "word": "décevoir",
+    "translation": "enttäuschen"
+  },
+  {
+    "word": "s'éclater",
+    "translation": "viel Spaß haben / sich amüsieren"
+  },
+  {
+    "word": "sérieusement",
+    "translation": "ernsthaft"
+  },
+  {
+    "word": "sérieux",
+    "add": "m.",
+    "translation": "ernst / seriös (männlich)"
+  },
+  {
+    "word": "sérieuse",
+    "add": "f.",
+    "translation": "ernst / seriös (weiblich)"
+  },
+  {
+    "word": "le secret",
+    "translation": "das Geheimnis"
+  },
+  {
+    "word": "la confiance",
+    "translation": "das Vertrauen"
+  },
+  {
+    "word": "seulement",
+    "translation": "nur"
+  },
+  {
+    "word": "aller mal",
+    "translation": "schlecht gehen"
+  },
+  {
+    "word": "la preuve",
+    "translation": "der Beweis"
+  },
+  {
+    "word": "l'amitié",
+    "add": "f.",
+    "translation": "die Freundschaft"
+  },
+  {
+    "word": "justement",
+    "translation": "genau / gerade"
+  },
+  {
+    "word": "l'effort",
+    "add": "m.",
+    "translation": "die Anstrengung / Mühe"
+  },
+  {
+    "word": "se moquer de",
+    "translation": "sich über ... lustig machen"
+  },
+  {
+    "word": "habillé",
+    "translation": "angezogen / gekleidet"
+  },
+  {
+    "word": "terriblement",
+    "translation": "schrecklich / furchtbar"
+  },
+  {
+    "word": "autrement",
+    "translation": "anders / sonst"
+  },
+  {
+    "word": "la défense",
+    "translation": "die Verteidigung"
+  },
+  {
+    "word": "malheureusement",
+    "translation": "leider"
+  },
+  {
+    "word": "déranger",
+    "translation": "stören"
+  },
+  {
+    "word": "rapidement",
+    "translation": "schnell / rasch"
+  },
+  {
+    "word": "l'accident",
+    "add": "m.",
+    "translation": "der Unfall"
+  },
+  {
+    "word": "handicapé",
+    "add": "m.",
+    "translation": "behindert"
+  },
+  {
+    "word": "engager",
+    "translation": "einstellen"
+  },
+  {
+    "word": "l'aide",
+    "add": "f.",
+    "translation": "die Hilfe"
+  },
+  {
+    "word": "la prison",
+    "translation": "das Gefängnis"
+  },
+  {
+    "word": "apprendre à + inf.",
+    "translation": "lernen zu + Infinitiv"
+  },
+  {
+    "word": "vivre",
+    "translation": "leben"
+  },
+  {
+    "word": "plaire à qn",
+    "translation": "jdm. gefallen"
+  },
+  {
+    "word": "génial",
+    "add": "m.",
+    "translation": "genial / super (männlich)"
+  },
+  {
+    "word": "géniaux",
+    "add": "m. pl.",
+    "translation": "genial (männlich plural)"
+  },
+  {
+    "word": "rire",
+    "translation": "lachen"
+  },
+  {
+    "word": "faire du bien à qn",
+    "translation": "jdm. guttun"
+  },
+  {
+    "word": "original",
+    "add": "m.",
+    "translation": "originell (männlich)"
+  },
+  {
+    "word": "originaux",
+    "add": "m. pl.",
+    "translation": "originell (männlich plural)"
+  },
+  {
+    "word": "naturel",
+    "translation": "natürlich"
+  },
+  {
+    "word": "le handicapé",
+    "translation": "der Behinderte"
+  },
+  {
+    "word": "touchant",
+    "translation": "rührend / bewegend"
+  },
+  {
+    "word": "aider",
+    "translation": "helfen"
+  },
+  {
+    "word": "savoir",
+    "translation": "wissen"
+  },
+  {
+    "word": "rêver de",
+    "translation": "von etw. träumen"
+  },
+  {
+    "word": "ennuyeux",
+    "translation": "langweilig"
+  },
+  {
+    "word": "réaliste",
+    "translation": "realistisch"
+  },
+  {
+    "word": "normalement",
+    "translation": "normalerweise"
+  },
+  {
+    "word": "s'intéresser à",
+    "translation": "sich für ... interessieren"
+  },
+  {
+    "word": "avoir pitié de",
+    "translation": "Mitleid mit jdm. haben"
+  },
+  {
+    "word": "normal",
+    "add": "m.",
+    "translation": "normal (männlich)"
+  },
+  {
+    "word": "normaux",
+    "add": "m. pl.",
+    "translation": "normal (männlich plural)"
+  },
+  {
+    "word": "la culture",
+    "translation": "die Kultur"
+  },
+  {
+    "word": "classique",
+    "translation": "klassisch"
+  },
+  {
+    "word": "l'opéra",
+    "add": "m.",
+    "translation": "die Oper"
+  },
+  {
+    "word": "exagéré",
+    "add": "m.",
+    "translation": "übertrieben"
+  },
+  {
+    "word": "arrêter de + inf.",
+    "translation": "aufhören zu + Infinitiv"
+  },
+  {
+    "word": "chaque",
+    "translation": "jeder / jede / jedes"
+  },
+  {
+    "word": "l'amour",
+    "add": "m.",
+    "translation": "die Liebe"
+  },
+  {
+    "word": "le résumé",
+    "translation": "die Zusammenfassung"
+  },
+  {
+    "word": "décrire",
+    "translation": "beschreiben"
+  },
+  {
+    "word": "le personnage",
+    "translation": "die Figur / die Person (in einem Werk)"
+  },
+  {
+    "word": "principal",
+    "add": "m.",
+    "translation": "haupt-, wesentlich (männlich)"
+  },
+  {
+    "word": "principaux",
+    "add": "m. pl.",
+    "translation": "haupt-, wesentlich (männlich plural)"
+  },
+  {
+    "word": "le narrateur",
+    "translation": "der Erzähler"
+  },
+  {
+    "word": "la narratrice",
+    "translation": "die Erzählerin"
+  },
+  {
+    "word": "se connaître",
+    "translation": "sich kennen"
+  },
+  {
+    "word": "changer",
+    "translation": "(sich) verändern / ändern"
+  },
+  {
+    "word": "le thème",
+    "translation": "das Thema"
+  },
+  {
+    "word": "c'est pourquoi",
+    "translation": "deshalb / daher"
+  },
+  {
+    "word": "l'auteur",
+    "add": "m.",
+    "translation": "der Autor"
+  },
+  {
+    "word": "l'auteure",
+    "add": "f.",
+    "translation": "die Autorin"
+  },
+  {
+    "word": "la relation",
+    "translation": "die Beziehung"
+  },
+  {
+    "word": "s'identifier à",
+    "translation": "sich mit jdm./etw. identifizieren"
+  },
+  {
+    "word": "arriver à",
+    "translation": "etw. schaffen / zu etw. kommen"
+  },
+  {
+    "word": "la mort",
+    "translation": "der Tod"
+  },
+  {
+    "word": "s'installer",
+    "translation": "sich niederlassen / einziehen"
+  },
+  {
+    "word": "le pouvoir",
+    "translation": "die Macht"
+  },
+  {
+    "word": "le suspense",
+    "translation": "die Spannung"
+  },
+  {
+    "word": "découvrir",
+    "translation": "entdecken"
+  },
+  {
+    "word": "proposer à qn de +inf.",
+    "translation": "jdm. vorschlagen, etw. zu tun"
+  },
+  {
+    "word": "le rêve",
+    "translation": "der Traum"
+  },
+  {
+    "word": "triste",
+    "translation": "traurig"
+  },
+  {
+    "word": "heureusement",
+    "translation": "glücklicherweise"
+  },
+  {
+    "word": "reconnaître",
+    "translation": "wiedererkennen"
+  },
+  {
+    "word": "amoureux",
+    "add": "m.",
+    "translation": "verliebt (männlich)"
+  },
+  {
+    "word": "amoureuse",
+    "add": "f.",
+    "translation": "verliebt (weiblich)"
+  },
+  {
+    "word": "comme",
+    "translation": "wie / als"
+  },
+  {
+    "word": "vouloir que + subj.",
+    "translation": "wollen, dass + Subjunktiv"
+  },
+  {
+    "word": "on voudrait",
+    "translation": "man möchte / wir möchten"
+  },
+  {
+    "word": "je ne voudrais pas que",
+    "translation": "ich möchte nicht, dass"
+  },
+  {
+    "word": "le voisin",
+    "translation": "der Nachbar"
+  },
+  {
+    "word": "la voisine",
+    "translation": "die Nachbarin"
+  },
+  {
+    "word": "non plus",
+    "translation": "auch nicht"
+  },
+  {
+    "word": "il faut que + subj.",
+    "translation": "es ist nötig, dass / man muss, dass + Subjunktiv"
+  },
+  {
+    "word": "il ne faut pas que + subj.",
+    "translation": "es ist nicht nötig, dass / man darf nicht, dass + Subjunktiv"
+  },
+  {
+    "word": "le bruit",
+    "translation": "der Lärm / das Geräusch"
+  },
+  {
+    "word": "On peut toujours espérer !",
+    "translation": "Man kann ja immer hoffen!"
+  },
+  {
+    "word": "espérer",
+    "translation": "hoffen"
+  },
+  {
+    "word": "Il faut que j'y aille",
+    "translation": "Ich muss los / Ich muss hingehen"
+  },
+  {
+    "word": "voyager",
+    "translation": "reisen"
+  },
+  {
+    "word": "le pays",
+    "translation": "das Land"
+  },
+  {
+    "word": "décider de",
+    "translation": "beschließen / sich entscheiden zu"
+  },
+  {
+    "word": "indien",
+    "add": "m. sg.",
+    "translation": "indisch (männlich)"
+  },
+  {
+    "word": "indienne",
+    "add": "w. sg.",
+    "translation": "indisch (weiblich)"
+  },
+  {
+    "word": "international",
+    "add": "m.sg.",
+    "translation": "international (männlich singular)"
+  },
+  {
+    "word": "internationaux",
+    "add": "m.pl.",
+    "translation": "international (männlich plural)"
+  },
+  {
+    "word": "venir de + pays",
+    "translation": "aus einem Land kommen"
+  },
+  {
+    "word": "la Chine",
+    "translation": "China"
+  },
+  {
+    "word": "l'Inde",
+    "translation": "Indien"
+  },
+  {
+    "word": "les États-Unis",
+    "add": "m.pl.",
+    "translation": "die Vereinigten Staaten (USA)"
+  },
+  {
+    "word": "le Portugal",
+    "translation": "Portugal"
+  },
+  {
+    "word": "l'Européen",
+    "add": "m.sg.",
+    "translation": "der Europäer"
+  },
+  {
+    "word": "l'Européenne",
+    "add": "f.sg.",
+    "translation": "die Europäerin"
+  },
+  {
+    "word": "le climat",
+    "translation": "das Klima"
+  },
+  {
+    "word": "la nourriture",
+    "translation": "das Essen / die Nahrung"
+  },
+  {
+    "word": "l'accent",
+    "add": "m.",
+    "translation": "der Akzent"
+  },
+  {
+    "word": "québécois",
+    "translation": "québecisch / aus Québec"
+  },
+  {
+    "word": "agréable",
+    "add": "m./f.",
+    "translation": "angenehm"
+  },
+  {
+    "word": "le boulevard",
+    "translation": "der Boulevard / die breite Straße"
+  },
+  {
+    "word": "souterrain",
+    "translation": "unterirdisch"
+  },
+  {
+    "word": "le navigateur",
+    "translation": "der Seefahrer / Entdecker"
+  },
+  {
+    "word": "la navigatrice",
+    "translation": "die Seefahrerin / Entdeckerin"
+  },
+  {
+    "word": "le Canada",
+    "translation": "Kanada"
+  },
+  {
+    "word": "coloniser",
+    "translation": "kolonisieren"
+  },
+  {
+    "word": "l'Anglais",
+    "add": "m.sg.",
+    "translation": "der Engländer / das Englische"
+  },
+  {
+    "word": "l'Anglaise",
+    "add": "f.sg.",
+    "translation": "die Engländerin"
+  },
+  {
+    "word": "entrer en guerre (avec qn)",
+    "translation": "in den Krieg ziehen (mit jdm.)"
+  },
+  {
+    "word": "la guerre",
+    "translation": "der Krieg"
+  },
+  {
+    "word": "la langue",
+    "translation": "die Sprache"
+  },
+  {
+    "word": "officiel",
+    "translation": "offiziell"
+  },
+  {
+    "word": "le découvreur",
+    "translation": "der Entdecker"
+  },
+  {
+    "word": "la découvreuse",
+    "translation": "die Entdeckerin"
+  },
+  {
+    "word": "fonder",
+    "translation": "gründen"
+  },
+  {
+    "word": "le gîte",
+    "translation": "die Unterkunft / das Ferienhaus"
+  },
+  {
+    "word": "passer chercher",
+    "translation": "abholen"
+  },
+  {
+    "word": "la neige",
+    "translation": "der Schnee"
+  },
+  {
+    "word": "le kayak",
+    "translation": "das Kajak"
+  },
+  {
+    "word": "le traîneau",
+    "translation": "der Schlitten"
+  },
+  {
+    "word": "la vallée",
+    "translation": "das Tal"
+  },
+  {
+    "word": "la province",
+    "translation": "die Provinz"
+  },
+  {
+    "word": "la forêt",
+    "translation": "der Wald"
+  },
+  {
+    "word": "immense",
+    "translation": "riesig / enorm"
+  },
+  {
+    "word": "neiger",
+    "translation": "schneien"
+  },
+  {
+    "word": "en",
+    "translation": "Pronomen: davon / daraus"
+  },
+  {
+    "word": "le genou",
+    "translation": "das Knie"
+  },
+  {
+    "word": "les genoux",
+    "translation": "die Knie"
+  },
+  {
+    "word": "moins",
+    "translation": "weniger / minus"
+  },
+  {
+    "word": "le degré",
+    "translation": "der Grad"
+  },
+  {
+    "word": "le guide",
+    "translation": "der Reiseführer / Guide"
+  },
+  {
+    "word": "se présenter (à qn)",
+    "translation": "sich vorstellen (jdm.)"
+  },
+  {
+    "word": "conduire",
+    "translation": "fahren / lenken"
+  },
+  {
+    "word": "Combien de...?",
+    "translation": "Wie viele / wie viel ...?"
+  },
+  {
+    "word": "se retrouver",
+    "translation": "sich treffen / wiederfinden"
+  },
+  {
+    "word": "le menu",
+    "translation": "die Speisekarte / das Menü"
+  },
+  {
+    "word": "le pois",
+    "translation": "die Erbse"
+  },
+  {
+    "word": "les frites",
+    "translation": "Pommes frites"
+  },
+  {
+    "word": "avant de + inf.",
+    "translation": "bevor man + Infinitiv"
+  },
+  {
+    "word": "s'occuper de",
+    "translation": "sich kümmern um"
+  },
+  {
+    "word": "quelque chose de + adj.",
+    "translation": "etwas + Adjektiv"
+  },
+  {
+    "word": "spécial",
+    "add": "m.sg.",
+    "translation": "besonders / speziell (maskulin)"
+  },
+  {
+    "word": "spéciale",
+    "add": "f.sg.",
+    "translation": "besonders / speziell (feminin)"
+  },
+  {
+    "word": "spéciaux",
+    "add": "m.pl.",
+    "translation": "besonders / speziell (Plural)"
+  },
+  {
+    "word": "le caractère",
+    "translation": "der Charakter"
+  },
+  {
+    "word": "blanc",
+    "add": "m.sg.",
+    "translation": "weiß (maskulin)"
+  },
+  {
+    "word": "blanche",
+    "add": "f.sg.",
+    "translation": "weiß (feminin)"
+  },
+  {
+    "word": "s'arrêter",
+    "translation": "anhalten / stehen bleiben"
+  },
+  {
+    "word": "la pause",
+    "translation": "die Pause"
+  },
+  {
+    "word": "l'ours",
+    "add": "m.",
+    "translation": "der Bär"
+  },
+  {
+    "word": "l'arbre",
+    "add": "m.",
+    "translation": "der Baum"
+  },
+  {
+    "word": "Tant mieux!",
+    "translation": "Umso besser!"
+  },
+  {
+    "word": "je me suis bien amusé",
+    "translation": "Ich habe mich gut amüsiert (männlich)"
+  },
+  {
+    "word": "je me suis bien amusée",
+    "translation": "Ich habe mich gut amüsiert (weiblich)"
+  },
+  {
+    "word": "le carnaval",
+    "translation": "der Karneval"
+  },
+  {
+    "word": "le nombre",
+    "translation": "die Anzahl / die Zahl"
+  },
+  {
+    "word": "le commentaire",
+    "translation": "der Kommentar"
+  },
+  {
+    "word": "peu (de)",
+    "translation": "wenig (von)"
+  },
+  {
+    "word": "environ",
+    "translation": "ungefähr / circa"
+  },
+  {
+    "word": "le voyage",
+    "translation": "die Reise"
+  },
+  {
+    "word": "dans le nord",
+    "translation": "im Norden"
+  },
+  {
+    "word": "le nord",
+    "translation": "der Norden"
+  },
+  {
+    "word": "la route",
+    "translation": "die Straße"
+  },
+  {
+    "word": "se déplacer",
+    "translation": "sich fortbewegen"
+  },
+  {
+    "word": "le plus souvent",
+    "translation": "meistens"
+  },
+  {
+    "word": "la pêche",
+    "translation": "das Angeln / die Fischerei"
+  },
+  {
+    "word": "tous les deux",
+    "add": "m.pl.",
+    "translation": "beide (maskulin oder gemischt)"
+  },
+  {
+    "word": "toutes les deux",
+    "add": "f.pl.",
+    "translation": "beide (feminin)"
+  },
+  {
+    "word": "l'usine",
+    "add": "f.",
+    "translation": "die Fabrik"
+  },
+  {
+    "word": "l'interne",
+    "add": "m./f.",
+    "translation": "der/die Praktikant(in) / Intern(e)"
+  },
+  {
+    "word": "plus de",
+    "translation": "mehr als"
+  },
+  {
+    "word": "la baleine",
+    "translation": "der Wal"
+  },
+  {
+    "word": "le ski de fond",
+    "translation": "der Langlauf"
+  },
+  {
+    "word": "la partie",
+    "translation": "der Teil / das Spiel"
+  },
+  {
+    "word": "le hockey",
+    "translation": "Hockey"
+  },
+  {
+    "word": "l'avion",
+    "add": "m.",
+    "translation": "das Flugzeug"
+  },
+  {
+    "word": "le produit",
+    "translation": "das Produkt"
+  },
+  {
+    "word": "les légumes",
+    "add": "m.pl.",
+    "translation": "das Gemüse"
+  },
+  {
+    "word": "autant de",
+    "translation": "ebenso viele / genauso viel"
+  },
+  {
+    "word": "tourner",
+    "translation": "drehen / abbiegen"
+  },
+  {
+    "word": "la séduction",
+    "translation": "die Verführung"
+  },
+  {
+    "word": "étranger",
+    "add": "m.sg.",
+    "translation": "ausländisch (männlich)"
+  },
+  {
+    "word": "étrangère",
+    "add": "f.sg.",
+    "translation": "ausländisch (weiblich)"
+  },
+  {
+    "word": "la rivière",
+    "translation": "der Fluss"
+  },
+  {
+    "word": "Il gèle.",
+    "translation": "Es friert."
+  },
+  {
+    "word": "geler",
+    "translation": "frieren"
+  },
+  {
+    "word": "l'hôtel",
+    "add": "m.",
+    "translation": "das Hotel"
+  },
+  {
+    "word": "l'aéroport",
+    "add": "m.",
+    "translation": "der Flughafen"
+  },
+  {
+    "word": "l'hôpital",
+    "add": "m.",
+    "translation": "das Krankenhaus"
+  },
+  {
+    "word": "les hôpitaux",
+    "add": "m.pl.",
+    "translation": "die Krankenhäuser"
+  },
+  {
+    "word": "la recherche",
+    "translation": "die Forschung"
+  },
+  {
+    "word": "l'anorak",
+    "add": "m.",
+    "translation": "die Winterjacke / der Anorak"
+  },
+  {
+    "word": "le tourisme",
+    "translation": "der Tourismus"
+  },
+  {
+    "word": "faire des études",
+    "translation": "studieren / eine Ausbildung machen"
+  },
+  {
+    "word": "les études",
+    "add": "f.pl.",
+    "translation": "das Studium / die Ausbildung"
+  },
+  {
+    "word": "protéger",
+    "translation": "schützen"
+  },
+  {
+    "word": "presque",
+    "translation": "fast"
+  },
+  {
+    "word": "mieux que",
+    "translation": "besser als"
+  },
+  {
+    "word": "francophone",
+    "translation": "französischsprachig"
+  },
+  {
+    "word": "le journal",
+    "translation": "die Zeitung / die Nachrichtensendung"
+  },
+  {
+    "word": "présenté par",
+    "add": "m.sg.",
+    "translation": "präsentiert von (maskulin)"
+  },
+  {
+    "word": "présentée par",
+    "add": "f.sg.",
+    "translation": "präsentiert von (feminin)"
+  },
+  {
+    "word": "la série",
+    "translation": "die Serie"
+  },
+  {
+    "word": "l'émission",
+    "add": "f.",
+    "translation": "die Sendung"
+  },
+  {
+    "word": "le candidat",
+    "translation": "der Kandidat"
+  },
+  {
+    "word": "la candidate",
+    "translation": "die Kandidatin"
+  },
+  {
+    "word": "désert",
+    "add": "m.sg.",
+    "translation": "verlassen"
+  },
+  {
+    "word": "le divertissement",
+    "translation": "die Unterhaltung"
+  },
+  {
+    "word": "la magie",
+    "translation": "die Magie"
+  },
+  {
+    "word": "la série policière",
+    "translation": "die Krimiserie"
+  },
+  {
+    "word": "le futur",
+    "translation": "die Zukunft"
+  },
+  {
+    "word": "croire",
+    "translation": "glauben"
+  },
+  {
+    "word": "le magazine",
+    "translation": "die Infosendung"
+  },
+  {
+    "word": "l'assiette",
+    "add": "f.",
+    "translation": "der Teller"
+  },
+  {
+    "word": "biologique",
+    "translation": "biologisch / Bio-"
+  },
+  {
+    "word": "en direct",
+    "translation": "live / direkt"
+  },
+  {
+    "word": "tout de suite",
+    "translation": "sofort"
+  },
+  {
+    "word": "le siècle",
+    "translation": "das Jahrhundert"
+  },
+  {
+    "word": "passer qc à qn",
+    "translation": "jdm. etw. geben / weiterreichen"
+  },
+  {
+    "word": "la chaîne",
+    "translation": "der Sender / die Kette"
+  },
+  {
+    "word": "se disputer",
+    "translation": "sich streiten"
+  },
+  {
+    "word": "la récréation",
+    "translation": "die Pause"
+  },
+  {
+    "word": "nous sommes",
+    "translation": "wir sind"
+  },
+  {
+    "word": "à",
+    "translation": "in"
+  },
+  {
+    "word": "l'école",
+    "translation": "die Schule"
+  },
+  {
+    "word": "l'élève",
+    "translation": "der,die Schüler/in"
+  },
+  {
+    "word": "le surveillant",
+    "translation": "die Aufsichtsperson"
+  },
+  {
+    "word": "dans",
+    "translation": "in"
+  },
+  {
+    "word": "la cour",
+    "translation": "der Schulhof"
+  },
+  {
+    "word": "comment",
+    "translation": "wie"
+  },
+  {
+    "word": "ou",
+    "translation": "oder"
+  },
+  {
+    "word": "nouveau",
+    "add": "m.",
+    "translation": "neu"
+  },
+  {
+    "word": "nouvelle",
+    "add": "f.",
+    "translation": "neu"
+  },
+  {
+    "word": "le garçon",
+    "translation": "der Junge"
+  },
+  {
+    "word": "C'est qui?",
+    "translation": "Wer ist das?"
+  },
+  {
+    "word": "Je ne sais pas.",
+    "translation": "Ich weiß es nicht."
+  },
+  {
+    "word": "cool",
+    "translation": "cool"
+  },
+  {
+    "word": "regarder",
+    "add": "(qn/qc)",
+    "translation": "etw./jdn. anschauen"
+  },
+  {
+    "word": "en cinquième",
+    "translation": "in der fünften Klasse"
+  },
+  {
+    "word": "la cinquième",
+    "translation": "die fünfte Klasse"
+  },
+  {
+    "word": "de",
+    "translation": "von"
+  },
+  {
+    "word": "la fille",
+    "translation": "das Mädchen"
+  },
+  {
+    "word": "aussi",
+    "translation": "auch"
+  },
+  {
+    "word": "pas mal",
+    "translation": "nicht schlecht"
+  },
+  {
+    "word": "l'ami",
+    "translation": "der Freund"
+  },
+  {
+    "word": "l'amie",
+    "translation": "die Freundin"
+  },
+  {
+    "word": "on",
+    "translation": "wir / man"
+  },
+  {
+    "word": "ensemble",
+    "translation": "zusammen"
+  },
+  {
+    "word": "C'est trop cool!",
+    "translation": "Das ist total cool!"
+  },
+  {
+    "word": "ranger le lave-vaisselle",
+    "translation": "den Geschirrspüler ausräumen"
+  },
+  {
+    "word": "le lave-vaisselle",
+    "translation": "der Geschirrspüler"
+  },
+  {
+    "word": "mettre le couvert",
+    "translation": "den Tisch decken"
+  },
+  {
+    "word": "le couvert",
+    "translation": "das Besteck / das Gedeck"
+  },
+  {
+    "word": "l'ascenseur",
+    "add": "m.",
+    "translation": "der Aufzug"
+  },
+  {
+    "word": "l'aspirateur",
+    "add": "m.",
+    "translation": "der Staubsauger"
+  },
+  {
+    "word": "faire la cuisine",
+    "translation": "kochen"
+  },
+  {
+    "word": "de temps en temps",
+    "translation": "von Zeit zu Zeit"
+  },
+  {
+    "word": "gentil",
+    "add": "m.sg.",
+    "translation": "nett / freundlich (maskulin)"
+  },
+  {
+    "word": "gentille",
+    "add": "w.sg.",
+    "translation": "nett / freundlich (feminin)"
+  },
+  {
+    "word": "descendre les poubelles",
+    "translation": "den Müll runterbringen"
+  },
+  {
+    "word": "la poubelle",
+    "translation": "der Mülleimer"
+  },
+  {
+    "word": "avoir envie de + inf.",
+    "translation": "Lust haben zu + Infinitiv"
+  },
+  {
+    "word": "nettoyer",
+    "translation": "reinigen / putzen"
+  },
+  {
+    "word": "la mousse",
+    "translation": "der Schaum"
+  },
+  {
+    "word": "sortir le chien",
+    "translation": "mit dem Hund spazieren gehen"
+  },
+  {
+    "word": "J'en ai marre !",
+    "translation": "Ich habe die Nase voll!"
+  },
+  {
+    "word": "râler",
+    "translation": "meckern / schimpfen"
+  },
+  {
+    "word": "avoir besoin de",
+    "translation": "brauchen"
+  },
+  {
+    "word": "la radio",
+    "translation": "das Radio"
+  },
+  {
+    "word": "réécouter",
+    "translation": "noch einmal anhören"
+  },
+  {
+    "word": "les tâches ménagères",
+    "add": "f.pl.",
+    "translation": "die Hausarbeiten"
+  },
+  {
+    "word": "chacun",
+    "translation": "jeder / jede"
+  },
+  {
+    "word": "compliqué",
+    "translation": "kompliziert"
+  },
+  {
+    "word": "la femme de ménage",
+    "translation": "die Putzfrau"
+  },
+  {
+    "word": "le ménage",
+    "translation": "der Haushalt / das Putzen"
+  },
+  {
+    "word": "le reste",
+    "translation": "der Rest"
+  },
+  {
+    "word": "s'organiser",
+    "translation": "sich organisieren"
+  },
+  {
+    "word": "avoir le droit de + inf.",
+    "translation": "das Recht haben zu + Infinitiv"
+  },
+  {
+    "word": "en ligne",
+    "translation": "online"
+  },
+  {
+    "word": "espionner",
+    "translation": "ausspionieren"
+  },
+  {
+    "word": "l'Internet",
+    "add": "m.",
+    "translation": "das Internet"
+  },
+  {
+    "word": "le profil",
+    "translation": "das Profil"
+  },
+  {
+    "word": "dégoûtant",
+    "translation": "eklig / widerlich"
+  },
+  {
+    "word": "pirater",
+    "translation": "hacken / illegal kopieren"
+  },
+  {
+    "word": "le mot de passe",
+    "translation": "das Passwort"
+  },
+  {
+    "word": "remarquer",
+    "translation": "bemerken"
+  },
+  {
+    "word": "le doute",
+    "translation": "der Zweifel"
+  },
+  {
+    "word": "sûr",
+    "translation": "sicher"
+  },
+  {
+    "word": "le billet",
+    "translation": "der Geldschein / die Eintrittskarte"
+  },
+  {
+    "word": "étonné",
+    "translation": "überrascht / erstaunt"
+  },
+  {
+    "word": "être égal à",
+    "translation": "gleich sein / entsprechen"
+  },
+  {
+    "word": "bizarre",
+    "translation": "seltsam / komisch"
+  },
+  {
+    "word": "Bien sûr que oui / non !",
+    "translation": "Aber natürlich ja / nein!"
+  },
+  {
+    "word": "le hasard",
+    "translation": "der Zufall"
+  },
+  {
+    "word": "enfin",
+    "translation": "endlich / also / na ja"
+  },
+  {
+    "word": "il faudrait + inf.",
+    "translation": "man müsste / es wäre nötig zu + Infinitiv"
+  },
+  {
+    "word": "interdire à qn de",
+    "translation": "jdm. verbieten, etw. zu tun"
+  },
+  {
+    "word": "respecter",
+    "translation": "respektieren"
+  },
+  {
+    "word": "privé",
+    "translation": "privat"
+  },
+  {
+    "word": "faire confiance à qn",
+    "translation": "jdm. vertrauen"
+  },
+  {
+    "word": "le conseil",
+    "translation": "der Rat"
+  },
+  {
+    "word": "la vérité",
+    "translation": "die Wahrheit"
+  },
+  {
+    "word": "se passer bien",
+    "translation": "gut verlaufen"
+  },
+  {
+    "word": "se passer mal",
+    "translation": "schlecht verlaufen"
+  },
+  {
+    "word": "N'importe quoi !",
+    "translation": "So ein Unsinn!"
+  },
+  {
+    "word": "mentir",
+    "translation": "lügen"
+  },
+  {
+    "word": "reconnaître",
+    "translation": "zugeben / erkennen"
+  },
+  {
+    "word": "dégueulasse",
+    "translation": "total ekelhaft / mies"
+  },
+  {
+    "word": "Excuse-moi",
+    "translation": "Entschuldige mich"
+  },
+  {
+    "word": "promettre à qn de",
+    "translation": "jdm. versprechen, etw. zu tun"
+  },
+  {
+    "word": "la Bretagne",
+    "translation": "die Bretagne"
+  },
+  {
+    "word": "au grand air",
+    "translation": "an der frischen Luft"
+  },
+  {
+    "word": "l'air",
+    "add": "m.",
+    "translation": "die Luft"
+  },
+  {
+    "word": "la soirée",
+    "translation": "der Abend / der Abendveranstaltung"
+  },
+  {
+    "word": "autour de",
+    "translation": "um … herum"
+  },
+  {
+    "word": "le feu",
+    "translation": "das Feuer"
+  },
+  {
+    "word": "la campagne",
+    "translation": "das Land / die Landschaft"
+  },
+  {
+    "word": "se reposer",
+    "translation": "sich ausruhen"
+  },
+  {
+    "word": "l'équitation",
+    "add": "f.",
+    "translation": "das Reiten"
+  },
+  {
+    "word": "le surf",
+    "translation": "das Surfen"
+  },
+  {
+    "word": "la voile",
+    "translation": "das Segeln"
+  },
+  {
+    "word": "l'escalade",
+    "add": "m.",
+    "translation": "das Klettern"
+  },
+  {
+    "word": "créatif",
+    "add": "m.",
+    "translation": "kreativ (maskulin)"
+  },
+  {
+    "word": "créative",
+    "add": "f.",
+    "translation": "kreativ (feminin)"
+  },
+  {
+    "word": "inventer",
+    "translation": "erfinden"
+  },
+  {
+    "word": "le cirque",
+    "translation": "der Zirkus"
+  },
+  {
+    "word": "chargé",
+    "translation": "voll / beschäftigt"
+  },
+  {
+    "word": "Tu voudrais...?",
+    "translation": "Möchtest du …?"
+  },
+  {
+    "word": "l'animateur",
+    "translation": "der Animateur / Moderator"
+  },
+  {
+    "word": "l'animatrice",
+    "translation": "die Animateurin / Moderatorin"
+  },
+  {
+    "word": "pleuvoir",
+    "translation": "regnen"
+  },
+  {
+    "word": "se stresser",
+    "translation": "sich stressen"
+  },
+  {
+    "word": "seul",
+    "translation": "allein"
+  },
+  {
+    "word": "la difficulté",
+    "translation": "die Schwierigkeit"
+  },
+  {
+    "word": "la découverte",
+    "translation": "die Entdeckung"
+  },
+  {
+    "word": "le trésor",
+    "translation": "der Schatz"
+  },
+  {
+    "word": "boire",
+    "translation": "trinken"
+  },
+  {
+    "word": "le parcours",
+    "translation": "der Parcours / die Strecke"
+  },
+  {
+    "word": "la côte",
+    "translation": "die Küste"
+  },
+  {
+    "word": "breton",
+    "translation": "bretonisch (maskulin)"
+  },
+  {
+    "word": "bretonne",
+    "translation": "bretonisch (feminin)"
+  },
+  {
+    "word": "le rocher",
+    "translation": "der Felsen"
+  },
+  {
+    "word": "rose",
+    "translation": "rosa / pink"
+  },
+  {
+    "word": "le phare",
+    "translation": "der Leuchtturm"
+  },
+  {
+    "word": "l'énigme",
+    "add": "f.",
+    "translation": "das Rätsel"
+  },
+  {
+    "word": "difficile",
+    "translation": "schwierig / schwer"
+  },
+  {
+    "word": "les mains vides",
+    "translation": "mit leeren Händen"
+  },
+  {
+    "word": "vide",
+    "translation": "leer"
+  },
+  {
+    "word": "la crêpe",
+    "translation": "die Crêpe / der Pfannkuchen"
+  },
+  {
+    "word": "l'océan",
+    "add": "m.",
+    "translation": "der Ozean"
+  },
+  {
+    "word": "être en train de + inf.",
+    "translation": "gerade dabei sein, zu + Infinitiv"
+  },
+  {
+    "word": "l'aire de repos",
+    "add": "f.",
+    "translation": "die Raststätte / der Ruheplatz"
+  },
+  {
+    "word": "Ce serait sympa.",
+    "translation": "Das wäre nett."
+  },
+  {
+    "word": "la chasse au trésor",
+    "translation": "die Schatzsuche"
+  },
+  {
+    "word": "venir de + inf.",
+    "translation": "gerade etw. getan haben / kommen von + Infinitiv"
+  },
+  {
+    "word": "donc",
+    "translation": "also / daher"
+  },
+  {
+    "word": "sûrement",
+    "translation": "sicherlich"
+  },
+  {
+    "word": "le trou",
+    "translation": "das Loch"
+  },
+  {
+    "word": "la boîte",
+    "translation": "die Schachtel / die Dose"
+  },
+  {
+    "word": "continuer",
+    "translation": "fortsetzen / weitermachen"
+  },
+  {
+    "word": "la route",
+    "translation": "die Straße"
+  },
+  {
+    "word": "la voile",
+    "translation": "das Segeln"
+  },
+  {
+    "word": "le surf",
+    "translation": "das Surfen"
+  },
+  {
+    "word": "le bouchon",
+    "translation": "der Stau / der Korken"
+  },
+  {
+    "word": "long",
+    "translation": "lang (maskulin)"
+  },
+  {
+    "word": "longue",
+    "translation": "lang (feminin)"
+  },
+  {
+    "word": "le voyage",
+    "translation": "die Reise"
+  },
+  {
+    "word": "s'inquiéter",
+    "translation": "sich Sorgen machen"
+  },
+  {
+    "word": "durer",
+    "translation": "dauern"
+  },
+  {
+    "word": "avant de + inf.",
+    "translation": "bevor man + Infinitiv"
+  },
+  {
+    "word": "le camping",
+    "translation": "der Campingplatz / das Zelten"
+  },
+  {
+    "word": "la crêperie",
+    "translation": "die Crêperie"
+  },
+  {
+    "word": "le vent",
+    "translation": "der Wind"
+  },
+  {
+    "word": "prendre le soleil",
+    "translation": "sich sonnen"
+  },
+  {
+    "word": "avoir envie de",
+    "translation": "Lust haben auf / Lust haben zu"
+  },
+  {
+    "word": "la hauteur",
+    "translation": "die Höhe"
+  },
+  {
+    "word": "la vague",
+    "translation": "die Welle"
+  },
+  {
+    "word": "le drapeau",
+    "translation": "die Fahne / Flagge"
+  },
+  {
+    "word": "J'en ai marre",
+    "translation": "Ich habe die Nase voll"
+  },
+  {
+    "word": "comme",
+    "translation": "wie / als"
+  },
+  {
+    "word": "ultra",
+    "translation": "ultra / sehr"
+  },
+  {
+    "word": "bronzé",
+    "translation": "gebräunt"
+  },
+  {
+    "word": "je crois que",
+    "translation": "ich glaube, dass"
+  },
+  {
+    "word": "plaire à qn",
+    "translation": "jdm. gefallen"
+  },
+  {
+    "word": "ne pas se poser de questions",
+    "translation": "sich keine Fragen stellen"
+  },
+  {
+    "word": "les petites annonces",
+    "add": "f. pl.",
+    "translation": "die Kleinanzeigen"
+  },
+  {
+    "word": "en général",
+    "translation": "im Allgemeinen"
+  },
+  {
+    "word": "d'occasion",
+    "translation": "gebraucht"
+  },
+  {
+    "word": "bon marché",
+    "translation": "preiswert, günstig"
+  },
+  {
+    "word": "parfait",
+    "translation": "perfekt"
+  },
+  {
+    "word": "le coup de fil",
+    "translation": "der Anruf"
+  },
+  {
+    "word": "la tête",
+    "translation": "der Kopf"
+  },
+  {
+    "word": "l'intello",
+    "add": "m./f.",
+    "translation": "der/die Streber/in"
+  },
+  {
+    "word": "sortir avec qn",
+    "translation": "mit jdm ausgehen, mit jdm zusammen sein"
+  },
+  {
+    "word": "faire du baby-sitting",
+    "translation": "babysitten"
+  },
+  {
+    "word": "tellement de",
+    "translation": "so viel(e)"
+  },
+  {
+    "word": "le ciel",
+    "translation": "der Himmel"
+  },
+  {
+    "word": "les pâtes",
+    "add": "f. pl.",
+    "translation": "die Nudeln"
+  },
+  {
+    "word": "gagner de l'argent",
+    "translation": "Geld verdienen"
+  },
+  {
+    "word": "l'impression",
+    "add": "f.",
+    "translation": "der Eindruck"
+  },
+  {
+    "word": "le centimètre",
+    "translation": "der Zentimeter"
+  },
+  {
+    "word": "cartonner",
+    "translation": "ein großer Erfolg sein, voll einschlagen (umgangssprachlich)"
+  },
+  {
+    "word": "le succès",
+    "translation": "der Erfolg"
+  },
+  {
+    "word": "le tome",
+    "translation": "der Band (eines Buches)"
+  },
+  {
+    "word": "la file d'attente",
+    "translation": "die Warteschlange"
+  },
+  {
+    "word": "le chômeur",
+    "translation": "der Arbeitslose"
+  },
+  {
+    "word": "la chômeuse",
+    "translation": "die Arbeitslose"
+  },
+  {
+    "word": "carrément",
+    "translation": "völlig, total, echt (umgangssprachlich)"
+  },
+  {
+    "word": "flipper",
+    "translation": "ausflippen, Panik bekommen (umgangssprachlich)"
+  },
+  {
+    "word": "l'avenir",
+    "add": "m.",
+    "translation": "die Zukunft"
+  },
+  {
+    "word": "le métier",
+    "translation": "der Beruf"
+  },
+  {
+    "word": "le dessinateur",
+    "translation": "der Zeichner"
+  },
+  {
+    "word": "la dessinatrice",
+    "translation": "die Zeichnerin"
+  },
+  {
+    "word": "la passion",
+    "translation": "die Leidenschaft"
+  },
+  {
+    "word": "être doué pour",
+    "translation": "begabt sein für"
+  },
+  {
+    "word": "doué",
+    "translation": "begabt"
+  },
+  {
+    "word": "le succès",
+    "translation": "der Erfolg"
+  },
+  {
+    "word": "le conseiller d'orientation",
+    "translation": "der Berufsberater"
+  },
+  {
+    "word": "l'article",
+    "add": "m.",
+    "translation": "der Artikel"
+  },
+  {
+    "word": "impressionner",
+    "translation": "beeindrucken"
+  },
+  {
+    "word": "le courage",
+    "translation": "der Mut"
+  },
+  {
+    "word": "partir de rien",
+    "translation": "bei null anfangen"
+  },
+  {
+    "word": "se battre",
+    "translation": "sich durchschlagen"
+  },
+  {
+    "word": "battre",
+    "translation": "schlagen, besiegen"
+  },
+  {
+    "word": "malgré",
+    "translation": "trotz"
+  },
+  {
+    "word": "modeste",
+    "translation": "bescheiden"
+  },
+  {
+    "word": "ressembler à",
+    "translation": "ähneln"
+  },
+  {
+    "word": "le médecin",
+    "translation": "der Arzt"
+  },
+  {
+    "word": "soigner",
+    "translation": "pflegen, behandeln"
+  },
+  {
+    "word": "s'engager",
+    "translation": "sich engagieren"
+  },
+  {
+    "word": "l'exclusion",
+    "add": "f.",
+    "translation": "die Ausgrenzung, der Ausschluss"
+  },
+  {
+    "word": "quelqu'un de bien",
+    "translation": "ein guter Mensch"
+  },
+  {
+    "word": "admirer",
+    "translation": "bewundern"
+  },
+  {
+    "word": "utile",
+    "translation": "nützlich"
+  },
+  {
+    "word": "empêcher",
+    "translation": "hindern, verhindern"
+  },
+  {
+    "word": "à ta place",
+    "translation": "an deiner Stelle"
+  },
+  {
+    "word": "en ligne",
+    "translation": "online"
+  },
+  {
+    "word": "Ça ne me dit rien",
+    "translation": "Das sagt mir nichts"
+  },
+  {
+    "word": "le reporter",
+    "translation": "der Reporter"
+  },
+  {
+    "word": "la reporter",
+    "translation": "die Reporterin"
+  },
+  {
+    "word": "imaginer",
+    "translation": "sich vorstellen"
+  },
+  {
+    "word": "décider de",
+    "translation": "sich entscheiden zu"
+  },
+  {
+    "word": "la responsabilité",
+    "translation": "die Verantwortung"
+  },
+  {
+    "word": "n'en savoir rien",
+    "translation": "keine Ahnung haben (von etw.)"
+  },
+  {
+    "word": "emporter",
+    "translation": "mitnehmen"
+  },
+  {
+    "word": "porter",
+    "translation": "tragen"
+  },
+  {
+    "word": "la montre",
+    "translation": "die Armbanduhr"
+  },
+  {
+    "word": "rater",
+    "translation": "verpassen, durchfallen"
+  },
+  {
+    "word": "réussir",
+    "translation": "bestehen, Erfolg haben"
+  },
+  {
+    "word": "l'examen",
+    "add": "m.",
+    "translation": "die Prüfung, auch: die ärztliche Untersuchung"
+  },
+  {
+    "word": "propre",
+    "translation": "eigen"
+  },
+  {
+    "word": "l'entreprise",
+    "add": "f.",
+    "translation": "das Unternehmen"
+  },
+  {
+    "word": "repasser",
+    "translation": "wiederholen (Prüfung)"
+  },
+  {
+    "word": "poser sa candidature",
+    "translation": "sich bewerben"
+  },
+  {
+    "word": "la candidature",
+    "translation": "die Bewerbung"
+  },
+  {
+    "word": "le candidat",
+    "translation": "der Bewerber"
+  },
+  {
+    "word": "la candidate",
+    "translation": "die Bewerberin"
+  },
+  {
+    "word": "l'étranger",
+    "add": "m.",
+    "translation": "das Ausland"
+  },
+  {
+    "word": "passionnant",
+    "translation": "faszinierend, fesselnd"
+  },
+  {
+    "word": "ennuyeux",
+    "add": "m.",
+    "translation": "langweilig (männlich)"
+  },
+  {
+    "word": "ennuyeuse",
+    "add": "f.",
+    "translation": "langweilig (weiblich)"
+  },
+  {
+    "word": "enrichissant",
+    "translation": "bereichernd"
+  },
+  {
+    "word": "permettre à qn de + inf.",
+    "translation": "jdm erlauben, etw. zu tun"
+  },
+  {
+    "word": "l'horaire",
+    "add": "f.",
+    "translation": "die Arbeitszeit, auch: der Fahrplan"
+  },
+  {
+    "word": "flexible",
+    "translation": "flexibel"
+  },
+  {
+    "word": "gagner de l'argent",
+    "translation": "Geld verdienen"
+  },
+  {
+    "word": "l'ordre",
+    "add": "m.",
+    "translation": "der Befehl, auch: die Ordnung"
+  },
+  {
+    "word": "prendre une décision",
+    "translation": "eine Entscheidung treffen"
+  },
+  {
+    "word": "la décision",
+    "translation": "die Entscheidung"
+  },
+  {
+    "word": "décider de + inf.",
+    "translation": "sich entscheiden, etw. zu tun"
+  },
+  {
+    "word": "le superhéros",
+    "translation": "der Superheld/in"
+  },
+  {
+    "word": "la superhéroïne",
+    "translation": "die Superheldin"
+  },
+  {
+    "word": "sauver",
+    "translation": "retten"
+  },
+  {
+    "word": "la qualité",
+    "translation": "die Qualität, der Vorzug"
+  },
+  {
+    "word": "être prêt à + inf.",
+    "translation": "bereit sein etw. zu tun"
+  },
+  {
+    "word": "prêt",
+    "translation": "bereit"
+  },
+  {
+    "word": "le domaine",
+    "translation": "das Gebiet, der Bereich"
+  },
+  {
+    "word": "optimiste",
+    "translation": "optimistisch"
+  },
+  {
+    "word": "le traducteur",
+    "translation": "der Übersetzer"
+  },
+  {
+    "word": "la traductrice",
+    "translation": "die Übersetzerin"
+  },
+  {
+    "word": "le salaire fixe",
+    "translation": "das Festgehalt"
+  },
+  {
+    "word": "le salaire",
+    "translation": "das Gehalt"
+  },
+  {
+    "word": "fixe",
+    "translation": "fest, unveränderlich"
+  },
+  {
+    "word": "l'économie",
+    "add": "f.",
+    "translation": "die Wirtschaft, die BWL"
+  },
+  {
+    "word": "curieux",
+    "translation": "neugierig, merkwürdig (männlich)"
+  },
+  {
+    "word": "curieuse",
+    "translation": "neugierig, merkwürdig (weiblich)"
+  },
+  {
+    "word": "l'expérience",
+    "add": "f.",
+    "translation": "die Erfahrung"
+  },
+  {
+    "word": "le stage",
+    "translation": "das Praktikum"
+  },
+  {
+    "word": "voici",
+    "translation": "das ist/sind, hier ist/sind"
+  },
+  {
+    "word": "voilà",
+    "translation": "das ist/sind, hier ist/sind"
+  },
+  {
+    "word": "le tuyau",
+    "translation": "der Tipp"
+  },
+  {
+    "word": "les tuyaux",
+    "translation": "die Tipps"
+  },
+  {
+    "word": "la lettre de motivation",
+    "translation": "das Bewerbungsschreiben"
+  },
+  {
+    "word": "l'employeur",
+    "translation": "der Arbeitgeber"
+  },
+  {
+    "word": "l'employeuse",
+    "translation": "die Arbeitgeberin"
+  },
+  {
+    "word": "la demande",
+    "translation": "die Anfrage, die Bitte"
+  },
+  {
+    "word": "être intéressé par",
+    "translation": "interessiert sein an"
+  },
+  {
+    "word": "de plus",
+    "translation": "außerdem"
+  },
+  {
+    "word": "décorer",
+    "translation": "dekorieren, etw. schmücken"
+  },
+  {
+    "word": "servir",
+    "translation": "bedienen, servieren"
+  },
+  {
+    "word": "en rajouter",
+    "translation": "dick auftragen"
+  },
+  {
+    "word": "particulièrement",
+    "translation": "besonders"
+  },
+  {
+    "word": "le service",
+    "translation": "der Service, die Bedienung"
+  },
+  {
+    "word": "les connaissances",
+    "add": "f.pl.",
+    "translation": "die Kenntnisse, das Wissen"
+  },
+  {
+    "word": "le serveur",
+    "translation": "der Kellner"
+  },
+  {
+    "word": "la serveuse",
+    "translation": "die Kellnerin"
+  },
+  {
+    "word": "motivé",
+    "translation": "motiviert"
+  },
+  {
+    "word": "signer",
+    "translation": "unterschreiben"
+  },
+  {
+    "word": "la pièce jointe",
+    "translation": "der Anhang"
+  },
+  {
+    "word": "le CV",
+    "translation": "der Lebenslauf"
+  },
+  {
+    "word": "le document",
+    "translation": "das Dokument, die Unterlagen"
+  },
+  {
+    "word": "la photo d'identité",
+    "translation": "das Passfoto"
+  },
+  {
+    "word": "sourire",
+    "translation": "lächeln"
+  },
+  {
+    "word": "ça fait",
+    "translation": "das wirkt + Adjektiv"
+  },
+  {
+    "word": "la formation",
+    "translation": "die Ausbildung"
+  },
+  {
+    "word": "le niveau",
+    "translation": "das Niveau"
+  },
+  {
+    "word": "l'échange",
+    "add": "m.",
+    "translation": "der Austausch, der Tausch"
+  },
+  {
+    "word": "quinze jours",
+    "translation": "vierzehn Tage, zwei Wochen"
+  },
+  {
+    "word": "professionnel",
+    "translation": "beruflich, Berufs-"
+  },
+  {
+    "word": "l'informatique",
+    "add": "m.",
+    "translation": "die Informatik"
+  },
+  {
+    "word": "la réponse",
+    "translation": "die Antwort"
+  },
+  {
+    "word": "recevoir",
+    "translation": "empfangen, erhalten"
+  },
+  {
+    "word": "Ne quittez pas.",
+    "translation": "Bleiben Sie dran."
+  },
+  {
+    "word": "le patron",
+    "translation": "der Chef"
+  },
+  {
+    "word": "la patronne",
+    "translation": "die Chefin"
+  },
+  {
+    "word": "c'est bien ça ?",
+    "translation": "nicht wahr?"
+  },
+  {
+    "word": "l'apprenti",
+    "add": "m.",
+    "translation": "der Auszubildende, der Lehrling"
+  },
+  {
+    "word": "l'apprentie",
+    "add": "f.",
+    "translation": "die Auszubildende"
+  },
+  {
+    "word": "autonome",
+    "translation": "selbstständig"
+  },
+  {
+    "word": "la réception",
+    "translation": "die Rezeption, der Empfang"
+  },
+  {
+    "word": "discuter ",
+    "translation": "reden, diskutieren"
+  },
+  {
+    "word": "demander à parler à qn",
+    "translation": "nach jdm fragen"
+  },
+  {
+    "word": "le crayon de couleur",
+    "translation": "der Buntstift"
+  },
+  {
+    "word": "le crayon",
+    "translation": "der Bleistift"
+  },
+  {
+    "word": "le stylo",
+    "translation": "der Kugelschreiber"
+  },
+  {
+    "word": "l'effaceur",
+    "translation": "der Tintenkiller"
+  },
+  {
+    "word": "la règle",
+    "translation": "das Lineal"
+  },
+  {
+    "word": "le cahier",
+    "translation": "das Heft"
+  },
+  {
+    "word": "le papier",
+    "translation": "das Papier"
+  },
+  {
+    "word": "le classeur",
+    "translation": "der Ordner"
+  },
+  {
+    "word": "Comment est-ce qu'on dit ",
+    "translation": "Wie sagt man ...?"
+  },
+  {
+    "word": "en français",
+    "translation": "auf Französisch"
+  },
+  {
+    "word": "en allemand",
+    "translation": "auf Deutsch"
+  },
+  {
+    "word": "On dit",
+    "translation": "Man sagt"
+  },
+  {
+    "word": "Je ne sais pas.",
+    "translation": "Ich weiß es nicht."
+  },
+  {
+    "word": "Comment est-ce qu'on écrit ?",
+    "translation": "Wie schreibt man ?"
+  },
+  {
+    "word": "On écrit",
+    "translation": "Man schreibt"
+  },
+  {
+    "word": "J'en ai jusque-là !",
+    "translation": "Mir steht's bis hier!"
+  },
+  {
+    "word": "le vin",
+    "translation": "der Wein"
+  },
+  {
+    "word": "n'est-ce pas",
+    "translation": "nicht (wahr), oder (etwa nicht)"
+  },
+  {
+    "word": "la pomme de terre",
+    "translation": "die Kartoffel"
+  },
+  {
+    "word": "serrer la main à qn",
+    "translation": "jdm die Hand geben"
+  },
+  {
+    "word": "se faire la bise",
+    "translation": "sich mit Küsschen begrüßen/verabschieden"
+  },
+  {
+    "word": "la saucisse",
+    "translation": "die Wurst"
+  },
+  {
+    "word": "se marrer",
+    "translation": "sich kaputtlachen"
+  },
+  {
+    "word": "le côté",
+    "translation": "die Seite"
+  },
+  {
+    "word": "le Rhin",
+    "translation": "der Rhein"
+  },
+  {
+    "word": "la différence",
+    "translation": "der Unterschied"
+  },
+  {
+    "word": "le vasistas",
+    "translation": "das (kleine) Klappfenster"
+  },
+  {
+    "word": "faire pareil que",
+    "translation": "etw. genauso machen wie"
+  },
+  {
+    "word": "l'habitude",
+    "add": "f.",
+    "translation": "die Gewohnheit"
+  },
+  {
+    "word": "quotidien",
+    "add": "m.",
+    "translation": "täglich (männlich)"
+  },
+  {
+    "word": "quotidienne",
+    "add": "f.",
+    "translation": "täglich (weiblich)"
+  },
+  {
+    "word": "en général",
+    "translation": "normalerweise, im Allgemeinen"
+  },
+  {
+    "word": "la tranche",
+    "translation": "die Scheibe"
+  },
+  {
+    "word": "découper",
+    "translation": "schneiden, ausschneiden"
+  },
+  {
+    "word": "en plastique",
+    "translation": "aus Plastik"
+  },
+  {
+    "word": "le morceau",
+    "translation": "das Stück"
+  },
+  {
+    "word": "les morceaux",
+    "translation": "die Stücke"
+  },
+  {
+    "word": "fin",
+    "translation": "fein, dünn"
+  },
+  {
+    "word": "tremper",
+    "translation": "tunken"
+  },
+  {
+    "word": "drôlement",
+    "translation": "ziemlich, ganz schön"
+  },
+  {
+    "word": "cuit",
+    "translation": "gegart, gekocht"
+  },
+  {
+    "word": "en mettre partout",
+    "translation": "alles voll kleckern"
+  },
+  {
+    "word": "dommage",
+    "translation": "schade"
+  },
+  {
+    "word": "la petite cuillère",
+    "translation": "der Teelöffel"
+  },
+  {
+    "word": "le plastique",
+    "translation": "das Plastik, der Kunststoff"
+  },
+  {
+    "word": "le métal",
+    "translation": "das Metall"
+  },
+  {
+    "word": "métallique",
+    "translation": "aus Metall"
+  },
+  {
+    "word": "à la place de",
+    "translation": "anstelle von, statt"
+  },
+  {
+    "word": "le cornet",
+    "translation": "die spitze Tüte, auch: die Eiswaffel"
+  },
+  {
+    "word": "le carton",
+    "translation": "der Karton"
+  },
+  {
+    "word": "le papier",
+    "translation": "das Papier, das Dokument"
+  },
+  {
+    "word": "le ruban",
+    "translation": "das Band"
+  },
+  {
+    "word": "fièrement",
+    "translation": "stolz"
+  },
+  {
+    "word": "faire soi-même",
+    "translation": "selbst machen"
+  },
+  {
+    "word": "remplir",
+    "translation": "füllen, etw. ausfüllen"
+  },
+  {
+    "word": "Chut !",
+    "translation": "Pst!"
+  },
+  {
+    "word": "le contenu",
+    "translation": "der Inhalt"
+  },
+  {
+    "word": "introduire",
+    "translation": "einführen, einleiten"
+  },
+  {
+    "word": "le lycée",
+    "translation": "das Gymnasium, die gymnasiale Oberstufe"
+  },
+  {
+    "word": "revenir",
+    "translation": "zurückkommen"
+  },
+  {
+    "word": "évidemment",
+    "translation": "natürlich, selbstverständlich"
+  },
+  {
+    "word": "le site web",
+    "translation": "die Webseite"
+  },
+  {
+    "word": "correspondre à",
+    "translation": "entsprechen"
+  },
+  {
+    "word": "la seconde",
+    "translation": "wörtl.: die zweite, erstes Jahr der Oberstufe"
+  },
+  {
+    "word": "la famille d'accueil",
+    "translation": "die Gastfamilie"
+  },
+  {
+    "word": "absolument",
+    "translation": "ganz, unbedingt"
+  },
+  {
+    "word": "gentiment",
+    "translation": "netterweise"
+  },
+  {
+    "word": "mot à mot",
+    "translation": "wortwörtlich"
+  },
+  {
+    "word": "même si",
+    "translation": "auch wenn, selbst wenn"
+  },
+  {
+    "word": "éclater de rire",
+    "translation": "in Lachen ausbrechen"
+  },
+  {
+    "word": "couramment",
+    "translation": "fließend"
+  },
+  {
+    "word": "énormément",
+    "translation": "sehr viel, gewaltig"
+  },
+  {
+    "word": "le progrès",
+    "translation": "der Fortschritt"
+  },
+  {
+    "word": "le séjour",
+    "translation": "der Aufenthalt"
+  },
+  {
+    "word": "différemment",
+    "translation": "anders"
+  },
+  {
+    "word": "de manière ...",
+    "translation": "auf ... Art und Weise"
+  },
+  {
+    "word": "être assis",
+    "translation": "sitzen"
+  },
+  {
+    "word": "faire le tour de qc",
+    "translation": "um etw. herumgehen"
+  },
+  {
+    "word": "pas grand-chose",
+    "translation": "nicht viel, nichts Besonderes"
+  },
+  {
+    "word": "le carnet de correspondance",
+    "translation": "das Mitteilungsheft"
+  },
+  {
+    "word": "carrément",
+    "translation": "total, direkt"
+  },
+  {
+    "word": "s'entendre",
+    "translation": "sich verstehen"
+  },
+  {
+    "word": "pourtant",
+    "translation": "obwohl"
+  },
+  {
+    "word": "passer",
+    "translation": "vorbeigehen, vergehen (zeitlich)"
+  },
+  {
+    "word": "le mal du pays",
+    "translation": "das Heimweh"
+  },
+  {
+    "word": "par contre",
+    "translation": "jedoch, allerdings"
+  },
+  {
+    "word": "avoir mal (à)",
+    "translation": "Schmerzen haben (an/am)"
+  },
+  {
+    "word": "le ventre",
+    "translation": "der Bauch"
+  },
+  {
+    "word": "l’eau gazeuse",
+    "add": "f.",
+    "translation": "das Mineralwasser mit Kohlensäure"
+  },
+  {
+    "word": "l’eau plate",
+    "add": "f.",
+    "translation": "das stille Mineralwasser"
+  },
+  {
+    "word": "manquer",
+    "translation": "fehlen, verpassen"
+  },
+  {
+    "word": "se débrouiller",
+    "translation": "zurechtkommen"
+  },
+  {
+    "word": "forcément",
+    "translation": "zwangsläufig"
+  },
+  {
+    "word": "indépendant",
+    "translation": "unabhängig"
+  },
+  {
+    "word": "l'anecdote",
+    "add": "f.",
+    "translation": "die Anekdote"
+  },
+  {
+    "word": "une sorte de",
+    "translation": "eine Art (von)"
+  },
+  {
+    "word": "la pomme de terre",
+    "translation": "die Kartoffel"
+  },
+  {
+    "word": "la saucisse",
+    "translation": "die Wurst"
+  },
+  {
+    "word": "goûter",
+    "translation": "probieren, etw. kosten"
+  },
+  {
+    "word": "unique",
+    "translation": "einzig, einzigartig"
+  },
+  {
+    "word": "le verre",
+    "translation": "das Glas"
+  },
+  {
+    "word": "au bout de",
+    "translation": "am Ende von"
+  },
+  {
+    "word": "le malentendu",
+    "translation": "das Missverständnis"
+  },
+  {
+    "word": "les faux amis",
+    "translation": "wörtl.: falsche Freunde – ähnliche Wörter mit unterschiedlicher Bedeutung"
+  },
+  {
+    "word": "servir à",
+    "translation": "von Nutzen sein, zu etw. dienen"
+  },
+  {
+    "word": "il paraît que",
+    "translation": "angeblich"
+  },
+  {
+    "word": "le kiwi",
+    "translation": "die Kiwi"
+  },
+  {
+    "word": "Il fallait y penser !",
+    "translation": "Darauf muss man erst mal kommen!"
+  },
+  {
+    "word": "rejoindre",
+    "translation": "treffen, jdn einholen"
+  },
+  {
+    "word": "exactement",
+    "translation": "genau"
+  },
+  {
+    "word": "se tromper",
+    "translation": "sich täuschen, sich irren"
+  },
+  {
+    "word": "avoir qc en tête",
+    "translation": "sich etw. vorstellen, etw. im Kopf haben"
+  },
+  {
+    "word": "la tête",
+    "translation": "der Kopf, auch: das Gesicht"
+  },
+  {
+    "word": "se plaindre de",
+    "translation": "sich über etw. beklagen"
+  },
+  {
+    "word": "l’oreiller",
+    "add": "m.",
+    "translation": "das Kopfkissen"
+  },
+  {
+    "word": "en forme de",
+    "translation": "in Form von"
+  },
+  {
+    "word": "gros",
+    "add": "m.",
+    "translation": "groß, dick (männlich)"
+  },
+  {
+    "word": "grosse",
+    "add": "f.",
+    "translation": "groß, dick (weiblich) "
+  },
+  {
+    "word": "la comparaison",
+    "translation": "der Vergleich"
+  },
+  {
+    "word": "amusant",
+    "translation": "lustig, unterhaltsam"
+  },
+  {
+    "word": "le traversin",
+    "translation": "langes Kopfkissen in Form einer Rolle"
+  },
+  {
+    "word": "énorme",
+    "translation": "riesig"
+  },
+  {
+    "word": "se bousculer",
+    "translation": "sich drängeln"
+  },
+  {
+    "word": "assister à",
+    "translation": "bei etw. dabei sein, an etw. teilnehmen"
+  },
+  {
+    "word": "tirer",
+    "translation": "ziehen, schießen"
+  },
+  {
+    "word": "le clin d'œil",
+    "translation": "das Zwinkern, der Augenblick"
+  },
+  {
+    "word": "en un clin d'œil",
+    "translation": "im Handumdrehen"
+  },
+  {
+    "word": "s'asseoir",
+    "translation": "sich hinsetzen"
+  },
+  {
+    "word": "emmener",
+    "translation": "mitnehmen"
+  },
+  {
+    "word": "plein",
+    "translation": "voll"
+  },
+  {
+    "word": "plus bas",
+    "translation": "tiefer, weiter unten"
+  },
+  {
+    "word": "le fou",
+    "translation": "der Verrückte, der Fan"
+  },
+  {
+    "word": "la folle",
+    "translation": "die Verrückte, der Fan"
+  },
+  {
+    "word": "faire de la musculation",
+    "translation": "Krafttraining machen"
+  },
+  {
+    "word": "le son",
+    "translation": "der Ton, der Klang"
+  },
+  {
+    "word": "renverser",
+    "translation": "umstoßen, kippen"
+  },
+  {
+    "word": "la tête",
+    "translation": "der Kopf"
+  },
+  {
+    "word": "porter chance",
+    "translation": "Glück bringen"
+  },
+  {
+    "word": "le combat",
+    "translation": "der Kampf"
+  },
+  {
+    "word": "le public",
+    "translation": "das Publikum"
+  },
+  {
+    "word": "concentré",
+    "translation": "konzentriert"
+  },
+  {
+    "word": "la terre",
+    "translation": "die Erde, der Boden, die Welt"
+  },
+  {
+    "word": "l'épaule",
+    "add": "f.",
+    "translation": "die Schulter"
+  },
+  {
+    "word": "populaire",
+    "translation": "beliebt, populär"
+  },
+  {
+    "word": "le footing",
+    "translation": "das Joggen, das Laufen"
+  },
+  {
+    "word": "gaspiller",
+    "translation": "verschwenden"
+  },
+  {
+    "word": "grâce à",
+    "translation": "dank"
+  },
+  {
+    "word": "De quoi je me mêle?",
+    "translation": "Was geht dich das an?"
+  },
+  {
+    "word": "Tais-toi!",
+    "translation": "Sei still!"
+  },
+  {
+    "word": "la bouche",
+    "translation": "der Mund"
+  },
+  {
+    "word": "le continent",
+    "translation": "der Kontinent"
+  },
+  {
+    "word": "africain",
+    "translation": "afrikanisch"
+  },
+  {
+    "word": "le Sénégal",
+    "translation": "der Senegal"
+  },
+  {
+    "word": "national",
+    "add": "m.",
+    "translation": "national (männlich)"
+  },
+  {
+    "word": "nationaux",
+    "add": "m.pl.",
+    "translation": "national (plural)"
+  },
+  {
+    "word": "le wolof",
+    "translation": "Wolof (Sprache im Senegal)"
+  },
+  {
+    "word": "le peul",
+    "translation": "Fulfulde (westafrikanische Sprache)"
+  },
+  {
+    "word": "les ressources",
+    "add": "f.pl.",
+    "translation": "die Ressourcen, Bodenschätze"
+  },
+  {
+    "word": "l'agriculture",
+    "add": "f.",
+    "translation": "die Landwirtschaft"
+  },
+  {
+    "word": "l'arachide",
+    "add": "f.",
+    "translation": "die Erdnuss"
+  },
+  {
+    "word": "le coton",
+    "translation": "die Baumwolle"
+  },
+  {
+    "word": "la mangue",
+    "translation": "die Mango"
+  },
+  {
+    "word": "le Maroc",
+    "translation": "Marokko"
+  },
+  {
+    "word": "l'arabe",
+    "add": "m.",
+    "translation": "Arabisch"
+  },
+  {
+    "word": "le berbère",
+    "translation": "die Berbersprache"
+  },
+  {
+    "word": "l'espagnol",
+    "add": "m.",
+    "translation": "Spanisch"
+  },
+  {
+    "word": "l'olive",
+    "add": "f.",
+    "translation": "die Olive"
+  },
+  {
+    "word": "l'élevage",
+    "add": "m.",
+    "translation": "die Zucht, die Aufzucht"
+  },
+  {
+    "word": "le mouton",
+    "translation": "das Schaf"
+  },
+  {
+    "word": "le phosphate",
+    "translation": "das Phosphat"
+  },
+  {
+    "word": "l'argent",
+    "add": "m.",
+    "translation": "das Silber"
+  },
+  {
+    "word": "la Côte d'Ivoire",
+    "translation": "die Elfenbeinküste"
+  },
+  {
+    "word": "le baoulé",
+    "translation": "Baule (Sprache)"
+  },
+  {
+    "word": "le dioula",
+    "translation": "Dioula (Sprache)"
+  },
+  {
+    "word": "le malinké",
+    "translation": "Malinke (Sprache)"
+  },
+  {
+    "word": "le cacao",
+    "translation": "der Kakao"
+  },
+  {
+    "word": "le café",
+    "translation": "der Kaffee"
+  },
+  {
+    "word": "le caoutchouc",
+    "translation": "der Kautschuk"
+  },
+  {
+    "word": "l'huile",
+    "add": "f.",
+    "translation": "das Öl"
+  },
+  {
+    "word": "l'huile de palme",
+    "add": "f.",
+    "translation": "das Palmöl"
+  },
+  {
+    "word": "le bois",
+    "translation": "das Holz"
+  },
+  {
+    "word": "l'Algérie",
+    "add": "m.",
+    "translation": "Algerien"
+  },
+  {
+    "word": "la datte",
+    "translation": "die Dattel"
+  },
+  {
+    "word": "le gaz",
+    "translation": "das Gas"
+  },
+  {
+    "word": "le gaz naturel",
+    "translation": "das Erdgas"
+  },
+  {
+    "word": "le pétrole",
+    "translation": "das Erdöl"
+  },
+  {
+    "word": "le désert",
+    "translation": "die Wüste"
+  },
+  {
+    "word": "peuplé",
+    "translation": "bevölkert"
+  },
+  {
+    "word": "l'Asie",
+    "add": "f.",
+    "translation": "Asien"
+  },
+  {
+    "word": "le milliard",
+    "translation": "die Milliarde"
+  },
+  {
+    "word": "la majorité",
+    "translation": "die Mehrheit"
+  },
+  {
+    "word": "l'enseignement",
+    "add": "m.",
+    "translation": "der Unterricht, das Schulwesen"
+  },
+  {
+    "word": "la plupart (de)",
+    "translation": "die meisten (von)"
+  },
+  {
+    "word": "la moitié",
+    "translation": "die Hälfte"
+  },
+  {
+    "word": "l'immigré",
+    "translation": "der Einwanderer"
+  },
+  {
+    "word": "le tiers",
+    "translation": "das Drittel"
+  },
+  {
+    "word": "subsaharien",
+    "add": "m.",
+    "translation": "subsaharisch"
+  },
+  {
+    "word": "subsaharienne",
+    "add": "f.",
+    "translation": "subsaharisch"
+  },
+  {
+    "word": "le portrait",
+    "translation": "das Porträt"
+  },
+  {
+    "word": "le nom",
+    "translation": "der Name, der Nachname"
+  },
+  {
+    "word": "Bamako",
+    "translation": "Bamako (Hauptstadt von Mali)"
+  },
+  {
+    "word": "s'exiler",
+    "translation": "ins Exil gehen"
+  },
+  {
+    "word": "critiquer",
+    "translation": "kritisieren"
+  },
+  {
+    "word": "ivoirien",
+    "add": "m.",
+    "translation": "ivorisch, aus der Elfenbeinküste (männlich)"
+  },
+  {
+    "word": "ivoirienne",
+    "add": "f.",
+    "translation": "ivorisch, aus der Elfenbeinküste (weiblich)"
+  },
+  {
+    "word": "engagé",
+    "translation": "engagiert"
+  },
+  {
+    "word": "la corruption",
+    "translation": "die Korruption, Bestechung"
+  },
+  {
+    "word": "toucher",
+    "translation": "betreffen, befallen"
+  },
+  {
+    "word": "la pauvreté",
+    "translation": "die Armut"
+  },
+  {
+    "word": "l'organisation",
+    "add": "f.",
+    "translation": "die Organisation"
+  },
+  {
+    "word": "l'action",
+    "add": "f.",
+    "translation": "die Aktion, die Tat"
+  },
+  {
+    "word": "la faim",
+    "translation": "der Hunger"
+  },
+  {
+    "word": "donner une voix à qn",
+    "translation": "jdm eine Stimme geben"
+  },
+  {
+    "word": "créer",
+    "translation": "erschaffen, gründen"
+  },
+  {
+    "word": "l'image",
+    "add": "f.",
+    "translation": "das Bild"
+  },
+  {
+    "word": "positif",
+    "add": "m.sg.",
+    "translation": "positiv"
+  },
+  {
+    "word": "positive",
+    "add": "f.sg.",
+    "translation": "positiv"
+  },
+  {
+    "word": "marocain",
+    "translation": "marokkanisch"
+  },
+  {
+    "word": "le bac",
+    "translation": "das Abi, das Abitur"
+  },
+  {
+    "word": "le Marocain",
+    "translation": "der Marokkaner"
+  },
+  {
+    "word": "la Marocaine",
+    "translation": "die Marokkanerin"
+  },
+  {
+    "word": "le symbole",
+    "translation": "das Symbol, das Zeichen"
+  },
+  {
+    "word": "depuis que",
+    "translation": "seit, seitdem"
+  },
+  {
+    "word": "la jeunesse",
+    "translation": "die Jugend"
+  },
+  {
+    "word": "doré",
+    "translation": "vergoldet, hier: reich"
+  },
+  {
+    "word": "selon",
+    "translation": "laut, nach"
+  },
+  {
+    "word": "le modèle",
+    "translation": "das Vorbild, das Modell"
+  },
+  {
+    "word": "occidental",
+    "add": "m.pl.",
+    "translation": "westlich (männlich, sg.)"
+  },
+  {
+    "word": "occidentaux",
+    "add": "pl.",
+    "translation": "westlich (plural)"
+  },
+  {
+    "word": "attaché à",
+    "translation": "verbunden, festgemacht an"
+  },
+  {
+    "word": "le multiculturalisme",
+    "translation": "die Multikulturalität"
+  },
+  {
+    "word": "s'imposer",
+    "translation": "sich behaupten"
+  },
+  {
+    "word": "mettre en scène",
+    "translation": "inszenieren"
+  },
+  {
+    "word": "le refus",
+    "translation": "die Weigerung, die Ablehnung"
+  },
+  {
+    "word": "se poser des questions",
+    "translation": "sich Fragen stellen"
+  },
+  {
+    "word": "la création",
+    "translation": "die Schöpfung, das Werk"
+  },
+  {
+    "word": "la censure",
+    "translation": "die Zensur"
+  },
+  {
+    "word": "l'art",
+    "add": "m.",
+    "translation": "die Kunst"
+  },
+  {
+    "word": "se développer",
+    "translation": "sich entwickeln"
+  },
+  {
+    "word": "le quartier populaire",
+    "translation": "einfaches, ärmeres Stadtviertel"
+  },
+  {
+    "word": "faire du baby-sitting",
+    "translation": "babysitten"
+  },
+  {
+    "word": "l'enfance",
+    "add": "f.",
+    "translation": "die Kindheit"
+  },
+  {
+    "word": "le mari",
+    "translation": "der Ehemann, der Mann"
+  },
+  {
+    "word": "le prix",
+    "translation": "der Preis"
+  },
+  {
+    "word": "l'impression",
+    "translation": "der Eindruck"
+  },
+  {
+    "word": "accueillir",
+    "translation": "empfangen, aufnehmen"
+  },
+  {
+    "word": "sénégalais",
+    "translation": "senegalesisch"
+  },
+  {
+    "word": "le poulet",
+    "translation": "das Hähnchen"
+  },
+  {
+    "word": "le citron vert",
+    "translation": "die Limone"
+  },
+  {
+    "word": "se balader",
+    "translation": "spazieren gehen, herumlaufen"
+  },
+  {
+    "word": "l'indépendance",
+    "translation": "die Unabhängigkeit"
+  },
+  {
+    "word": "la vaisselle",
+    "translation": "das Geschirr"
+  },
+  {
+    "word": "le tissu",
+    "translation": "der Stoff"
+  },
+  {
+    "word": "la viande",
+    "translation": "das Fleisch"
+  },
+  {
+    "word": "marchander",
+    "translation": "handeln, verhandeln"
+  },
+  {
+    "word": "être pressé",
+    "translation": "es eilig haben"
+  },
+  {
+    "word": "passer pour",
+    "translation": "für jdn/etw. gehalten werden"
+  },
+  {
+    "word": "jeter",
+    "translation": "(weg)werfen"
+  },
+  {
+    "word": "les déchets",
+    "translation": "der Abfall"
+  },
+  {
+    "word": "au lieu de",
+    "translation": "statt, anstelle"
+  },
+  {
+    "word": "Léopold Sédar Senghor",
+    "translation": "senegalesischer Dichter und Politiker"
+  },
+  {
+    "word": "le lion",
+    "translation": "der Löwe"
+  },
+  {
+    "word": "l'éléphant",
+    "translation": "der Elefant"
+  },
+  {
+    "word": "la lutte",
+    "translation": "der Kampf, das Ringen"
+  },
+  {
+    "word": "traditionnel",
+    "translation": "traditionell (männlich)"
+  },
+  {
+    "word": "traditionnelle",
+    "translation": "traditionell (weiblich)"
+  },
+  {
+    "word": "dont",
+    "translation": "dessen, deren (Relativpronomen)"
+  },
+  {
+    "word": "l'esclave",
+    "translation": "der Sklave / die Sklavin"
+  },
+  {
+    "word": "l'Amérique",
+    "translation": "Amerika"
+  },
+  {
+    "word": "l'arme",
+    "translation": "die Waffe"
+  },
+  {
+    "word": "plein de",
+    "translation": "viele (umgangssprachlich)"
+  },
+  {
+    "word": "en détail",
+    "translation": "ausführlich, im Einzelnen"
+  },
+  {
+    "word": "après-demain",
+    "translation": "übermorgen"
+  },
+  {
+    "word": "à la fois",
+    "translation": "gleichzeitig"
+  },
+  {
+    "word": "captiver",
+    "translation": "fesseln"
+  },
+  {
+    "word": "le spectateur",
+    "translation": "der Zuschauer"
+  },
+  {
+    "word": "la spectatrice",
+    "translation": "die Zuschauerin"
+  },
+  {
+    "word": "le gros plan",
+    "translation": "die Nahaufnahme"
+  },
+  {
+    "word": "l’émotion",
+    "add": "f.",
+    "translation": "die Gefühlsregung, die Aufregung"
+  },
+  {
+    "word": "le premier plan",
+    "translation": "der Vordergrund"
+  },
+  {
+    "word": "l’arrière-plan",
+    "add": "m.",
+    "translation": "der Hintergrund"
+  },
+  {
+    "word": "le comportement",
+    "translation": "das Verhalten"
+  },
+  {
+    "word": "maîtriser",
+    "translation": "beherrschen"
+  },
+  {
+    "word": "la situation",
+    "translation": "die Situation"
+  },
+  {
+    "word": "le conseil de classe",
+    "translation": "die Klassenkonferenz"
+  },
+  {
+    "word": "le dialogue",
+    "translation": "der Dialog"
+  },
+  {
+    "word": "reprocher",
+    "translation": "vorwerfen"
+  },
+  {
+    "word": "le moment-clé",
+    "translation": "der Schlüsselmoment"
+  },
+  {
+    "word": "dégénérer",
+    "translation": "ausarten, sich verschlechtern"
+  },
+  {
+    "word": "complètement",
+    "translation": "ganz, vollständig"
+  },
+  {
+    "word": "la comédie",
+    "translation": "die Komödie"
+  },
+  {
+    "word": "emmener",
+    "translation": "mitnehmen"
+  },
+  {
+    "word": "la synopsis",
+    "translation": "die Kurzbeschreibung"
+  },
+  {
+    "word": "agressif",
+    "add": "m.",
+    "translation": "aggressiv, grell (männlich)"
+  },
+  {
+    "word": "agressive",
+    "add": "f.",
+    "translation": "aggressiv, grell (weiblich)"
+  },
+  {
+    "word": "insolent",
+    "translation": "unverschämt, frech"
+  },
+  {
+    "word": "motiver",
+    "translation": "jdn motivieren"
+  },
+  {
+    "word": "prendre des risques",
+    "translation": "Risiken eingehen"
+  },
+  {
+    "word": "la critique",
+    "translation": "die Kritik"
+  },
+  {
+    "word": "critiquer",
+    "translation": "kritisieren"
+  },
+  {
+    "word": "le réalisateur",
+    "translation": "der Regisseur"
+  },
+  {
+    "word": "l’adaptation",
+    "add": "f.",
+    "translation": "die Adaption, Bearbeitung; hier: die Verfilmung"
+  },
+  {
+    "word": "ancien",
+    "translation": "alt, ehemalig"
+  },
+  {
+    "word": "le scénario",
+    "translation": "das Drehbuch"
+  },
+  {
+    "word": "d’ailleurs",
+    "translation": "übrigens"
+  },
+  {
+    "word": "rendre qc authentique",
+    "translation": "etw. authentisch wirken lassen/machen"
+  },
+  {
+    "word": "le quotidien",
+    "translation": "der Alltag"
+  },
+  {
+    "word": "le goût",
+    "translation": "der Geschmack, die Vorliebe"
+  },
+  {
+    "word": "à l’intérieur",
+    "translation": "innerhalb, drinnen; in den räumen"
+  },
+  {
+    "word": "en particulier",
+    "translation": "insbesondere, vor allem"
+  },
+  {
+    "word": "vivant",
+    "translation": "lebendig"
+  },
+  {
+    "word": "le tour de force",
+    "translation": "der Kraftakt"
+  },
+  {
+    "word": "déclarer",
+    "translation": "etw. verkünden, erklären"
+  },
+  {
+    "word": "coopérer",
+    "translation": "kooperieren, zusammenarbeiten"
+  },
+  {
+    "word": "la politique",
+    "translation": "die Politik"
+  },
+  {
+    "word": "l’objectif",
+    "add": "m.",
+    "translation": "das Ziel"
+  },
+  {
+    "word": "rapprocher",
+    "translation": "hier: einander näher bringen"
+  },
+  {
+    "word": "le citoyen",
+    "translation": "der Bürger"
+  },
+  {
+    "word": "la citoyenne",
+    "translation": "die Bürgerin"
+  },
+  {
+    "word": "le gouvernement",
+    "translation": "die Regierung"
+  },
+  {
+    "word": "grâce à",
+    "translation": "dank"
+  },
+  {
+    "word": "faire la connaissance de",
+    "translation": "kennenlernen"
+  },
+  {
+    "word": "le jumelage",
+    "translation": "die (Städte-)Partnerschaft"
+  },
+  {
+    "word": "la réalité",
+    "translation": "die Realität"
+  },
+  {
+    "word": "le prénom",
+    "translation": "der Vorname"
+  },
+  {
+    "word": "la profession",
+    "translation": "Beruf"
+  },
+  {
+    "word": "l’homme politique",
+    "translation": "der Politiker"
+  },
+  {
+    "word": "la femme politique",
+    "translation": "die Politikerin"
+  },
+  {
+    "word": "la carrière",
+    "translation": "die Karriere, die Laufbahn"
+  },
+  {
+    "word": "le maire",
+    "translation": "der Bürgermeister"
+  },
+  {
+    "word": "le nazisme",
+    "translation": "der Nationalsozialismus"
+  },
+  {
+    "word": "le général",
+    "translation": "der General"
+  },
+  {
+    "word": "le regard",
+    "translation": "der Blick"
+  },
+  {
+    "word": "le traité",
+    "translation": "der Vertrag"
+  },
+  {
+    "word": "partager",
+    "translation": "teilen, etw. aufteilen"
+  },
+  {
+    "word": "l’Empire",
+    "add": "m.",
+    "translation": "das Kaiserreich"
+  },
+  {
+    "word": "provisoire",
+    "translation": "vorläufig, provisorisch"
+  },
+  {
+    "word": "confondre",
+    "translation": "verwechseln"
+  },
+  {
+    "word": "avoir honte de",
+    "translation": "sich schämen für"
+  },
+  {
+    "word": "l’erreur",
+    "add": "f.",
+    "translation": "der Irrtum, der Fehler"
+  },
+  {
+    "word": "annoncer",
+    "translation": "ankündigen, etw. mitteilen"
+  },
+  {
+    "word": "l’épreuve",
+    "add": "f.",
+    "translation": "die Prüfung"
+  },
+  {
+    "word": "pratiquer",
+    "translation": "praktizieren, ausüben"
+  },
+  {
+    "word": "révoquer",
+    "translation": "etw. widerrufen"
+  },
+  {
+    "word": "le choc",
+    "translation": "der Schock"
+  },
+  {
+    "word": "le soldat",
+    "translation": "der Soldat"
+  },
+  {
+    "word": "convertir",
+    "translation": "bekehren"
+  },
+  {
+    "word": "l’horreur f.",
+    "translation": "der Schrecken, das Grauen"
+  },
+  {
+    "word": "l’incendie",
+    "add": "m.",
+    "translation": "der Brand"
+  },
+  {
+    "word": "l’imprimerie",
+    "add": "f.",
+    "translation": "die Druckerei"
+  },
+  {
+    "word": "le drame",
+    "translation": "das Drama"
+  },
+  {
+    "word": "l’exil",
+    "add": "m.",
+    "translation": "das Exil"
+  },
+  {
+    "word": "se cacher",
+    "translation": "sich verstecken"
+  },
+  {
+    "word": "hélas",
+    "translation": "leider"
+  },
+  {
+    "word": "le réfugié",
+    "translation": "der Flüchtling"
+  },
+  {
+    "word": "financier",
+    "add": "m.",
+    "translation": "finanziell (männlich)"
+  },
+  {
+    "word": "financière",
+    "add": "f.",
+    "translation": "finanziell (weiblich)"
+  },
+  {
+    "word": "la lettre",
+    "translation": "der Brief"
+  },
+  {
+    "word": "le dieu",
+    "translation": "der Gott"
+  },
+  {
+    "word": "le neveu",
+    "translation": "der Neffe"
+  },
+  {
+    "word": "la nièce",
+    "translation": "die Nichte"
+  },
+  {
+    "word": "programmé",
+    "translation": "vorprogrammiert"
+  },
+  {
+    "word": "mettre fin à",
+    "translation": "beenden"
+  },
+  {
+    "word": "la religion",
+    "translation": "die Religion"
+  },
+  {
+    "word": "la paix",
+    "translation": "der Frieden"
+  },
+  {
+    "word": "la révocation",
+    "translation": "die Widerrufung"
+  },
+  {
+    "word": "envahir",
+    "translation": "einfallen in"
+  },
+  {
+    "word": "la partie",
+    "translation": "der Teil"
+  },
+  {
+    "word": "l’ennemi",
+    "add": "m.",
+    "translation": "der Feind"
+  },
+  {
+    "word": "la réconciliation",
+    "translation": "die Versöhnung"
+  },
+  {
+    "word": "sembler",
+    "translation": "scheinen"
+  },
+  {
+    "word": "impossible",
+    "translation": "unmöglich"
+  },
+  {
+    "word": "le président",
+    "translation": "der Präsident"
+  },
+  {
+    "word": "le chancelier",
+    "translation": "der Kanzler"
+  },
+  {
+    "word": "la publicité",
+    "translation": "die Werbung, die Anzeige, der Werbespot"
+  },
+  {
+    "word": "manipuler",
+    "translation": "manipulieren"
+  },
+  {
+    "word": "fonctionner",
+    "translation": "funktionieren, arbeiten"
+  },
+  {
+    "word": "décoder",
+    "translation": "dekodieren, entschlüsseln; hier: durchschauen"
+  },
+  {
+    "word": "en haut",
+    "translation": "oben, nach oben"
+  },
+  {
+    "word": "l’attention",
+    "add": "f.",
+    "translation": "die Aufmerksamkeit"
+  },
+  {
+    "word": "le consommateur",
+    "translation": "der Verbraucher, der Konsument"
+  },
+  {
+    "word": "la consommatrice",
+    "translation": "die Verbraucherin, die Konsumentin"
+  },
+  {
+    "word": "suggérer",
+    "translation": "andeuten"
+  },
+  {
+    "word": "polluer",
+    "translation": "verschmutzen"
+  },
+  {
+    "word": "l’environnement",
+    "add": "m.",
+    "translation": "die Umwelt"
+  },
+  {
+    "word": "végétal",
+    "add": "m.",
+    "translation": "pflanzlich"
+  },
+  {
+    "word": "végétaux",
+    "add": "m.pl.",
+    "translation": "pflanzliche"
+  },
+  {
+    "word": "le sous-titre",
+    "translation": "der Untertitel"
+  },
+  {
+    "word": "en bas",
+    "translation": "unten, nach unten"
+  },
+  {
+    "word": "le composant",
+    "translation": "der Bestandteil, die Komponente"
+  },
+  {
+    "word": "se servir de",
+    "translation": "benutzen"
+  },
+  {
+    "word": "le label",
+    "translation": "das Label, die Marke"
+  },
+  {
+    "word": "réel",
+    "add": "m.",
+    "translation": "echt, real (männlich)"
+  },
+  {
+    "word": "réelle",
+    "add": "f.",
+    "translation": "echt, real (weiblich)"
+  },
+  {
+    "word": "faux",
+    "add": "m.",
+    "translation": "falsch (männlich)"
+  },
+  {
+    "word": "fausse",
+    "add": "f.",
+    "translation": "falsch (weiblich)"
+  },
+  {
+    "word": "convaincre",
+    "translation": "überzeugen"
+  },
+  {
+    "word": "écologique",
+    "translation": "umweltfreundlich, ökologisch"
+  },
+  {
+    "word": "la pratique",
+    "translation": "die Praktik, die Praxis"
+  },
+  {
+    "word": "l’écoloblanchiment",
+    "add": "m.",
+    "translation": "das Greenwashing"
+  },
+  {
+    "word": "l’élément",
+    "add": "m.",
+    "translation": "das Element"
+  },
+  {
+    "word": "le ciel",
+    "translation": "der Himmel"
+  },
+  {
+    "word": "la pollution",
+    "translation": "die Umweltverschmutzung"
+  },
+  {
+    "word": "le développement durable",
+    "translation": "die Nachhaltigkeit"
+  },
+  {
+    "word": "la société",
+    "translation": "die Gesellschaft"
+  },
+  {
+    "word": "équitable",
+    "translation": "gerecht"
+  },
+  {
+    "word": "évoquer",
+    "translation": "erinnern"
+  },
+  {
+    "word": "le bien-être",
+    "translation": "das Wohlbefinden"
+  },
+  {
+    "word": "l’harmonie",
+    "add": "f.",
+    "translation": "die Harmonie, der Einklang"
+  },
+  {
+    "word": "associer",
+    "add": "qn/qc à qc",
+    "translation": "jdn/etw. mit etw. verbinden"
+  },
+  {
+    "word": "la protection",
+    "translation": "der Schutz"
+  },
+  {
+    "word": "l’écolabel",
+    "add": "m.",
+    "translation": "das Ökolabel"
+  },
+  {
+    "word": "la répétition",
+    "translation": "die Wiederholung"
+  },
+  {
+    "word": "le détail",
+    "translation": "das Detail, die Einzelheit"
+  },
+  {
+    "word": "le premier plan",
+    "translation": "der Vordergrund"
+  },
+  {
+    "word": "le pré",
+    "translation": "die Wiese"
+  },
+  {
+    "word": "l’arrière-plan",
+    "add": "m.",
+    "translation": "der Hintergrund"
+  },
+  {
+    "word": "le volcan",
+    "translation": "der Vulkan"
+  },
+  {
+    "word": "la source",
+    "translation": "die Quelle, der Ursprung"
+  },
+  {
+    "word": "faire partie de",
+    "translation": "zu etw. gehören, Teil sein von etw."
+  },
+  {
+    "word": "l’engagement",
+    "add": "m.",
+    "translation": "das Engagement, die Verpflichtung"
+  },
+  {
+    "word": "l’écologie",
+    "add": "f.",
+    "translation": "die Ökologie"
+  },
+  {
+    "word": "le slogan",
+    "translation": "der Slogan"
+  },
+  {
+    "word": "ironique",
+    "translation": "ironisch"
+  },
+  {
+    "word": "l’association",
+    "add": "f.",
+    "translation": "die Organisation, der Verein"
+  },
+  {
+    "word": "dénoncer",
+    "translation": "anprangern, denunzieren"
+  },
+  {
+    "word": "sensibiliser",
+    "translation": "jdn sensibilisieren"
+  },
+  {
+    "word": "provoquer",
+    "translation": "jdn/etw. herausfordern, provozieren"
+  },
+  {
+    "word": "à la carte",
+    "translation": "nach Wahl / à la carte"
+  },
+  {
+    "word": "suivant",
+    "translation": "folgend / nächster"
+  },
+  {
+    "word": "le bon plan",
+    "translation": "der gute Tipp"
+  },
+  {
+    "word": "prestigieux",
+    "add": "m.",
+    "translation": "angesehen / prestigeträchtig"
+  },
+  {
+    "word": "prestigieuse",
+    "add": "f.",
+    "translation": "angesehen / prestigeträchtig"
+  },
+  {
+    "word": "situé",
+    "add": "m.",
+    "translation": "gelegen"
+  },
+  {
+    "word": "bronzer",
+    "translation": "sich sonnen / bräunen"
+  },
+  {
+    "word": "le sable",
+    "translation": "der Sand"
+  },
+  {
+    "word": "conseiller",
+    "translation": "empfehlen"
+  },
+  {
+    "word": "le circuit",
+    "translation": "die Rundreise / die Strecke"
+  },
+  {
+    "word": "le randonneur",
+    "translation": "der Wanderer"
+  },
+  {
+    "word": "la randonneuse",
+    "translation": "die Wanderin"
+  },
+  {
+    "word": "à la maison",
+    "translation": "zu Hause"
+  },
+  {
+    "word": "la maison",
+    "translation": "das Haus"
+  },
+  {
+    "word": "chez moi",
+    "translation": "bei mir"
+  },
+  {
+    "word": "chez",
+    "translation": "bei"
+  },
+  {
+    "word": "un",
+    "translation": "ein (männlich)"
+  },
+  {
+    "word": "une",
+    "translation": "eine (weiblich)"
+  },
+  {
+    "word": "l'armoire",
+    "add": "f.",
+    "translation": "der Schrank"
+  },
+  {
+    "word": "des",
+    "translation": "Pluralartikel (einige)"
+  },
+  {
+    "word": "le livre",
+    "translation": "das Buch"
+  },
+  {
+    "word": "la lampe",
+    "translation": "die Lampe"
+  },
+  {
+    "word": "l'étagère",
+    "translation": "das Regal"
+  },
+  {
+    "word": "le lit",
+    "translation": "das Bett"
+  },
+  {
+    "word": "la chaise",
+    "translation": "der Stuhl"
+  },
+  {
+    "word": "ma chambre",
+    "translation": "mein Zimmer"
+  },
+  {
+    "word": "la chambre",
+    "translation": "das Zimmer"
+  },
+  {
+    "word": "il y a",
+    "translation": "es gibt"
+  },
+  {
+    "word": "le poster",
+    "translation": "das Poster"
+  },
+  {
+    "word": "la photo",
+    "translation": "das Foto"
+  },
+  {
+    "word": "partout",
+    "translation": "überall"
+  },
+  {
+    "word": "le coin musique",
+    "translation": "die Musikecke"
+  },
+  {
+    "word": "le coin",
+    "translation": "die Ecke"
+  },
+  {
+    "word": "la musique",
+    "translation": "die Musik"
+  },
+  {
+    "word": "la guitare",
+    "translation": "die Gitarre"
+  },
+  {
+    "word": "le CD",
+    "translation": "die CD"
+  },
+  {
+    "word": "l'ordinateur",
+    "add": "m.",
+    "translation": "der Computer"
+  },
+  {
+    "word": "le hamac",
+    "translation": "die Hängematte"
+  },
+  {
+    "word": "la table",
+    "translation": "der Tisch"
+  },
+  {
+    "word": "la bédé",
+    "translation": "der Comic"
+  },
+  {
+    "word": "la collection",
+    "translation": "die Sammlung"
+  },
+  {
+    "word": "la figurine",
+    "translation": "die Figur"
+  },
+  {
+    "word": "Qu'est-ce qu'il y a?",
+    "translation": "Was gibt es?"
+  },
+  {
+    "word": "Qu'est-ce que?",
+    "translation": "Was?"
+  },
+  {
+    "word": "encore",
+    "translation": "noch"
+  },
+  {
+    "word": "la géo",
+    "translation": "die Geografie"
+  },
+  {
+    "word": "la pierre",
+    "translation": "der Stein"
+  },
+  {
+    "word": "le globe",
+    "translation": "der Globus"
+  },
+  {
+    "word": "la diversité",
+    "translation": "die Vielfalt"
+  },
+  {
+    "word": "le racisme",
+    "translation": "der Rassismus"
+  },
+  {
+    "word": "les propos",
+    "add": "m. pl.",
+    "translation": "die Äußerungen / Worte"
+  },
+  {
+    "word": "raciste",
+    "translation": "rassistisch"
+  },
+  {
+    "word": "tolérant",
+    "add": "m.",
+    "translation": "tolerant"
+  },
+  {
+    "word": "rejeter",
+    "translation": "zurückweisen / ablehnen"
+  },
+  {
+    "word": "l'apparence",
+    "add": "f.",
+    "translation": "das Aussehen / der Schein"
+  },
+  {
+    "word": "le préjugé",
+    "translation": "das Vorurteil"
+  },
+  {
+    "word": "la nationalité",
+    "translation": "die Staatsangehörigkeit / Nationalität"
+  },
+  {
+    "word": "quitter",
+    "translation": "verlassen"
+  },
+  {
+    "word": "fuir la misère",
+    "translation": "dem Elend entfliehen"
+  },
+  {
+    "word": "représenter",
+    "translation": "darstellen / repräsentieren"
+  },
+  {
+    "word": "la tolérance",
+    "translation": "die Toleranz"
+  },
+  {
+    "word": "l'espoir",
+    "add": "m.",
+    "translation": "die Hoffnung"
+  },
+  {
+    "word": "parmi",
+    "translation": "unter / zwischen"
+  },
+  {
+    "word": "le lien",
+    "translation": "die Verbindung / Beziehung"
+  },
+  {
+    "word": "souffrir de",
+    "translation": "an etw. leiden"
+  },
+  {
+    "word": "simple",
+    "translation": "einfach"
+  },
+  {
+    "word": "égal",
+    "add": "m.",
+    "translation": "gleich"
+  },
+  {
+    "word": "égaux",
+    "add": "m. pl.",
+    "translation": "gleich (Plural)"
+  },
+  {
+    "word": "la valise",
+    "translation": "der Koffer"
+  },
+  {
+    "word": "la poche",
+    "translation": "die Tasche / Hosentasche"
+  },
+  {
+    "word": "le héros",
+    "translation": "der Held"
+  },
+  {
+    "word": "l'héroïne",
+    "add": "f.",
+    "translation": "die Heldin"
+  },
+  {
+    "word": "la paix",
+    "translation": "der Frieden"
+  },
+  {
+    "word": "les environs",
+    "add": "m. pl.",
+    "translation": "die Umgebung"
+  },
+  {
+    "word": "l'encyclopédie",
+    "add": "f.",
+    "translation": "die Enzyklopädie"
+  },
+  {
+    "word": "la cabane",
+    "translation": "die Hütte"
+  },
+  {
+    "word": "l'œuvre d'art",
+    "add": "f.",
+    "translation": "das Kunstwerk"
+  },
+  {
+    "word": "l'horreur",
+    "add": "f.",
+    "translation": "der Schrecken / der Horror"
+  },
+  {
+    "word": "le trafic",
+    "translation": "der Verkehr / der Handel"
+  },
+  {
+    "word": "extraordinaire",
+    "translation": "außergewöhnlich"
+  },
+  {
+    "word": "tomber amoureux",
+    "add": "m.",
+    "translation": "sich verlieben (m.)"
+  },
+  {
+    "word": "tomber amoureuse",
+    "add": "f.",
+    "translation": "sich verlieben (f.)"
+  },
+  {
+    "word": "l'adolescent",
+    "add": "m.",
+    "translation": "der Jugendliche"
+  },
+  {
+    "word": "l'illustration",
+    "add": "f.",
+    "translation": "die Illustration"
+  },
+  {
+    "word": "élégant",
+    "translation": "elegant"
+  },
+  {
+    "word": "romantique",
+    "translation": "romantisch"
+  },
+  {
+    "word": "à bord",
+    "translation": "an Bord"
+  },
+  {
+    "word": "le prisonnier",
+    "translation": "der Gefangene"
+  },
+  {
+    "word": "mystérieux",
+    "add": "m.",
+    "translation": "mysteriös"
+  },
+  {
+    "word": "simplement",
+    "translation": "einfach / lediglich"
+  },
+  {
+    "word": "entier",
+    "add": "m.",
+    "translation": "ganz (männlich)"
+  },
+  {
+    "word": "entière",
+    "add": "f.",
+    "translation": "ganz (weiblich)"
+  },
+  {
+    "word": "la dédicace",
+    "translation": "die Widmung"
+  },
+  {
+    "word": "précis",
+    "translation": "genau / präzise"
+  },
+  {
+    "word": "le regard",
+    "translation": "der Blick"
+  },
+  {
+    "word": "le visiteur",
+    "translation": "der Besucher"
+  },
+  {
+    "word": "assister à",
+    "translation": "an etw. teilnehmen / etw. beiwohnen"
+  },
+  {
+    "word": "déguisé",
+    "add": "m.",
+    "translation": "verkleidet (männlich)"
+  },
+  {
+    "word": "déguisée",
+    "add": "f.",
+    "translation": "verkleidet (weiblich)"
+  },
+  {
+    "word": "le public",
+    "translation": "das Publikum"
+  },
+  {
+    "word": "remettre",
+    "translation": "überreichen"
+  },
+  {
+    "word": "récompenser",
+    "translation": "belohnen / auszeichnen"
+  },
+  {
+    "word": "grâce",
+    "add": "à",
+    "translation": "dank"
+  },
+  {
+    "word": "la production",
+    "translation": "die Produktion"
+  },
+  {
+    "word": "au cours de",
+    "translation": "im Laufe von"
+  },
+  {
+    "word": "la tranche d'âge",
+    "translation": "die Altersgruppe"
+  },
+  {
+    "word": "en moyenne",
+    "translation": "durchschnittlich / im Durchschnitt"
+  },
+  {
+    "word": "fonctionner",
+    "translation": "funktionieren"
+  },
+  {
+    "word": "la case",
+    "translation": "das Kästchen / Feld"
+  },
+  {
+    "word": "représenter",
+    "translation": "darstellen / repräsentieren"
+  },
+  {
+    "word": "l'inverse",
+    "add": "m.",
+    "translation": "das Gegenteil"
+  },
+  {
+    "word": "l'effet",
+    "add": "m.",
+    "translation": "die Wirkung / der Effekt"
+  },
+  {
+    "word": "selon",
+    "translation": "gemäß / laut"
+  },
+  {
+    "word": "généralement",
+    "translation": "im Allgemeinen"
+  },
+  {
+    "word": "le système",
+    "translation": "das System"
+  },
+  {
+    "word": "on s'y tient",
+    "translation": "man hält sich daran"
+  },
+  {
+    "word": "la rupture",
+    "translation": "der Bruch / die Trennung"
+  },
+  {
+    "word": "le malaise",
+    "translation": "das Unbehagen / Unwohlsein"
+  },
+  {
+    "word": "la richesse",
+    "translation": "der Reichtum"
+  },
+  {
+    "word": "fondamental",
+    "add": "m.",
+    "translation": "grundlegend"
+  },
+  {
+    "word": "fondamentaux",
+    "add": "m. pl.",
+    "translation": "grundlegende (Plural)"
+  },
+  {
+    "word": "intégré à",
+    "translation": "in etw. integriert"
+  },
+  {
+    "word": "horrible",
+    "translation": "schrecklich"
+  },
+  {
+    "word": "la lettre",
+    "translation": "der Brief / der Buchstabe"
+  },
+  {
+    "word": "enregistrer",
+    "translation": "etw. aufnehmen / erfassen"
+  },
+  {
+    "word": "faire croire que",
+    "translation": "glauben machen, dass ..."
+  },
+  {
+    "word": "épais",
+    "translation": "dick"
+  },
+  {
+    "word": "faire ressortir",
+    "translation": "etw. hervorheben"
+  },
+  {
+    "word": "doucement",
+    "translation": "sanft / leise / langsam"
+  },
+  {
+    "word": "lisible",
+    "translation": "lesbar"
+  },
+  {
+    "word": "s'appliquer",
+    "translation": "sich bemühen / sorgfältig arbeiten"
+  },
+  {
+    "word": "contrairement à",
+    "translation": "im Gegensatz zu"
+  },
+  {
+    "word": "la complication",
+    "translation": "die Komplikation"
+  },
+  {
+    "word": "la salle de bains",
+    "translation": "das Badezimmer"
+  },
+  {
+    "word": "maman",
+    "translation": "Mama"
+  },
+  {
+    "word": "où",
+    "translation": "wo"
+  },
+  {
+    "word": "le shampoing",
+    "translation": "das Shampoo"
+  },
+  {
+    "word": "sur",
+    "translation": "auf"
+  },
+  {
+    "word": "à droite",
+    "translation": "rechts"
+  },
+  {
+    "word": "la cuisine",
+    "translation": "die Küche"
+  },
+  {
+    "word": "le biscuit",
+    "translation": "der Keks"
+  },
+  {
+    "word": "le placard",
+    "translation": "der Schrank"
+  },
+  {
+    "word": "à gauche",
+    "translation": "links"
+  },
+  {
+    "word": "le couloir",
+    "translation": "der Flur"
+  },
+  {
+    "word": "papa",
+    "translation": "Papa"
+  },
+  {
+    "word": "la clé",
+    "translation": "der Schlüssel"
+  },
+  {
+    "word": "l'appartement",
+    "add": "m.",
+    "translation": "die Wohnung"
+  },
+  {
+    "word": "devant",
+    "translation": "vor"
+  },
+  {
+    "word": "derrière",
+    "translation": "hinter"
+  },
+  {
+    "word": "sous",
+    "translation": "unter"
+  },
+  {
+    "word": "la salle de séjour",
+    "translation": "das Wohnzimmer"
+  },
+  {
+    "word": "la télécommande",
+    "translation": "die Fernbedienung"
+  },
+  {
+    "word": "entre",
+    "translation": "zwischen"
+  },
+  {
+    "word": "la télé",
+    "translation": "der Fernseher"
+  }
+]
