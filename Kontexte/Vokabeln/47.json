@@ -1,0 +1,202 @@
+[
+  {
+    "word": "la légende",
+    "translation": "die Legende"
+  },
+  {
+    "word": "le marchand",
+    "translation": "der Händler"
+  },
+  {
+    "word": "la cage",
+    "translation": "der Käfig"
+  },
+  {
+    "word": "se souvenir de qn/qc",
+    "translation": "sich an jdn/etw. erinnern"
+  },
+  {
+    "word": "se passer",
+    "translation": "geschehen, spielen"
+  },
+  {
+    "word": "jeune",
+    "add": "m./f.",
+    "translation": "jung"
+  },
+  {
+    "word": "l’homme",
+    "add": "m.",
+    "translation": "der Mann, der Mensch"
+  },
+  {
+    "word": "les hommes",
+    "add": "m.",
+    "translation": "die Menschen"
+  },
+  {
+    "word": "s’appeler",
+    "translation": "heißen"
+  },
+  {
+    "word": "vendre",
+    "translation": "verkaufen"
+  },
+  {
+    "word": "l’oiseau",
+    "add": "m.",
+    "translation": "der Vogel"
+  },
+  {
+    "word": "les oiseaux",
+    "add": "m. pl.",
+    "translation": "die Vögel"
+  },
+  {
+    "word": "le marché",
+    "translation": "der Markt"
+  },
+  {
+    "word": "pauvre",
+    "add": "m./f.",
+    "translation": "arm"
+  },
+  {
+    "word": "le printemps",
+    "translation": "der Frühling"
+  },
+  {
+    "word": "se poser",
+    "translation": "sich niederlassen"
+  },
+  {
+    "word": "offrir",
+    "translation": "schenken, anbieten"
+  },
+  {
+    "word": "intéresser",
+    "translation": "interessieren"
+  },
+  {
+    "word": "heureux",
+    "add": "m.",
+    "translation": "glücklich (männlich)"
+  },
+  {
+    "word": "heureuse",
+    "add": "f.",
+    "translation": "glücklich (weiblich)"
+  },
+  {
+    "word": "riche",
+    "add": "m./f.",
+    "translation": "reich"
+  },
+  {
+    "word": "s’énerver",
+    "translation": "sich aufregen"
+  },
+  {
+    "word": "être capable",
+    "add": "de + inf.",
+    "translation": "fähig sein, etw. zu tun"
+  },
+  {
+    "word": "ouvrir",
+    "translation": "öffnen"
+  },
+  {
+    "word": "s’envoler",
+    "translation": "davonfliegen"
+  },
+  {
+    "word": "bien d’autres choses",
+    "translation": "noch viel mehr"
+  },
+  {
+    "word": "disparaître",
+    "translation": "verschwinden"
+  },
+  {
+    "word": "cela",
+    "translation": "das"
+  },
+  {
+    "word": "le mariage",
+    "translation": "die Hochzeit"
+  },
+  {
+    "word": "l’invité",
+    "add": "m.",
+    "translation": "der Gast"
+  },
+  {
+    "word": "le musicien",
+    "translation": "der Musiker"
+  },
+  {
+    "word": "la musicienne",
+    "translation": "die Musikerin"
+  },
+  {
+    "word": "le marié",
+    "translation": "der Bräutigam"
+  },
+  {
+    "word": "la mariée",
+    "translation": "die Braut"
+  },
+  {
+    "word": "la scène",
+    "translation": "die Szene"
+  },
+  {
+    "word": "la proposition",
+    "translation": "der Vorschlag"
+  },
+  {
+    "word": "échanger qc contre qc",
+    "translation": "etw. gegen etw. tauschen"
+  },
+  {
+    "word": "magique",
+    "add": "m./f.",
+    "translation": "magisch"
+  },
+  {
+    "word": "furieux",
+    "add": "m.",
+    "translation": "wütend (männlich)"
+  },
+  {
+    "word": "furieuse",
+    "add": "f.",
+    "translation": "wütend (weiblich)"
+  },
+  {
+    "word": "épouser",
+    "add": "qn",
+    "translation": "jdn heiraten"
+  },
+  {
+    "word": "l’œil",
+    "add": "m. sg.",
+    "translation": "das Auge"
+  },
+  {
+    "word": "les yeux",
+    "add": "m. pl.",
+    "translation": "die Augen"
+  },
+  {
+    "word": "les cheveux",
+    "add": "m. pl.",
+    "translation": "die Haare"
+  },
+  {
+    "word": "l’or",
+    "add": "m.",
+    "translation": "das Gold"
+  }
+
+]

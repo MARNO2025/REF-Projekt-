@@ -1,0 +1,183 @@
+[
+  {
+    "word": "il faut",
+    "add": "+ infinitif",
+    "translation": "man muss, wir müssen"
+  },
+  {
+    "word": "il ne faut pas",
+    "add": "+ infinitif",
+    "translation": "man darf, sollte nicht"
+  },
+  {
+    "word": "exagérer",
+    "translation": "übertreiben"
+  },
+  {
+    "word": "avoir raison",
+    "translation": "recht haben"
+  },
+  {
+    "word": "confisquer",
+    "add": "qc",
+    "translation": "jdm etw. wegnehmen"
+  },
+  {
+    "word": "trouver",
+    "add": "que",
+    "translation": "finden, dass"
+  },
+  {
+    "word": "rappeler",
+    "add": "qn",
+    "translation": "jdn zurückrufen"
+  },
+  {
+    "word": "le téléphone",
+    "translation": "das Telefon"
+  },
+  {
+    "word": "À table!",
+    "translation": "Essen!, Zu Tisch!"
+  },
+  {
+    "word": "la note",
+    "translation": "die Note"
+  },
+  {
+    "word": "catastrophique",
+    "translation": "katastrophal"
+  },
+  {
+    "word": "dernier",
+    "add": "m.",
+    "translation": "letzter"
+  },
+  {
+    "word": "dernière",
+    "add": "f.", 
+    "translation": "letzte"
+  },
+  {
+    "word": "vrai",
+    "add": "m.",
+    "translation": "richtig, wahr (männlich)"
+  },
+  {
+    "word": "vraie",
+    "add": "w.",
+    "translation": "richtig, wahr (weiblich)"
+  },
+
+  {
+    "word": "dire",
+    "add": "qc (à qn)",
+    "translation": "(jdm) etw. sagen"
+  },
+  {
+    "word": "passer son temps",
+    "add": "à + infinitif",
+    "translation": "die ganze Zeit etw. tun"
+  },
+  {
+    "word": "envoyer",
+    "add": "qc (à qn)",
+    "translation": "(jdm) etw. schicken"
+  },
+  {
+    "word": "être privé",
+    "add": "de qc",
+    "translation": "Verbot haben"
+  },
+  {
+    "word": "la discussion",
+    "translation": "die Diskussion"
+  },
+  {
+    "word": "reparler",
+    "add": "de qc à qn",
+    "translation": "noch einmal mit jdm über etw. sprechen"
+  },
+  {
+    "word": "penser que",
+    "translation": "denken, dass"
+  },
+  {
+    "word": "le meilleur",
+    "add": "m.",
+    "translation": "der beste"
+  },
+  {
+    "word": "la meilleure",
+    "add": "w.", 
+    "translation": "die beste"
+  },
+  {
+    "word": "la solution",
+    "translation": "die Lösung"
+  },
+  {
+    "word": "essayer",
+    "add": "qc",
+    "translation": "(etw.) versuchen, (an)probieren"
+  },
+  {
+    "word": "à mon avis",
+    "translation": "meiner Meinung nach"
+  },
+  {
+    "word": "l’avis",
+    "add": "m.",
+    "translation": "die Meinung"
+  },
+  {
+    "word": "grave",
+    "add": "m./f.",
+    "translation": "ernst, schlimm"
+  },
+  {
+    "word": "terrible",
+    "add": "m./f.", 
+    "translation": "furchtbar"
+  },
+  {
+    "word": "baisser les bras",
+    "translation": "aufgeben"
+  },
+  {
+    "word": "le bras",
+    "translation": "der Arm"
+  },
+  {
+    "word": "l’argument",
+    "add": "m.",
+    "translation": "das Argument"
+  },
+  {
+    "word": "récupérer",
+    "add": "qc",
+    "translation": "etw. zurückbekommen"
+  },
+  {
+    "word": "Bonne chance!",
+    "translation": "Viel Glück!"
+  },
+  {
+    "word": "la chance",
+    "translation": "das Glück, die Chance"
+  },
+  {
+    "word": "peut-être",
+    "translation": "vielleicht"
+  },
+  {
+    "word": "limiter",
+    "add": "qc",
+    "translation": "etw. beschränken, begrenzen"
+  },
+  {
+    "word": "l’appel",
+    "add": "m.",
+    "translation": "der Anruf"
+  }
+]

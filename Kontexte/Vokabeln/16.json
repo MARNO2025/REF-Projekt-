@@ -1,0 +1,96 @@
+[
+  {
+    "word": "la question",
+    "translation": "die Frage"
+  },
+  {
+    "word": "Est-ce que je peux",
+    "add": "+ inf.",
+    "translation": "Darf ich + Infinitiv?"
+  },
+  {
+    "word": "l'exercice",
+    "add": "m.", 
+    "translation": "die Übung"
+  },
+  {
+    "word": "Je n'ai pas mes devoirs.",
+    "translation": "Ich habe meine Hausaufgaben nicht."
+  },
+  {
+    "word": "C'est juste?",
+    "translation": "Ist das richtig?"
+  },
+  {
+    "word": "On travaille ensemble?",
+    "translation": "Arbeiten wir zusammen?"
+  },
+  {
+    "word": "d'accord",
+    "translation": "einverstanden"
+  },
+  {
+    "word": "Qu'est-ce que ça veut dire?",
+    "translation": "Was heißt das?"
+  },
+  {
+    "word": "Ça veut dire",
+    "translation": "Das heißt"
+  },
+  {
+    "word": "Qui commence?",
+    "translation": "Wer fängt an?"
+  },
+  {
+    "word": "Qui note?",
+    "translation": "Wer schreibt auf?"
+  },
+  {
+    "word": "lundi",
+    "translation": "Montag"
+  },
+  {
+    "word": "mardi",
+    "translation": "Dienstag"
+  },
+  {
+    "word": "mercredi",
+    "translation": "Mittwoch"
+  },
+  {
+    "word": "jeudi",
+    "translation": "Donnerstag"
+  },
+  {
+    "word": "vendredi",
+    "translation": "Freitag"
+  },
+  {
+    "word": "samedi",
+    "translation": "Samstag"
+  },
+  {
+    "word": "dimanche",
+    "translation": "Sonntag"
+  },
+  {
+    "word": "Tu es libre aujourd'hui?",
+    "translation": "Bist du heute frei?"
+  },
+  {
+    "word": "aujourd'hui",
+    "translation": "heute"
+  },
+  {
+    "word": "Tu as le temps aujourd'hui?",
+    "translation": "Hast du heute Zeit?"
+  },
+  {
+    "word": "le temps",
+    "translation": "die Zeit"
+  },
+  {
+    "word": "si ça te dit",
+    "translation": "wenn du Lust hast"
+  }
+]
