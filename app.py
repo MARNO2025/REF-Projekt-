@@ -294,7 +294,7 @@ with tab_kontexte:
 
         if st.button("Hinzufügen", key="add_kontext_vocab"):
             if search_term:
-                vocab_all_path = os.path.join(vocab_folder, "zusammengeführt.json")
+                vocab_all_path = os.path.join(vocab_folder, "Wörterbuch.json")
                 vocab_all_data = load_json(vocab_all_path)
 
                 filtered = [
@@ -408,7 +408,7 @@ with tab_kontexteundLernstand:
     num = st.slider(
         "Wähle die Anzahl der Lernstände",
         min_value=1,
-        max_value=10,
+        max_value=79,
         value=1,
         step=1,
         key="kl_lernstand_slider"
@@ -451,7 +451,7 @@ with tab_kontexteundLernstand:
         if search_term:
             vocab_all_path = os.path.join(
                 vocab_folder,
-                "zusammengeführt.json"
+                "Wörterbuch.json"
             )
             vocab_all_data = load_json(vocab_all_path)
 
@@ -566,5 +566,6 @@ with tab_kontexteundLernstand:
             )
 
     
+
 
 
