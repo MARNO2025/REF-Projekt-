@@ -39,8 +39,8 @@ def load_json(path):
 # Streamlit Setup
 # -----------------------------
 st.title("Bonjour")
-tab_diff, tab_verben, tab_vokabeln, tab_kontexte, tab_kontexteundLernstand = st.tabs([
-    "Differenzierungsmöglichkeiten", "wichtige Verben", "Vokabeln", "Kontexte", "Kontexte & Lernstand"
+tab_diff, tab_verben, tab_vokabeln, tab_kontexte = st.tabs([
+    "Differenzierungsmöglichkeiten", "wichtige Verben", "Vokabeln", "Kontexte"
 ])
 
 # ========================
@@ -380,7 +380,7 @@ with tab_kontexte:
 # ========================
 # 5️⃣ Kontexte & Lernstand
 # ========================
-with tab_kontexteundLernstand:
+#with tab_kontexteundLernstand:
     st.header("Kontexte & Lernstand")
 
     # --------------------------------------------------
@@ -565,3 +565,4 @@ with tab_kontexteundLernstand:
             )
 
     
+
