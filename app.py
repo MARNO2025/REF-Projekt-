@@ -408,7 +408,7 @@ with tab_kontexteundLernstand:
     num = st.slider(
         "Wähle die Anzahl der Lernstände",
         min_value=1,
-        max_value=79,
+        max_value=81,
         value=1,
         step=1,
         key="kl_lernstand_slider"
@@ -566,6 +566,7 @@ with tab_kontexteundLernstand:
             )
 
     
+
 
 
 
