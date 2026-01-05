@@ -8,11 +8,11 @@
     "translation": "der Eindruck"
   },
   {
-    "word": "accueillir qn",
-    "translation": "jdn empfangen, aufnehmen"
+    "word": "accueillir",
+    "translation": "empfangen, aufnehmen"
   },
   {
-    "word": "sénégalais/sénégalaise",
+    "word": "sénégalais",
     "translation": "senegalesisch"
   },
   {
@@ -48,16 +48,16 @@
     "translation": "handeln, verhandeln"
   },
   {
-    "word": "être pressé/pressée",
+    "word": "être pressé",
     "translation": "es eilig haben"
   },
    {
-    "word": "passer pour qn/qc",
+    "word": "passer pour",
     "translation": "für jdn/etw. gehalten werden"
   },
   {
-    "word": "jeter qc",
-    "translation": "etw. (weg)werfen"
+    "word": "jeter",
+    "translation": "(weg)werfen"
   },
   {
     "word": "les déchets",
@@ -84,8 +84,12 @@
     "translation": "der Kampf, das Ringen"
   },
   {
-    "word": "traditionnel/traditionnelle",
-    "translation": "traditionell"
+    "word": "traditionnel",
+    "translation": "traditionell (männlich)"
+  },
+  {
+    "word": "traditionnelle",
+    "translation": "traditionell (weiblich)"
   },
   {
     "word": "dont",
