@@ -54,6 +54,7 @@
     "word": "végétaux",
     "add": "m.pl.", 
     "translation": "pflanzliche"
+  },
   {
     "word": "le sous-titre",
     "translation": "der Untertitel"
@@ -76,7 +77,7 @@
   },
   {
     "word": "réel", 
-    "add": m.", 
+    "add": "m.", 
     "translation": "echt, real (männlich)"
   },
   {
@@ -231,5 +232,4 @@
     "word": "provoquer",
     "translation": "jdn/etw. herausfordern, provozieren"
   }
-
 ]
