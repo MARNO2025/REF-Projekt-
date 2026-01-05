@@ -1,132 +1,131 @@
 [
   {
-    "word": "la manière",
-    "translation": "die Art (und Weise)"
+    "word": "c'est", 
+    "translation": "das ist"
   },
   {
-    "word": "la façon",
-    "translation": "die Art (und Weise)"
+    "word": "être", 
+    "translation": "sein"
   },
   {
-    "word": "comment",
-    "translation": "wie"
+    "word": "voilà", 
+    "translation": "da ist / da kommt"
   },
   {
-    "word": "comme ça",
-    "translation": "so"
+    "word": "la classe", 
+    "translation": "die Klasse"
   },
   {
-    "word": "autant",
-    "translation": "so viel"
+    "word": "la sixième", 
+    "translation": "die sechste Klasse"
   },
   {
-    "word": "pas du tout",
-    "translation": "überhaupt nicht"
+    "word": "je suis", 
+    "translation": "ich bin"
   },
   {
-    "word": "en tout cas",
-    "translation": "jedenfalls"
+    "word": "le professeur de français",
+    "translation": "der Französischlehrer"
   },
   {
-    "word": "en vain",
-    "translation": "vergeblich"
+    "word": "le professeur", 
+    "translation": "der Lehrer"
   },
   {
-    "word": "au moins",
-    "translation": "wenigstens, mindestens"
+    "word": "la professeur", 
+    "translation": "die Lehrerin"
   },
   {
-    "word": "presque",
-    "translation": "fast"
+    "word": "le français", 
+    "translation": "Französisch (Unterrichtsfach, auch: die französische Sprache)"
   },
   {
-    "word": "complètement",
-    "translation": "völlig"
+    "word": "oui", 
+    "translation": "ja"
   },
   {
-    "word": "exactement",
-    "translation": "genau"
+    "word": "je m'appelle", 
+    "translation": "ich heiße"
   },
   {
-    "word": "vraiment",
-    "translation": "wirklich"
+    "word": "ah", 
+    "translation": "ach, ach so"
   },
   {
-    "word": "aussi",
-    "translation": "auch"
+    "word": "pardon", 
+    "translation": "Verzeihung"
   },
   {
-    "word": "à part ça",
-    "translation": "ansonsten"
+    "word": "C'est moi.", 
+    "translation": "Ich bin's. / Das bin ich."
   },
   {
-    "word": "même",
-    "translation": "sogar"
+    "word": "moi", 
+    "translation": "ich (betonte Form des Personalpronomens)"
   },
   {
-    "word": "plutôt",
-    "translation": "lieber"
+    "word": "alors", 
+    "translation": "also"
   },
   {
-    "word": "non plus",
-    "translation": "auch nicht"
+    "word": "tu es", 
+    "translation": "du bist"
   },
   {
-    "word": "le moyen",
-    "translation": "das Mittel"
+    "word": "tu t'appelles", 
+    "translation": "du heißt"
   },
   {
-    "word": "justement",
-    "translation": "genau"
+    "word": "Non?", 
+    "translation": "Nicht wahr?"
   },
   {
-    "word": "même pas",
-    "translation": "nicht einmal"
+    "word": "avec", 
+    "translation": "mit"
   },
   {
-    "word": "à peine",
-    "translation": "kaum"
+    "word": "Ça va?", 
+    "translation": "Wie geht's?"
   },
   {
-    "word": "à propos",
-    "translation": "übrigens"
+    "word": "Au revoir", 
+    "translation": "Auf Wiedersehen"
   },
   {
-    "word": "absolument",
-    "translation": "unbedingt"
+    "word": "il est", 
+    "translation": "er ist"
   },
   {
-    "word": "de toute façon",
-    "translation": "sowieso"
+    "word": "de", 
+    "translation": "aus"
   },
   {
-    "word": "au lieu",
-    "add": "de",
-    "translation": "statt, anstatt zu"
+    "word": "très", 
+    "translation": "sehr"
   },
   {
-    "word": "sinon",
-    "translation": "sonst"
+    "word": "bien", 
+    "translation": "gut"
   },
   {
-    "word": "en plus",
-    "add": "de",
-    "translation": "außer"
+    "word": "elle est", 
+    "translation": "sie ist"
   },
   {
-    "word": "pourtant",
-    "translation": "jedoch"
+    "word": "là", 
+    "translation": "da / hier"
   },
   {
-    "word": "en fait",
-    "translation": "eigentlich"
+    "word": "euh", 
+    "translation": "äh"
   },
   {
-    "word": "quand même",
-    "translation": "trotzdem"
+    "word": "deux", 
+    "translation": "zwei"
   },
   {
-    "word": "par hasard",
-    "translation": "zufällig"
+    "word": "non", 
+    "translation": "nein"
   }
 ]
+

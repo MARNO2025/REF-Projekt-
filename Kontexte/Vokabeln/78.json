@@ -1,0 +1,281 @@
+[
+  {
+    "word": "la valise",
+    "translation": "der Koffer"
+  },
+  {
+    "word": "la poche",
+    "translation": "die Tasche / Hosentasche"
+  },
+  {
+    "word": "le héros",
+    "translation": "der Held"
+  },
+  {
+    "word": "l'héroïne",
+    "add": "f.",
+    "translation": "die Heldin"
+  },
+  {
+    "word": "la paix",
+    "translation": "der Frieden"
+  },
+  {
+    "word": "les environs",
+    "add": "m. pl.",
+    "translation": "die Umgebung"
+  },
+  {
+    "word": "l'encyclopédie",
+    "add": "f.",
+    "translation": "die Enzyklopädie"
+  },
+  {
+    "word": "la cabane",
+    "translation": "die Hütte"
+  },
+  {
+    "word": "l'œuvre d'art",
+    "add": "f.",
+    "translation": "das Kunstwerk"
+  },
+  {
+    "word": "l'horreur",
+    "add": "f.",
+    "translation": "der Schrecken / der Horror"
+  },
+  {
+    "word": "le trafic",
+    "translation": "der Verkehr / der Handel"
+  },
+  {
+    "word": "extraordinaire",
+    "translation": "außergewöhnlich"
+  },
+  {
+    "word": "tomber amoureux",
+    "add": "m.",
+    "translation": "sich verlieben (m.)"
+  },
+  {
+    "word": "tomber amoureuse",
+    "add": "f.",
+    "translation": "sich verlieben (f.)"
+  },
+  {
+    "word": "l'adolescent",
+    "add": "m.",
+    "translation": "der Jugendliche"
+  },
+  {
+    "word": "l'illustration",
+    "add": "f.",
+    "translation": "die Illustration"
+  },
+  {
+    "word": "élégant",
+    "translation": "elegant"
+  },
+  {
+    "word": "romantique",
+    "translation": "romantisch"
+  },
+  {
+    "word": "à bord",
+    "translation": "an Bord"
+  },
+  {
+    "word": "le prisonnier",
+    "translation": "der Gefangene"
+  },
+  {
+    "word": "mystérieux",
+    "add": "m.",
+    "translation": "mysteriös"
+  },
+  {
+    "word": "simplement",
+    "translation": "einfach / lediglich"
+  },
+  {
+    "word": "entier",
+    "add": "m.",
+    "translation": "ganz (männlich)"
+  },
+  {
+    "word": "entière",
+    "add": "f.",
+    "translation": "ganz (weiblich)"
+  },
+  {
+    "word": "la dédicace",
+    "translation": "die Widmung"
+  },
+  {
+    "word": "précis",
+    "translation": "genau / präzise"
+  },
+  {
+    "word": "le regard",
+    "translation": "der Blick"
+  },
+  {
+    "word": "le visiteur",
+    "translation": "der Besucher"
+  },
+  {
+    "word": "assister à",
+    "translation": "an etw. teilnehmen / etw. beiwohnen"
+  },
+  {
+    "word": "déguisé",
+    "add": "m.",
+    "translation": "verkleidet (männlich)"
+  },
+  {
+    "word": "déguisée",
+    "add": "f.",
+    "translation": "verkleidet (weiblich)"
+  },
+  {
+    "word": "le public",
+    "translation": "das Publikum"
+  },
+  {
+    "word": "remettre",
+    "translation": "überreichen"
+  },
+  {
+    "word": "récompenser",
+    "translation": "belohnen / auszeichnen"
+  },
+  {
+    "word": "grâce",
+    "add": "à",
+    "translation": "dank"
+  },
+  {
+    "word": "la production",
+    "translation": "die Produktion"
+  },
+  {
+    "word": "au cours de",
+    "translation": "im Laufe von"
+  },
+  {
+    "word": "la tranche d'âge",
+    "translation": "die Altersgruppe"
+  },
+  {
+    "word": "en moyenne",
+    "translation": "durchschnittlich / im Durchschnitt"
+  },
+  {
+    "word": "fonctionner",
+    "translation": "funktionieren"
+  },
+  {
+    "word": "la case",
+    "translation": "das Kästchen / Feld"
+  },
+  {
+    "word": "représenter",
+    "translation": "darstellen / repräsentieren"
+  },
+  {
+    "word": "l'inverse",
+    "add": "m.",
+    "translation": "das Gegenteil"
+  },
+  {
+    "word": "l'effet",
+    "add": "m.",
+    "translation": "die Wirkung / der Effekt"
+  },
+  {
+    "word": "selon",
+    "translation": "gemäß / laut"
+  },
+  {
+    "word": "généralement",
+    "translation": "im Allgemeinen"
+  },
+  {
+    "word": "le système",
+    "translation": "das System"
+  },
+  {
+    "word": "on s'y tient",
+    "translation": "man hält sich daran"
+  },
+  {
+    "word": "la rupture",
+    "translation": "der Bruch / die Trennung"
+  },
+  {
+    "word": "le malaise",
+    "translation": "das Unbehagen / Unwohlsein"
+  },
+  {
+    "word": "la richesse",
+    "translation": "der Reichtum"
+  },
+  {
+    "word": "fondamental",
+    "add": "m.",
+    "translation": "grundlegend"
+  },
+  {
+    "word": "fondamentaux",
+    "add": "m. pl.",
+    "translation": "grundlegende (Plural)"
+  },
+  {
+    "word": "intégré à",
+    "translation": "in etw. integriert"
+  },
+  {
+    "word": "horrible",
+    "translation": "schrecklich"
+  },
+  {
+    "word": "la lettre",
+    "translation": "der Brief / der Buchstabe"
+  },
+  {
+    "word": "enregistrer",
+    "translation": "etw. aufnehmen / erfassen"
+  },
+  {
+    "word": "faire croire que",
+    "translation": "glauben machen, dass ..."
+  },
+  {
+    "word": "épais",
+    "translation": "dick"
+  },
+  {
+    "word": "faire ressortir",
+    "translation": "etw. hervorheben"
+  },
+  {
+    "word": "doucement",
+    "translation": "sanft / leise / langsam"
+  },
+  {
+    "word": "lisible",
+    "translation": "lesbar"
+  },
+  {
+    "word": "s'appliquer",
+    "translation": "sich bemühen / sorgfältig arbeiten"
+  },
+  {
+    "word": "contrairement à",
+    "translation": "im Gegensatz zu"
+  },
+  {
+    "word": "la complication",
+    "translation": "die Komplikation"
+  }
+]
