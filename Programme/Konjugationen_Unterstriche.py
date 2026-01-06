@@ -44,38 +44,34 @@ def run_Unterstriche_Konjugationen(
             for i, width in enumerate(widths):
                 row.cells[i].width = width
 
-    # ---------- Unterstriche komplett ----------
+    # ---------- nur Unterstriche ----------
     def underline_form(form):
         parts = form.split()
         return "   ".join("_ " * len(part) for part in parts).strip()
 
-    # ---------- Erster Buchstabe + Unterstriche ----------
+    # ---------- erster Buchstabe + Unterstriche ----------
     def underline_first_buchstabe(form):
         parts = form.split()
-        result_parts = []
-
+        result = []
         for part in parts:
             if part:
-                first = part[0]
-                underscores = "_ " * (len(part) - 1)
-                result_parts.append(first + " " + underscores.strip())
-        return "   ".join(result_parts)
+                result.append(part[0] + " " + "_ " * (len(part) - 1))
+        return "   ".join(p.strip() for p in result)
 
-    # ---------- Französische Elision ----------
-    def apply_french_elision(pronoun, verb_text):
-        vowels = ("a", "e", "i", "o", "u", "h",
-                  "â", "ê", "î", "ô", "û",
-                  "é", "è", "ë", "ï")
+    # ---------- französische Elision (immer nach Originalform!) ----------
+    def apply_french_elision(pronoun, display_text, original_form):
+        vowels = (
+            "a", "e", "i", "o", "u", "h",
+            "â", "ê", "î", "ô", "û",
+            "é", "è", "ë", "ï"
+        )
 
-        verb_text = verb_text.strip()
+        first_real_char = original_form.strip().lower()[:1]
 
-        if pronoun == "je":
-            first_char = verb_text.lstrip("_ ").lower()[:1]
-            if first_char in vowels:
-                return "j’" + verb_text
-            return "je " + verb_text
+        if pronoun == "je" and first_real_char in vowels:
+            return "j’" + display_text
 
-        return f"{pronoun} {verb_text}"
+        return f"{pronoun} {display_text}"
 
     # =========================
     # Tabelle erstellen
@@ -83,7 +79,7 @@ def run_Unterstriche_Konjugationen(
     def create_table(mode="underline"):
         """
         mode:
-        - underline     → nur Unterstriche
+        - underline     → Unterstriche
         - pronoun       → nur Pronomen
         - first_letter  → erster Buchstabe + Unterstriche
         """
@@ -106,16 +102,33 @@ def run_Unterstriche_Konjugationen(
             row[0].text = entry["verb"]
 
             if mode == "underline":
-                row[1].text = apply_french_elision(entry["p1"], underline_form(entry["f1"]))
-                row[2].text = apply_french_elision(entry["p2"], underline_form(entry["f2"]))
+                row[1].text = apply_french_elision(
+                    entry["p1"],
+                    underline_form(entry["f1"]),
+                    entry["f1"]
+                )
+                row[2].text = apply_french_elision(
+                    entry["p2"],
+                    underline_form(entry["f2"]),
+                    entry["f2"]
+                )
 
             elif mode == "pronoun":
-                row[1].text = entry["p1"]
-                row[2].text = entry["p2"]
+                # Elision auch hier korrekt anzeigen
+                row[1].text = "j’" if entry["p1"] == "je" and entry["f1"][0].lower() in "aeiouh" else entry["p1"]
+                row[2].text = "j’" if entry["p2"] == "je" and entry["f2"][0].lower() in "aeiouh" else entry["p2"]
 
             elif mode == "first_letter":
-                row[1].text = apply_french_elision(entry["p1"], underline_first_buchstabe(entry["f1"]))
-                row[2].text = apply_french_elision(entry["p2"], underline_first_buchstabe(entry["f2"]))
+                row[1].text = apply_french_elision(
+                    entry["p1"],
+                    underline_first_buchstabe(entry["f1"]),
+                    entry["f1"]
+                )
+                row[2].text = apply_french_elision(
+                    entry["p2"],
+                    underline_first_buchstabe(entry["f2"]),
+                    entry["f2"]
+                )
 
             row[3].text = ""
 
@@ -156,15 +169,15 @@ def run_Unterstriche_Konjugationen(
     create_table(mode="underline")
 
     # =========================
-    # Seite 2
+    # Seite 2: nur Pronomen
     # =========================
     dokument.add_page_break()
-    u3 = dokument.add_heading('Test de conjugaison', level=0)
+    u3 = dokument.add_heading('Test de conjugaison – première lettre', level=0)
     u3.alignment = WD_ALIGN_PARAGRAPH.CENTER
     create_table(mode="first_letter")
 
     # =========================
-    # Seite 3
+    # Seite 3: erster Buchstabe
     # =========================
     dokument.add_page_break()
     u2 = dokument.add_heading('Test de conjugaison', level=0)
