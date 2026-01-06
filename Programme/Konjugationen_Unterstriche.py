@@ -17,7 +17,7 @@ def run_Unterstriche_Konjugationen(
     dokument = Document(template_path)
 
     # =========================
-    # Überschrift
+    # Überschrift Seite 1
     # =========================
     ueberschrift = dokument.add_heading('Test de conjugaison', level=0)
     run = ueberschrift.runs[0]
@@ -38,22 +38,54 @@ def run_Unterstriche_Konjugationen(
         trHeight.set(qn('w:hRule'), 'atLeast')
         trPr.append(trHeight)
 
-    def underline_form_with_pronoun(pronoun, form):
-        parts = form.split()
-        underlined = "   ".join(["_ " * len(part) for part in parts]).strip()
-        return f"{pronoun} {underlined}"
-
     def set_spaltenbreiten(table, widths):
         table.autofit = False
         for row in table.rows:
             for i, width in enumerate(widths):
                 row.cells[i].width = width
 
+    # ---------- Unterstriche komplett ----------
+    def underline_form(form):
+        parts = form.split()
+        return "   ".join("_ " * len(part) for part in parts).strip()
+
+    # ---------- Erster Buchstabe + Unterstriche ----------
+    def underline_first_buchstabe(form):
+        parts = form.split()
+        result_parts = []
+
+        for part in parts:
+            if part:
+                first = part[0]
+                underscores = "_ " * (len(part) - 1)
+                result_parts.append(first + " " + underscores.strip())
+        return "   ".join(result_parts)
+
+    # ---------- Französische Elision ----------
+    def apply_french_elision(pronoun, verb_text):
+        vowels = ("a", "e", "i", "o", "u", "h",
+                  "â", "ê", "î", "ô", "û",
+                  "é", "è", "ë", "ï")
+
+        verb_text = verb_text.strip()
+
+        if pronoun == "je":
+            first_char = verb_text.lstrip("_ ").lower()[:1]
+            if first_char in vowels:
+                return "j’" + verb_text
+            return "je " + verb_text
+
+        return f"{pronoun} {verb_text}"
+
+    # =========================
+    # Tabelle erstellen
+    # =========================
     def create_table(mode="underline"):
         """
         mode:
-        - "underline" → Pronomen + Unterstriche
-        - "pronoun"   → nur Pronomen
+        - underline     → nur Unterstriche
+        - pronoun       → nur Pronomen
+        - first_letter  → erster Buchstabe + Unterstriche
         """
         table = dokument.add_table(rows=1, cols=4)
         table.style = 'Tabellenraster'
@@ -74,21 +106,24 @@ def run_Unterstriche_Konjugationen(
             row[0].text = entry["verb"]
 
             if mode == "underline":
-                row[1].text = underline_form_with_pronoun(entry["p1"], entry["f1"])
-                row[2].text = underline_form_with_pronoun(entry["p2"], entry["f2"])
+                row[1].text = apply_french_elision(entry["p1"], underline_form(entry["f1"]))
+                row[2].text = apply_french_elision(entry["p2"], underline_form(entry["f2"]))
+
             elif mode == "pronoun":
                 row[1].text = entry["p1"]
                 row[2].text = entry["p2"]
+
+            elif mode == "first_letter":
+                row[1].text = apply_french_elision(entry["p1"], underline_first_buchstabe(entry["f1"]))
+                row[2].text = apply_french_elision(entry["p2"], underline_first_buchstabe(entry["f2"]))
 
             row[3].text = ""
 
         widths = [Cm(3), Cm(5.522), Cm(5.522), Cm(4)]
         set_spaltenbreiten(table, widths)
 
-        for row in table.rows:
-            set_zeilenhoehe(row, 1)
-
-        return table
+        for r in table.rows:
+            set_zeilenhoehe(r, 1)
 
     # =========================
     # Aufgaben EINMAL erzeugen
@@ -121,17 +156,19 @@ def run_Unterstriche_Konjugationen(
     create_table(mode="underline")
 
     # =========================
-    # Seitenumbruch
+    # Seite 2
     # =========================
     dokument.add_page_break()
+    u3 = dokument.add_heading('Test de conjugaison', level=0)
+    u3.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    create_table(mode="first_letter")
 
-    # Überschrift Seite 2
-    u2 = dokument.add_heading('Test de conjugasion', level=0)
+    # =========================
+    # Seite 3
+    # =========================
+    dokument.add_page_break()
+    u2 = dokument.add_heading('Test de conjugaison', level=0)
     u2.alignment = WD_ALIGN_PARAGRAPH.CENTER
-
-    # =========================
-    # Seite 2: nur Pronomen
-    # =========================
     create_table(mode="pronoun")
 
     # =========================
@@ -141,3 +178,4 @@ def run_Unterstriche_Konjugationen(
     dokument.save(word_stream)
     word_stream.seek(0)
     return word_stream
+
