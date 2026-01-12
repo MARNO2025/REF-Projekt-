@@ -34,15 +34,15 @@
       "elles": "descendront"
     },
     "Passé_composé": {
-      "je": "ai descendu",
-      "tu": "as descendu",
-      "il": "a descendu",
-      "elle": "a descendu",
-      "on": "a descendu",
-      "nous": "avons descendu",
-      "vous": "avez descendu",
-      "ils": "ont descendu",
-      "elles": "ont descendu"
+      "je": "suis descendu",
+      "tu": "es descendu",
+      "il": "est descendu",
+      "elle": "est descendue",
+      "on": "est descendu",
+      "nous": "sommes descendus",
+      "vous": "êtes descendus",
+      "ils": "sont descendus",
+      "elles": "sont descendues"
     },
     "Conditionnel_présent": {
       "je": "descendrais",
@@ -56,15 +56,15 @@
       "elles": "descendraient"
     },
     "Conditionnel_passé": {
-      "je": "aurais descendu",
-      "tu": "aurais descendu",
-      "il": "aurait descendu",
-      "elle": "aurait descendu",
-      "on": "aurait descendu",
-      "nous": "aurions descendu",
-      "vous": "auriez descendu",
-      "ils": "auraient descendu",
-      "elles": "auraient descendu"
+      "je": "serais descendu",
+      "tu": "serais descendu",
+      "il": "serait descendu",
+      "elle": "serait descendue",
+      "on": "serait descendu",
+      "nous": "serions descendus",
+      "vous": "seriez descendus",
+      "ils": "seraient descendus",
+      "elles": "seraient descendues"
     },
     "Subjonctif_présent": {
       "je": "descende",
@@ -78,15 +78,15 @@
       "elles": "descendent"
     },
     "Plus_que_parfait": {
-      "je": "avais descendu",
-      "tu": "avais descendu",
-      "il": "avait descendu",
-      "elle": "avait descendu",
-      "on": "avait descendu",
-      "nous": "avions descendu",
-      "vous": "aviez descendu",
-      "ils": "avaient descendu",
-      "elles": "avaient descendu"
+      "je": "étais descendu",
+      "tu": "étais descendu",
+      "il": "était descendu",
+      "elle": "était descendue",
+      "on": "était descendu",
+      "nous": "étions descendus",
+      "vous": "étiez descendus",
+      "ils": "étaient descendus",
+      "elles": "étaient descendues"
     }
   }
 }
