@@ -40,7 +40,7 @@
       "elle": "est allée",
       "on": "est allé",
       "nous": "sommes allés",
-      "vous": "êtes allé",
+      "vous": "êtes allés",
       "ils": "sont allés",
       "elles": "sont allées"
     },
@@ -84,9 +84,10 @@
       "elle": "était allée",
       "on": "était allé",
       "nous": "étions allés",
-      "vous": "étiez allé",
+      "vous": "étiez allés",
       "ils": "étaient allés",
       "elles": "étaient allées"
     }
   }
 }
+
