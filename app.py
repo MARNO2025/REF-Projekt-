@@ -215,56 +215,80 @@ with tab_vokabeln:
                 key=f"vocab_{book}_{chapter}"
             )
 
-            data = (
-                load_json(os.path.join(chapter_path, f1)) +
-                load_json(os.path.join(chapter_path, f2))
-            )
+            # Kapitel-Dateien laden
+            data1 = load_json(os.path.join(chapter_path, f1))
+            data2 = load_json(os.path.join(chapter_path, f2))
+            data = data1 + data2
 
+            # Wörterbuch laden
             vocab_data = load_json(os.path.join(vocab_folder, vocab_file))
 
-            words = list({
-                i["word"]: i
-                for i in data + vocab_data
-                if "word" in i and "translation" in i
-            }.values())
+            # Initialisiere session_state für ausgewählte Vokabeln, falls nicht vorhanden
+            if "selected_vocab_words" not in st.session_state:
+                st.session_state.selected_vocab_words = []
 
-            selected_words = st.multiselect(
-                "Wörter auswählen",
-                [w["word"] for w in words],
-                default=[w["word"] for w in words],
-                key=f"words_{book}_{chapter}_{len(words)}"
+            # Suche im Wörterbuch
+            search_term = st.text_input(
+                "Suche Wörter im Wörterbuch",
+                key=f"search_vocab_{book}_{chapter}"
             )
 
-            word_pairs = [
-                (w["word"], w["translation"])
-                for w in words
-                if w["word"] in selected_words
-            ]
+            if st.button("Hinzufügen", key=f"add_vocab_{book}_{chapter}"):
+                if search_term:
+                    filtered = [item for item in vocab_data if search_term.lower() in item['word'].lower()]
+                    st.session_state.selected_vocab_words.extend(filtered)
+                    # Dubletten entfernen
+                    st.session_state.selected_vocab_words = list({
+                        item['word']: item for item in st.session_state.selected_vocab_words
+                    }.values())
 
+            # Alle Wörter zusammenführen: Kapitel + gezielt ausgewählte Wörter aus Vokabeln
+            merged_data = data + st.session_state.selected_vocab_words
+            merged_data = [item for item in merged_data if 'word' in item and 'translation' in item]
+            unique_data = list({item['word']: item for item in merged_data}.values())
+
+            # Multiselect für Wörter
+            selected_words = st.multiselect(
+                "Wörter auswählen",
+                [item["word"] for item in unique_data],
+                default=[item["word"] for item in unique_data],
+                key=f"words_{book}_{chapter}_{len(unique_data)}"
+            )
+
+            # Wort-Translation-Paare
+            words_dict = {item["word"]: item["translation"] for item in unique_data}
+            word_pairs = [(word, words_dict[word]) for word in selected_words]
+
+            # Programm auswählen
             program = st.selectbox(
                 "Programm",
                 ["Vokabelsuchgitter", "Vokabelrätsel", "Wortschlange", "Zuordnen", "Vokabelliste"],
                 key=f"prog_{book}_{chapter}_{len(selected_words)}"
             )
 
+            # AB erstellen
             if st.button("AB erstellen", key=f"run_{book}_{chapter}_{program}"):
-                if program == "Wortschlange":
-                    file = run_Wortschlange(word_pairs, template_path)
-                elif program == "Vokabelrätsel":
-                    file = run_Rätsel(word_pairs, template_path)
-                elif program == "Vokabelsuchgitter":
-                    file = run_Vokabelsuchgitter(word_pairs, template_path)
-                elif program == "Zuordnen":
-                    file = Worte_zuordnen(word_pairs, template_path)
+                if not selected_words:
+                    st.warning("Bitte zuerst Wörter auswählen!")
                 else:
-                    file = Vokabellisten(word_pairs, template_path)
+                    if program == "Wortschlange":
+                        file = run_Wortschlange(word_pairs, template_path)
+                    elif program == "Vokabelrätsel":
+                        file = run_Rätsel(word_pairs, template_path)
+                    elif program == "Vokabelsuchgitter":
+                        file = run_Vokabelsuchgitter(word_pairs, template_path)
+                    elif program == "Zuordnen":
+                        file = Worte_zuordnen(word_pairs, template_path)
+                    else:
+                        file = Vokabellisten(word_pairs, template_path)
 
-                st.download_button(
-                    "⬇️ Word herunterladen",
-                    file,
-                    f"{program}.docx",
-                    mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document"
-                )
+                    st.download_button(
+                        "⬇️ Word herunterladen",
+                        file,
+                        f"{program}.docx",
+                        mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                    )
+
 # ========================
 # 4️⃣ Kontexte
 # ========================
@@ -380,7 +404,7 @@ with tab_kontexte:
 # 5️⃣ Kontexte & Lernstand
 # ========================
 
-with tab_kontexteundLernstand:
+with tab_kl:
     st.header("Kontexte & Lernstand")
 
     # --------------------------------------------------
@@ -565,6 +589,7 @@ with tab_kontexteundLernstand:
             )
 
     
+
 
 
 
