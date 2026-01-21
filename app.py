@@ -230,6 +230,10 @@ with tab_vokabeln:
             if session_key not in st.session_state:
                 st.session_state[session_key] = []
 
+            data1 = load_json(os.path.join(chapter_path, f1))
+            data2 = load_json(os.path.join(chapter_path, f2))
+            chapter_words = data1 + data2  # f1 + f2
+
             # Suche im Wörterbuch
             search_term = st.text_input(
                 "Suche Wörter im Wörterbuch",
@@ -249,9 +253,11 @@ with tab_vokabeln:
                     }.values())
 
             # Kapitel + gezielt ausgewählte Wörter zusammenführen
-            merged_data = data + st.session_state[session_key]
-            merged_data = [item for item in merged_data if 'word' in item and 'translation' in item]
+            merged_data = chapter_words + st.session_state[session_key]
+            
             unique_data = list({item['word']: item for item in merged_data}.values())
+            default_words = [item['word'] for item in chapter_words]  # nur f1 + f2
+            
 
             # Multiselect für Wörter
             selected_words = st.multiselect(
@@ -588,6 +594,7 @@ with tab_kl:
             )
 
     
+
 
 
 
