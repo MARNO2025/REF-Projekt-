@@ -11,261 +11,260 @@ from Programme.Listen import Vokabellisten
 from Programme.Worte_verbinden import Worte_zuordnen
 from Programme.Konjugationen_Unterstriche import run_Unterstriche_Konjugationen
 
-# -----------------------------
-# Basis-Pfade
-# -----------------------------
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-template_path = os.path.join(BASE_DIR, "Vorlagen", "Vorlage Vokabellisten.docx")
-vokabel_folder = os.path.join(BASE_DIR, "Vokabeln")
-kontext_folder = os.path.join(BASE_DIR, "Kontexte")
-vocab_folder = os.path.join(vokabel_folder, "vocabs_all")
-words_data = os.path.join(BASE_DIR, "unregelmäßige Verben alle")
+# ======================================================
+# 📦 CACHING / FILE HELPERS (CLOUD-SICHER)
+# ======================================================
 
-# Prüfen, ob Ordner existieren
-os.makedirs(vocab_folder, exist_ok=True)
-os.makedirs(kontext_folder, exist_ok=True)
+@st.cache_data
+def list_dirs(path):
+    if not os.path.exists(path):
+        return []
+    return sorted([
+        d for d in os.listdir(path)
+        if os.path.isdir(os.path.join(path, d))
+    ])
 
-# Lade alle Vokabeldateien
-vocab_files = [f for f in os.listdir(vocab_folder) if f.endswith(".json")]
+@st.cache_data
+def list_json_files(path):
+    if not os.path.exists(path):
+        return []
+    return sorted([
+        f for f in os.listdir(path)
+        if f.endswith(".json")
+    ])
 
-# -----------------------------
-# Hilfsfunktion
-# -----------------------------
+@st.cache_data
 def load_json(path):
     with open(path, "r", encoding="utf-8") as f:
         return json.load(f)
 
-# -----------------------------
-# Streamlit Setup
-# -----------------------------
+# ======================================================
+# 📂 BASIS-PFADE
+# ======================================================
+
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
+template_path = os.path.join(BASE_DIR, "Vorlagen", "Vorlage Vokabellisten.docx")
+vokabel_folder = os.path.join(BASE_DIR, "Vokabeln")
+kontext_folder = os.path.join(BASE_DIR, "Kontexte")
+vocab_folder = os.path.join(vokabel_folder, "vocabs_all")
+verbs_folder = os.path.join(BASE_DIR, "unregelmäßige Verben alle")
+
+os.makedirs(vocab_folder, exist_ok=True)
+os.makedirs(kontext_folder, exist_ok=True)
+
+vocab_files = list_json_files(vocab_folder)
+
+# ======================================================
+# 🚀 STREAMLIT SETUP
+# ======================================================
+
+st.set_page_config(layout="wide")
 st.title("Bonjour")
-tab_diff, tab_verben, tab_vokabeln, tab_kontexte, tab_kontexteundLernstand = st.tabs([
-    "Differenzierungsmöglichkeiten", "wichtige Verben", "Vokabeln", "Kontexte", "Kontexte & Lernstand"
+
+tab_diff, tab_verben, tab_vokabeln, tab_kontexte, tab_kl = st.tabs([
+    "Differenzierungsmöglichkeiten",
+    "wichtige Verben",
+    "Vokabeln",
+    "Kontexte",
+    "Kontexte & Lernstand"
 ])
 
-# ========================
-# 1️⃣ Differenzierungsmöglichkeiten
-# ========================
+# ======================================================
+# 1️⃣ DIFFERENZIERUNG
+# ======================================================
+
 with tab_diff:
     st.header("Differenzierungsmöglichkeiten")
+
     user_text = st.text_area(
-        "Trag deinen Text ein (Wörter in [Klammern] markieren)",
-        height=200,
-        key="diff_user_text"
+        "Text eingeben ([Wörter] markieren)",
+        height=200
     )
 
-    # Automatisch erstes Wörterbuch laden
-    vocab_json = []
     if vocab_files:
-        vocab_path = os.path.join(vocab_folder, vocab_files[0])
-        vocab_json = load_json(vocab_path)
+        vocab_json = load_json(os.path.join(vocab_folder, vocab_files[0]))
     else:
-        st.warning("Keine Vokabel-Dateien gefunden!")
+        vocab_json = []
 
-    if user_text.strip() and vocab_json:
-        if st.button("Arbeitsblatt erstellen", key="diff_create_worksheet"):
-            st.success("Arbeitsblatt wird erstellt…")
-            selected_modules = [1, 2, 3]
+    if st.button("Arbeitsblatt erstellen") and user_text and vocab_json:
+        file = generate_worksheets_streamlit(
+            text=user_text,
+            vocab_json=vocab_json,
+            output_prefix="Differenzierung",
+            selected_modules=[1, 2, 3],
+            template_path=template_path
+        )
 
-            file = generate_worksheets_streamlit(
-                text=user_text,
-                vocab_json=vocab_json,
-                output_prefix="Differenzierung",
-                selected_modules=selected_modules,
-                template_path=template_path
-            )
+        st.download_button(
+            "⬇️ Arbeitsblatt herunterladen",
+            file,
+            "Differenzierung.docx",
+            mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        )
 
-            st.subheader("Arbeitsblatt zum Download")
-            st.download_button(
-                label="⬇️ Arbeitsblatt herunterladen",
-                data=file,
-                file_name="Differenzierung.docx",
-                mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-                key="diff_download"
-            )
+# ======================================================
+# 2️⃣ WICHTIGE VERBEN
+# ======================================================
 
-# ========================
-# 2️⃣ Wichtige Verben
-# ========================
 with tab_verben:
+    json_files = list_json_files(verbs_folder)
 
-    # 1️⃣ Basisverzeichnis der JSON-Dateien
-    BASE_DIR_Konjugationen_alle = os.path.join(BASE_DIR, "unregelmäßige Verben alle")
-    json_files_verbs_alle = [f for f in os.listdir(BASE_DIR_Konjugationen_alle) if f.endswith(".json")]
+    if not json_files:
+        st.warning("Keine Verb-Dateien gefunden")
+        st.stop()
 
-    if not json_files_verbs_alle:
-        st.warning("Keine Verb-Dateien gefunden!")
-    else:
-        # 2️⃣ Alle JSON-Dateien laden und zu einem Dictionary zusammenführen
-        words_data = {}
-        for file_name in json_files_verbs_alle:
-            json_path = os.path.join(BASE_DIR_Konjugationen_alle, file_name)
-            verb_data = load_json(json_path)  # Jede Datei enthält nur ein Verb
-            words_data.update(verb_data)      # Fügt das Verb ins Gesamt-Dictionary ein
+    words_data = {}
+    for f in json_files:
+        words_data.update(load_json(os.path.join(verbs_folder, f)))
 
-        st.subheader(f"Arbeitsblatt für {len(words_data)} Verben - Konjugationen mit Unterstrichen")
+    all_verbs = sorted(words_data.keys())
 
-        # 3️⃣ Anzahl Zeilen für das Arbeitsblatt
-        num_rows = st.number_input(
-            "Anzahl der Zeilen:",
-            min_value=1,
-            max_value=100,
-            value=20,
-            key="verbs_num_rows_underline"
+    selected_verbs = st.multiselect(
+        "Verben auswählen",
+        all_verbs,
+        default=all_verbs,
+        key=f"verbs_{len(all_verbs)}"
+    )
+
+    if not selected_verbs:
+        st.stop()
+
+    times = list(words_data[selected_verbs[0]].keys())
+
+    time1 = st.selectbox(
+        "Zeitform 1",
+        times,
+        key=f"time1_{selected_verbs[0]}"
+    )
+
+    time2 = st.selectbox(
+        "Zeitform 2",
+        times,
+        index=1 if len(times) > 1 else 0,
+        key=f"time2_{selected_verbs[0]}"
+    )
+
+    rows = st.number_input("Zeilen", 1, 100, 20)
+
+    if st.button("Arbeitsblatt erstellen"):
+        filtered = {v: words_data[v] for v in selected_verbs}
+
+        file = run_Unterstriche_Konjugationen(
+            filtered,
+            rows,
+            time1,
+            time2,
+            template_path
         )
 
-        # 4️⃣ Multiselect für Verben
-        all_verbs = list(words_data.keys())
-        selected_verbs = st.multiselect(
-            "Welche Verben sollen auf dem Arbeitsblatt erscheinen?",
-            options=all_verbs,
-            default=all_verbs
+        st.download_button(
+            "⬇️ Word herunterladen",
+            file,
+            "Konjugationen_Unterstriche.docx",
+            mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document"
         )
 
-        # 5️⃣ Auswahl der Zeitformen (nur anzeigen, wenn mindestens ein Verb ausgewählt)
-        if selected_verbs:
-            first_verb_data = words_data[selected_verbs[0]]
-            all_times = list(first_verb_data.keys())
+# ======================================================
+# 3️⃣ VOKABELN (KOMPLETT GEFIXT)
+# ======================================================
 
-            selected_time_1 = st.selectbox(
-                "Zeit 1 auswählen:",
-                options=all_times,
-                index=0,
-                key="time1"
-            )
-
-            selected_time_2 = st.selectbox(
-                "Zeit 2 auswählen:",
-                options=all_times,
-                index=1 if len(all_times) > 1 else 0,
-                key="time2"
-            )
-
-        # 6️⃣ Button zum Arbeitsblatt erstellen
-        if st.button("Arbeitsblatt mit Unterstrichen erstellen", key="verbs_create_underline_table"):
-
-            if not selected_verbs:
-                st.warning("Bitte wähle mindestens ein Verb aus!")
-            else:
-                # Filter nur die ausgewählten Verben
-                filtered_words_data = {verb: words_data[verb] for verb in selected_verbs}
-
-                # Word-Datei generieren
-                word_file = run_Unterstriche_Konjugationen(
-                    words_data=filtered_words_data,
-                    num_rows=num_rows,
-                    selected_time_1=selected_time_1,
-                    selected_time_2=selected_time_2,
-                    template_path=template_path
-                )
-
-                # Download-Button für die Word-Datei
-                st.download_button(
-                    label="Word-Datei herunterladen",
-                    data=word_file,
-                    file_name="Konjugationen_Unterstriche.docx",
-                    mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-                    key="download_underline_table"
-                )
-
-# ========================
-# 3️⃣ Vokabeln
-# ========================
 with tab_vokabeln:
-    books = [b for b in os.listdir(vokabel_folder) if os.path.isdir(os.path.join(vokabel_folder, b))]
+    books = list_dirs(vokabel_folder)
+
     if not books:
-        st.warning("Keine Bücher/Ordner gefunden!")
-    else:
-        book_tabs = st.tabs(books)
+        st.warning("Keine Bücher gefunden")
+        st.stop()
 
-        if "search_results_vokabeln" not in st.session_state:
-            st.session_state.search_results_vokabeln = []
+    book_tabs = st.tabs(books)
 
-        for book_name, tab in zip(books, book_tabs):
-            with tab:
-                st.subheader(f"Buch: {book_name}")
-                chapters_folder = os.path.join(vokabel_folder, book_name)
-                chapters = [c for c in os.listdir(chapters_folder) if os.path.isdir(os.path.join(chapters_folder, c))]
+    for book, tab in zip(books, book_tabs):
+        with tab:
+            chapters = list_dirs(os.path.join(vokabel_folder, book))
+            if not chapters:
+                st.warning("Keine Kapitel")
+                continue
 
-                if not chapters:
-                    st.warning("Keine Kapitel gefunden!")
-                    continue
+            chapter = st.selectbox(
+                "Kapitel",
+                chapters,
+                key=f"chapter_{book}_{hash(tuple(chapters))}"
+            )
 
-                selected_chapter = st.selectbox(
-                    f"Kapitel auswählen ({book_name})", chapters, key=f"chapter_{book_name}"
+            chapter_path = os.path.join(vokabel_folder, book, chapter)
+            files = list_json_files(chapter_path)
+
+            if len(files) < 2:
+                st.warning("Mindestens zwei JSON-Dateien")
+                continue
+
+            f1 = st.selectbox(
+                "Datei 1",
+                files,
+                key=f"f1_{book}_{chapter}_{hash(tuple(files))}"
+            )
+            f2 = st.selectbox(
+                "Datei 2",
+                files,
+                key=f"f2_{book}_{chapter}_{hash(tuple(files))}"
+            )
+
+            vocab_file = st.selectbox(
+                "Wörterbuch",
+                vocab_files,
+                key=f"vocab_{book}_{chapter}"
+            )
+
+            data = (
+                load_json(os.path.join(chapter_path, f1)) +
+                load_json(os.path.join(chapter_path, f2))
+            )
+
+            vocab_data = load_json(os.path.join(vocab_folder, vocab_file))
+
+            words = list({
+                i["word"]: i
+                for i in data + vocab_data
+                if "word" in i and "translation" in i
+            }.values())
+
+            selected_words = st.multiselect(
+                "Wörter auswählen",
+                [w["word"] for w in words],
+                default=[w["word"] for w in words],
+                key=f"words_{book}_{chapter}_{len(words)}"
+            )
+
+            word_pairs = [
+                (w["word"], w["translation"])
+                for w in words
+                if w["word"] in selected_words
+            ]
+
+            program = st.selectbox(
+                "Programm",
+                ["Vokabelsuchgitter", "Vokabelrätsel", "Wortschlange", "Zuordnen", "Vokabelliste"],
+                key=f"prog_{book}_{chapter}_{len(selected_words)}"
+            )
+
+            if st.button("AB erstellen", key=f"run_{book}_{chapter}_{program}"):
+                if program == "Wortschlange":
+                    file = run_Wortschlange(word_pairs, template_path)
+                elif program == "Vokabelrätsel":
+                    file = run_Rätsel(word_pairs, template_path)
+                elif program == "Vokabelsuchgitter":
+                    file = run_Vokabelsuchgitter(word_pairs, template_path)
+                elif program == "Zuordnen":
+                    file = Worte_zuordnen(word_pairs, template_path)
+                else:
+                    file = Vokabellisten(word_pairs, template_path)
+
+                st.download_button(
+                    "⬇️ Word herunterladen",
+                    file,
+                    f"{program}.docx",
+                    mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document"
                 )
-                chapter_folder = os.path.join(chapters_folder, selected_chapter)
-                files = [f for f in os.listdir(chapter_folder) if f.endswith(".json")]
-
-                if len(files) < 2:
-                    st.warning("Mindestens zwei JSON-Dateien pro Kapitel benötigt!")
-                    continue
-
-                selected_file_1 = st.selectbox(f"Erste JSON-Datei auswählen ({book_name})", files, key=f"file1_{book_name}_{selected_chapter}")
-                selected_file_2 = st.selectbox(f"Zweite JSON-Datei auswählen ({book_name})", files, key=f"file2_{book_name}_{selected_chapter}")
-                selected_vocab_file = st.selectbox(f"Wörterbuch auswählen ({book_name})", vocab_files, key=f"vocab_{book_name}_{selected_chapter}")
-
-                data1 = load_json(os.path.join(chapter_folder, selected_file_1))
-                data2 = load_json(os.path.join(chapter_folder, selected_file_2))
-                vocab_data = load_json(os.path.join(vocab_folder, selected_vocab_file))
-
-                search_term = st.text_input("Suche Wörter im Wörterbuch", key=f"search_vocab_{book_name}_{selected_chapter}")
-
-                if st.button("Hinzufügen", key=f"add_vocab_{book_name}_{selected_chapter}"):
-                    if search_term:
-                        filtered = [item for item in vocab_data if search_term.lower() in item['word'].lower()]
-                        st.session_state.search_results_vokabeln.extend(filtered)
-                        # Dubletten entfernen
-                        st.session_state.search_results_vokabeln = list({
-                            item['word']: item for item in st.session_state.search_results_vokabeln
-                        }.values())
-
-                merged_data = data1 + data2 + st.session_state.search_results_vokabeln
-                merged_data = [item for item in merged_data if 'word' in item and 'translation' in item]
-                unique_data = list({item['word']: item for item in merged_data}.values())
-
-                selected_words = st.multiselect(
-                    "Wörter auswählen",
-                    [item["word"] for item in unique_data],
-                    default=[item["word"] for item in unique_data],
-                    key=f"merged_words_{book_name}_{selected_chapter}"
-                )
-
-                words_dict = {item["word"]: item["translation"] for item in unique_data}
-                words_with_translations = [(word, words_dict[word]) for word in selected_words]
-
-                programs = ["Vokabelsuchgitter", "Vokabelrätsel", "Wortschlange", "Zuordnen", "Vokabelliste"]
-                selected_program = st.selectbox(
-                    "Programm auswählen",
-                    programs,
-                    key=f"program_{book_name}_{selected_chapter}"
-                )
-
-                if st.button("AB erstellen", key=f"button_{book_name}_{selected_chapter}"):
-                    if not selected_words:
-                        st.warning("Bitte zuerst Wörter auswählen!")
-                    else:
-                        st.success(f"{selected_program} wird mit {len(selected_words)} Wörtern aus {book_name} gestartet!")
-
-                        if selected_program == "Wortschlange":
-                            word_file = run_Wortschlange(words_with_translations, template_path=template_path)
-                        elif selected_program == "Vokabelrätsel":
-                            word_file = run_Rätsel(words_with_translations, template_path=template_path)
-                        elif selected_program == "Vokabelsuchgitter":
-                            word_file = run_Vokabelsuchgitter(words_with_translations, template_path=template_path)
-                        elif selected_program == "Vokabelliste":
-                            word_file = Vokabellisten(words_with_translations, template_path=template_path)
-                        elif selected_program == "Zuordnen":
-                            word_file = Worte_zuordnen(words_with_translations, template_path=template_path)
-
-                        st.download_button(
-                            label="Word-Datei herunterladen",
-                            data=word_file,
-                            file_name=f"{selected_program}.docx",
-                            mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-                            key=f"download_{book_name}_{selected_chapter}_{selected_program}"
-                        )
-
 # ========================
 # 4️⃣ Kontexte
 # ========================
@@ -566,6 +565,7 @@ with tab_kontexteundLernstand:
             )
 
     
+
 
 
 
