@@ -170,6 +170,7 @@ with tab_verben:
 # ======================================================
 
 with tab_vokabeln:
+    st.info("💡 Hinweis: Wenn die Suche verwendet und ABs erstellt wurden, muss die Seite neu geladen werden, bevor zu anderen Vokabeln ABs erstellt werden können.")
     books = list_dirs(vokabel_folder)
 
     if not books:
@@ -293,6 +294,8 @@ with tab_vokabeln:
 # 4️⃣ Kontexte
 # ========================
 with tab_kontexte:
+    
+    st.info("💡 Hinweis: Wenn die Suche verwendet und ABs erstellt wurden, muss die Seite neu geladen werden, bevor zu anderen Vokabeln ABs erstellt werden können.")
     st.header("Kontexte")
 
     kontext_files = [f for f in os.listdir(kontext_folder) if f.endswith(".json")]
@@ -569,6 +572,7 @@ with tab_kl:
             )
 
     
+
 
 
 
