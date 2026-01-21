@@ -223,9 +223,12 @@ with tab_vokabeln:
             # Wörterbuch laden
             vocab_data = load_json(os.path.join(vocab_folder, vocab_file))
 
-            # Initialisiere session_state für ausgewählte Vokabeln, falls nicht vorhanden
-            if "selected_vocab_words" not in st.session_state:
-                st.session_state.selected_vocab_words = []
+            # -------------------------------
+            # Session-State initialisieren
+            # -------------------------------
+            session_key = f"selected_vocab_words_{book}_{chapter}"
+            if session_key not in st.session_state:
+                st.session_state[session_key] = []
 
             # Suche im Wörterbuch
             search_term = st.text_input(
@@ -235,15 +238,18 @@ with tab_vokabeln:
 
             if st.button("Hinzufügen", key=f"add_vocab_{book}_{chapter}"):
                 if search_term:
-                    filtered = [item for item in vocab_data if search_term.lower() in item['word'].lower()]
-                    st.session_state.selected_vocab_words.extend(filtered)
+                    filtered = [
+                        item for item in vocab_data
+                        if search_term.lower() in item['word'].lower()
+                    ]
+                    st.session_state[session_key].extend(filtered)
                     # Dubletten entfernen
-                    st.session_state.selected_vocab_words = list({
-                        item['word']: item for item in st.session_state.selected_vocab_words
+                    st.session_state[session_key] = list({
+                        item['word']: item for item in st.session_state[session_key]
                     }.values())
 
-            # Alle Wörter zusammenführen: Kapitel + gezielt ausgewählte Wörter aus Vokabeln
-            merged_data = data + st.session_state.selected_vocab_words
+            # Kapitel + gezielt ausgewählte Wörter zusammenführen
+            merged_data = data + st.session_state[session_key]
             merged_data = [item for item in merged_data if 'word' in item and 'translation' in item]
             unique_data = list({item['word']: item for item in merged_data}.values())
 
@@ -251,7 +257,7 @@ with tab_vokabeln:
             selected_words = st.multiselect(
                 "Wörter auswählen",
                 [item["word"] for item in unique_data],
-                default=[item["word"] for item in unique_data],
+                default=[item["word"] for item in unique_data if item in st.session_state[session_key]],
                 key=f"words_{book}_{chapter}_{len(unique_data)}"
             )
 
@@ -295,111 +301,104 @@ with tab_vokabeln:
 with tab_kontexte:
     st.header("Kontexte")
 
-    # Session-State für Kontext-Suche
-    if "search_results_kontexte" not in st.session_state:
-        st.session_state.search_results_kontexte = []
-
     kontext_files = [f for f in os.listdir(kontext_folder) if f.endswith(".json")]
     if not kontext_files:
         st.warning("Keine Kontext-Dateien gefunden!")
-    else:
-        selected_kontext_file = st.selectbox(
-            "Wähle einen Kontext aus", kontext_files, key="selected_kontext"
-        )
+        st.stop()
 
-        kontext_data = load_json(os.path.join(kontext_folder, selected_kontext_file))
+    # Kontext-Datei auswählen
+    selected_kontext_file = st.selectbox(
+        "Wähle einen Kontext aus",
+        kontext_files,
+        key="selected_kontext"
+    )
 
-        # 🔍 Suche (identisch zu Vokabeln)
-        search_term = st.text_input(
-            "Suche Wörter im Wörterbuch",
-            key="search_kontext_vocab"
-        )
+    kontext_data = load_json(os.path.join(kontext_folder, selected_kontext_file))
 
-        if st.button("Hinzufügen", key="add_kontext_vocab"):
-            if search_term:
-                vocab_all_path = os.path.join(vocab_folder, "Wörterbuch.json")
-                vocab_all_data = load_json(vocab_all_path)
+    # -------------------------------
+    # Session-State für diese Kontext-Datei initialisieren
+    # -------------------------------
+    session_key = f"search_results_kontexte_{selected_kontext_file}"
+    if session_key not in st.session_state:
+        st.session_state[session_key] = []
 
-                filtered = [
-                    item for item in vocab_all_data
-                    if search_term.lower() in item["word"].lower()
-                ]
+    # 🔍 Suche im Wörterbuch
+    search_term = st.text_input(
+        "Suche Wörter im Wörterbuch",
+        key=f"search_kontext_{selected_kontext_file}"
+    )
 
-                st.session_state.search_results_kontexte.extend(filtered)
+    if st.button("Hinzufügen", key=f"add_kontext_vocab_{selected_kontext_file}"):
+        if search_term:
+            vocab_all_path = os.path.join(vocab_folder, "Wörterbuch.json")
+            vocab_all_data = load_json(vocab_all_path)
 
-                # Dubletten entfernen
-                st.session_state.search_results_kontexte = list({
-                    item["word"]: item
-                    for item in st.session_state.search_results_kontexte
-                }.values())
+            filtered = [
+                item for item in vocab_all_data
+                if search_term.lower() in item["word"].lower()
+            ]
 
-        # 🔗 Kontext + Suchergebnisse zusammenführen
-        merged_data = kontext_data + st.session_state.search_results_kontexte
+            st.session_state[session_key].extend(filtered)
 
-        merged_data = [
-            item for item in merged_data
-            if "word" in item and "translation" in item
-        ]
+            # Dubletten entfernen
+            st.session_state[session_key] = list({
+                item["word"]: item
+                for item in st.session_state[session_key]
+            }.values())
 
-        unique_data = list({
-            item["word"]: item
-            for item in merged_data
-        }.values())
+    # 🔗 Kontext + Suchergebnisse zusammenführen
+    merged_data = kontext_data + st.session_state[session_key]
+    merged_data = [item for item in merged_data if "word" in item and "translation" in item]
+    unique_data = list({item["word"]: item for item in merged_data}.values())
 
-        # ✅ Multiselect wie bei Vokabeln
-        selected_words = st.multiselect(
-            "Wörter auswählen",
-            [item["word"] for item in unique_data],
-            default=[item["word"] for item in unique_data],
-            key="context_vocab"
-        )
+    # ✅ Multiselect wie bei Vokabeln
+    selected_words = st.multiselect(
+        "Wörter auswählen",
+        [item["word"] for item in unique_data],
+        default=[item["word"] for item in st.session_state[session_key]],
+        key=f"context_vocab_{selected_kontext_file}"
+    )
 
-        words_dict = {
-            item["word"]: item["translation"]
-            for item in unique_data
-        }
+    words_dict = {item["word"]: item["translation"] for item in unique_data}
+    words_with_translations = [(word, words_dict[word]) for word in selected_words]
 
-        words_with_translations = [
-            (word, words_dict[word]) for word in selected_words
-        ]
+    programs = [
+        "Vokabelsuchgitter",
+        "Vokabelrätsel",
+        "Wortschlange",
+        "Zuordnen",
+        "Vokabelliste"
+    ]
 
-        programs = [
-            "Vokabelsuchgitter",
-            "Vokabelrätsel",
-            "Wortschlange",
-            "Zuordnen",
-            "Vokabelliste"
-        ]
+    selected_program = st.selectbox(
+        "Programm auswählen",
+        programs,
+        key=f"program_kontexte_{selected_kontext_file}"
+    )
 
-        selected_program = st.selectbox(
-            "Programm auswählen",
-            programs,
-            key="program_kontexte"
-        )
+    if st.button("AB erstellen", key=f"run_kontext_{selected_kontext_file}_{selected_program}"):
+        if not selected_words:
+            st.warning("Bitte zuerst Wörter auswählen!")
+        else:
+            if selected_program == "Wortschlange":
+                word_file = run_Wortschlange(words_with_translations, template_path)
+            elif selected_program == "Vokabelrätsel":
+                word_file = run_Rätsel(words_with_translations, template_path)
+            elif selected_program == "Vokabelsuchgitter":
+                word_file = run_Vokabelsuchgitter(words_with_translations, template_path)
+            elif selected_program == "Vokabelliste":
+                word_file = Vokabellisten(words_with_translations, template_path)
+            elif selected_program == "Zuordnen":
+                word_file = Worte_zuordnen(words_with_translations, template_path)
 
-        if st.button("AB erstellen", key=f"run_{book}_{chapter}_{program}"):
-            if not selected_words:
-                st.warning("Bitte zuerst Wörter auswählen!")
-            else:
-                if selected_program == "Wortschlange":
-                    word_file = run_Wortschlange(words_with_translations, template_path)
-                elif selected_program == "Vokabelrätsel":
-                    word_file = run_Rätsel(words_with_translations, template_path)
-                elif selected_program == "Vokabelsuchgitter":
-                    word_file = run_Vokabelsuchgitter(words_with_translations, template_path)
-                elif selected_program == "Vokabelliste":
-                    word_file = Vokabellisten(words_with_translations, template_path)
-                elif selected_program == "Zuordnen":
-                    word_file = Worte_zuordnen(words_with_translations, template_path)
+            st.download_button(
+                "Word-Datei herunterladen",
+                word_file,
+                f"{selected_program}.docx",
+                mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                key=f"download_kontext_{selected_kontext_file}_{selected_program}"
+            )
 
-                st.download_button(
-                    "Word-Datei herunterladen",
-                    word_file,
-                    f"{selected_program}.docx",
-                    mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-                    key="download_kontext"
-                )
-                
 # ========================
 # 5️⃣ Kontexte & Lernstand
 # ========================
@@ -589,6 +588,7 @@ with tab_kl:
             )
 
     
+
 
 
 
