@@ -295,10 +295,6 @@ with tab_vokabeln:
 with tab_kontexte:
     st.header("Kontexte")
 
-    # Session-State für Kontext-Suche
-    if "search_results_kontexte" not in st.session_state:
-        st.session_state.search_results_kontexte = []
-
     kontext_files = [f for f in os.listdir(kontext_folder) if f.endswith(".json")]
     if not kontext_files:
         st.warning("Keine Kontext-Dateien gefunden!")
@@ -309,13 +305,17 @@ with tab_kontexte:
 
         kontext_data = load_json(os.path.join(kontext_folder, selected_kontext_file))
 
-        # 🔍 Suche (identisch zu Vokabeln)
+        # Initialisiere session_state für die ausgewählten Wörter pro Kontext-Datei
+        key_selected = f"selected_kontext_words_{selected_kontext_file}"
+        if key_selected not in st.session_state:
+            st.session_state[key_selected] = []
+
+        # 🔍 Suche im globalen Wörterbuch
         search_term = st.text_input(
-            "Suche Wörter im Wörterbuch",
-            key="search_kontext_vocab"
+            "Suche Wörter im Wörterbuch", key=f"search_kontext_{selected_kontext_file}"
         )
 
-        if st.button("Hinzufügen", key="add_kontext_vocab"):
+        if st.button("Hinzufügen", key=f"add_kontext_{selected_kontext_file}"):
             if search_term:
                 vocab_all_path = os.path.join(vocab_folder, "Wörterbuch.json")
                 vocab_all_data = load_json(vocab_all_path)
@@ -325,59 +325,39 @@ with tab_kontexte:
                     if search_term.lower() in item["word"].lower()
                 ]
 
-                st.session_state.search_results_kontexte.extend(filtered)
+                st.session_state[key_selected].extend(filtered)
 
                 # Dubletten entfernen
-                st.session_state.search_results_kontexte = list({
-                    item["word"]: item
-                    for item in st.session_state.search_results_kontexte
+                st.session_state[key_selected] = list({
+                    item["word"]: item for item in st.session_state[key_selected]
                 }.values())
 
-        # 🔗 Kontext + Suchergebnisse zusammenführen
-        merged_data = kontext_data + st.session_state.search_results_kontexte
+        # Kontext + ausgewählte Wörter zusammenführen
+        merged_data = kontext_data + st.session_state[key_selected]
+        merged_data = [item for item in merged_data if "word" in item and "translation" in item]
 
-        merged_data = [
-            item for item in merged_data
-            if "word" in item and "translation" in item
-        ]
+        unique_data = list({item["word"]: item for item in merged_data}.values())
 
-        unique_data = list({
-            item["word"]: item
-            for item in merged_data
-        }.values())
-
-        # ✅ Multiselect wie bei Vokabeln
+        # Multiselect
         selected_words = st.multiselect(
             "Wörter auswählen",
             [item["word"] for item in unique_data],
             default=[item["word"] for item in unique_data],
-            key="context_vocab"
+            key=f"context_words_{selected_kontext_file}_{len(unique_data)}"
         )
 
-        words_dict = {
-            item["word"]: item["translation"]
-            for item in unique_data
-        }
+        words_dict = {item["word"]: item["translation"] for item in unique_data}
+        words_with_translations = [(word, words_dict[word]) for word in selected_words]
 
-        words_with_translations = [
-            (word, words_dict[word]) for word in selected_words
-        ]
-
-        programs = [
-            "Vokabelsuchgitter",
-            "Vokabelrätsel",
-            "Wortschlange",
-            "Zuordnen",
-            "Vokabelliste"
-        ]
-
+        # Programm auswählen
+        programs = ["Vokabelsuchgitter", "Vokabelrätsel", "Wortschlange", "Zuordnen", "Vokabelliste"]
         selected_program = st.selectbox(
             "Programm auswählen",
             programs,
-            key="program_kontexte"
+            key=f"program_kontext_{selected_kontext_file}"
         )
 
-        if st.button("AB erstellen", key=f"run_{book}_{chapter}_{program}"):
+        if st.button("AB erstellen", key=f"run_kontext_{selected_kontext_file}_{selected_program}"):
             if not selected_words:
                 st.warning("Bitte zuerst Wörter auswählen!")
             else:
@@ -397,9 +377,9 @@ with tab_kontexte:
                     word_file,
                     f"{selected_program}.docx",
                     mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-                    key="download_kontext"
+                    key=f"download_kontext_{selected_kontext_file}"
                 )
-                
+
 # ========================
 # 5️⃣ Kontexte & Lernstand
 # ========================
@@ -589,6 +569,7 @@ with tab_kl:
             )
 
     
+
 
 
 
