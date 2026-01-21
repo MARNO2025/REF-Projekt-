@@ -87,7 +87,7 @@ with tab_diff:
     else:
         vocab_json = []
 
-    if st.button("Arbeitsblatt erstellen") and user_text and vocab_json:
+    if st.button("Arbeitsblatt erstellen", key="diff_create_worksheet") and user_text and vocab_json:
         file = generate_worksheets_streamlit(
             text=user_text,
             vocab_json=vocab_json,
@@ -147,7 +147,7 @@ with tab_verben:
 
     rows = st.number_input("Zeilen", 1, 100, 20)
 
-    if st.button("Arbeitsblatt erstellen"):
+    if st.button("Arbeitsblatt erstellen", key="verbs_create_worksheet"):
         filtered = {v: words_data[v] for v in selected_verbs}
 
         file = run_Unterstriche_Konjugationen(
@@ -353,7 +353,7 @@ with tab_kontexte:
             key="program_kontexte"
         )
 
-        if st.button("AB erstellen", key="run_kontext_program"):
+        if st.button("AB erstellen", key=f"run_{book}_{chapter}_{program}"):
             if not selected_words:
                 st.warning("Bitte zuerst Wörter auswählen!")
             else:
@@ -526,7 +526,7 @@ with tab_kontexteundLernstand:
     # --------------------------------------------------
     # Arbeitsblatt erstellen
     # --------------------------------------------------
-    if st.button("AB erstellen", key="kl_run_program"):
+    if st.button("AB erstellen", key=f"kl_{selected_program}"):
         if not selected_words:
             st.warning("Bitte zuerst Wörter auswählen!")
         else:
@@ -565,6 +565,7 @@ with tab_kontexteundLernstand:
             )
 
     
+
 
 
 
