@@ -83,7 +83,7 @@ def generate_worksheets_streamlit(
             else:
                 display_box = box
 
-            words_line = ", ".join(display_box)
+            words_line = " / ".join(display_box)
             p = doc.add_paragraph(words_line)
             for run in p.runs:
                 run.font.name = 'Arial'
@@ -125,3 +125,4 @@ def generate_worksheets_streamlit(
     doc.save(buffer)
     buffer.seek(0)
     return buffer
+
